@@ -74,6 +74,54 @@
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 
+% % 1) Choose your desired fixed leading:
+% \renewcommand\baselinestretch{1.2}  % or 1.3, 1.1…  adjust to taste
+
+% % 2) Force TeX to *always* use \baselineskip, never fall back to \lineskip:
+% \makeatletter
+%   \setlength\lineskiplimit{-\maxdimen} % always allow baselineskip
+%   \setlength\lineskip{0pt}             % no extra glue ever
+% \makeatother
+
+
+\renewcommand{\tablename}{ဇယား}
+\renewcommand{\figurename}{ပုံ}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{ကိုးကားချက်များ}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf အကျဉ်းချုပ်}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
 \renewcommand{\refname}{References}
 
 % Pages are numbered in submission mode, and unnumbered in camera-ready

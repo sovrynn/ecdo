@@ -1,0 +1,2658 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `92' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `93' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 107.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 107.
+
+
+LaTeX Warning: Citation `94' on page 1 undefined on input line 107.
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ຂະບວນການ ທາງ ທໍລະນີ ຟີຊິກ ທີ່ ອະທິບາຍ ໄດ້ ແລະ ຂໍ້ມູ
+ນ ທີ່ ຊີ້
+
+LaTeX Warning: Citation `95' on page 1 undefined on input line 112.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 119--119
+[] \TU/LatinModernRoman(0)/b/n/12 . Freemasonry \TU/NotoSerifLao(0)/b/n/12 ແລະ 
+\TU/LatinModernRoman(0)/b/n/12 "\TU/NotoSerifLao(0)/b/n/12 ພາລະກິດ \TU/LatinMod
+ernRoman(0)/b/n/12 Anglo-
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 121.
+
+
+LaTeX Warning: Citation `6' on page 1 undefined on input line 121.
+
+
+LaTeX Warning: Citation `96' on page 1 undefined on input line 122.
+
+
+LaTeX Warning: Citation `5' on page 1 undefined on input line 128.
+
+
+LaTeX Warning: Citation `5' on page 1 undefined on input line 128.
+
+
+LaTeX Warning: Citation `14' on page 1 undefined on input line 137.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 141.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `97' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `98' on page 1 undefined on input line 143.
+
+[1]
+
+LaTeX Warning: Citation `99' on page 2 undefined on input line 149.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 153.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 154.
+
+
+LaTeX Warning: Citation `100' on page 2 undefined on input line 154.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາວ ວ່າ ຈ
+ະ ເກີດຂຶ້ນ ຫຼັງຈາກ
+
+Underfull \hbox (badness 1152) in paragraph at lines 153--155
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ເຊິ່ງ ຈະ ສົ່ງ ຜົນ ກະທົບ ຕໍ່ ທຸກຄົນ\TU/LatinMode
+rnRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]. \TU/NotoSerifLao(0)/m
+/it/10 ຜູ້ ຢູ່ ວົງໃນ ເຊື່ອ
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `101' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `102' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `103' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `104' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `105' on page 2 undefined on input line 161.
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 156--162
+[]\TU/NotoSerifLao(0)/m/it/10 ເຫດ ຜົນ ສໍາ ລັບ ການວາງ ແຜນ ລັບ ໆ ທັງໝົດ ນີ້\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ແນ່ນອນ\TU/LatinModernRom
+an(0)/m/n/10 ,
+
+Underfull \hbox (badness 7851) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ອຳນາດ\TU/LatinModernRoman(0)/m/n/10 . \TU/Noto
+SerifLao(0)/m/it/10 ຜູ້ ຢູ່ ວົງໃນ ໄດ້ ອະທິບາຍ ວ່າ\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerifLao(0)/m/it/10 ໃນ ເວລາ
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ນັ້ນ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ພວກ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 
+ເຮົາ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ທຸກ\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄົນ\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຈະ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+erifLao(0)/m/it/10 ໄດ້\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it
+/10 ຜ່ານ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ພົ້ນ\TU/La
+tinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ສົງ\TU/LatinModernRoman(
+0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄາມ\TU/LatinModernRoman(0)/m/it/10 ​\TU
+/NotoSerifLao(0)/m/it/10 ນິວ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0
+)/m/it/10 ເຄລຍ ແລະ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+
+LaTeX Warning: Citation `7' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `106' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `8' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `9' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `107' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `4' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `6' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `11' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `12' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `13' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `109' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `110' on page 3 undefined on input line 172.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `111' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `112' on page 4 undefined on input line 177.
+
+
+LaTeX Warning: Citation `113' on page 4 undefined on input line 178.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `20' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `114' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `31' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `31' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 176--189
+[]\TU/NotoSerifLao(0)/m/it/10 ການ ສືບສວນ ສາທາລະນະ ທີ່ ກວ້າງຂວາງ ທີ່ສຸດ ກ່ຽວກັບ 
+ຖານ
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `117' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `118' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 208.
+
+
+LaTeX Warning: Citation `119' on page 4 undefined on input line 208.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `121' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `122' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 241.
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+
+LaTeX Warning: Citation `123' on page 4 undefined on input line 246.
+
+
+LaTeX Warning: Citation `38' on page 4 undefined on input line 247.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `124' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `125' on page 4 undefined on input line 249.
+
+
+LaTeX Warning: Citation `126' on page 4 undefined on input line 250.
+
+[4]
+Underfull \vbox (badness 4752) has occurred while \output is active
+Underfull \vbox (badness 5802) has occurred while \output is active [5]
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+LaTeX Warning: Citation `24' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `24' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `130' on page 6 undefined on input line 275.
+
+
+LaTeX Warning: Citation `25' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `26' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `131' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `132' on page 6 undefined on input line 281.
+
+
+LaTeX Warning: Citation `22' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `133' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `134' on page 6 undefined on input line 283.
+
+
+LaTeX Warning: Citation `27' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `135' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `27' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `136' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `137' on page 6 undefined on input line 289.
+
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `138' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `29' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `30' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `139' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `19' on page 6 undefined on input line 297.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+LaTeX Warning: Citation `140' on page 6 undefined on input line 303.
+
+
+LaTeX Warning: Citation `141' on page 6 undefined on input line 304.
+
+
+LaTeX Warning: Citation `11' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `12' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `13' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `142' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `143' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `144' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `12' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `145' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `15' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `146' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `147' on page 6 undefined on input line 309.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+
+LaTeX Warning: Citation `17' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `18' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `148' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `37' on page 8 undefined on input line 313.
+
+
+LaTeX Warning: Citation `149' on page 8 undefined on input line 313.
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 3590) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ວ່າ ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/
+n/10 2017-19, Pentagon \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ບັນທຶກ
+
+LaTeX Warning: Citation `150' on page 8 undefined on input line 316.
+
+
+LaTeX Warning: Citation `151' on page 8 undefined on input line 317.
+
+
+LaTeX Warning: Citation `152' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `153' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `154' on page 8 undefined on input line 320.
+
+
+LaTeX Warning: Citation `155' on page 8 undefined on input line 321.
+
+
+LaTeX Warning: Citation `156' on page 8 undefined on input line 322.
+
+
+LaTeX Warning: Citation `157' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `158' on page 8 undefined on input line 328.
+
+
+LaTeX Warning: Citation `159' on page 8 undefined on input line 329.
+
+
+LaTeX Warning: Citation `160' on page 8 undefined on input line 333.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `161' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `35' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `35' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `36' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `36' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `164' on page 8 undefined on input line 357.
+
+
+LaTeX Warning: Citation `165' on page 8 undefined on input line 358.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 358.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 358.
+
+[8]
+
+LaTeX Warning: Citation `166' on page 9 undefined on input line 360.
+
+
+LaTeX Warning: Citation `33' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `34' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `167' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `36' on page 9 undefined on input line 362.
+
+
+LaTeX Warning: Citation `168' on page 9 undefined on input line 362.
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 360--363
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ໃນ ການຮັບປະກັນ ການ
+ຄວບຄຸມ
+
+Underfull \vbox (badness 6792) has occurred while \output is active
+
+LaTeX Warning: Citation `169' on page 9 undefined on input line 365.
+
+
+LaTeX Warning: Citation `170' on page 9 undefined on input line 366.
+
+
+LaTeX Warning: Citation `171' on page 9 undefined on input line 367.
+
+
+LaTeX Warning: Citation `172' on page 9 undefined on input line 368.
+
+
+LaTeX Warning: Citation `3' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `173' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `3' on page 9 undefined on input line 370.
+
+
+LaTeX Warning: Citation `174' on page 9 undefined on input line 370.
+
+
+LaTeX Warning: Citation `41' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `41' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 365--381
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1810) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂໍ້ຄິດ ກ່ຽວກັບ ວິທີການ ສະໜອງ ທຶນ ໃນ ອາເມຣິກາ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ພ້ອມທັງ ໄດ້
+
+Underfull \hbox (badness 1184) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຮູ້ ເພີ່ມເຕີມ\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ຍັງມີ ຂໍ້ມູນ ເພີ່ມເຕີມ ອີກ ຫຼວງຫຼາຍ ທີ່ ຂ້າພະເຈົ້າ ບໍ່ໄດ
+້
+
+Underfull \hbox (badness 1527) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ກ່າວເຖິງ ເຊິ່ງ ສາມາດ ຄົ້ນພົບ ໄດ້ ໂດຍ ການສຶກສາ ຈາກ ເ
+ອກະສານ
+
+Underfull \hbox (badness 1789) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂົ້ວ ແມ່ເຫຼັກ ເໜືອ ເທົ່ານັ້ນ \TU/LatinModernRoman(0
+)/m/n/10 (Figure []13[]) \TU/NotoSerifLao(0)/m/it/10 ແລະ ການ ເພິ່ ມ ຂື້ນ
+
+LaTeX Warning: Citation `176' on page 9 undefined on input line 386.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `177' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `178' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `179' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `180' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `33' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `34' on page 9 undefined on input line 386.
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 382--387
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \hbox (badness 1117) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ແບ່ງປັນ ກັບ \TU/LatinModernRoman(0)/m/it/10 [[]] \T
+U/NotoSerifLao(0)/m/it/10 ທ່ານ ຢູ່ ໃນ ເວັບ ໄຊທ໌ ນີ້ແມ່ນ ຄວາມຈິງ\TU/LatinModernR
+oman(0)/m/it/10 . \TU/NotoSerifLao(0)/m/it/10 ມັນ
+
+Underfull \hbox (badness 1694) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ໃຊ້ ເວລາ ຂ້າພະເຈົ້າ ຫຼາຍກວ່າ ເຄິ່ງ ທົດສະວັດ ເພື່ອ ທ
+ີ່ ຈະ ຮັບຮູ້ ວ່າ
+
+Underfull \hbox (badness 1184) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ວ່ອງໄວ ເປັນ ຄໍາ ຂ ວັນ ສໍາ ລັບ \TU/LatinModernRoman(
+0)/m/it/10 An Apocalyptic Synthesis.
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+(./laotranslated.bbl) (./laotranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated.pdf (10 pages).
+Transcript written on laotranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: laotranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--I didn't find a database entry for "92"
+Warning--I didn't find a database entry for "93"
+Warning--I didn't find a database entry for "94"
+Warning--I didn't find a database entry for "95"
+Warning--I didn't find a database entry for "96"
+Warning--I didn't find a database entry for "97"
+Warning--I didn't find a database entry for "98"
+Warning--I didn't find a database entry for "99"
+Warning--I didn't find a database entry for "100"
+Warning--I didn't find a database entry for "101"
+Warning--I didn't find a database entry for "102"
+Warning--I didn't find a database entry for "103"
+Warning--I didn't find a database entry for "104"
+Warning--I didn't find a database entry for "105"
+Warning--I didn't find a database entry for "106"
+Warning--I didn't find a database entry for "107"
+Warning--I didn't find a database entry for "109"
+Warning--I didn't find a database entry for "110"
+Warning--I didn't find a database entry for "111"
+Warning--I didn't find a database entry for "112"
+Warning--I didn't find a database entry for "113"
+Warning--I didn't find a database entry for "114"
+Warning--I didn't find a database entry for "115"
+Warning--I didn't find a database entry for "116"
+Warning--I didn't find a database entry for "117"
+Warning--I didn't find a database entry for "118"
+Warning--I didn't find a database entry for "119"
+Warning--I didn't find a database entry for "120"
+Warning--I didn't find a database entry for "121"
+Warning--I didn't find a database entry for "122"
+Warning--I didn't find a database entry for "123"
+Warning--I didn't find a database entry for "124"
+Warning--I didn't find a database entry for "125"
+Warning--I didn't find a database entry for "126"
+Warning--I didn't find a database entry for "128"
+Warning--I didn't find a database entry for "129"
+Warning--I didn't find a database entry for "130"
+Warning--I didn't find a database entry for "131"
+Warning--I didn't find a database entry for "132"
+Warning--I didn't find a database entry for "133"
+Warning--I didn't find a database entry for "134"
+Warning--I didn't find a database entry for "135"
+Warning--I didn't find a database entry for "136"
+Warning--I didn't find a database entry for "137"
+Warning--I didn't find a database entry for "138"
+Warning--I didn't find a database entry for "139"
+Warning--I didn't find a database entry for "140"
+Warning--I didn't find a database entry for "141"
+Warning--I didn't find a database entry for "142"
+Warning--I didn't find a database entry for "143"
+Warning--I didn't find a database entry for "144"
+Warning--I didn't find a database entry for "145"
+Warning--I didn't find a database entry for "146"
+Warning--I didn't find a database entry for "147"
+Warning--I didn't find a database entry for "148"
+Warning--I didn't find a database entry for "149"
+Warning--I didn't find a database entry for "150"
+Warning--I didn't find a database entry for "151"
+Warning--I didn't find a database entry for "152"
+Warning--I didn't find a database entry for "153"
+Warning--I didn't find a database entry for "154"
+Warning--I didn't find a database entry for "155"
+Warning--I didn't find a database entry for "156"
+Warning--I didn't find a database entry for "157"
+Warning--I didn't find a database entry for "158"
+Warning--I didn't find a database entry for "159"
+Warning--I didn't find a database entry for "160"
+Warning--I didn't find a database entry for "161"
+Warning--I didn't find a database entry for "162"
+Warning--I didn't find a database entry for "163"
+Warning--I didn't find a database entry for "164"
+Warning--I didn't find a database entry for "165"
+Warning--I didn't find a database entry for "166"
+Warning--I didn't find a database entry for "167"
+Warning--I didn't find a database entry for "168"
+Warning--I didn't find a database entry for "169"
+Warning--I didn't find a database entry for "170"
+Warning--I didn't find a database entry for "171"
+Warning--I didn't find a database entry for "172"
+Warning--I didn't find a database entry for "173"
+Warning--I didn't find a database entry for "174"
+Warning--I didn't find a database entry for "175"
+Warning--I didn't find a database entry for "176"
+Warning--I didn't find a database entry for "177"
+Warning--I didn't find a database entry for "178"
+Warning--I didn't find a database entry for "179"
+Warning--I didn't find a database entry for "180"
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+(There was 1 error message)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+LaTeX Warning: Citation `0' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `1' on page 1 undefined on input line 104.
+
+
+LaTeX Warning: Citation `92' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `93' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Citation `2' on page 1 undefined on input line 107.
+
+
+LaTeX Warning: Citation `3' on page 1 undefined on input line 107.
+
+
+LaTeX Warning: Citation `94' on page 1 undefined on input line 107.
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ຂະບວນການ ທາງ ທໍລະນີ ຟີຊິກ ທີ່ ອະທິບາຍ ໄດ້ ແລະ ຂໍ້ມູ
+ນ ທີ່ ຊີ້
+
+LaTeX Warning: Citation `95' on page 1 undefined on input line 112.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 119--119
+[] \TU/LatinModernRoman(0)/b/n/12 . Freemasonry \TU/NotoSerifLao(0)/b/n/12 ແລະ 
+\TU/LatinModernRoman(0)/b/n/12 "\TU/NotoSerifLao(0)/b/n/12 ພາລະກິດ \TU/LatinMod
+ernRoman(0)/b/n/12 Anglo-
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 121.
+
+
+LaTeX Warning: Citation `6' on page 1 undefined on input line 121.
+
+
+LaTeX Warning: Citation `96' on page 1 undefined on input line 122.
+
+
+LaTeX Warning: Citation `5' on page 1 undefined on input line 128.
+
+
+LaTeX Warning: Citation `5' on page 1 undefined on input line 128.
+
+
+LaTeX Warning: Citation `14' on page 1 undefined on input line 137.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 141.
+
+
+LaTeX Warning: Citation `4' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `97' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `98' on page 1 undefined on input line 143.
+
+[1]
+
+LaTeX Warning: Citation `99' on page 2 undefined on input line 149.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 153.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 154.
+
+
+LaTeX Warning: Citation `100' on page 2 undefined on input line 154.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາວ ວ່າ ຈ
+ະ ເກີດຂຶ້ນ ຫຼັງຈາກ
+
+Underfull \hbox (badness 1152) in paragraph at lines 153--155
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ເຊິ່ງ ຈະ ສົ່ງ ຜົນ ກະທົບ ຕໍ່ ທຸກຄົນ\TU/LatinMode
+rnRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]. \TU/NotoSerifLao(0)/m
+/it/10 ຜູ້ ຢູ່ ວົງໃນ ເຊື່ອ
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `101' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `102' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `103' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `4' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `104' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `105' on page 2 undefined on input line 161.
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 156--162
+[]\TU/NotoSerifLao(0)/m/it/10 ເຫດ ຜົນ ສໍາ ລັບ ການວາງ ແຜນ ລັບ ໆ ທັງໝົດ ນີ້\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ແນ່ນອນ\TU/LatinModernRom
+an(0)/m/n/10 ,
+
+Underfull \hbox (badness 7851) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ອຳນາດ\TU/LatinModernRoman(0)/m/n/10 . \TU/Noto
+SerifLao(0)/m/it/10 ຜູ້ ຢູ່ ວົງໃນ ໄດ້ ອະທິບາຍ ວ່າ\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerifLao(0)/m/it/10 ໃນ ເວລາ
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ນັ້ນ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ພວກ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 
+ເຮົາ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ທຸກ\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄົນ\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຈະ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+erifLao(0)/m/it/10 ໄດ້\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it
+/10 ຜ່ານ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ພົ້ນ\TU/La
+tinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ສົງ\TU/LatinModernRoman(
+0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄາມ\TU/LatinModernRoman(0)/m/it/10 ​\TU
+/NotoSerifLao(0)/m/it/10 ນິວ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0
+)/m/it/10 ເຄລຍ ແລະ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+
+LaTeX Warning: Citation `7' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `106' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `8' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `9' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `107' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `4' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `6' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `11' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `12' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `13' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `109' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `110' on page 3 undefined on input line 172.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `111' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `112' on page 4 undefined on input line 177.
+
+
+LaTeX Warning: Citation `113' on page 4 undefined on input line 178.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `16' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `20' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `114' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `31' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `31' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 176--189
+[]\TU/NotoSerifLao(0)/m/it/10 ການ ສືບສວນ ສາທາລະນະ ທີ່ ກວ້າງຂວາງ ທີ່ສຸດ ກ່ຽວກັບ 
+ຖານ
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `117' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `118' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 208.
+
+
+LaTeX Warning: Citation `119' on page 4 undefined on input line 208.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `121' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `122' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `22' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `23' on page 4 undefined on input line 231.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 241.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 241.
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+
+LaTeX Warning: Citation `123' on page 4 undefined on input line 246.
+
+
+LaTeX Warning: Citation `38' on page 4 undefined on input line 247.
+
+
+LaTeX Warning: Citation `39' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `40' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `124' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Citation `125' on page 4 undefined on input line 249.
+
+
+LaTeX Warning: Citation `126' on page 4 undefined on input line 250.
+
+[4]
+Underfull \vbox (badness 4752) has occurred while \output is active
+Underfull \vbox (badness 5802) has occurred while \output is active [5]
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `32' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+LaTeX Warning: Citation `24' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `24' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `130' on page 6 undefined on input line 275.
+
+
+LaTeX Warning: Citation `25' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `26' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `131' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `132' on page 6 undefined on input line 281.
+
+
+LaTeX Warning: Citation `22' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `133' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `134' on page 6 undefined on input line 283.
+
+
+LaTeX Warning: Citation `27' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `135' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `27' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `136' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `137' on page 6 undefined on input line 289.
+
+
+LaTeX Warning: Citation `28' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `138' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `29' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `30' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `139' on page 6 undefined on input line 291.
+
+
+LaTeX Warning: Citation `19' on page 6 undefined on input line 297.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+LaTeX Warning: Citation `140' on page 6 undefined on input line 303.
+
+
+LaTeX Warning: Citation `141' on page 6 undefined on input line 304.
+
+
+LaTeX Warning: Citation `11' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `12' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `13' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `142' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `143' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `144' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `12' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `145' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `15' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `146' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `147' on page 6 undefined on input line 309.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+
+LaTeX Warning: Citation `17' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `18' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `148' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `37' on page 8 undefined on input line 313.
+
+
+LaTeX Warning: Citation `149' on page 8 undefined on input line 313.
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 3590) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ວ່າ ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/
+n/10 2017-19, Pentagon \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ບັນທຶກ
+
+LaTeX Warning: Citation `150' on page 8 undefined on input line 316.
+
+
+LaTeX Warning: Citation `151' on page 8 undefined on input line 317.
+
+
+LaTeX Warning: Citation `152' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `153' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `154' on page 8 undefined on input line 320.
+
+
+LaTeX Warning: Citation `155' on page 8 undefined on input line 321.
+
+
+LaTeX Warning: Citation `156' on page 8 undefined on input line 322.
+
+
+LaTeX Warning: Citation `157' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `158' on page 8 undefined on input line 328.
+
+
+LaTeX Warning: Citation `159' on page 8 undefined on input line 329.
+
+
+LaTeX Warning: Citation `160' on page 8 undefined on input line 333.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `161' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `35' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `35' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `36' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `36' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `164' on page 8 undefined on input line 357.
+
+
+LaTeX Warning: Citation `165' on page 8 undefined on input line 358.
+
+
+LaTeX Warning: Citation `33' on page 8 undefined on input line 358.
+
+
+LaTeX Warning: Citation `34' on page 8 undefined on input line 358.
+
+[8]
+
+LaTeX Warning: Citation `166' on page 9 undefined on input line 360.
+
+
+LaTeX Warning: Citation `33' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `34' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `167' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `36' on page 9 undefined on input line 362.
+
+
+LaTeX Warning: Citation `168' on page 9 undefined on input line 362.
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 360--363
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ໃນ ການຮັບປະກັນ ການ
+ຄວບຄຸມ
+
+Underfull \vbox (badness 6792) has occurred while \output is active
+
+LaTeX Warning: Citation `169' on page 9 undefined on input line 365.
+
+
+LaTeX Warning: Citation `170' on page 9 undefined on input line 366.
+
+
+LaTeX Warning: Citation `171' on page 9 undefined on input line 367.
+
+
+LaTeX Warning: Citation `172' on page 9 undefined on input line 368.
+
+
+LaTeX Warning: Citation `3' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `173' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `3' on page 9 undefined on input line 370.
+
+
+LaTeX Warning: Citation `174' on page 9 undefined on input line 370.
+
+
+LaTeX Warning: Citation `41' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `41' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 365--381
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1810) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂໍ້ຄິດ ກ່ຽວກັບ ວິທີການ ສະໜອງ ທຶນ ໃນ ອາເມຣິກາ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ພ້ອມທັງ ໄດ້
+
+Underfull \hbox (badness 1184) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຮູ້ ເພີ່ມເຕີມ\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ຍັງມີ ຂໍ້ມູນ ເພີ່ມເຕີມ ອີກ ຫຼວງຫຼາຍ ທີ່ ຂ້າພະເຈົ້າ ບໍ່ໄດ
+້
+
+Underfull \hbox (badness 1527) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ກ່າວເຖິງ ເຊິ່ງ ສາມາດ ຄົ້ນພົບ ໄດ້ ໂດຍ ການສຶກສາ ຈາກ ເ
+ອກະສານ
+
+Underfull \hbox (badness 1789) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂົ້ວ ແມ່ເຫຼັກ ເໜືອ ເທົ່ານັ້ນ \TU/LatinModernRoman(0
+)/m/n/10 (Figure []13[]) \TU/NotoSerifLao(0)/m/it/10 ແລະ ການ ເພິ່ ມ ຂື້ນ
+
+LaTeX Warning: Citation `176' on page 9 undefined on input line 386.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `177' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `178' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `179' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `180' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `33' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `34' on page 9 undefined on input line 386.
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 382--387
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \hbox (badness 1117) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ແບ່ງປັນ ກັບ \TU/LatinModernRoman(0)/m/it/10 [[]] \T
+U/NotoSerifLao(0)/m/it/10 ທ່ານ ຢູ່ ໃນ ເວັບ ໄຊທ໌ ນີ້ແມ່ນ ຄວາມຈິງ\TU/LatinModernR
+oman(0)/m/it/10 . \TU/NotoSerifLao(0)/m/it/10 ມັນ
+
+Underfull \hbox (badness 1694) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ໃຊ້ ເວລາ ຂ້າພະເຈົ້າ ຫຼາຍກວ່າ ເຄິ່ງ ທົດສະວັດ ເພື່ອ ທ
+ີ່ ຈະ ຮັບຮູ້ ວ່າ
+
+Underfull \hbox (badness 1184) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ວ່ອງໄວ ເປັນ ຄໍາ ຂ ວັນ ສໍາ ລັບ \TU/LatinModernRoman(
+0)/m/it/10 An Apocalyptic Synthesis.
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+(./laotranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ amallulla”
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[11]) [12] (./laotranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated.pdf (12 pages).
+Transcript written on laotranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+LaTeX Warning: Citation `92' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `93' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Citation `94' on page 1 undefined on input line 107.
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ຮູ້ຈັກ ກັນ ໃນນາມ \TU/LatinModernRoman(0)/m/it/1
+0 ”The Ethical Skeptic” [[]] \TU/NotoSerifLao(0)/m/it/10 ໄດ້
+
+Underfull \hbox (badness 1057) in paragraph at lines 104--108
+\TU/LatinModernRoman(0)/m/it/10 Dzhanibekov \TU/NotoSerifLao(0)/m/it/10 ຂອງ ການ
+ແຍກ ຕົວ ຂອງ ແກນ ໂລກ ແລະ ເປືອກ
+
+Underfull \hbox (badness 1314) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ທີ່ ປ່ອຍ ຄວາມຮ້ອນ ອອກມາ \TU/LatinModernRoman(0)
+/m/it/10 (ECDO) [[]]. \TU/NotoSerifLao(0)/m/it/10 ທິດສະດີ
+
+Underfull \hbox (badness 1939) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ແລ້ວ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ການປ່ຽນແປງ ທີ່ ຮ້າຍແຮງ ຂອງ ແກນ ໝູນວຽນ ຂອງ ມັນ\TU/LatinModernRoma
+n(0)/m/it/10 ,
+
+LaTeX Warning: Citation `95' on page 1 undefined on input line 112.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 119--119
+[] \TU/LatinModernRoman(0)/b/n/12 . Freemasonry \TU/NotoSerifLao(0)/b/n/12 ແລະ 
+\TU/LatinModernRoman(0)/b/n/12 "\TU/NotoSerifLao(0)/b/n/12 ພາລະກິດ \TU/LatinMod
+ernRoman(0)/b/n/12 Anglo-
+
+LaTeX Warning: Citation `96' on page 1 undefined on input line 122.
+
+
+LaTeX Warning: Citation `97' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `98' on page 1 undefined on input line 143.
+
+[1]
+
+LaTeX Warning: Citation `99' on page 2 undefined on input line 149.
+
+
+LaTeX Warning: Citation `100' on page 2 undefined on input line 154.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາວ ວ່າ ຈ
+ະ ເກີດຂຶ້ນ ຫຼັງຈາກ
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `101' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `102' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Citation `103' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `104' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `105' on page 2 undefined on input line 161.
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 156--162
+[]\TU/NotoSerifLao(0)/m/it/10 ເຫດ ຜົນ ສໍາ ລັບ ການວາງ ແຜນ ລັບ ໆ ທັງໝົດ ນີ້\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ແນ່ນອນ\TU/LatinModernRom
+an(0)/m/n/10 ,
+
+Underfull \hbox (badness 7851) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ອຳນາດ\TU/LatinModernRoman(0)/m/n/10 . \TU/Noto
+SerifLao(0)/m/it/10 ຜູ້ ຢູ່ ວົງໃນ ໄດ້ ອະທິບາຍ ວ່າ\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerifLao(0)/m/it/10 ໃນ ເວລາ
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+\TU/NotoSerifLao(0)/m/it/10 ນັ້ນ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ພວກ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 
+ເຮົາ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ທຸກ\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄົນ\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຈະ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+erifLao(0)/m/it/10 ໄດ້\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it
+/10 ຜ່ານ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ພົ້ນ\TU/La
+tinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ສົງ\TU/LatinModernRoman(
+0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ຄາມ\TU/LatinModernRoman(0)/m/it/10 ​\TU
+/NotoSerifLao(0)/m/it/10 ນິວ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0
+)/m/it/10 ເຄລຍ ແລະ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+
+LaTeX Warning: Citation `106' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `107' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `109' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `110' on page 3 undefined on input line 172.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \hbox (badness 2277) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ພວກ ມັນ ຍັງ ຈະ ເປັນ ບ່ອນ ປ້ອງກັນ ຈາກ ໄພ ພິ ບັດ ທໍາ 
+ມະ ຊາດ
+
+Underfull \hbox (badness 1521) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ຫຼາຍ ຮູບແບບ ອີກ ດ້ວຍ\TU/LatinModernRoman(0)/m/n/10 
+. \TU/NotoSerifLao(0)/m/it/10 ອີງ ຕາມ ຄຳ ໃຫ້ການ ຂອງ \TU/LatinModernRoman(0)/m/n
+/10 Freema-
+
+Underfull \hbox (badness 2368) in paragraph at lines 170--173
+\TU/LatinModernRoman(0)/m/n/10 son \TU/NotoSerifLao(0)/m/it/10 ອາວຸໂສ ຊາວ ອັງກິ
+ດ ຈາກ ໂຄງການ \TU/LatinModernRoman(0)/m/n/10 Camelot [[], []],
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+
+LaTeX Warning: Citation `111' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `112' on page 4 undefined on input line 177.
+
+
+LaTeX Warning: Citation `113' on page 4 undefined on input line 178.
+
+
+LaTeX Warning: Citation `114' on page 4 undefined on input line 179.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 176--189
+\TU/NotoSerifLao(0)/m/it/10 ຫົວ ກ່ຽວກັບ ຖານ ທັບ ໃຕ້ດິນ ເລິກ \TU/LatinModernRoma
+n(0)/m/n/10 [[]]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຜົນງານ ຂອງ
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `117' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `118' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `119' on page 4 undefined on input line 208.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `121' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `122' on page 4 undefined on input line 224.
+
+[4]
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+
+LaTeX Warning: Citation `123' on page 5 undefined on input line 246.
+
+
+LaTeX Warning: Citation `124' on page 5 undefined on input line 248.
+
+
+LaTeX Warning: Citation `125' on page 5 undefined on input line 249.
+
+
+LaTeX Warning: Citation `126' on page 5 undefined on input line 250.
+
+
+Underfull \vbox (badness 1406) has occurred while \output is active
+Underfull \vbox (badness 5050) has occurred while \output is active [5]
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `130' on page 6 undefined on input line 275.
+
+
+LaTeX Warning: Citation `131' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `132' on page 6 undefined on input line 281.
+
+
+LaTeX Warning: Citation `133' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `134' on page 6 undefined on input line 283.
+
+
+LaTeX Warning: Citation `135' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `136' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `137' on page 6 undefined on input line 289.
+
+
+LaTeX Warning: Citation `138' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `139' on page 6 undefined on input line 291.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+LaTeX Warning: Citation `140' on page 6 undefined on input line 303.
+
+
+LaTeX Warning: Citation `141' on page 6 undefined on input line 304.
+
+
+LaTeX Warning: Citation `142' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `143' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `144' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `145' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `146' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `147' on page 6 undefined on input line 309.
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 303--311
+\TU/LatinModernRoman(0)/m/n/10 Skidmore, \TU/NotoSerifLao(0)/m/it/10 ນັກ ເສດຖະສ
+າດ ຈາກ ມະຫາວິທະຍາໄລ \TU/LatinModernRoman(0)/m/n/10 Michigan
+
+Underfull \hbox (badness 1622) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/n/10 199
+8-2015 [[], [], []]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຕາມ
+
+Underfull \hbox (badness 1009) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ລາຍ ຮັບ ຂອງ ລັດຖະບານ ສະຫະລັດ ທີ່ ຖືກ ເປີດເຜີຍ ຕໍ່ ສ
+າທາລະນະ
+
+Underfull \vbox (badness 1314) has occurred while \output is active [6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+
+LaTeX Warning: Citation `148' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `149' on page 8 undefined on input line 313.
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 3590) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ວ່າ ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/
+n/10 2017-19, Pentagon \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ບັນທຶກ
+
+Underfull \hbox (badness 1137) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ການປັບປຸງ ບັນຊີ ເປັນ ຈຳນວນ ເງິນ \TU/LatinModernRoma
+n(0)/m/n/10 94.7 \TU/NotoSerifLao(0)/m/it/10 ພັນ ຕື້ ໂດລາ ສະຫະລັດ
+
+Underfull \hbox (badness 1895) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ຢ່າງ ໜ້າຕົກໃຈ \TU/LatinModernRoman(0)/m/n/10 [[], [
+]]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຖ້າ ພວກ ເຮົາ ຄໍານຶງເຖິງ ການ
+
+Underfull \hbox (badness 1147) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ກາງ ສະຫະລັດ \TU/LatinModernRoman(0)/m/n/10 (Federal
+ Reserve) \TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 1913
+ \TU/NotoSerifLao(0)/m/it/10 ເປັນຕົ້ນມາ
+
+LaTeX Warning: Citation `150' on page 8 undefined on input line 316.
+
+
+LaTeX Warning: Citation `151' on page 8 undefined on input line 317.
+
+
+LaTeX Warning: Citation `152' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Citation `153' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `154' on page 8 undefined on input line 320.
+
+
+LaTeX Warning: Citation `155' on page 8 undefined on input line 321.
+
+
+LaTeX Warning: Citation `156' on page 8 undefined on input line 322.
+
+
+LaTeX Warning: Citation `157' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `158' on page 8 undefined on input line 328.
+
+
+LaTeX Warning: Citation `159' on page 8 undefined on input line 329.
+
+
+LaTeX Warning: Citation `160' on page 8 undefined on input line 333.
+
+
+LaTeX Warning: Citation `161' on page 8 undefined on input line 334.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `164' on page 8 undefined on input line 357.
+
+
+LaTeX Warning: Citation `165' on page 8 undefined on input line 358.
+
+[8]
+
+LaTeX Warning: Citation `166' on page 9 undefined on input line 360.
+
+
+LaTeX Warning: Citation `167' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `168' on page 9 undefined on input line 362.
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 360--363
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ໃນ ການຮັບປະກັນ ການ
+ຄວບຄຸມ
+
+Underfull \vbox (badness 6792) has occurred while \output is active
+
+LaTeX Warning: Citation `169' on page 9 undefined on input line 365.
+
+
+LaTeX Warning: Citation `170' on page 9 undefined on input line 366.
+
+
+LaTeX Warning: Citation `171' on page 9 undefined on input line 367.
+
+
+LaTeX Warning: Citation `172' on page 9 undefined on input line 368.
+
+
+LaTeX Warning: Citation `173' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `174' on page 9 undefined on input line 370.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 365--381
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1810) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂໍ້ຄິດ ກ່ຽວກັບ ວິທີການ ສະໜອງ ທຶນ ໃນ ອາເມຣິກາ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ພ້ອມທັງ ໄດ້
+
+Underfull \hbox (badness 1184) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຮູ້ ເພີ່ມເຕີມ\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ຍັງມີ ຂໍ້ມູນ ເພີ່ມເຕີມ ອີກ ຫຼວງຫຼາຍ ທີ່ ຂ້າພະເຈົ້າ ບໍ່ໄດ
+້
+
+Underfull \hbox (badness 1527) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ກ່າວເຖິງ ເຊິ່ງ ສາມາດ ຄົ້ນພົບ ໄດ້ ໂດຍ ການສຶກສາ ຈາກ ເ
+ອກະສານ
+
+Underfull \hbox (badness 1789) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂົ້ວ ແມ່ເຫຼັກ ເໜືອ ເທົ່ານັ້ນ \TU/LatinModernRoman(0
+)/m/n/10 (Figure []13[]) \TU/NotoSerifLao(0)/m/it/10 ແລະ ການ ເພິ່ ມ ຂື້ນ
+
+Underfull \hbox (badness 1603) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ອັດລັງຕິກ ໃຕ້\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ແຕ່ ຍັງ ສາມາດ ວັດແທກ ໄດ້ ຈາກ ການອ່ອນແອ ລົງ
+
+LaTeX Warning: Citation `176' on page 9 undefined on input line 386.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `177' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `178' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `179' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `180' on page 9 undefined on input line 386.
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 382--387
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \hbox (badness 1117) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ແບ່ງປັນ ກັບ \TU/LatinModernRoman(0)/m/it/10 [[]] \T
+U/NotoSerifLao(0)/m/it/10 ທ່ານ ຢູ່ ໃນ ເວັບ ໄຊທ໌ ນີ້ແມ່ນ ຄວາມຈິງ\TU/LatinModernR
+oman(0)/m/it/10 . \TU/NotoSerifLao(0)/m/it/10 ມັນ
+
+Underfull \hbox (badness 1694) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ໃຊ້ ເວລາ ຂ້າພະເຈົ້າ ຫຼາຍກວ່າ ເຄິ່ງ ທົດສະວັດ ເພື່ອ ທ
+ີ່ ຈະ ຮັບຮູ້ ວ່າ
+
+Underfull \hbox (badness 1184) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ວ່ອງໄວ ເປັນ ຄໍາ ຂ ວັນ ສໍາ ລັບ \TU/LatinModernRoman(
+0)/m/it/10 An Apocalyptic Synthesis.
+[9] [10] (./laotranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ amallulla”
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[11]) [12] (./laotranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated.pdf (12 pages).
+Transcript written on laotranslated.log.

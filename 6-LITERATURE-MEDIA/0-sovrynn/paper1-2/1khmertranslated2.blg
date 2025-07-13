@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 1khmertranslated2.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "135" isn't style-file defined
+--line 1249 of file egbib.bib
+Warning--entry type for "147" isn't style-file defined
+--line 1362 of file egbib.bib
+Warning--to sort, need author or key in 114
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1072 of file ieee.bst
+Warning--empty journal in 7
+Warning--empty publisher in 13
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1115 of file ieee.bst
+Warning--empty publisher in 10
+Warning--empty publisher in 9
+You've used 82 entries,
+            2120 wiz_defined-function locations,
+            878 strings with 14518 characters,
+and the built_in function-call counts, 21300 in all, are:
+= -- 1989
+> -- 947
+< -- 5
++ -- 402
+- -- 306
+* -- 1123
+:= -- 3597
+add.period$ -- 257
+call.type$ -- 82
+change.case$ -- 384
+chr.to.int$ -- 0
+cite$ -- 87
+duplicate$ -- 775
+empty$ -- 1873
+format.name$ -- 306
+if$ -- 4486
+int.to.chr$ -- 0
+int.to.str$ -- 82
+missing$ -- 53
+newline$ -- 424
+num.names$ -- 162
+pop$ -- 646
+preamble$ -- 1
+purify$ -- 316
+quote$ -- 0
+skip$ -- 615
+stack$ -- 0
+substring$ -- 818
+swap$ -- 122
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 298
+warning$ -- 5
+while$ -- 189
+width$ -- 84
+write$ -- 861
+(There were 2 error messages)

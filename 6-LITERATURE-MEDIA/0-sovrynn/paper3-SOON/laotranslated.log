@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  7 JUL 2025 03:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  10 JUL 2025 20:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,13 +750,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 68
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 89
 .
-LaTeX Font Info:    No file TUptm.fd. on input line 68.
+LaTeX Font Info:    No file TUptm.fd. on input line 89.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 68.
+(Font)              using `TU/lmr/m/n' instead on input line 89.
 
 (./laotranslated.aux
 
@@ -789,87 +789,87 @@ LaTeX Warning: Label `fig:onecol' multiply defined.
 )
 \openout1 = `laotranslated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+9.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 68.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 68.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 68.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 68.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 68.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 68.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 68.
-LaTeX Font Info:    Redeclaring math accent \check on input line 68.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 68.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 68.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 68.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 68.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 68.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 89.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 89.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 89.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 89.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 89.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 89.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 89.
+LaTeX Font Info:    Redeclaring math accent \check on input line 89.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 89.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 89.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 89.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 89.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 68.
+(Font)              `operators' in the math version `normal' on input line 89.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 68.
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 89.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 68.
+(Font)              `operators' in the math version `bold' on input line 89.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 68.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 89.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 68.
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 68.
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 68.
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 68.
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 68.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 89.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 68.
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 68.
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 68.
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 89.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 68.
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 89.
 
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -881,47 +881,112 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring OFF on input line 68.
+Package hyperref Info: Link coloring OFF on input line 89.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 81.
+(Font)              using `TU/ptm/m/n' instead on input line 102.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 102
+.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 102
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 81
-.
-LaTeX Font Info:    No file TUpcr.fd. on input line 81.
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 10
+2.
+LaTeX Font Info:    No file TUpcr.fd. on input line 102.
 
 
 LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 81.
+(Font)              using `TU/lmr/m/n' instead on input line 102.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 82.
+(Font)              using `TU/ptm/m/n' instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
-(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 83.
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+LaTeX Warning: Citation `92' on page 1 undefined on input line 105.
+
+
+LaTeX Warning: Citation `93' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Citation `94' on page 1 undefined on input line 107.
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ຮູ້ຈັກ ກັນ ໃນນາມ \TU/LatinModernRoman(0)/m/it/1
+0 ”The Ethical Skeptic” [[]] \TU/NotoSerifLao(0)/m/it/10 ໄດ້
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 104--108
+\TU/LatinModernRoman(0)/m/it/10 Dzhanibekov \TU/NotoSerifLao(0)/m/it/10 ຂອງ ການ
+ແຍກ ຕົວ ຂອງ ແກນ ໂລກ ແລະ ເປືອກ
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ທີ່ ປ່ອຍ ຄວາມຮ້ອນ ອອກມາ \TU/LatinModernRoman(0)
+/m/it/10 (ECDO) [[]]. \TU/NotoSerifLao(0)/m/it/10 ທິດສະດີ
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ແລ້ວ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ການປ່ຽນແປງ ທີ່ ຮ້າຍແຮງ ຂອງ ແກນ ໝູນວຽນ ຂອງ ມັນ\TU/LatinModernRoma
+n(0)/m/it/10 ,
+ []
+
+
+LaTeX Warning: Citation `95' on page 1 undefined on input line 112.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 119--119
+[] \TU/LatinModernRoman(0)/b/n/12 . Freemasonry \TU/NotoSerifLao(0)/b/n/12 ແລະ 
+\TU/LatinModernRoman(0)/b/n/12 "\TU/NotoSerifLao(0)/b/n/12 ພາລະກິດ \TU/LatinMod
+ernRoman(0)/b/n/12 Anglo-
+ []
+
+
+LaTeX Warning: Citation `96' on page 1 undefined on input line 122.
 
 File: freemason.jpg Graphic file (type bmp)
 <freemason.jpg>
 File: british.jpg Graphic file (type bmp)
 <british.jpg>
+
+LaTeX Warning: Citation `97' on page 1 undefined on input line 142.
+
+
+LaTeX Warning: Citation `98' on page 1 undefined on input line 143.
+
 [1
 
 
 ]
+
+LaTeX Warning: Citation `99' on page 2 undefined on input line 149.
+
+
+LaTeX Warning: Citation `100' on page 2 undefined on input line 154.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາວ ວ່າ ຈ
+ະ ເກີດຂຶ້ນ ຫຼັງຈາກ
+ []
+
 Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
 OT:script=latn;language=dflt;!
 Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
@@ -951,21 +1016,36 @@ OT:script=latn;language=dflt;!
 Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
 OT:script=latn;language=dflt;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
-[]\TU/NotoSerifLao(0)/m/it/10 ເຫດ ຜົນ ສໍາ ລັບ ການວາງແຜນ ລັບ ທັງໝົດ ນີ້\TU/Latin
-ModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ແນ່ນອນ\TU/LatinModernRoman(
-0)/m/n/10 ,
+LaTeX Warning: Citation `101' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `102' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Citation `103' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `104' on page 2 undefined on input line 160.
+
+
+LaTeX Warning: Citation `105' on page 2 undefined on input line 161.
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 156--162
+[]\TU/NotoSerifLao(0)/m/it/10 ເຫດ ຜົນ ສໍາ ລັບ ການວາງ ແຜນ ລັບ ໆ ທັງໝົດ ນີ້\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ແນ່ນອນ\TU/LatinModernRom
+an(0)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 6445) in paragraph at lines 132--133
+Underfull \hbox (badness 7851) in paragraph at lines 156--162
 \TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ອຳນາດ\TU/LatinModernRoman(0)/m/n/10 . \TU/Noto
-SerifLao(0)/m/it/10 ຜູ້ ຮູ້ຈັກ ພາຍໃນ ໄດ້ ອະທິບາຍ ວ່າ\TU/LatinModernRoman(0)/m/n
-/10 , \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerifLao(0)/m/it/10 ໃນ ເວລາ
+SerifLao(0)/m/it/10 ຜູ້ ຢູ່ ວົງໃນ ໄດ້ ອະທິບາຍ ວ່າ\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerifLao(0)/m/it/10 ໃນ ເວລາ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 \TU/NotoSerifLao(0)/m/it/10 ນັ້ນ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
 Lao(0)/m/it/10 ພວກ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 
 ເຮົາ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ທຸກ\TU/LatinMo
@@ -983,61 +1063,523 @@ tinModernRoman(0)/m/it/10 ​\TU/NotoSerifLao(0)/m/it/10 ສົງ\TU/LatinModer
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
+
+LaTeX Warning: Citation `106' on page 3 undefined on input line 164.
+
+
+LaTeX Warning: Citation `107' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Citation `109' on page 3 undefined on input line 171.
+
+
+LaTeX Warning: Citation `110' on page 3 undefined on input line 172.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ພວກ ມັນ ຍັງ ຈະ ເປັນ ບ່ອນ ປ້ອງກັນ ຈາກ ໄພ ພິ ບັດ ທໍາ 
+ມະ ຊາດ
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ຫຼາຍ ຮູບແບບ ອີກ ດ້ວຍ\TU/LatinModernRoman(0)/m/n/10 
+. \TU/NotoSerifLao(0)/m/it/10 ອີງ ຕາມ ຄຳ ໃຫ້ການ ຂອງ \TU/LatinModernRoman(0)/m/n
+/10 Freema-
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 170--173
+\TU/LatinModernRoman(0)/m/n/10 son \TU/NotoSerifLao(0)/m/it/10 ອາວຸໂສ ຊາວ ອັງກິ
+ດ ຈາກ ໂຄງການ \TU/LatinModernRoman(0)/m/n/10 Camelot [[], []],
+ []
+
+
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+ [3]
+
+LaTeX Warning: Citation `111' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation `112' on page 4 undefined on input line 177.
+
+
+LaTeX Warning: Citation `113' on page 4 undefined on input line 178.
+
+
+LaTeX Warning: Citation `114' on page 4 undefined on input line 179.
+
 File: penta.jpg Graphic file (type bmp)
 <penta.jpg>
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+LaTeX Warning: Citation `115' on page 4 undefined on input line 185.
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 176--189
+\TU/NotoSerifLao(0)/m/it/10 ຫົວ ກ່ຽວກັບ ຖານ ທັບ ໃຕ້ດິນ ເລິກ \TU/LatinModernRoma
+n(0)/m/n/10 [[]]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຜົນງານ ຂອງ
+ []
+
 File: basescrop.png Graphic file (type bmp)
 <basescrop.png>
 
-[3]
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `116' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Citation `117' on page 4 undefined on input line 205.
+
+
+LaTeX Warning: Citation `118' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Citation `119' on page 4 undefined on input line 208.
+
 File: undersea.jpg Graphic file (type bmp)
 <undersea.jpg>
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `120' on page 4 undefined on input line 218.
+
+
+LaTeX Warning: Citation `121' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Citation `122' on page 4 undefined on input line 224.
+
 File: sub.jpg Graphic file (type bmp)
 <sub.jpg>
+[4]
 File: iran.jpeg Graphic file (type bmp)
 <iran.jpeg>
+
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+ []
+
+
+LaTeX Warning: Citation `123' on page 5 undefined on input line 246.
+
+
+LaTeX Warning: Citation `124' on page 5 undefined on input line 248.
+
+
+LaTeX Warning: Citation `125' on page 5 undefined on input line 249.
+
+
+LaTeX Warning: Citation `126' on page 5 undefined on input line 250.
+
+
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+
+Underfull \vbox (badness 5050) has occurred while \output is active []
+
+ [5]
 File: tyrol.jpg Graphic file (type bmp)
 <tyrol.jpg>
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+LaTeX Warning: Citation `128' on page 6 undefined on input line 259.
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+ []
+
 File: svalbard.jpg Graphic file (type bmp)
 <svalbard.jpg>
- [4]
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `129' on page 6 undefined on input line 270.
+
+
+LaTeX Warning: Citation `130' on page 6 undefined on input line 275.
+
+
+LaTeX Warning: Citation `131' on page 6 undefined on input line 280.
+
+
+LaTeX Warning: Citation `132' on page 6 undefined on input line 281.
+
+
+LaTeX Warning: Citation `133' on page 6 undefined on input line 282.
+
+
+LaTeX Warning: Citation `134' on page 6 undefined on input line 283.
+
+
+LaTeX Warning: Citation `135' on page 6 undefined on input line 284.
+
+
+LaTeX Warning: Citation `136' on page 6 undefined on input line 285.
+
+
+LaTeX Warning: Citation `137' on page 6 undefined on input line 289.
+
+
+LaTeX Warning: Citation `138' on page 6 undefined on input line 290.
+
+
+LaTeX Warning: Citation `139' on page 6 undefined on input line 291.
+
 File: govcrop2.png Graphic file (type bmp)
 <govcrop2.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-Underfull \hbox (badness 1389) in paragraph at lines 273--273
-[] \TU/LatinModernRoman(0)/b/n/12 . Progeny of Jove: Identities of the
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
  []
 
-[6]
+
+LaTeX Warning: Citation `140' on page 6 undefined on input line 303.
+
+
+LaTeX Warning: Citation `141' on page 6 undefined on input line 304.
+
+
+LaTeX Warning: Citation `142' on page 6 undefined on input line 305.
+
+
+LaTeX Warning: Citation `143' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `144' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `145' on page 6 undefined on input line 307.
+
+
+LaTeX Warning: Citation `146' on page 6 undefined on input line 308.
+
+
+LaTeX Warning: Citation `147' on page 6 undefined on input line 309.
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 303--311
+\TU/LatinModernRoman(0)/m/n/10 Skidmore, \TU/NotoSerifLao(0)/m/it/10 ນັກ ເສດຖະສ
+າດ ຈາກ ມະຫາວິທະຍາໄລ \TU/LatinModernRoman(0)/m/n/10 Michigan
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/n/10 199
+8-2015 [[], [], []]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຕາມ
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ລາຍ ຮັບ ຂອງ ລັດຖະບານ ສະຫະລັດ ທີ່ ຖືກ ເປີດເຜີຍ ຕໍ່ ສ
+າທາລະນະ
+ []
+
+
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+
+LaTeX Warning: Citation `148' on page 8 undefined on input line 312.
+
+
+LaTeX Warning: Citation `149' on page 8 undefined on input line 313.
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ວ່າ ໃນ ຊ່ວງ ປີ ປະມານ \TU/LatinModernRoman(0)/m/
+n/10 2017-19, Pentagon \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ບັນທຶກ
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ການປັບປຸງ ບັນຊີ ເປັນ ຈຳນວນ ເງິນ \TU/LatinModernRoma
+n(0)/m/n/10 94.7 \TU/NotoSerifLao(0)/m/it/10 ພັນ ຕື້ ໂດລາ ສະຫະລັດ
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ຢ່າງ ໜ້າຕົກໃຈ \TU/LatinModernRoman(0)/m/n/10 [[], [
+]]. [[]] \TU/NotoSerifLao(0)/m/it/10 ຖ້າ ພວກ ເຮົາ ຄໍານຶງເຖິງ ການ
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ກາງ ສະຫະລັດ \TU/LatinModernRoman(0)/m/n/10 (Federal
+ Reserve) \TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 1913
+ \TU/NotoSerifLao(0)/m/it/10 ເປັນຕົ້ນມາ
+ []
+
+
+LaTeX Warning: Citation `150' on page 8 undefined on input line 316.
+
+
+LaTeX Warning: Citation `151' on page 8 undefined on input line 317.
+
+
+LaTeX Warning: Citation `152' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Citation `153' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `154' on page 8 undefined on input line 320.
+
+
+LaTeX Warning: Citation `155' on page 8 undefined on input line 321.
+
+
+LaTeX Warning: Citation `156' on page 8 undefined on input line 322.
+
+
+LaTeX Warning: Citation `157' on page 8 undefined on input line 327.
+
+
+LaTeX Warning: Citation `158' on page 8 undefined on input line 328.
+
+
+LaTeX Warning: Citation `159' on page 8 undefined on input line 329.
+
+
+LaTeX Warning: Citation `160' on page 8 undefined on input line 333.
+
+
+LaTeX Warning: Citation `161' on page 8 undefined on input line 334.
+
 File: illuminati.jpg Graphic file (type bmp)
 <illuminati.jpg>
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
+
+LaTeX Warning: Citation `162' on page 8 undefined on input line 341.
+
 File: pike.jpg Graphic file (type bmp)
 <pike.jpg>
 
-Underfull \vbox (badness 1584) has occurred while \output is active []
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
 
- [7]
+
+LaTeX Warning: Citation `163' on page 8 undefined on input line 352.
+
+
+LaTeX Warning: Citation `164' on page 8 undefined on input line 357.
+
+
+LaTeX Warning: Citation `165' on page 8 undefined on input line 358.
+
+[8]
+
+LaTeX Warning: Citation `166' on page 9 undefined on input line 360.
+
+
+LaTeX Warning: Citation `167' on page 9 undefined on input line 361.
+
+
+LaTeX Warning: Citation `168' on page 9 undefined on input line 362.
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 360--363
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ໃນ ການຮັບປະກັນ ການ
+ຄວບຄຸມ
+ []
+
+
+Underfull \vbox (badness 6792) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `169' on page 9 undefined on input line 365.
+
+
+LaTeX Warning: Citation `170' on page 9 undefined on input line 366.
+
+
+LaTeX Warning: Citation `171' on page 9 undefined on input line 367.
+
+
+LaTeX Warning: Citation `172' on page 9 undefined on input line 368.
+
+
+LaTeX Warning: Citation `173' on page 9 undefined on input line 369.
+
+
+LaTeX Warning: Citation `174' on page 9 undefined on input line 370.
+
 File: npw.jpg Graphic file (type bmp)
 <npw.jpg>
 
-[8] [9
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
 
-] (./laotranslated.bbl
+
+LaTeX Warning: Citation `175' on page 9 undefined on input line 377.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 365--381
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂໍ້ຄິດ ກ່ຽວກັບ ວິທີການ ສະໜອງ ທຶນ ໃນ ອາເມຣິກາ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ພ້ອມທັງ ໄດ້
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຮູ້ ເພີ່ມເຕີມ\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ຍັງມີ ຂໍ້ມູນ ເພີ່ມເຕີມ ອີກ ຫຼວງຫຼາຍ ທີ່ ຂ້າພະເຈົ້າ ບໍ່ໄດ
+້
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ກ່າວເຖິງ ເຊິ່ງ ສາມາດ ຄົ້ນພົບ ໄດ້ ໂດຍ ການສຶກສາ ຈາກ ເ
+ອກະສານ
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ຂົ້ວ ແມ່ເຫຼັກ ເໜືອ ເທົ່ານັ້ນ \TU/LatinModernRoman(0
+)/m/n/10 (Figure []13[]) \TU/NotoSerifLao(0)/m/it/10 ແລະ ການ ເພິ່ ມ ຂື້ນ
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 365--381
+\TU/NotoSerifLao(0)/m/it/10 ອັດລັງຕິກ ໃຕ້\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+otoSerifLao(0)/m/it/10 ແຕ່ ຍັງ ສາມາດ ວັດແທກ ໄດ້ ຈາກ ການອ່ອນແອ ລົງ
+ []
+
+
+LaTeX Warning: Citation `176' on page 9 undefined on input line 386.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+LaTeX Warning: Citation `177' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `178' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `179' on page 9 undefined on input line 386.
+
+
+LaTeX Warning: Citation `180' on page 9 undefined on input line 386.
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 382--387
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ແບ່ງປັນ ກັບ \TU/LatinModernRoman(0)/m/it/10 [[]] \T
+U/NotoSerifLao(0)/m/it/10 ທ່ານ ຢູ່ ໃນ ເວັບ ໄຊທ໌ ນີ້ແມ່ນ ຄວາມຈິງ\TU/LatinModernR
+oman(0)/m/it/10 . \TU/NotoSerifLao(0)/m/it/10 ມັນ
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ໃຊ້ ເວລາ ຂ້າພະເຈົ້າ ຫຼາຍກວ່າ ເຄິ່ງ ທົດສະວັດ ເພື່ອ ທ
+ີ່ ຈະ ຮັບຮູ້ ວ່າ
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 382--387
+\TU/NotoSerifLao(0)/m/it/10 ວ່ອງໄວ ເປັນ ຄໍາ ຂ ວັນ ສໍາ ລັບ \TU/LatinModernRoman(
+0)/m/it/10 An Apocalyptic Synthesis.
+ []
+
+[9] [10] (./laotranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 53--58
 []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
 [][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
-\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/ 2024/05/23/ master-exother
-mic-
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 149--154
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
 []\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
  []
 
@@ -1048,9 +1590,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--154
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 149--154
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
-ernRoman(0)/m/n/9 , Oct. 2023.  Published
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
  []
 
 
@@ -1066,61 +1608,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--167
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 161--167
-[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][]$[]\TU/LatinModer
-nRoman(0)/m/n/9 , 2025.  Accessed:
- []
-
-
-Underfull \hbox (badness 3503) in paragraph at lines 169--175
-[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ project‑ca
-melot”.
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 169--175
 []$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
 [][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--184
-\TU/LatinModernRoman(0)/m/n/9 synthesis”.  []$[][][][][] [] [] [] [][][][][][] 
-[] [][][] [] [][][][][][][] [] [][][][] [] [][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
 [][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
-[] [][][] [] [][] []
+[] [][][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-[][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][
-][][][] [] [][][][][][][][][] []
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-[][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
-] [] [][][][][][] []
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--184
-[][][][][][][][][][][] [] [][] [] [][][][][] [] [][][][][][][][][][][][][] [] [
-][][][][][][][][][][] []
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 199--203
-[]\TU/LatinModernRoman(0)/m/n/9 Svalbard Global Seed Vault.  “svalbard global s
-eed
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
  []
 
-) [10
+[11
 
+
+]) [12
 
 ] (./laotranslated.aux)
  ***********
@@ -1132,16 +1664,19 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13673 strings out of 475702
- 265285 string characters out of 5785445
- 2160627 words of memory out of 5000000
- 35392 multiletter control sequences out of 15000+600000
- 567445 words of font info for 109 fonts, out of 8000000 for 9000
+ 13681 strings out of 475702
+ 265551 string characters out of 5785445
+ 2152627 words of memory out of 5000000
+ 35397 multiletter control sequences out of 15000+600000
+ 567469 words of font info for 112 fonts, out of 8000000 for 9000
  932 hyphenation exceptions out of 8191
- 79i,9n,93p,1603b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,93p,1150b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on laotranslated.pdf (10 pages).
+Output written on laotranslated.pdf (12 pages).

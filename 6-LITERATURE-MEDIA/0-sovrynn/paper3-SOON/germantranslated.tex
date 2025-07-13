@@ -29,6 +29,17 @@
 \def\cvprPaperID{****} % *** CVPR Paper ID hier einfügen
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 
+\renewcommand{\tablename}{Tabelle}
+\renewcommand{\figurename}{Abbildung}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{Literaturverzeichnis}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Zusammenfassung}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+
 % Die Seiten sind im Submission Mode nummeriert, und in Camera-Ready unnummeriert
 %\ifcvprfinal\pagestyle{empty}\fi
 \setcounter{page}{1}
@@ -318,7 +329,6 @@ Danke an alle, die sich entschieden haben, Wissen der Gemeinfreiheit beizusteuer
 \twocolumn
 
 {\small
-\renewcommand{\refname}{Quellen}
 \bibliographystyle{ieee}
 \bibliography{egbib}
 }

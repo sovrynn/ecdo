@@ -1,0 +1,5061 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.6.27)  13 JUL 2025 22:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**1khmertranslated2.tex
+(./1khmertranslated2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen141
+\lightrulewidth=\dimen142
+\cmidrulewidth=\dimen143
+\belowrulesep=\dimen144
+\belowbottomsep=\dimen145
+\aboverulesep=\dimen146
+\abovetopsep=\dimen147
+\cmidrulesep=\dimen148
+\cmidrulekern=\dimen149
+\defaultaddspace=\dimen150
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen151
+\@belowrulesep=\dimen152
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count195
+\c@dblbotnumber=\count196
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen154
+\l__fontspec_tmpb_dim=\dimen155
+\l__fontspec_tmpc_dim=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'LatinModernRoman(0)' created for font
+(fontspec)             'Latin Modern Roman' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Latin Modern
+(fontspec)             Roman/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Latin
+(fontspec)             Modern Roman/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "Noto Sans Khmer/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSansKhmer(0)' created for font 'Noto
+(fontspec)             Sans Khmer' with options [Script=Khmer].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Khmer/OT:script=khmr;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Sans
+(fontspec)             Khmer/B/OT:script=khmr;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Sans
+(fontspec)             Khmer/BI/OT:script=khmr;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+Package: ucharclasses 2022/10/20 v2.6.0 Unicode block character classes for XeL
+aTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\AegeanNumbersClass=\XeTeXcharclass1
+\AlphabeticPresentationFormsClass=\XeTeXcharclass2
+\AncientGreekMusicalNotationClass=\XeTeXcharclass3
+\AncientGreekNumbersClass=\XeTeXcharclass4
+\AncientSymbolsClass=\XeTeXcharclass5
+\ArabicClass=\XeTeXcharclass6
+\ArabicPresentationFormsAClass=\XeTeXcharclass7
+\ArabicPresentationFormsBClass=\XeTeXcharclass8
+\ArabicSupplementClass=\XeTeXcharclass9
+\ArmenianClass=\XeTeXcharclass10
+\ArrowsClass=\XeTeXcharclass11
+\BalineseClass=\XeTeXcharclass12
+\BasicLatinClass=\XeTeXcharclass13
+\BengaliClass=\XeTeXcharclass14
+\BlockElementsClass=\XeTeXcharclass15
+\BopomofoClass=\XeTeXcharclass16
+\BopomofoExtendedClass=\XeTeXcharclass17
+\BoxDrawingClass=\XeTeXcharclass18
+\BraillePatternsClass=\XeTeXcharclass19
+\BugineseClass=\XeTeXcharclass20
+\BuhidClass=\XeTeXcharclass21
+\ByzantineMusicalSymbolsClass=\XeTeXcharclass22
+\ChamClass=\XeTeXcharclass23
+\CherokeeClass=\XeTeXcharclass24
+\CJKCompatibilityClass=\XeTeXcharclass25
+\CJKCompatibilityFormsClass=\XeTeXcharclass26
+\CJKCompatibilityIdeographsClass=\XeTeXcharclass27
+\CJKCompatibilityIdeographsSupplementClass=\XeTeXcharclass28
+\CJKRadicalsSupplementClass=\XeTeXcharclass29
+\CJKStrokesClass=\XeTeXcharclass30
+\CJKSymbolsAndPunctuationClass=\XeTeXcharclass31
+\CJKUnifiedIdeographsClass=\XeTeXcharclass32
+\CJKUnifiedIdeographsExtensionAClass=\XeTeXcharclass33
+\CJKUnifiedIdeographsExtensionBClass=\XeTeXcharclass34
+\CombiningDiacriticalMarksClass=\XeTeXcharclass35
+\CombiningDiacriticalMarksForSymbolsClass=\XeTeXcharclass36
+\CombiningDiacriticalMarksSupplementClass=\XeTeXcharclass37
+\CombiningHalfMarksClass=\XeTeXcharclass38
+\ControlPicturesClass=\XeTeXcharclass39
+\CopticClass=\XeTeXcharclass40
+\CountingRodNumeralsClass=\XeTeXcharclass41
+\CuneiformClass=\XeTeXcharclass42
+\CuneiformNumbersAndPunctuationClass=\XeTeXcharclass43
+\CurrencySymbolsClass=\XeTeXcharclass44
+\CypriotSyllabaryClass=\XeTeXcharclass45
+\CyrillicClass=\XeTeXcharclass46
+\CyrillicExtendedAClass=\XeTeXcharclass47
+\CyrillicExtendedBClass=\XeTeXcharclass48
+\CyrillicSupplementClass=\XeTeXcharclass49
+\DeseretClass=\XeTeXcharclass50
+\DevanagariDanDaClass=\XeTeXcharclass51
+\DevanagariMarksClass=\XeTeXcharclass52
+\DevanagariPostDanDaClass=\XeTeXcharclass53
+\DevanagariPostMarksClass=\XeTeXcharclass54
+\DevanagariPreMarksClass=\XeTeXcharclass55
+\DingbatsClass=\XeTeXcharclass56
+\DominoTilesClass=\XeTeXcharclass57
+\EnclosedAlphanumericsClass=\XeTeXcharclass58
+\EnclosedCJKLettersAndMonthsClass=\XeTeXcharclass59
+\EthiopicClass=\XeTeXcharclass60
+\EthiopicExtendedClass=\XeTeXcharclass61
+\EthiopicSupplementClass=\XeTeXcharclass62
+\GeneralPunctuationClass=\XeTeXcharclass63
+\GeometricShapesClass=\XeTeXcharclass64
+\GeorgianClass=\XeTeXcharclass65
+\GeorgianSupplementClass=\XeTeXcharclass66
+\GlagoliticClass=\XeTeXcharclass67
+\GreekAndCopticClass=\XeTeXcharclass68
+\GreekExtendedClass=\XeTeXcharclass69
+\GujaratiClass=\XeTeXcharclass70
+\GurmukhiClass=\XeTeXcharclass71
+\HalfwidthAndFullwidthFormsClass=\XeTeXcharclass72
+\HangulCompatibilityJamoClass=\XeTeXcharclass73
+\HangulJamoClass=\XeTeXcharclass74
+\HangulSyllablesClass=\XeTeXcharclass75
+\HanunooClass=\XeTeXcharclass76
+\HebrewClass=\XeTeXcharclass77
+\HiraganaClass=\XeTeXcharclass78
+\IdeographicDescriptionCharactersClass=\XeTeXcharclass79
+\IPAExtensionsClass=\XeTeXcharclass80
+\KanbunClass=\XeTeXcharclass81
+\KangxiRadicalsClass=\XeTeXcharclass82
+\KannadaClass=\XeTeXcharclass83
+\KatakanaClass=\XeTeXcharclass84
+\KatakanaPhoneticExtensionsClass=\XeTeXcharclass85
+\KayahLiClass=\XeTeXcharclass86
+\KhmerClass=\XeTeXcharclass87
+\KhmerSymbolsClass=\XeTeXcharclass88
+\LaoClass=\XeTeXcharclass89
+\LatinExtendedAdditionalClass=\XeTeXcharclass90
+\LatinExtendedAClass=\XeTeXcharclass91
+\LatinExtendedBClass=\XeTeXcharclass92
+\LatinExtendedCClass=\XeTeXcharclass93
+\LatinExtendedDClass=\XeTeXcharclass94
+\LatinSupplementClass=\XeTeXcharclass95
+\LepchaClass=\XeTeXcharclass96
+\LetterlikeSymbolsClass=\XeTeXcharclass97
+\LimbuClass=\XeTeXcharclass98
+\LinearBIdeogramsClass=\XeTeXcharclass99
+\LinearBSyllabaryClass=\XeTeXcharclass100
+\MahjongTilesClass=\XeTeXcharclass101
+\MalayalamClass=\XeTeXcharclass102
+\MathematicalAlphanumericSymbolsClass=\XeTeXcharclass103
+\MathematicalOperatorsClass=\XeTeXcharclass104
+\MiscellaneousMathematicalSymbolsAClass=\XeTeXcharclass105
+\MiscellaneousMathematicalSymbolsBClass=\XeTeXcharclass106
+\MiscellaneousSymbolsClass=\XeTeXcharclass107
+\MiscellaneousSymbolsAndArrowsClass=\XeTeXcharclass108
+\MiscellaneousTechnicalClass=\XeTeXcharclass109
+\ModifierToneLettersClass=\XeTeXcharclass110
+\MongolianClass=\XeTeXcharclass111
+\MusicalSymbolsClass=\XeTeXcharclass112
+\MyanmarClass=\XeTeXcharclass113
+\NewTaiLueClass=\XeTeXcharclass114
+\NKoClass=\XeTeXcharclass115
+\NumberFormsClass=\XeTeXcharclass116
+\OghamClass=\XeTeXcharclass117
+\OlChikiClass=\XeTeXcharclass118
+\OldPersianClass=\XeTeXcharclass119
+\OpticalCharacterRecognitionClass=\XeTeXcharclass120
+\OriyaClass=\XeTeXcharclass121
+\OsmanyaClass=\XeTeXcharclass122
+\PhagsPaClass=\XeTeXcharclass123
+\PhoenicianClass=\XeTeXcharclass124
+\PhoneticExtensionsClass=\XeTeXcharclass125
+\PhoneticExtensionsSupplementClass=\XeTeXcharclass126
+\PrivateUseAreaClass=\XeTeXcharclass127
+\RejangClass=\XeTeXcharclass128
+\RunicClass=\XeTeXcharclass129
+\SaurashtraClass=\XeTeXcharclass130
+\ShavianClass=\XeTeXcharclass131
+\SinhalaClass=\XeTeXcharclass132
+\SmallFormVariantsClass=\XeTeXcharclass133
+\SpacingModifierLettersClass=\XeTeXcharclass134
+\SundaneseClass=\XeTeXcharclass135
+\SuperscriptsAndSubscriptsClass=\XeTeXcharclass136
+\SupplementalArrowsAClass=\XeTeXcharclass137
+\SupplementalArrowsBClass=\XeTeXcharclass138
+\SupplementalMathematicalOperatorsClass=\XeTeXcharclass139
+\SupplementalPunctuationClass=\XeTeXcharclass140
+\SylotiNagriClass=\XeTeXcharclass141
+\SyriacClass=\XeTeXcharclass142
+\TagalogClass=\XeTeXcharclass143
+\TagbanwaClass=\XeTeXcharclass144
+\TagsClass=\XeTeXcharclass145
+\TaiLeClass=\XeTeXcharclass146
+\TaiXuanJingSymbolsClass=\XeTeXcharclass147
+\TamilClass=\XeTeXcharclass148
+\TeluguClass=\XeTeXcharclass149
+\ThaanaClass=\XeTeXcharclass150
+\ThaiClass=\XeTeXcharclass151
+\TibetanClass=\XeTeXcharclass152
+\TifinaghClass=\XeTeXcharclass153
+\UgariticClass=\XeTeXcharclass154
+\UnifiedCanadianAboriginalSyllabicsClass=\XeTeXcharclass155
+\VaiClass=\XeTeXcharclass156
+\VerticalFormsClass=\XeTeXcharclass157
+\YiRadicalsClass=\XeTeXcharclass158
+\YiSyllablesClass=\XeTeXcharclass159
+\YijingHexagramSymbolsClass=\XeTeXcharclass160
+\AvestanClass=\XeTeXcharclass161
+\BamumClass=\XeTeXcharclass162
+\CJKUnifiedIdeographsExtensionCClass=\XeTeXcharclass163
+\CommonIndicNumberFormsClass=\XeTeXcharclass164
+\DevanagariExtendedClass=\XeTeXcharclass165
+\EgyptianHieroglyphsClass=\XeTeXcharclass166
+\EnclosedAlphanumericSupplementClass=\XeTeXcharclass167
+\EnclosedIdeographicSupplementClass=\XeTeXcharclass168
+\HangulJamoExtendedAClass=\XeTeXcharclass169
+\HangulJamoExtendedBClass=\XeTeXcharclass170
+\ImperialAramaicClass=\XeTeXcharclass171
+\InscriptionalPahlaviClass=\XeTeXcharclass172
+\InscriptionalParthianClass=\XeTeXcharclass173
+\JavaneseClass=\XeTeXcharclass174
+\KaithiClass=\XeTeXcharclass175
+\LisuClass=\XeTeXcharclass176
+\MeeteiMayekClass=\XeTeXcharclass177
+\MyanmarExtendedAClass=\XeTeXcharclass178
+\RumiNumeralSymbolsClass=\XeTeXcharclass179
+\SamaritanClass=\XeTeXcharclass180
+\TaiThamClass=\XeTeXcharclass181
+\TaiVietClass=\XeTeXcharclass182
+\UnifiedCanadianAboriginalSyllabicsExtendedClass=\XeTeXcharclass183
+\VedicExtensionsClass=\XeTeXcharclass184
+\AlchemicalSymbolsClass=\XeTeXcharclass185
+\BamumSupplementClass=\XeTeXcharclass186
+\BatakClass=\XeTeXcharclass187
+\BrahmiClass=\XeTeXcharclass188
+\CJKUnifiedIdeographsExtensionDClass=\XeTeXcharclass189
+\EmoticonsClass=\XeTeXcharclass190
+\EthiopicExtendedAClass=\XeTeXcharclass191
+\KanaSupplementClass=\XeTeXcharclass192
+\MandaicClass=\XeTeXcharclass193
+\MiscellaneousSymbolsAndPictographsClass=\XeTeXcharclass194
+\PlayingCardsClass=\XeTeXcharclass195
+\TransportAndMapSymbolsClass=\XeTeXcharclass196
+\ArabicExtendedAClass=\XeTeXcharclass197
+\ArabicMathematicalAlphabeticSymbolsClass=\XeTeXcharclass198
+\ChakmaClass=\XeTeXcharclass199
+\MeeteiMayekExtensionsClass=\XeTeXcharclass200
+\MeroiticCursiveClass=\XeTeXcharclass201
+\MeroiticHieroglyphsClass=\XeTeXcharclass202
+\MiaoClass=\XeTeXcharclass203
+\SharadaClass=\XeTeXcharclass204
+\SoraSompengClass=\XeTeXcharclass205
+\SundaneseSupplementClass=\XeTeXcharclass206
+\TakriClass=\XeTeXcharclass207
+\BassaVahClass=\XeTeXcharclass208
+\CaucasianAlbanianClass=\XeTeXcharclass209
+\CombiningDiacriticalMarksExtendedClass=\XeTeXcharclass210
+\CopticEpactNumbersClass=\XeTeXcharclass211
+\ElbasanClass=\XeTeXcharclass212
+\GeometricShapesExtendedClass=\XeTeXcharclass213
+\GranthaClass=\XeTeXcharclass214
+\KhojkiClass=\XeTeXcharclass215
+\KhudawadiClass=\XeTeXcharclass216
+\LatinExtendedEClass=\XeTeXcharclass217
+\LinearAClass=\XeTeXcharclass218
+\MahajaniClass=\XeTeXcharclass219
+\MendeKikakuiClass=\XeTeXcharclass220
+\ModiClass=\XeTeXcharclass221
+\MroClass=\XeTeXcharclass222
+\MyanmarExtendedBClass=\XeTeXcharclass223
+\OrnamentalDingbatsClass=\XeTeXcharclass224
+\PahawhHmongClass=\XeTeXcharclass225
+\PauCinHauClass=\XeTeXcharclass226
+\SiddhamClass=\XeTeXcharclass227
+\SinhalaArchaicNumbersClass=\XeTeXcharclass228
+\SupplementalArrowsCClass=\XeTeXcharclass229
+\TirhutaClass=\XeTeXcharclass230
+\WarangCitiClass=\XeTeXcharclass231
+\CherokeeSupplementClass=\XeTeXcharclass232
+\CJKUnifiedIdeographsExtensionEClass=\XeTeXcharclass233
+\SupplementalSymbolsAndPictographsClass=\XeTeXcharclass234
+\CyrillicExtendedCClass=\XeTeXcharclass235
+\GlagoliticSupplementClass=\XeTeXcharclass236
+\IdeographicSymbolsAndPunctuationClass=\XeTeXcharclass237
+\MongolianSupplementClass=\XeTeXcharclass238
+\CJKUnifiedIdeographsExtensionFClass=\XeTeXcharclass239
+\KanaExtendedAClass=\XeTeXcharclass240
+\SyriacSupplementClass=\XeTeXcharclass241
+\GeorgianExtendedClass=\XeTeXcharclass242
+\SmallKanaExtensionClass=\XeTeXcharclass243
+\SymbolsAndPictographsExtendedAClass=\XeTeXcharclass244
+\CJKUnifiedIdeographsExtensionGClass=\XeTeXcharclass245
+\ArabicExtendedBClass=\XeTeXcharclass246
+\EthiopicExtendedBClass=\XeTeXcharclass247
+\KanaExtendedBClass=\XeTeXcharclass248
+\LatinExtendedFClass=\XeTeXcharclass249
+\LatinExtendedGClass=\XeTeXcharclass250
+\UnifiedCanadianAboriginalSyllabicsExtendedAClass=\XeTeXcharclass251
+\ArabicExtendedCClass=\XeTeXcharclass252
+\CJKUnifiedIdeographsExtensionHClass=\XeTeXcharclass253
+\CyrillicExtendedDClass=\XeTeXcharclass254
+\DevanagariExtendedAClass=\XeTeXcharclass255
+\CarianClass=\XeTeXcharclass256
+\GothicClass=\XeTeXcharclass257
+\KharoshthiClass=\XeTeXcharclass258
+\LycianClass=\XeTeXcharclass259
+\LydianClass=\XeTeXcharclass260
+\OldItalicClass=\XeTeXcharclass261
+\PhaistosDiscClass=\XeTeXcharclass262
+\SupplementaryPrivateUseAreaAClass=\XeTeXcharclass263
+\SupplementaryPrivateUseAreaBClass=\XeTeXcharclass264
+\OldSouthArabianClass=\XeTeXcharclass265
+\OldTurkicClass=\XeTeXcharclass266
+\DuployanClass=\XeTeXcharclass267
+\ManichaeanClass=\XeTeXcharclass268
+\NabataeanClass=\XeTeXcharclass269
+\OldNorthArabianClass=\XeTeXcharclass270
+\OldPermicClass=\XeTeXcharclass271
+\PalmyreneClass=\XeTeXcharclass272
+\PsalterPahlaviClass=\XeTeXcharclass273
+\ShorthandFormatControlsClass=\XeTeXcharclass274
+\AhomClass=\XeTeXcharclass275
+\AnatolianHieroglyphsClass=\XeTeXcharclass276
+\EarlyDynasticCuneiformClass=\XeTeXcharclass277
+\HatranClass=\XeTeXcharclass278
+\MultaniClass=\XeTeXcharclass279
+\OldHungarianClass=\XeTeXcharclass280
+\SuttonSignWritingClass=\XeTeXcharclass281
+\AdlamClass=\XeTeXcharclass282
+\BhaiksukiClass=\XeTeXcharclass283
+\MarchenClass=\XeTeXcharclass284
+\NewaClass=\XeTeXcharclass285
+\OsageClass=\XeTeXcharclass286
+\TangutClass=\XeTeXcharclass287
+\TangutComponentsClass=\XeTeXcharclass288
+\MasaramGondiClass=\XeTeXcharclass289
+\NushuClass=\XeTeXcharclass290
+\SoyomboClass=\XeTeXcharclass291
+\ZanabazarSquareClass=\XeTeXcharclass292
+\ChessSymbolsClass=\XeTeXcharclass293
+\DograClass=\XeTeXcharclass294
+\GunjalaGondiClass=\XeTeXcharclass295
+\HanifiRohingyaClass=\XeTeXcharclass296
+\IndicSiyaqNumbersClass=\XeTeXcharclass297
+\MakasarClass=\XeTeXcharclass298
+\MayanNumeralsClass=\XeTeXcharclass299
+\MedefaidrinClass=\XeTeXcharclass300
+\OldSogdianClass=\XeTeXcharclass301
+\SogdianClass=\XeTeXcharclass302
+\EgyptianHieroglyphFormatControlsClass=\XeTeXcharclass303
+\ElymaicClass=\XeTeXcharclass304
+\NandinagariClass=\XeTeXcharclass305
+\NyiakengPuachueHmongClass=\XeTeXcharclass306
+\OttomanSiyaqNumbersClass=\XeTeXcharclass307
+\TamilSupplementClass=\XeTeXcharclass308
+\WanchoClass=\XeTeXcharclass309
+\ChorasmianClass=\XeTeXcharclass310
+\DivesAkuruClass=\XeTeXcharclass311
+\KhitanSmallScriptClass=\XeTeXcharclass312
+\LisuSupplementClass=\XeTeXcharclass313
+\SymbolsForLegacyComputingClass=\XeTeXcharclass314
+\TangutSupplementClass=\XeTeXcharclass315
+\YezidiClass=\XeTeXcharclass316
+\CyproMinoanClass=\XeTeXcharclass317
+\OldUighurClass=\XeTeXcharclass318
+\TangsaClass=\XeTeXcharclass319
+\TotoClass=\XeTeXcharclass320
+\VithkuqiClass=\XeTeXcharclass321
+\ZnamennyMusicalNotationClass=\XeTeXcharclass322
+\KaktovikNumeralsClass=\XeTeXcharclass323
+\KawiClass=\XeTeXcharclass324
+\NagMundariClass=\XeTeXcharclass325
+) (./cvpr.sty
+(./eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip50
+\@figindent=\skip51
+\cvprrulerbox=\box54
+\cvprrulercount=\count279
+\cvprruleroffset=\dimen157
+\cv@lineheight=\dimen158
+\cv@boxheight=\dimen159
+\cv@tmpbox=\box55
+\cv@refno=\count280
+\cv@tot=\count281
+\cv@tmpc@=\count282
+\cv@tmpc=\count283
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+\epsfxsize=\dimen162
+\epsfysize=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen164
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip16
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks21
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks22
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4452.
+\c@Hy@tempcnt=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box58
+\c@Hy@AnnotLevel=\count306
+\HyField@AnnotCount=\count307
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 99
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 99.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 99.
+
+(./1khmertranslated2.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+)
+\openout1 = `1khmertranslated2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+9.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 99.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 99.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 99.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 99.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 99.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 99.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 99.
+LaTeX Font Info:    Redeclaring math accent \check on input line 99.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 99.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 99.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 99.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 99.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 99.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 99.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 99.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 99.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 99.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 99.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 99.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring OFF on input line 99.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 113.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 113
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 113
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 11
+3.
+LaTeX Font Info:    No file TUpcr.fd. on input line 113.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 114.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSansKhmer(0)/m/it' undefined
+(Font)              using `TU/NotoSansKhmer(0)/m/n' instead on input line 115.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 1189) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ប្រើឈ្មោះមិនពិតប្រាកដថា \TU/LatinModernRoman(0)/m/
+it/10 “The Ethical Skeptic” [[]] \TU/NotoSansKhmer(0)/m/it/10 បាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ចែករំលែករំលែកនូវទ្រឹស្តីដែលទើបរកឃើញថ្មីមួយដែលមានឈ្
+មោះថា៖
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ព្រឹត្តិការណ៍នៃការបញ្ជេញកម្តៅដែលកើតចេញពីស្រទាប់ស្ន
+ូលទាំងពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 នៃផែនដីវិលបញ្ជ្រាស់គ្នា\TU/LatinModernRoman(0)/m/i
+t/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទ្រឹះស្តីនេះបង្ហាញថា ពីមុនភពផែន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ដីធ្លាប់បានជួបប្រទះនូវបម្រែបម្រួលដ៍ខ្លាំងក្លានិងភ្
+លាមៗមួយទៅលើ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សបង្វិលរបស់វា ដែលកាលនោះបណ្តាលឲ្យមានទឹកជំនន់ទូទ
+ាំង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 សកលលោក។\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 នេះក៍ព្រោះតែទឹកសមុទ្របានហូរស្រោចស្រពទៅលើទ្វីប
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 នានា ដោយសារតែភាពមិនធម្មតានៃចលនាវិលរបស់ស្រទាប់ខាងក្
+នុង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 របស់ផែនដី។បន្ថែមពីលើនេះទៀត ទ្រឹស្តីក៍បានពន្យល់ពីដំ
+ណើរការនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ភូគព្ភសាស្ត្រ\TU/LatinModernRoman(0)/m/it/10 ​\TU/
+NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(
+0)/m/it/10 បង្ហាញទិន្នន័យថា បម្រែបម្រួលនៃភពផែនដដែលនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 នឹងកើតមានម្តងទៀត\TU/LatinModernRoman(0)/m/it/10 ​\
+TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhm
+er(0)/m/it/10 ក្នុងពេលឆាប់ៗនេះ។ ខណៈដែលការទស្ស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ទាយអំពីទឹកទំនន់ដ៍ខ្លាំងក្លាដែលអាចនាំមកនូវសេចក្តីវិ
+នាសនេះមិនមែន
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ជារឿងថ្មី\TU/LatinModernRoman(0)/m/it/10 ​\TU/Noto
+SansKhmer(0)/m/it/10 ប៉ុន្តែទ្រឹស្តី \TU/LatinModernRoman(0)/m/it/10 ECDO \TU/N
+otoSansKhmer(0)/m/it/10 គឺពិតជាគួរឲ្យជឿទុកចិត្តបានពីព្រោះតែវា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+\TU/NotoSansKhmer(0)/m/it/10 ពឹងផ្អែកទៅលើទិន្នន័យដែលមានលក្ខណៈវិទ្សាសាស្ត្រទំនើប
+និងពហុទ្រឹ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\TU/NotoSansKhmer(0)/m/it/10 អត្ថបទនេះគឺជាភាគទីមួយនៃអត្ថបទសរុបចំនួនពីរ។\TU/La
+tinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 អត្ថបទទាំងពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSansKhmer(0)/m/it/10 នេះគឺជាអត្ថបទដែលបានមកពីការសង្ខេបអត្ថបទស្រាវជ្រាវឯក
+រាជ្យ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+[]\TU/NotoSansKhmer(0)/m/it/10 បន្ថែមពីនេះទៀត ខ្ញុំក៏នឹងពិភាក្សាអំពីរូបវិទ្យាដែ
+លបណ្តាលឱ្យកើត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSansKhmer(0)/m/it/10 ការប្តូរបញ្ច្រាស់
+ទិសប៉ូលនៃដែនម៉ាញ៉េទិករបស់ផែនដី\TU/LatinModernRoman(0)/m/it/10 ” \TU/NotoSansKhm
+er(0)/m/it/10 ដូចដែលបាន
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងអត្ថបទនេះ ខ្ញុំរក្សាលទ្ធផលនៃការសិក្សាស្រា
+វជ្រាវដោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\TU/NotoSansKhmer(0)/m/it/10 ផ្អែកលើទិន្នន័យដែលជាតួលេខត្រឹមត្រូវ\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ពិតប្រាកដ\TU/LatinModernRoman(0)
+/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 និងអាចជឿទុកចិត្ត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\TU/NotoSansKhmer(0)/m/it/10 បាន\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKh
+mer(0)/m/it/10 ដើម្បីអាចជៀសវាងឲ្យបាននូវភាពលំអៀងដែលកើតឡើងដោយការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\TU/NotoSansKhmer(0)/m/it/10 ប៉ាន់ស្មានឫការជឿរបស់ខ្ញុំទៅលើផ្នែកណាមួយនៃទ្រឺះស្តី
+។\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ផងដែរ\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ខ្ញុំចង់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\TU/NotoSansKhmer(0)/m/it/10 សង្កត់ធ្ងន់ថាប្រធានបទនៃការស្រាវជ្រាវនេះពិតជាមានភាព
+ចាំបាច់ណាស់
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងជាច្រើនអំពីទឹកជំនន់មួយដ៍ធំមិនមែនជារឿងថ្មីទេ។\
+TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ជាក់ស្តែង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+\TU/NotoSansKhmer(0)/m/it/10 វាត្រូវបានបង្ហាញតាមរយៈវប្បធម៌ធំៗនៅជុំវិញពិភពលោក ដោ
+យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+\TU/NotoSansKhmer(0)/m/it/10 រួមបញ្ចូលទាំងសង្គមរស់នៅនិងការអភិវឌ្ឃរបស់មនុស្សនៅជំ
+នាន់នោះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថាតំបន់ដែលជាទីជម្រករបស់មនុស្សនៅលើភពផែនដីសុទ្
+ធតែធ្លាប់
+ []
+
+File: b.png Graphic file (type bmp)
+<b.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]\TU/NotoSansKhmer(0)/m/it/10 បើយើងពិនិត្យឲ្យស៊ីជម្រៅទៅលើរឿងទឹកជំនន់ទាំងនេះ\TU
+/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 វាអាចបង្ហាញ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានការបំផ្លិចបំផ្លាញយ៉ាងធ្ងន់ធ្ងរប្រៀបដូចជាការប
+ោសសម្អាតទ្វីបនិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[] \TU/LatinModernRoman(0)/b/n/11 . \TU/NotoSansKhmer(0)/b/n/11 រឿងទាក់ទងនឹងគ្រ
+ោះមហន្តរាយធម្មជាតិផ្សេងៗនៃ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងរបស់ជនជាតិដើមអាមេរិកមានរឿងមួយចំនួនដែលបង្ហាញពី
+
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 កុលសម្ព័ន្ធមួយនៃជនជាតិដើមអាមេរិក ដែលរស់នៅក្នុងភាគឦ
+សាននៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ស្រមោចឲ្យបើកច្រកពិភពលោកក្រោមដីរបស់ពួកគេសម្រាប់មនុស
+្ស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងឡាយណាដែលត្រូវបានជ្រើសរើសតែប៉ុណ្ណោះ។ នៅពេលមនុស្
+ស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនោះបានចូលទៅក្រោមដីដោយសុវត្ថិភាពហើយ\TU/LatinMod
+ernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 សូធូកណាំងបានប
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ញ្ជារឲ្យកូនភ្លោះមួយគូដែលមានឈ្មោះថា\TU/LatinModernR
+oman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ផូខង់ហ្គូយ៉ានិង\TU/LatinModernRom
+an(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ផាឡុងហ្គាវ៉ូយ៉ា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ឲ្យចាកចេញពីទីតាំងរបស់ពួកគេរៀងខ្លួន។\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទីតាំងនោះគឺនៅចុងបំផុតនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សរបស់ផែនដីដែលនៅខាងជើងនិងខាងត្បូង\TU/LatinModer
+nRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយទីនោះហើយដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ជាទីតាំងដែលពួកគេត្រូវឋិតនៅដើម្បីរក្សាផែនដីឲ្យមានរង
+្វិលត្រឹមត្រូវ។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/b/it/10 កូនភ្លោះដែលជាអ្នកទប់លំនឹងផែនដីមានការពិបាកជាខ្លាំងក
+្នុងការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/b/it/10 ចាកចេញពីទីតាំងរបស់ពួកគេ ព្រោះការចាកចេញរបស់ពួកគេធ្វ
+ើ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/b/it/10 ពិភពលោកបាត់បង់តុល្យភាព\TU/LatinModernRoman(0)/b/it
+/10 ​\TU/NotoSansKhmer(0)/b/it/10 ផែនដីវិល\TU/LatinModernRoman(0)/b/it/10 ​\TU/
+NotoSansKhmer(0)/b/it/10 និង\TU/LatinModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(
+0)/b/it/10 រមៀលចុះឡើងយ៉ាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/b/it/10 ខ្លាំងដោយសារតែគ្មានអ្នកគ្រប់គ្រងវា។\TU/NotoSansKhm
+er(0)/m/it/10 ភ្នំបានលិចចូលទៅក្នុងសមុទ្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ដោយសារតែរលកទឹកបោកមកខ្លាំង\TU/LatinModernRoman(0)/m
+/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 រីឯទឹកសមុទ្រនិងបឹងវិញបានខ្ចាយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSansKhmer(0)/m/it/10 ពេញដី\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSans
+Khmer(0)/m/it/10 ហើយដោយសារតែពិភពលោកវិលកាត់វាលទឹកកកនិងលំហដែល
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងទាំងអស់នេះបានរៀបរាប់យ៉ាងច្បាស់ពីទឹកជំនន់ដ៍ធំម
+ហាសាល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 និងយ៉ាងលម្អិតពីរបៀបដែលទឹកសមុទ្រជន់លិចកំពូលភ្នំដែលខ
+្ពស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 បំផុត។\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSan
+sKhmer(0)/m/it/10 កុលសម្ព័នជនជាតិដើមរបស់អាមេរិកដែលមានឈ្មោះថា\TU/LatinModernRoma
+n(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ស្កូ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 កូមីស\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSans
+Khmer(0)/m/it/10 ឥណ្ឌាដែលរស់នៅរដ្ធធានីវ៉ាស៊ីងតោនបានប្រាប់ថា\TU/LatinModernRoman
+(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 អាទិទេពដ៍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 អស្ចារ្យបានខឹងជាមួយនឹងមនុស្សនិងសត្វទាំងឡាយណាដែលប្រ
+ព្រឹត្ត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 រឿងអាក្រក់\TU/LatinModernRoman(0)/m/it/10 ​\TU/Not
+oSansKhmer(0)/m/it/10 ទ្រង់បានសម្រេចចិត្តកម្ចាត់ចោលពួកទាំងនោះហើយទុកតែ
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 សត្វណាដែលល្អ និង\TU/LatinModernRoman(0)/m/it/10 ​\
+TU/NotoSansKhmer(0)/m/it/10 មនុស្សល្អម្នាក់និងគ្រួសាររបស់គាត់ប៉ុណ្ណោះ។តាម
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 ការបង្ហាញផ្លូវរបស់អាទិទេពដ៍អស្ចារ្យ\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 មនុស្សម្នាក់នោះបានបាញ់ព្រួញទៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 ក្នុងពពក\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+ansKhmer(0)/m/it/10 ហើយបន្ទាប់មកបាញ់ព្រួញមួយទៀតចូលទៅក្នុងព្រួញទីមួយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 នោះ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKh
+mer(0)/m/it/10 ហើយក៍បាញ់បែបនេះជាបន្តបន្ទាប់ដែលព្រួញទាំងនោះបង្កើតបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 ជាខ្សែរយ៉ាងវែងពីពពកមកផែនដី។ ហើយខ្សែរនោះគឺសម្រាប់សត
+្វនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 មនុស្សល្អតោងឡើង។ សត្វអាក្រក់និងពស់បានតោងខ្សែរនោះប៉
+ុន្តែត្រូវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/b/it/10 ដ៏អស្ចារ្យបានបង្កើតភ្លៀងជាច្រើនថ្ងៃ ដោយភ្លៀងនោះបង្
+កើតបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/b/it/10 ជាទឹកជំនន់ជន់លិចរហូតដល់ចំណុចមួយនៃកំពូលភ្នំ\TU/Lati
+nModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/it/10 ថាខូម៉ា\TU/LatinModernRom
+an(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/it/10 ដែល
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/b/it/10 ចំណុចនោះមានឈ្មោះថា\TU/LatinModernRoman(0)/b/it/10 
+​\TU/NotoSansKhmer(0)/b/it/10 បន្ទាត់ព្រិល \TU/NotoSansKhmer(0)/m/it/10 ។ នៅទីប
+ំផុតមនុស្សនិងសត្វ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 អាក្រក់ទាំងអស់បានលង់ទឹកស្លាប់ បន្ទាប់មកអាទិទេពដ៏អស
+្ចារ្យក៍បាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 បញ្ឈប់ភ្លៀង ពេលនោះទឹកក៍ចាប់ផ្តើមស្រកហើយមនុស្សនិងសត
+្វល្អ
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងឡាយក៍វារចុះមកផែនដីវិញ\TU/LatinModernRoman(0)/m
+/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។\TU/L
+atinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ភ្នំរ៉េណៀរគឺជាភ្នំភ្លើង
+សកម្មមួយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSansKhmer(0)/m/it/10 នៅរដ្ឋវ៉ាស៊ីនតោន ដែលមានកម្ពស់\TU/LatinModernRoman(
+0)/m/n/10 ​4392.5\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រពីកម្រិតទឹកសមុទ្រ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងទឹកជំនន់មួយទៀតពីកុលសម្ព័នឥណ្ឌា\TU/LatinModern
+Roman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ម៉ាខា\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 នៃរដ្ធធានីវ៉ាស៊ីងតោន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានរៀបរាប់ជាពិសេសអំពីដំណាក់កាលជាច្រើននៃទឹកជំនន់ដែល
+ទឹក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 នោះមានសីតុណ្ហភាពក្តៅឧណ្ណៗខ្លាំង\TU/LatinModernRoma
+n(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលលក្ខណៈនេះឆ្លុះបញ្ជាំងថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់នេះមិនមែនជាទឹកជំនន់ធម្មតាឡើយ\TU/LatinModer
+nRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 ទឹកសមុទ្រឡើងខ្ពស់ល្មម
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ដែលអាចឲ្យវាបំបែកឆ្នេរចេញពីគ្នា បន្ទាប់ពីទឹកសមុទ្រស
+្រក់ជាបណ្តើរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ៗ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhme
+r(0)/m/it/10 អស់រយៈពេលបួនថ្ងៃក្រោយមកវាបានស្រក់ដល់ចំណុចតិចបំផុតដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានបន្សល់ឲ្យឆ្នេរនៀហ៍ស្ថិតនៅទីខ្ពស់ពីទឹកសមុទ្រនិងម
+ានសភាព
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ស្ងួត។ក្រោយមកទឹកសមុទ្របានឡើងខ្ពស់ម្តងទៀត\TU/LatinM
+odernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 វាបានលិចគ្រប់យ៉ាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 លើកលែងតែកំពូលភ្នំ\TU/NotoSansKhmer(0)/b/it/10 ទឹកស
+មុទ្រដែលឡើងខ្ពស់នោះគឺពិតជាមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/b/it/10 សីតុណ្ហភាពក្តៅឧណ្ណៗខ្លាំងណាស់\TU/NotoSansKhmer(0)/
+m/it/10 ។ ប្រជាជនបានជិះទូកតូចដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ផ្ទុកដោយអីវ់ាន់\TU/LatinModernRoman(0)/m/it/10 ​\T
+U/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhme
+r(0)/m/it/10 ធ្វើដំណើរឆ្ពោះទៅទិសខាងជើង។\TU/LatinModernRoman(0)/m/it/10 ​\TU/Not
+oSansKhmer(0)/m/it/10 មនុស្សជាច្រើនបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ស្លាប់នៅពេលដែលទូកពួកគេជាប់គាំងជាមួយដើមឈើ។ទឹកសមុទ្រ
+បាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ត្រឡប់មកជាធម្មតាបន្ទាប់ពីបួនថ្ងៃក្រោយមក\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយចុងក្រោយប្រជាជន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 បានដឹងថាពួកគេស្ថិតនៅទីតាំងដែលឆ្ងាយពីទិសខាងជើង\TU/L
+atinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយទីតាំង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+\TU/NotoSansKhmer(0)/m/it/10 ដែលគេទៅដល់នោះហើយក៍ជាទីតាំងដែលកូនចៅរបស់ពួកគេរស់នៅ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold/OT
+:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+[]\TU/NotoSansKhmer(0)/m/it/10 នៅផ្នែកម្ខាងទៀតនៃសមុទ្រប៉ាស៊ីហ្វិក សង្គមដ៍ទំនើបរ
+បស់ជនជាតិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ចិនក៍ត្រូវបានគេនិយាយថាចាប់ផ្តើមកើតមានទឹកជំនន់ផងដែរ
+។\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 នៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 សម័យកាលស្តេចស្សៀដែលត្រូវប៉ាន់ប្រមាណថាជាសម័យដែលស្ថិ
+តនៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ប្រហែលជា\TU/LatinModernRoman(0)/m/n/10 2,000\TU/No
+toSansKhmer(0)/m/it/10 ឆ្នាំមុន\TU/LatinModernRoman(0)/m/n/10 ​​​\TU/NotoSansKh
+mer(0)/m/it/10 វាជាសម័យកាលដែលត្រូវបានបង្កើតដោយ
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ស្តេចយូ ដែលជាអ្នកបានបង្ក្រាបទឹកជំនន់យក្សឈ្មោះ\TU/L
+atinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហ្គុន\TU/LatinModernRom
+an(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 យូ។ \TU/LatinModernRoman(0)/m/n/10 [
+[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 នៅសម័យនោះ \TU/LatinModernRoman(0)/m/it/10 "\TU/Not
+oSansKhmer(0)/m/it/10 ភាពអស្ចារ្យមួយបានកើតឡើង\TU/LatinModernRoman(0)/m/it/10 ​\
+TU/NotoSansKhmer(0)/m/it/10 វាត្រូវបានគេនិយាយថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ព្រះអាទិត្យមិនបានលិចរយៈពេលដល់ទៅដប់ថ្ងៃ\TU/LatinMod
+ernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលបណ្តាលឲ្យមាន
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ភ្លើងឆេះព្រៃ\TU/LatinModernRoman(0)/m/it/10 ​\TU/N
+otoSansKhmer(0)/m/it/10 ហើយសត្វល្អិតអាក្រក់ៗច្រើនបានកើតចេញ\TU/LatinModernRoman(
+0)/m/it/10 ... \TU/NotoSansKhmer(0)/m/it/10 រលកដ៍ធំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 មកលើដែនដីនៃប្រទេសចិន។ \TU/LatinModernRoman(0)/b/n/
+10 ''\TU/NotoSansKhmer(0)/b/n/10 ទឹកបានលិចដល់កំពូលភ្នំខ្ពស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/b/n/10 ៗ\TU/LatinModernRoman(0)/b/n/10 ​\TU/NotoSansKhmer(
+0)/b/n/10 ដែលធ្វើឲ្យយើងមិនអាចមើលឃើញជម្រាលភ្នំទាល់តែសោះ\TU/LatinModernRoman(0)/b
+/n/10 ''\TU/LatinModernRoman(0)/m/n/10 ...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ព្រះចៅអធិរាជមានបន្ទូលថា\TU/LatinModernRoman(0)/m/i
+t/10 ''\TU/NotoSansKhmer(0)/m/it/10 ការបំផ្លិចបំផ្លាញកើតមានមកពីទឹកជំនន់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ភ្នំនិងលិចដើមឈើខ្ពស់ៗ\TU/LatinModernRoman(0)/m/it/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយទឹកជំនន់នេះស្ទើរតែលិចទាំងស្ថានសួគ៌
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ដើម្បីបើកបង្ហូរទឹកដែលកំពុងជាប់ស្ទះនៅក្នុងជ្រោះដែលន
+ៅចន្លោះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ភ្នំទៀតផង។ អស់រយៈពេលជាច្រើនឆ្នាំប្រជាជនដែលជាកម្មករ
+បាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ព្យាយាមរំដោះទឹកជំនន់ពីតំបន់ខ្ពង់រាបនិងជ្រោះដោយជីកប
+្រឡាយនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហូរចូលស្រែ។អស់រយៈពេលជាច្រើនឆ្នាំទោះជាប្រជាពលរដ្
+ធខំយ៉ាងណា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ក៍បញ្ហារំដោះទឹកជំនន់មិនត្រូវបានដោះស្រាយដោយមានប្រសិ
+ទ្ធភាព
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 ឡើយ។\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKh
+mer(0)/m/it/10 រដ្ធមន្ត្រីដែលជាអ្នកទទួលបន្ទុកក្នុងការដោះស្រាយបញ្ហាធំនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាន់នេះគឺលោកខ្វាន់ត្រូវបានកាត់ទោសប្រហារជីវិតក៍ព
+្រោះតែគាត់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 បានបរាជ័យក្នុងការដោះស្រាយបញ្ហារំដោះទឹកជំនន់នេះ\TU/
+LatinModernRoman(0)/m/n/10 ​​​\TU/NotoSansKhmer(0)/m/it/10 ហើយកូនប្រុស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 តែមួយរបស់គាត់គឺលោកយូបានទទួលជោគជ័យក្នុងការរំដោះទឹកជ
+ំនន់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\TU/NotoSansKhmer(0)/m/it/10 នេះ។\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKh
+mer(0)/m/it/10 ភាពជោគជ័យនេះបានធ្វើឲ្យលោកយូក្លាយជាស្តេចបន្ទាប់ពីស្តេច
+ []
+
+[2]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]\TU/NotoSansKhmer(0)/m/it/10 វាមើលទៅទំនងគ្រាន់តែជារឿងទឹកជំនន់របស់ប្រទេសចិន\TU
+/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ប៉ុន្តែវា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញពីតម្រូវការក្នុងការវាស់វែងឡើងវិញនៅទិសធំៗទាំង
+បួន\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinMod
+ernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដំណើរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 ចររបស់ព្រះអាទិត្យនិងព្រះចន្ទ\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលដំណើរនេះធ្វើរឲ្យគេនិយាយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 ថាចលនារង្វិលជុំវិញខ្លួនឯងរបស់ព្រះអាទិត្យប្រហែលជាមា
+នការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 ផ្លាស់ប្តូរនៅពេលមានទឹកជំនន់ម្តងៗ\TU/LatinModernRom
+an(0)/m/n/10 : \TU/LatinModernRoman(0)/b/it/10 "\TU/NotoSansKhmer(0)/b/n/10 ព្រ
+ះមហាក្សត្រទ្រង់បាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/b/n/10 បញ្ចូនបញ្ញវន្តទៅកាន់តំបន់ផ្សេងៗរបស់ប្រទេសចិន\TU/Lat
+inModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/n/10 ហើយនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/b/n/10 ឥណ្ឌូចិនផងដែរ\TU/LatinModernRoman(0)/b/it/10 ​\TU/N
+otoSansKhmer(0)/b/n/10 ដើម្បីកំណត់ទីតាំងរបស់ទិសធំៗទាំងបួន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/b/n/10 រួមមានទិស\TU/LatinModernRoman(0)/b/it/10 ​\TU/NotoS
+ansKhmer(0)/b/n/10 ខាងជើង\TU/LatinModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/
+b/n/10 ខាងលិច\TU/LatinModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/n/10 ខាងកើ
+ត\TU/LatinModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/n/10 ខាងត្បូង\TU/Latin
+ModernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/n/10 ដោយពួកគេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/b/n/10 ត្រូវសង្កេតមើលទិសដែលព្រះអាទិត្យរះនិងលិច\TU/LatinMod
+ernRoman(0)/b/it/10 ​\TU/NotoSansKhmer(0)/b/n/10 រួមទាំងសង្កេត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/b/n/10 ដំណើរគោចររបស់ផ្កាយផងដែរ។ \TU/NotoSansKhmer(0)/m/it/
+10 ព្រះអង្គក៏បានបញ្ជារឲ្យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 តារាវិទូរបស់ទ្រង់ទៅសិក្សាពីរយៈពេលនៃរដូវនីមួយៗ\TU/L
+atinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 គោលបំណង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 គឺដើម្បីបង្កើតប្រតិទិនថ្មីមួយ\TU/LatinModernRoman(
+0)/m/it/10 ​​​'\TU/NotoSansKhmer(0)/m/it/10 ហើយក៍មានពេលមួយដែលស្តេច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាហ៊ូក៍ទ្រង់បានបញ្ជារលោក\TU/LatinModernRoman(0)/m
+/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហឺ\TU/LatinModernRoman(0)/m/it/10 ​\TU/Not
+oSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/
+m/it/10 លោកហូឲ្យពួកគាត់ទាំងពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 ធ្វើការវាស់វែងនិងរៀបរាប់ឲ្យបានច្បាស់ពីចលនា\TU/Lati
+nModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0
+)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 រូបរាងរបស់ព្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 អាទិត្យ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 ព្រះចន្ទ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0
+)/m/it/10 ផ្កាយ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 និ
+ង\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដំណើរគោចររបស់តារ
+ានិករក្នុងលំហរផងដែរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 ការងារទាំងអស់នេះត្រូវធ្វើប្រកបដោយការគោរពដឹងគុណចំពោ
+ះឋានសួ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSansKhmer(0)/m/it/10 គ៍ផងដែរ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 រួចត្រូវពន្យល់ពីពេលវេលានៃរដូវនីមួយៗឲ្យបានច្បាស់លាស់
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Bold It
+alic/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[]\TU/NotoSansKhmer(0)/m/it/10 កំណត់ត្រានៃគ្រោះមហន្តរាយធម្មជាតិក្នុងប្រវត្តិសាស
+្ត្ររបស់ប្រទេស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ចិនគឺមានកាលបរិច្ឆេទយូរជាងសម័យកាលរបស់ស្តេចស្សៀទៅទៀត
+ គឺ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 មានអាយុកាលប្រហាក់ប្រហែលនឹងរឿងទេវៈទាំងបីនិងព្រះមហាក
+្សត្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងប្រាំអង្គ។\TU/LatinModernRoman(0)/m/n/10 [[]]\
+TU/NotoSansKhmer(0)/m/it/10 ។ នូវ៉ាគឺជាទេពធីតាមួយអង្គក្នុងចំណោមទេវៈទាំងបី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 អង្គ\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKh
+mer(0)/m/it/10 ហើយក៍ជាតួអង្គដ៍សំខាន់ក្នុងការបង្កើតភពផែនដី\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ជីវិតមនុស្ស\TU/LatinModernRoman(0)/m/n/1
+0 ​\TU/NotoSansKhmer(0)/m/it/10 សត្វនៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ក្នុងរឿងប្រវត្តិសាស្ត្ររបស់ប្រទេសចិន\TU/LatinModer
+nRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយព្រះនាងក៍ជាអ្នកបញ្ឈប់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយទឹកជំនន់នៅពេលដែលផែនដីផ្លាស់ទិសដៅរង្វិ
+លជុំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 របស់វាផងដែរ៖ \TU/LatinModernRoman(0)/m/it/10 "\TU/
+NotoSansKhmer(0)/m/it/10 មានជម្លោះមួយបានកើតឡើងរវាងអាទិទេពដែលមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 មហិទ្ធឫទ្ធិពីរព្រះអង្គ\TU/LatinModernRoman(0)/m/it
+/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយពួកគេសម្រេចចិត្តដោះស្រាយជម្លោះដោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ការច្បាំងគ្នា។\TU/LatinModernRoman(0)/m/it/10 ​\TU
+/NotoSansKhmer(0)/m/it/10 នៅពេលដែលអាទិទេពគង្គាព្រះនាម\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហ្គុង\TU/LatinModernRoman(0)/m/it/10 ​\TU/N
+otoSansKhmer(0)/m/it/10 ហ្គុងបានឃើញ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ថាព្រះអង្គកំពុងតែនឹងចាញ់\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទ្រង់បានបំបុកព្រះសិរសាជាមួយនឹងភ្នំពូ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ជៅដែលភ្នំនេះជាសសរទ្រមេឃ\TU/LatinModernRoman(0)/m/i
+t/10 ​ \TU/NotoSansKhmer(0)/b/n/10 ពេលសសរបាក់\TU/LatinModernRoman(0)/b/it/10 ​\
+TU/NotoSansKhmer(0)/b/n/10 មេឃក៍ផ្អៀងទៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/b/n/10 ខាងទិសពាយព្យ\TU/LatinModernRoman(0)/b/it/10 ​\TU/No
+toSansKhmer(0)/b/n/10 ហើយផែនដីក៍ប្តូរទិសទៅខាងប៉ែកអាគ្នេយ៍វិញ\TU/NotoSansKhmer(0
+)/m/it/10 ។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ហើយរឿងនេះវាបានបង្ករឲ្យមានគ្រោះមហន្តរាយយ៉ាងខ្លាំងក្
+លាដូចជា\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ភ្លើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ឆេះគ្មានទីបញ្ជប់ ទឹកជំនន់ដ៍ធំសម្បើម\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយនិងការលេចឡើងនៅសត្វ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ចម្លែកកំណាចស៊ីមនុស្ស។ទេពធីតានូវ៉ាបានកាត់ជើងអណ្តើកយ
+ក្សនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ប្រើវាជាសសរជំនួសសសរដែលបានបាក់\TU/LatinModernRoman(
+0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយការធ្វើបែបនេះបានធ្វើឲ្យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 ស្ថានភាពមហន្តរាយនេះមានភាពធូរស្រាលមកវិញ\TU/LatinMod
+ernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយព្រះនាងក៍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NotoSansKhmer(0)/m/it/10 បានយកថ្មប្រាំពីរពណ៍យកមកបិតប៉ះមេឃដែលបានធ្លាយផងដែរ\T
+U/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ប៉ុន្តែ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[]\TU/NotoSansKhmer(0)/m/it/10 ដោយសារតែមានរឿងច្រើនពីគ្រោះមហន្តរាយធម្មជាតិដែលខ្ញ
+ុំមិនអាច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 រៀបរាប់អស់ក្នុងអត្តបទនេះ\TU/LatinModernRoman(0)/m/
+n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ខ្ញុំនឹងរៀបរាប់ដោយសង្ខេបពីរឿងមួយចំនួន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមកពីវប្បធម៌ល្បីៗតែប៉ុណ្ណោះ។នៅក្នុងអក្សរសីល្ប៍រប
+ស់ប្រទេស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ក្រិចមានរឿងទឹកជំនន់បីដូចជា\TU/LatinModernRoman(0)/
+m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដេវាកាលីយ៉ូន\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSansKhmer(0)/m/it/10 អូហ្គីហ្សេស\TU/LatinModernRoman(0)/m/n/10 ​\TU/
+NotoSansKhmer(0)/m/it/10 និង ដា
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ដានូស\TU/LatinModernRoman(0)/m/n/10 ​[[], []]\TU/N
+otoSansKhmer(0)/m/it/10 ។ កាលពីអតីតកាល \TU/LatinModernRoman(0)/m/it/10 "\TU/Not
+oSansKhmer(0)/m/it/10 បន្ទាប់ពីរយៈពេលប្រាំបួនថ្ងៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 នៃទឹកជំនន់ ពិភពលោកត្រូវបានបំផ្លាញ ហើយទូកសង្រ្គោះជី
+វិតបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ក្នុងអក្សរសាស
+្ត្ររបស់ម៉ាយ៉ានគេជឿថាមានព្រះអាទិត្យចំនួនបួន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ផ្សេងទៀតមុនពេលដែលមានព្រះអាទិត្យបច្ចុប្បន្ន ហើយសម័យ
+កាល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ព្រះអាទិត្យទីបួនជាសម័កាលរបស់អាទិទេពដែលមានឈ្មោះថាឆា
+ល់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ឈូឡេខ្យូហើយសម័យនោះត្រូវបានបញ្ចប់ដោយសារតែទឹកជំនន់បា
+ន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 បំផ្លាញពិភពលោកវិញនៅឆ្នាំ\TU/LatinModernRoman(0)/m/
+n/10 3,100\TU/NotoSansKhmer(0)/m/it/10 មុនគ្រឺសសករាជ\TU/LatinModernRoman(0)/m/n
+/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយបន្ទាប់មក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ក៍ជាការចាប់កំណើតនៃព្រះអាទិត្យទីប្រាំដែលជាព្រះអាទិត
+្យបច្ចុប្បន្ន
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 នេះ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSans
+Khmer(0)/m/it/10 ។ នៅមជ្ឈិមបូព៌ាវិញ រឿងរ៉ាវផ្សេងៗដែលបានកត់ត្រាក្នុងគម្ពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 រឿងទាំងនោះនិយាយពីទឹកជំនន់។រឿងទាំងនោះមានដូចជា\TU/La
+tinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 របស់បុរសឈ្មោះណូអា វីរៈភាពរបស់\TU/LatinModernRoman(
+0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហ្គីលហ្គាម៉េស កំណាព្យរបស់បា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ប៊ីឡូនដែលប្រាប់រឿងរ៉ាវស្រដៀងគ្នាអំពីទឹកជំនន់\TU/La
+tinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ វប្បធម៌អាស៊ី
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 អាគ្នេយ៍ក៏សម្បូរទៅដោយរឿងទឹកជំនន់ផងដែរ ឧទាហរណ៍ ជនជា
+តិអូ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 ដាណូមនៃប្រទេសឥណ្ឌូណេស៊ីនិយាយថា \TU/LatinModernRoma
+n(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់ធំមួយបានលិច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 មនុស្សជាច្រើន។ មនុស្សមួយចំនួនមានសំណាងក្នុងការរត់គេ
+ចដោយ
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 165--166
+\TU/NotoSansKhmer(0)/m/it/10 បីខែរហូតដល់ទឹកជំនន់ស្រក\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ កោះបូរ
+ណេអូដែលពួកគេរស់នៅ
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: marine.jpg Graphic file (type bmp)
+<marine.jpg>
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]\TU/NotoSansKhmer(0)/m/it/10 ជាក់ស្តែង\TU/LatinModernRoman(0)/m/n/10 , \TU/No
+toSansKhmer(0)/m/it/10 រឿងរ៉ាវទាំងនេះបានបង្ហាញពីទឹកជំនន់ដ៍ធំដែលជា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\TU/NotoSansKhmer(0)/m/it/10 រឿយៗមានការរួមផ្សំដោយប្រភេទផ្សេងៗនៃកម្លាំងភូមិសាស្ត
+្ររបស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\TU/NotoSansKhmer(0)/m/it/10 រង្វិលជុំវិញខ្លួនឯងរបស់ផែនដីត្រូវបានកត់ត្រាថាបានកើ
+តឡើងជាមួយ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពជាក់ស្តែងនៃរឿងនិទានរបស់ទឹកជំនន់បានលិចឡើងពីវប្
+បធម៌នៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\TU/NotoSansKhmer(0)/m/it/10 តំបន់ផ្សេងៗទូទាំងសកលលោក\TU/LatinModernRoman(0)/m/n
+/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលរឿងទាំងនោះវាដូចនឹងរឿងរបស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយទឹកជំនន់ដែលបានកើតឡើងពិតប្រាកដ\TU/Lati
+nModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 នេះសបញ្ជាក់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\TU/NotoSansKhmer(0)/m/it/10 ឲ្យឃើញថារឿងព្រេងទឹកជំនន់ទាំងនោះពិតជាពាក់ព័ន្ធនឹងទឹ
+កជំនន់ដែល
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពជាក់លាក់នៃរឿងនិទានទឹកជំនន់គឺជាទំរង់ផ្សេងៗនៃភស
+្តុតាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/NotoSansKhmer(0)/m/it/10 រូបវិទ្យាដែលបង្ហាញពីការជន់លិចរបស់ទឹកសមុទ្រមកលើផ្ទៃ
+នៃទ្វីបរបស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/NotoSansKhmer(0)/m/it/10 ផែនដី។ភស្តុតាងជាក់ស្តែងបំផុតនៃទំរង់ទាំងនោះមានដូចជា
+អំបិល\TU/LatinModernRoman(0)/m/n/10 ​
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 ទឹកសមុទ្រ\TU/Latin
+ModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 វាលអំបិល\TU/LatinModernRoma
+n(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និងរ៉ែអំបិល\TU/LatinModernRoman(0)/m/
+n/10 )​\TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/n/10 ​\TU/Noto
+SansKhmer(0)/m/it/10 ហ្វូស៊ីលសមុទ្រដែលបានគ្រប់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\TU/NotoSansKhmer(0)/m/it/10 ពីទីតាំងនៃទឹកសមុទ្រពណ៌ខៀវ\TU/LatinModernRoman(0)/m
+/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 វាលអំបិលនិងរ៉ែពណ៌ត្នោត\TU/LatinModernRoman(
+0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយក៍មានក៍
+ []
+
+[3]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]\TU/NotoSansKhmer(0)/m/it/10 តំបន់មួយចំនួនដែលមានទឹកអំបិលហើយគួរឲ្យចាប់អារម្មណ៍
+បំផុត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 នោះគឺតំបន់ដីខ្ពស់ហ៊ីម៉ាឡាយ៉ានរបស់ទីបេ\TU/LatinMode
+rnRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និងភ្នំអានដេស៍\TU/LatinModernRo
+man(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 របស់អាមេរិក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 ខាងត្បូង\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 តំបន់ទាំងពីរនេះមានកម្ពស់ប្រហែល\TU/LatinModernRoman(0)/m/n/10
+ ​4,000\TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ\TU/LatinModernRoman(0)/m/n/10 ​\TU/N
+otoSansKhmer(0)/m/it/10 ដូចដែលបាន
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញក្នុងរូបទីបីពីមុនមក []\TU/LatinModernRoman(0
+)/m/n/10 3[]. \TU/NotoSansKhmer(0)/m/it/10 រឿងព្រេងរបស់ទីបេបាននិយាយថា\TU/LatinM
+odernRoman(0)/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/b/n/10 ទីបេស្ទើរតែត្រូវបា
+នលិចទាំងស្រុង \TU/NotoSansKhmer(0)/m/it/10 បានធ្វើឲ្យព្រះហ្គីយ៉ា មានចិត្ត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 អាណិតអាសូរចំពោះជីវិតដែលខំព្យាយាមរស់\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទ្រង់បានបង្ហូរទឹកតាមរយៈ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 តំបន់បេនហ្គលហើយក៍បានបញ្ជូនគ្រូបង្រៀនមកបង្រៀនមនុស្ស
+ដើម្បីឲ្យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 ពួកគេមានជីវិតរស់នៅល្អប្រសើរជាងសត្វស្វាបន្តិច\TU/La
+tinModernRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhme
+r(0)/m/it/10 ។ ចំណែក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 រឿងព្រេងរបស់ប៉េរូរៀនវិញបានពិពណ៌នាថាភ្នំត្រូវបានលិច
+ឡើងនៅពេល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានទឹកជំនន់ឫក៍អាចប្រើពាក្យថាភ្នំត្រូវបានបន្តុបព
+ីលើទឹកជំនន់\TU/LatinModernRoman(0)/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 អ្នកគង្វាលចៀម\TU/
+LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 និងកូនទាំងប្រាំមួយរបស
+់គាត់បានខំប្រឹងប្រមូលផ្តុំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 ចំណីអាហារនិងចៀមរបស់ពួកគេទាំងអស់តាមដែលអាចធ្វើទៅបាន\
+TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 និង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 នាំយកពួកវាទៅលើភ្នំដ៍ខ្ពស់ដែលមានឈ្មោះថា\TU/LatinMod
+ernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 អានកាស្មារ៉ា។ \TU/LatinModern
+Roman(0)/b/it/10 ;\TU/NotoSansKhmer(0)/m/it/10 ពេល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 ដែលទឹកជំនន់ឡើងខ្ពស់\TU/LatinModernRoman(0)/m/it/10
+ ​\TU/NotoSansKhmer(0)/m/it/10 ភ្នំនឹងកាន់តែលូតកម្ពស់\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដូច្នេះកំពូលភ្នំនឹងមិន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\TU/NotoSansKhmer(0)/m/it/10 អាចលិចឡើយ\TU/LatinModernRoman(0)/m/it/10 ​\TU/Noto
+SansKhmer(0)/m/it/10 ហើយបន្ទាប់ពីទឹកស្រក់ភ្នំក៍បាត់វិញដូចគ្នា។\TU/LatinModernRo
+man(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 បន្ទាប់ពី
+ []
+
+
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+File: tibet.jpg Graphic file (type bmp)
+<tibet.jpg>
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+[]\TU/NotoSansKhmer(0)/m/it/10 ខណៈពេលដែលសាលាវិទ្យាសាស្ត្រនៃភូមិវិទ្យាបានគិតថាកា
+រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើងនៃអំបិលនិងហ្វូសីលសមុទ្រជាដំណើរកកើតឡើងដោយឯកឯង
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\TU/NotoSansKhmer(0)/m/it/10 ដោយប្រើពេលរាប់លានឆ្នាំ\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 ប៉ុន្តែរឿងនិទានពីទឹកជំនន់គួរតែធ្វើឲ្យយើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\TU/NotoSansKhmer(0)/m/it/10 មានចម្ងល់ពីអ្វីដែលពួកគេបានអះអាង។ប្រសិនបើទឹកសមុទ្រព
+ិតជា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\TU/NotoSansKhmer(0)/m/it/10 ធ្លាប់លិចពិភពលោកពិតមែន\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 អញ្ជឹងទឹកសមុទ្រនិងហ្វូស៊ីលសមុទ្រ\TU/LatinModer
+nRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ពិតជា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\TU/NotoSansKhmer(0)/m/it/10 ងាយស្រួលក្នុងការជួបប្រទះនៅតំបន់ភ្នំនិងខ្ពង់រាបណាស់
+\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ព្រោះនៅពេល
+ []
+
+File: khafre.jpg Graphic file (type bmp)
+<khafre.jpg>
+File: shafts.jpg Graphic file (type bmp)
+<shafts.jpg>
+
+Underfull \hbox (badness 2856) in paragraph at lines 238--238
+[]\TU/NotoSansKhmer(0)/m/n/9 រូប \TU/LatinModernRoman(0)/m/n/9 5. []\TU/NotoSan
+sKhmer(0)/m/n/9 លោក\TU/LatinModernRoman(0)/m/n/9 Ethical Skeptic\TU/NotoSansKhm
+er(0)/m/n/9 ជឿថាជ្រុងខាងក្នុងនិងបន្ទប់នៃប្រាសាទឃូហ្វូរបស់ពីរ៉ាមីតត្រូវបានសាងសង់
+ជាឧបករណ៍វិទ្យាសាស្ត្រ ដែលជាកន្លែងសង្កេតពិសេស
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+[]\TU/NotoSansKhmer(0)/m/it/10 មានភាពមិនធម្មតាជាច្រើនទៀតដែលវិទ្យាសាស្ត្របរាជ័យក
+្នុងការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 បកស្រាយ។\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 ដូចជាសត្វដំរីបុរេប្រវត្តិម៉ាម៉ូសដែលដែលកក់ជាទឹកកកហើយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 បានកប់នៅក្នុងភក់ប៉ុន្តែសាច់ឈាមរបស់វាត្រូវបានរក្សាន
+ៅស្រស់ល្អ
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាប់ពីរកឃើញជាច្រើនពាន់ឆ្នាំក្រោយមក \TU/LatinMod
+ernRoman(0)/m/n/10 [[], [], []] \TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់ដ៍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ធំនៃភពផែនដីដែលបន្តុបលើគ្នាដូចជាស្រទាប់ដី\TU/LatinM
+odernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ខ្សាច់\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/n/10 ​\TU/N
+otoSansKhmer(0)/m/it/10 ភក់ដែលបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 លាតសន្ធឹងលើផ្ទៃដីដ៍ធំនៃអាមេរិកខាងជើងដែលមានផ្ទៃប្រម
+ាណ\TU/LatinModernRoman(0)/m/n/10 2.4\TU/NotoSansKhmer(0)/m/it/10 គីឡូ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ថ្មធំៗដែលបានរកឃើញនៅកំពូលភ្នំឆ្ងាយៗគឺជាវត្ថុចម្លែកន
+ៅលើភពផែន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ដី \TU/LatinModernRoman(0)/m/n/10 [[], []]​\TU/Not
+oSansKhmer(0)/m/it/10 មនុស្សមួយចំនួននិយាយថាទាំងនោះហើយជាភស្តុតាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ចោលនៅជំនឿខាងលើ\TU/LatinModernRoman(0)/m/n/10 ​\TU/
+NotoSansKhmer(0)/m/it/10 ហើយពួកគេនិយាយថាការកកើតនៃវត្ថុទាំងនោះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 គឺដំណើរការកកើតជាសន្សឹមៗរយៈពេលរាប់លានឆ្នាំ\TU/Latin
+ModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយពួកគេមិនបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ពន្យល់វាដោយលម្អិតទេ។\TU/LatinModernRoman(0)/m/n/10
+ ​\TU/NotoSansKhmer(0)/m/it/10 ការពិតទៅវត្ថុចម្លែកទាំងនោះគឺជាការពន្យល់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\TU/NotoSansKhmer(0)/m/it/10 ដែលល្អបំផុតអំពីកម្លាំងនៃគ្រោះមហន្តរាយធម្មជាតិ\TU/L
+atinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយវានឹងត្រូវបាន
+ []
+
+[4]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+[]\TU/NotoSansKhmer(0)/m/it/10 បន្ថែមពីលើនេះទៀត\TU/LatinModernRoman(0)/m/n/10 ​
+\TU/NotoSansKhmer(0)/m/it/10 ដែនម៉ាញ៉េទិកនៃប៉ូលរបស់ផែនដីដែលប្តូរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ទិសគ្នា\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSan
+sKhmer(0)/m/it/10 គឹត្រូវបានគេជឿថាកើតឡើងម្តងហើយម្តងទៀត\TU/LatinModernRoman(0)/m
+/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយការជឿ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 នេះត្រូវបានគាំទ្រដោយទិន្នន័យផាឡឺអូម៉ាញ៉េទិក\TU/Lat
+inModernRoman(0)/m/n/10 ​ [[], [], []]\TU/NotoSansKhmer(0)/m/it/10 ។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ទោះជាយ៉ាងណា វិទ្យាសាស្ត្រសម័យថ្មីមិនអាចពន្យល់យ៉ាងច
+្បាស់ថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\TU/NotoSansKhmer(0)/m/it/10 ហេតុអ្វីការប្តូរទិសប៉ូលនៃម៉ាញ៉េទិករបស់ផែនដីនេះកើតឡ
+ើងដោយ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 ព្រោះវាមិនត្រឹមតែផ្តល់ភស្តុតាងជាអចិន្ត្រៃយ៍ពីទឹកជំ
+នន់របស់ទឹកសមុទ្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 មកលើផែនដីម្តងម្កាលនោះទេប៉ុន្តែវាក៍ជាសញ្ញាដ៍មានឥទ្ធ
+ិពលដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញពីការបញ្ច្រស់ទិសរបស់\TU/LatinModernRoman(0)/
+m/n/10 ​ECDO \TU/NotoSansKhmer(0)/m/it/10 របស់ផែនដីផងដែរ\TU/LatinModernRoman(0)
+/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយគន្លឺះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនេះបានធ្វើឲ្យយើងយល់ថាដូនតារបស់យើងមានសមត្ថភាពយល
+់ពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 រចនាសម្ព័ន្ធថ្មធំៗដោយប្រើវិស្វកម្មកម្រិតខ្ពស់។ពីរ៉
+ាមីតទាំងពីរនេះ ត្រូវ
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 250--251
+\TU/NotoSansKhmer(0)/m/it/10 បានសន្មត់ថាត្រូវបានសាងសង់ឡើងនៅប្រហែលឆ្នាំ \TU/Lati
+nModernRoman(0)/m/n/10 2,500 \TU/NotoSansKhmer(0)/m/it/10 មុនគ\TU/LatinModernRo
+man(0)/m/n/10 .\TU/NotoSansKhmer(0)/m/it/10 ស\TU/LatinModernRoman(0)/m/n/10 .
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 1622) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 លោក \TU/LatinModernRoman(0)/m/n/10 Ethical Skeptic
+ \TU/NotoSansKhmer(0)/m/it/10 បានសរសេរពិភាក្សាក្នុងស្នាដៃរបស់គាត់។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 គាត់បានបង្ហាញពីភាពមិនស្របគ្នាច្រើនក្នុងរឿងបុរាណអំព
+ីប៉េអាមីត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\TU/NotoSansKhmer(0)/m/it/10 ដែលធ្វើឲ្យមានការយល់ច្រឡំ\TU/LatinModernRoman(0)/m/
+n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និង\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoS
+ansKhmer(0)/m/it/10 ច្របូកច្របល់ពីអាយុនិងប្រវត្តិរបស់
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+[]\TU/NotoSansKhmer(0)/m/it/10 ផ្នែកសំខាន់មួយនៃការស៊ើបអង្កេតនៅក្នុងនិក្ខេបបទរបស
+់លោក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 នៅរក្សាសំបកខាងក្រៅជាថ្មកំបោរធូរ៉ាដើមរបស់វា\TU/Lati
+nModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលពីដើមសំបកនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 នៅគ្រប់ដណ្តប់ពេញផ្នែកខាងក្រៅនៃពីរ៉ាមីត។ស្រទាប់ខាងល
+ើនេះត្រូវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាប់របស់វាដែលជាស្រទាប់ឈ្មោះកាត\TU/LatinModernRo
+man(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថាជាថ្មខាងក្នុងដ៏រឹងមាំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ដែលប្រើសម្រាប់សាងសង់ពីរ៉ាមីត។\TU/LatinModernRoman(
+0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 នៅពីក្រោមនេះទៀត\TU/LatinModernRoman(0)/
+m/n/10 ​ \TU/NotoSansKhmer(0)/m/it/10 តួនៃពីរ៉ាមីត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់នោះមានផ្ទុកកាល់ស្យូមកាបូណាត ដែលអាចរលាយក្នុង
+ទឹក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ក្រោមលក្ខខណ្ឌត្រឹមត្រូវ។លោក \TU/LatinModernRoman(0
+)/m/n/10 Ethical Skeptic\TU/NotoSansKhmer(0)/m/it/10 បានលើកឡើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ថាមានស្រទាប់សំណឹកខ្លាំងដោយសារទឹក ប៉ុន្តែវាឈប់នៅពេល
+ដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 វាទៅដល់ស្រទាប់ថ្មកំបោរ ហើយជ្រុងនៃចុងរបស់ពីរ៉ាមីតបង
+្ហាញលំនាំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 សំណឹកដូចរលក ដែលអាចបង្ហាញពីចលនាទឹក ឬសារធាតុរាវដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 បណ្តាលឱ្យពួកវាសឹកតាមពេលវេលា។\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយភាពខុសគ្នារវាងសំណឹក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ដោយអាកាសធាតុនៅចុងកំពូលនៃពីរ៉ាមីត\TU/LatinModernRom
+an(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 និងសំណឹកដោយទឹកនៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នែកតួនៃពីរ៉ាមីត\TU/LatinModernRoman(0)/m/n/10 ​\
+TU/NotoSansKhmer(0)/m/it/10 ជាភស្តុតាងបង្ហាញយ៉ាងច្បាស់ពីការឡើងចុះនៃកម្ពស់
+ []
+
+File: drawing.jpg Graphic file (type bmp)
+<drawing.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+[]\TU/NotoSansKhmer(0)/m/it/10 លោក\TU/LatinModernRoman(0)/m/n/10 Ethical Skepti
+c \TU/NotoSansKhmer(0)/m/it/10 ក៏ផ្តោតអារម្មណ៍យ៉ាងខ្លាំងលើការរចនា
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 275--276
+\TU/NotoSansKhmer(0)/m/it/10 ផ្ទៃក្នុង និងស្ថានភាពនៃ ប្រាសាទឃូហ្វូ \TU/LatinMod
+ernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូប []\TU/LatinModernRoman(0)/
+m/n/10 5[]) \TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងការសិក្សា
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 275--276
+\TU/NotoSansKhmer(0)/m/it/10 របស់គាត់ផងដែរ \TU/LatinModernRoman(0)/m/n/10 [[]]\
+TU/NotoSansKhmer(0)/m/it/10 ។ ប្រាសាទឃូហ្វូ មានបន្ទប់ជាច្រើន \TU/LatinModernRom
+an(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 បន្ទប់
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 275--276
+\TU/NotoSansKhmer(0)/m/it/10 ព្រះមហាក្សត្រ បន្ទប់ម្ចាស់ក្សត្រី \TU/LatinModernR
+oman(0)/m/n/10 [[], []]\TU/NotoSansKhmer(0)/m/it/10 ។ ក្នុងអត្ថបទនេះ យើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+\TU/NotoSansKhmer(0)/m/it/10 នឹងពិនិត្យតែផ្នែកសំខាន់បំផុតនៃការស៊ើបអង្កេតរបស់លោក
+ \TU/LatinModernRoman(0)/m/n/10 Ethical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+\TU/LatinModernRoman(0)/m/n/10 Skeptic \TU/NotoSansKhmer(0)/m/it/10 ចំណុចទាំងនោ
+ះគឺការរៀបចំ និងការរចនារបស់រន្ធខ្យល់ពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+\TU/NotoSansKhmer(0)/m/it/10 គូនោះ ពីព្រោះវាមានពត៌មានដ៏សំខាន់ដែលអាចឲ្យយើងបកស្រា
+យពី
+ []
+
+[5]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Overfull \vbox (6.41927pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Overfull \vbox (6.41927pt too high) has occurred while \output is active []
+
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+[]\TU/NotoSansKhmer(0)/m/it/10 កត្តាសំខាន់នៅទីនេះគឺការដឹងថា រន្ធទាំងនេះត្រូវបាន
+កសាងឡើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+[]\TU/NotoSansKhmer(0)/m/it/10 ផ្ទុយទៅវិញតម្រុយដែលពេញនិយមបំផុតគឺជាផែនទីផ្កាយសេឡ
+េស្ទា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 លដែលត្រូវបានឆ្លាក់នៅលើផ្នែកខាងក្នុងនៃជ្រុងមួយនៃបន្
+ទប់ម្ចាស់ក្សត្រី។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ផែនទីផ្កាយនេះជាបណ្តុំផ្កាយជុំវិញប៉ូលខាងជើងកាលពីប្រ
+ហែលជា
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 279--280
+\TU/LatinModernRoman(0)/m/n/10 9,600 \TU/NotoSansKhmer(0)/m/it/10 ដល់ \TU/Latin
+ModernRoman(0)/m/n/10 9,200 \TU/NotoSansKhmer(0)/m/it/10 មុនគ\TU/LatinModernRom
+an(0)/m/n/10 .\TU/NotoSansKhmer(0)/m/it/10 ស នេះបើយោងតាមដំណើរផ្លាស់ទីនៃអីគី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ណក\TU/LatinModernRoman(0)/m/n/10 ([[]])\TU/NotoSan
+sKhmer(0)/m/it/10 ។ វាបង្ហាញថារន្ធនោះត្រូវបានរៀបចំតាមទិសដោយចេតនា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ហើយនៅពេលសាងសង់គូរន្ធពីបន្ទប់ព្រះមហាក្សត្រ បន្ទប់ម្
+ចាស់ក្សត្រីគឺ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្ពោះទៅទិសណា ហើយហតុអ្វីរន្ធខ្យល់មួយគូនោះត្រូវបានកស
+ាង
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ជាមួយមុំ\TU/LatinModernRoman(0)/m/n/10 104\TU/Noto
+SansKhmer(0)/m/it/10 ដឺក្រេដូចគ្នា\TU/LatinModernRoman(0)/m/n/10 ? \TU/NotoSans
+Khmer(0)/m/it/10 លោក\TU/LatinModernRoman(0)/m/n/10 Ethical Skeptic \TU/NotoSans
+Khmer(0)/m/it/10 សន្និដ្ឋានថាវា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវសាងសង់ឲ្យដូចបណ្តុំផ្កាយទិសខាងជើងដើម្បីឲ្យស្រប
+ជាមួយការ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+[]\TU/NotoSansKhmer(0)/m/it/10 លោក\TU/LatinModernRoman(0)/m/n/10 Ethical Skepti
+c \TU/NotoSansKhmer(0)/m/it/10 បានសន្និដ្ឋានថា ផែនដីប្រឈមនឹង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+\TU/NotoSansKhmer(0)/m/it/10 ស្របតាមទិសនៃ ពីរ៉ាមីតឃូហ្វូ និងប្រឡោះទាំងពីររបស់វា
+ស្ថិតនៅ។
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 283--287
+\TU/NotoSansKhmer(0)/m/it/10 រូបភាព []\TU/LatinModernRoman(0)/m/n/10 6[] \TU/No
+toSansKhmer(0)/m/it/10 រូបភាពទី \TU/LatinModernRoman(0)/m/n/10 6 \TU/NotoSansKh
+mer(0)/m/it/10 ពិពណ៌នាពីការបង្វិលរបស់ផែនដីដែលបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+\TU/NotoSansKhmer(0)/m/it/10 ព្យាករណ៍រួមជាមួយចំណុចរួមនៃភាគខាងកើត \TU/LatinModer
+nRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 ប្រទេស\TU/LatinModernRoman(0)/m/
+n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ឥណ្ឌូណេស៊ី\TU/LatinModernRoman(0)/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមិនបានផ្លាស់ប្តូរបន្ទាប់ពីមានការវិលបញ្ច្រាស់របស
+់ផែនដីតាម
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 283--287
+\TU/NotoSansKhmer(0)/m/it/10 បណ្តោយមេរីឌៀនទី\TU/LatinModernRoman(0)/m/n/10 31\T
+U/NotoSansKhmer(0)/m/it/10 ទេ។ បន្ទាប់ពីផែនដីវិលបញ្ច្រាស់មកស្ថានភាពថ្មី
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងគ្រោះមហន្តរាយទឹកជំនន់ត្រូវបានប្រាប់ដោយលោកហេរ៉
+ូដូតុស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកប្រវត្តិវិទូបុរាណដ៏ល្បីបំផុតនៃក្រិកបុរាណ ដែលរស
+់នៅក្នងសតវត្ស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 អេហ្ស៊ីប\TU/LatinModernRoman(0)/m/n/10 ” \TU/NotoS
+ansKhmer(0)/m/it/10 លោកហេរ៉ូដូតុស បានបង្ហាញអំពីអ្វីដែលអ្នកបួសអេហ្ស៊ីប
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 បានប្រាប់គាត់ \TU/LatinModernRoman(0)/m/it/10 "...
+\TU/NotoSansKhmer(0)/m/it/10 ចាប់តាំងពីព្រះមហាក្សត្រដំបូងបំផុតរហូតដល់
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកបួសនៃហេហ្វ៉ែសតូសដែលបាននៃជំនាន់ស្តេចចុងក្រោយ មា
+នសរុប
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 ចំនួន\TU/LatinModernRoman(0)/m/it/10 341\TU/NotoSa
+nsKhmer(0)/m/it/10 ជំនាន់\TU/LatinModernRoman(0)/m/it/10 .. \TU/NotoSansKhmer(0
+)/m/it/10 ប៉ុន្តែមនុស្សបីរយជំនាន់គឺស្មើនឹងមួយម៉ឺនឆ្នាំ\TU/LatinModernRoman(0)/m
+/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដូច្នេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 ថា គ្មានព្រះណាមកចាប់បដិសន្ធិក្នុងលោកនេះឡើយ\TU/Lati
+nModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ឬក៍គ្មានសូម្បីតែ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 មុនពេលនោះឬបន្ទាប់មកក្នុងចំណោមស្ដេចដែលនៅសេសសល់ដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 បានឡើងគ្រង់រាជ្យនៅប្រទេសអេស៊ីប។ពួកគេបាននិយាយទៀតថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 អ្វីមួយដូចនឹងនេះបានកើតឡើងពិតមែន។\TU/NotoSansKhmer(
+0)/b/n/10 ក្នុងរយៈពេលនោះ ពួកគេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/b/n/10 បាននិយាយថា ព្រះអាទិត្យបានផ្លាស់ទីពីទីកន្លែងដែលវាធ្ល
+ាប់រះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/b/n/10 បួនដង ហើយទីកន្លែងដែលព្រះអាទិត្យរះសព្វថ្ងៃគឺជាកន្លែង
+ដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/b/n/10 វាបានលិចពីមុនពីរដង ហើយទីកន្លែងដែលវាធ្លាប់លិចមកពីមុន
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/b/n/10 ឥឡូវក៍វាបានរះនៅទីនោះពីរដងដែរ\TU/NotoSansKhmer(0)/m/
+it/10 ។\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយក្នុងអំ
+ឡុងពេលនោះ អ្វី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 ៗនៅអេហ្ស៊ីបមិនបានផ្លាស់ប្ដូរពីស្ថានភាពធម្មតារបស់វា
+ឡើយ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយក៍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 គ្មានដែលនៅលើផែនដីឬក៍ទន្លេបង្កបញ្ហាដូចជាជំងឺឬការស្ល
+ាប់ដល់ពួកគេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 ឡើយ។\TU/LatinModernRoman(0)/m/it/10 [[]]\TU/NotoSa
+nsKhmer(0)/m/it/10 ព្រះសង្ឃនៃព្រះហេភ៉ាស្តូត្រូវបានកំណត់ថាស្ថិតនៅដើមនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSansKhmer(0)/m/it/10 ដែលជាព្រះមហាក្សត្រនៃចក្រភពអាស៊ីរីបថ្មីដូចដែលបានរៀប
+រាប់ដោយ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+[]\TU/NotoSansKhmer(0)/m/it/10 រឿងនេះសំខាន់ព្រោះវាបង្ហាញ ពីពេលវេលាដែលព្រះអាទិត្
+យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 ផ្លាស់ទីនៅអេហ្ស៊ីប ព្រះអាទិត្យផ្លាស់ទីពីកន្លែងរះនិ
+ងលិចរបស់វាពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 កន្លែងជាក់លាក់ពីមុន។ វាអាចកើតមានបានប្រសិនបើអេហ្ស៊ី
+បបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 បង្វិល\TU/LatinModernRoman(0)/m/n/10 108\TU/NotoSa
+nsKhmer(0)/m/it/10 ដឺក្រេហើយស្ថិតនៅរយៈទទឹងប្រហាក់ប្រហែលគ្នា។ បើយើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 គិតពីការរចនារបស់ពីរ៉ាមីត និងទិន្នន័យដែលមាននៅផ្នែកប
+ន្ទាប់នេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 យើងអាចសន្មតថាអេហ្ស៊ីបស្ថិតនៅលើមេរីឌៀនដែលស្របតាមការ
+វិល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\TU/NotoSansKhmer(0)/m/it/10 របស់ផែនដីពេលដែលផែនដីប្តូរទិសទៅក្នុងស្ថានភាពថ្មី \T
+U/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 មេរីឌៀនទី\TU/LatinMo
+dernRoman(0)/m/n/10 ​31
+ []
+
+File: biodiversity.jpg Graphic file (type bmp)
+<biodiversity.jpg>
+[7]
+File: meinesz3.jpg Graphic file (type bmp)
+<meinesz3.jpg>
+File: laj.jpg Graphic file (type bmp)
+<laj.jpg>
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[]\TU/NotoSansKhmer(0)/m/it/10 អេហ្ស៊ីបគឺជាទីតាំងតែមួយលើផែនដីដែលបាននិយាយថាព្រះអ
+ាទិត្យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\TU/NotoSansKhmer(0)/m/it/10 បានផ្លាស់ទីកន្លែងរះនិងលិចពីកន្លែងជាក់លាក់របស់វា។ ត
+ាមពិតទៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\TU/NotoSansKhmer(0)/m/it/10 រឿងមួយទៀតនៅលើពិភពលោកដែលពិពណ៌នាអំពីទិសដៅជាក់លាក់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\TU/NotoSansKhmer(0)/m/it/10 នៃការបង្វិលរបស់ផែនដី គឺជារឿងរបស់ទេពធីតានូវ៉ារបស់ចិ
+ន ដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\TU/NotoSansKhmer(0)/m/it/10 បាននិយាយថា\TU/LatinModernRoman(0)/m/n/10 …\TU/Lati
+nModernRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 សសរទ្រមេឃរលំ ហើយបណ្តាលឲ្យ
+មេឃផ្អៀងទៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\TU/NotoSansKhmer(0)/m/it/10 បង្វិលដែលបានពណ៌នាក្នុងរឿងនេះស្របនឹងទិសដែលបានលើកឡើង
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]\TU/NotoSansKhmer(0)/m/it/10 ភស្តុតាងរូបវិទ្យាដែលធ្វើឲ្យមានការបង្វិលប្តូរទិសន
+ៃភពផែនដីនេះ
+ []
+
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+[]\TU/NotoSansKhmer(0)/m/it/10 ការសិក្សាមួយអំពីទិន្នន័យវាលម៉ាញេទិកប៉ាឡេអូ ក្នុង
+ការរក្សាទុកផ្លូវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\TU/NotoSansKhmer(0)/m/it/10 ប៉ូលនៃភូមិសាស្ត្រម៉ាញេទិក របស់ទឹកសមុទ្រនិងព្រឹត្តិ
+ការណ៍ប្រែប្រួល
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 328--329
+\TU/NotoSansKhmer(0)/m/it/10 វិលឆ្ពោះទៅជុំវិញចំណុចខាងកើតរបស់ព្រឹត្តិការណ៍ \TU/L
+atinModernRoman(0)/m/n/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 ដែលមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\TU/NotoSansKhmer(0)/m/it/10 នេះត្រូវបានកត់ត្រានៅក្នុងថ្មជាច្រើនដែលជាប្រភេទរ៉ែម
+ានលក្ខណៈ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ាញេទិចដែលថ្មទាំងនោះបានបង្កើតឡើងក្នុងអំឡុងពេលមានក
+ារផ្លាស់ទី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\TU/NotoSansKhmer(0)/m/it/10 ប៉ូលហើយថ្មទាំងនោះបានរក្សាទុកព័ត៌មានអំពីទិសដៅ និងកម
+្រិតភាព
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+[]\TU/NotoSansKhmer(0)/m/it/10 ការសិក្សាអំពីផ្ទាំងថ្មបែកបាក់របស់ស្រទាប់ខាងក្រៅន
+ៃផែនដី\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់នេះសម្បូរទៅដោយថ្មរឹង និងជាផ្នែកខាងលើបំផុតនៃ
+ផែនដី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ប្តូររូបរាងដោយមានលំនាំដូចៗគ្នា។លោកហ្វីលិក\TU/Latin
+ModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 មីនេហ្សី\TU/LatinModernRoma
+n(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ជាអ្នករូបវិទ្យា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 ភូមិសាស្ត្រជនជាតិហូឡង់ បានពន្យល់នៅក្នុងអត្ថបទស្រាវ
+ជ្រាវរបស់
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 330--331
+\TU/NotoSansKhmer(0)/m/it/10 គាត់\TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSa
+nsKhmer(0)/m/it/10 ថាមូលហេតុដែលមានសក្ដានុពលខ្លាំងបំផុតនៃលំនាំនេះគឺការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]\TU/NotoSansKhmer(0)/m/it/10 ទីតាំងនៃតំបន់វាលខ្សាច់ធំៗរបស់ពិភពលោក និងតំបន់ជីវ
+សាស្ត្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ចម្រុះផ្សេងៗជាច្រើន ក៏មានលំនាំដូចគ្នាផងដែរ។ តំបន់រ
+វាលខ្សាច់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ដែលស្ថិតនៅក្នុងទីតាំងដែលគេរំពឹងថាមានទឹកជំនន់ខ្លាំង
+ក្លារួមជាមួយ
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 សំណល់ដីថ្មចំណែកឯតំបន់សំខាន់របស់ជីវសាស្ត្រចម្រុះ វិ
+ញ ស្ថិតនៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSansKhmer(0)/m/it/10 ក្នុងតំបន់ដែលមិនបានរងឥទ្ធិពលខ្លាំងពីការឡើងនៃទឹកសមុ
+ទ្រទេ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។
+ []
+
+File: dzhani.jpg Graphic file (type bmp)
+<dzhani.jpg>
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]\TU/NotoSansKhmer(0)/m/it/10 ភាពស្របគ្នាខាងលើជាមួយនឹងការព្យាករពីផ្លូវបង្វិល\T
+U/LatinModernRoman(0)/m/n/10 ​ECDO \TU/NotoSansKhmer(0)/m/it/10 ក៏ត្រូវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 បានរកឃើញនៅក្នុងសំណល់បុរាណផ្សេងៗ ដែលបានរក្សាទុកនៅក្
+នុង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 ហើយថ្មដែលត្រូវបានរំិកិលដោយផ្ទាំងទឹកកកកាលពីយូរលង់ណា
+ស់មក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 ហើយបានត្រូវទំលាក់ចោលនៅកន្លែងថ្មីមួយ\TU/LatinModern
+Roman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទីតាំងដែលថ្មត្រូវបានទម្លាក់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 ចោលនោះជាតំបន់ដែលមានថ្មផ្សេងៗជាច្រើន ដូច្នេះថ្មដែលប
+ានរំកិល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 ដោយទឹកកកវាមើលទៅខុសពីថ្មឯទៀត។នៅក្នុងប្រទេសអង់គ្លេស\
+TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ថ្មដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 រំកិលដោយទឹកកកត្រូវបានរកឃើញស្របតាមទិសដៅរំពឹងទុកនៃកា
+រហូរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\TU/NotoSansKhmer(0)/m/it/10 របស់ទឹកកក\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoS
+ansKhmer(0)/m/it/10 ដែលការហូរនេះកើតដោយសារតែផែនដីត្រូវប្តូរទិសដែន
+ []
+
+
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+[]\TU/NotoSansKhmer(0)/m/it/10 គោលការណ៍ដែលនៅក្រោយការប្រែប្រួលយ៉ាងឆាប់រហ័សនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សបង្វិលរបស់ផែនដីគឺផ្អែកលើរូបវិទ្យានៃការបង្វិលរ
+បស់អង្គធាតុ។
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 ឧទាហរណ៍ជាក់ស្តែងដែលតំណាងឱ្យរឿងនេះគឺ \TU/LatinModer
+nRoman(0)/m/n/10 «\TU/NotoSansKhmer(0)/m/it/10 ឥទ្ធិពលនៃការបង្វិល
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 របស់អង្គធាតុ\TU/LatinModernRoman(0)/m/n/10 » \TU/N
+otoSansKhmer(0)/m/it/10 ដែលត្រូវបានរកឃើញដោយអវកាសយានិករុស្ស៊ីឈ្មោះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 ណាមួយដែលមិនអាចបង្វិលបានល្អក្នុងចំណោមអ័ក្សសំខាន់ \T
+U/LatinModernRoman(0)/m/n/10 3 \TU/NotoSansKhmer(0)/m/it/10 នៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 សន្ទុះធ្ងន់នោះវានឹងមិនអាចរក្សាលំនឹងអ័ក្សបង្វិលឲ្យន
+ៅថេរបានឡើយ។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 បើអ័ក្សមួយវិលជិតអ័ក្សសំខាន់ទីពីរ វានឹងប្រឈមនឹងការផ
+្លាស់ប្តូរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 ក្នុងអំឡុងពេលផែនដីប្តូរទិសបង្វិលភ្លាមៗក៏ដោយ ចំណុចស
+ំខាន់គឺថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 ប្រសិនបើគ្មានកម្លាំងបង្ខំពីខាងក្រៅទេនោះអ្វីដែលអាចព
+ន្យល់ពីការផ្លាស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\TU/NotoSansKhmer(0)/m/it/10 ប្តូរទិសដៅភ្លាមៗដែលផែនដីវិល\TU/LatinModernRoman(0)
+/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 នោះគឺមកពីមានច្បាប់រូបវិទ្យានៃការរង្វិល
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 5147) in paragraph at lines 349--350
+[]\TU/NotoSansKhmer(0)/m/it/10 ជាក់ស្តែងទៅ ផែនដីប្រហែលជាមិនបានជួបប្រទះនឹងឥទ្ធិព
+លនៃការ
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 បង្វិលរបស់អង្គធាតុ ដែលមានភាពសាមញ្ញនិងស្មើគ្នាទេ។ ប
+ើរឿងនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 ជារឿងពិត ពួកយើងប្រហែលជាអាចចាប់បាននូវការផ្លាស់ប្តូរ
+ការរង្វិល
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 របស់ផែនដីជាបន្តបន្ទាប់ក្នុងរយៈពេលកន្លងមកហើយ។ផ្ទុយទ
+ៅវិញ ពួក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 ៗនៅរចនាសម្ព័នរូបវិទ្យារបស់វា\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលស្ថានភាពនេះនាំឲ្យឈានទៅដល់
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 ការផ្ដាច់ចេញពីគ្នារវាងផ្នែកបង្វិលខាងក្រៅ និង ផ្នែក
+បង្វិលខាងក្នុងនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 ខាងក្នុង ផែនដីមិនបង្វិលរួមដូចមុនទៀតទេ។ច្បាប់អំពីកា
+ររក្សាលំនឹង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 បានបញ្ជាក់ថា\TU/LatinModernRoman(0)/m/n/10 ​\TU/No
+toSansKhmer(0)/m/it/10 បើគ្មានឥទ្ធិពលពីខាងក្រៅផែនដី\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 ផែនដីមិនអាចផ្លាស់ប្តូរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សបង្វិលរបស់ខ្លួនដោយភ្លាមៗបានទេ\TU/LatinModernR
+oman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដូច្នេះការបែកចេញពីគ្នារវាងផ្នែក
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 349--350
+\TU/NotoSansKhmer(0)/m/it/10 បង្វិលខាងក្រៅ និងផ្នែកបង្វិលខាងក្នុងរបស់ផែនដី គឺជា
+ហេតុផលមួយ
+ []
+
+[9]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+[]\TU/NotoSansKhmer(0)/m/it/10 ដំណើរការពិសេសដែលជួយជំរុញឲ្យកើតមានការរំខានផ្នែកខា
+ងក្នុង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 នៃផែនដីត្រូវគេជឿថាជាការផ្លាស់ប្តូរស្ថានភាពក្នុងរចន
+ាសម្ព័ន្ធធាតុដែក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ដែលជាស្នូលផែនដី \TU/LatinModernRoman(0)/m/n/10 (\T
+U/NotoSansKhmer(0)/m/it/10 រូបទី []\TU/LatinModernRoman(0)/m/n/10 11[])\TU/Noto
+SansKhmer(0)/m/it/10 ។ ស្នូលខាងក្នុងរបស់ផែនដីមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 សមាសភាពជាដែកថែបដែលមានរូបរាងជាដុំដែកបិទជិតមានមុំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ប្រាំមួយ\TU/LatinModernRoman(0)/m/n/10 [[]]\TU/Not
+oSansKhmer(0)/m/it/10 ។ នៅពេលស្នូលដែកត្រូវបម្លែងទៅជាលោហៈធាតុរាវ\TU/LatinModernR
+oman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 វា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 បានបញ្ជេញថាមពលស្រូបទាញ\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយត្រូវបានជ្រាបចូលទៅក្នងស្រទាប់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ទីពីរដែលជាស្រទាប់បន្ទាប់ពីស្នូលផែនដី។ ការផ្លាស់ប្ត
+ូរស្ថានភាពនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ធ្វើឲ្យកាត់បន្ថយសមត្ថភាពស្នូលរបស់អេឡិចត្រូម៉ាញ៉េទិ
+ក នាំឲ្យដែន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ាញ៉េទិករបស់ផែនដីមានកម្លាំងខ្សោយ រួចវាក៍បញ្ចេញកម្
+តៅ បង្កើត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 ឲ្យមានរចនាសម្ព័ន្ធកម្លាំងរមៀលយឺតបន្តគ្នានៅតំបន់ធំម
+ួយ\TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 រូបទី []\TU/Lati
+nModernRoman(0)/m/n/10 12[])
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 351--352
+\TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSansKhmer(0)/m/it/10 នៅក្នុងស្រទាប់
+មេនថល ហើយចលនានេះបានដុតកម្តៅផ្ទៃផែនដី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\TU/NotoSansKhmer(0)/m/it/10 តាមរយៈបាតសមុទ្រ។និន្នាការទាំងពីរនេះត្រូវបានកត់ត្រា
+ដោយលម្អិត
+ []
+
+File: layers.jpg Graphic file (type bmp)
+<layers.jpg>
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+File: llvp.jpg Graphic file (type bmp)
+<llvp.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+[]\TU/NotoSansKhmer(0)/m/it/10 ដំណើរការដូចគ្នានេះនៅផ្នែកខាងក្នុងនៃផែនដីបានកើតឡើ
+ង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+\TU/NotoSansKhmer(0)/m/it/10 ទៅវិញទៅមក ហើយវាក៏ត្រូវបានគេជឿដែរថានេះជាមូលហេតុនាំឲ
+្យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+\TU/NotoSansKhmer(0)/m/it/10 ផែនដីវិលត្រឡប់ទៅស្ថានភាពបច្ចុប្បន្នវិញក្នុងរយៈពេលម
+ិនយូរបន្ទាប់ពី
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 375--375
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 ភស្ដុតាងដែលអាចឲ
+្យដឹងថាការប្ដូរទិសប៉ូលនៃផែនដី
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+[]\TU/NotoSansKhmer(0)/m/it/10 មានហេតុផលមូលដ្ឋានសំខាន់ដែលធ្វើឲ្យយើងជឿថា ឥឡូវនេះ
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 យើងកំពុងនៅជិតចំណុចនៃការប្ដូរទិសប៉ូលនៃផែនដីម្តងទៀត។
+\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 អស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 រយៈពេលពីរបីពាន់ឆ្នាំមកហើយដែលគ្រោះមហន្តរាយទឹកជំនន់ម
+ិនបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 តែងតែកើតឡើងរាល់ពីរបីពាន់ឆ្នាំម្តង។ទិន្នន័យមានសារសំ
+ខាន់បំផុត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 ដែលគាំទ្រថាមាននឹងមានការប្ដូរទិសប៉ូលនៃផែនដីជិតកើតឡើ
+ង គឺ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 ផ្អែកលើទិន្នន័យម៉ាញេទិចភូមិសាស្ត្របច្ចុប្បន្ន\TU/L
+atinModernRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដែលទិន្នន័យនេះចង្អុរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថា\TU/LatinModernRoman(0)/m/n/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 ដែនម៉ាញេទិចភូមិសាស្ត្ររបស់ផែនដីកាន់តែចុះខ្សោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 ក្នុងរយៈពេលប្រហែល\TU/LatinModernRoman(0)/m/n/10 2,
+000\TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំចុងក្រោយនេះ។ការចុះខ្សោយនេះ
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 377--378
+\TU/NotoSansKhmer(0)/m/it/10 បានកើនល្បឿនឡើងវិញយ៉ាងឆាប់រហ័ស ហើយបានឈានដល់ចំណុច
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 4739) has occurred while \output is active []
+
+ [10]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+[]\TU/NotoSansKhmer(0)/m/it/10 រូបភាពបានបង្ហាញក្នុងរូបទី[]\TU/LatinModernRoman(
+0)/m/n/10 13[] \TU/NotoSansKhmer(0)/m/it/10 គឺជាដែនម៉ាញ៉េទិកនៃផែនដីក្នុងឆ្នាំ\T
+U/LatinModernRoman(0)/m/n/10 ​
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+[]\TU/NotoSansKhmer(0)/m/it/10 វីធីវាស់វែងមួយទៀតសម្រាប់ដែនម៉ាញេទិចភូមិសាស្ត្រដែ
+លកំពុងចុះ
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 382--383
+\TU/NotoSansKhmer(0)/m/it/10 ខ្សោយ គឺមើលលើទីតាំងនៃដែនម៉ាញេទិកភូមិសាស្ត្រនៅប៉ូលខ
+ាងជើង។
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 382--383
+\TU/LatinModernRoman(0)/m/n/10 (Figure []14[]). \TU/NotoSansKhmer(0)/m/it/10 ដែ
+នម៉ាញេទិកភូមិសាស្ត្រនៅប៉ូលខាងជើងមានប្រវត្តិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+\TU/NotoSansKhmer(0)/m/it/10 ស្ថិតនៅតំបន់អាកទិកនៃប្រទេសកាណាដា។ប៉ុន្តែដែនម៉ាញេទិ
+កប៉ូល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+\TU/NotoSansKhmer(0)/m/it/10 ខាងជើងបានចុះខ្សោយយឺតៗក្នុងរយៈពេលប៉ុន្មានសតវត្សចុងក
+្រោយនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+\TU/NotoSansKhmer(0)/m/it/10 ហើយបានកើនល្បឿនយ៉ាងខ្លាំងក្នុងរយៈពេលពីរបីទសវត្សរ៍ចុ
+ងក្រោយ។
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 382--383
+\TU/NotoSansKhmer(0)/m/it/10 បច្ចុប្បន្នវាកំពុងផ្លាស់ទីយ៉ាងលឿនទៅត្រឹមតែប្រទេសរុ
+ស្ស៊ី ដោយល្បឿន
+ []
+
+File: saa.jpg Graphic file (type bmp)
+<saa.jpg>
+File: npw.jpg Graphic file (type bmp)
+<npw.jpg>
+File: ocean-highlight.jpg Graphic file (type bmp)
+<ocean-highlight.jpg>
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+[]\TU/NotoSansKhmer(0)/m/it/10 ដែនម៉ាញេទិករបស់ភពផែនដីត្រូវបានគេជឿថាត្រូវបានបង្ក
+ើតដោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 ថាមពលឌីណាម៉ូពីខាងក្នុង\TU/LatinModernRoman(0)/m/n/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 ថាមពលឌីណាម៉ូកើតពីរង្វិលៗនៃចរន្តម៉ាក្ម៉ា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 ដែលកំពុងផ្លាស់ទីក្នុងស្រទាប់ទីពីរបន្ទាប់ពីស្នូលរបស
+់ផែនដីហើយចលនា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 រង្វិលនេះកើតដោយសារតែការបង្វិលរបស់ផែនដី។\TU/LatinMo
+dernRoman(0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ការចុះខ្សោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 នៃដែនម៉ាញេទិកភូមិសាស្ត្ររបស់ផែនដី គឺជាសញ្ញាមួយបង្ហ
+ាញពីការ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 រំខាននៅក្នុងផ្នែកខាងក្នុងដ៍ជ្រៅនៃផែនដី។ ដោយយោងទៅតា
+មទ្រឹស្តី
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 413--414
+\TU/NotoSansKhmer(0)/m/it/10 រវាងស្រទាប់ស្នូលទីពីរ\TU/LatinModernRoman(0)/m/n/1
+0 ​\TU/NotoSansKhmer(0)/m/it/10 និងស្នូលផែនដី ដែលបណ្ដាលឱ្យផែនដីមានព្រឹត្តិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+[]\TU/NotoSansKhmer(0)/m/it/10 មានទិន្នន័យជាច្រើនបញ្ជាក់ពីសកម្មភាពកម្ដៅនៅខាងក្ន
+ុងផែនដី។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\TU/NotoSansKhmer(0)/m/it/10 ការឡើងកម្តៅនៃផែនដីត្រូវបានដឹងដោយសារការកត់ត្រាអំពីស
+ីតុណ្ហភាព
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\TU/NotoSansKhmer(0)/m/it/10 កាបូនឌីអុកស៊ីតក្នុងបរិយាកាសកំពុងកើនឡើងជាសមស្របជាមួ
+យ
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 415--416
+\TU/NotoSansKhmer(0)/m/it/10 ការកើនឡើងនៃចំហាយកម្ដៅរបស់ផែនដី។ \TU/LatinModernRom
+an(0)/m/n/10 [[], []] \TU/NotoSansKhmer(0)/m/it/10 និងការថយចុះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\TU/NotoSansKhmer(0)/m/it/10 នៃផ្ទៃសមុទ្រទឹកកករបស់ពិភពលោក \TU/LatinModernRoman(
+0)/m/n/10 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ទិន្នន័យបង្ហាញថាកម្រិត
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\TU/LatinModernRoman(0)/m/n/10 CO2 \TU/NotoSansKhmer(0)/m/it/10 និងសីតុណ្ហភាពដែ
+លកើនឡើងមិនមែនជាកត្តាមកពីសកម្មភាព
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\TU/NotoSansKhmer(0)/m/it/10 របស់មនុស្សទេ ប៉ុន្តែវាបណ្តាលយមកពីឥទ្ធិពលនៃស្នូលផែន
+ដីដែល
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 2418) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ប្រហែល\TU/LatinModernRoman(0)/m/n/10 ($\OML/cmm/m/
+it/10 >$\TU/LatinModernRoman(0)/m/n/10 2000 \TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ
+\TU/LatinModernRoman(0)/m/n/10 ) \TU/NotoSansKhmer(0)/m/it/10 បង្ហាញថា មិនត្រឹម
+តែសមុទ្រជ្រៅកំពុងក្ដៅ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ឡើងទេ ថែមទាំងមានអត្រាក្ដៅឡើងខ្លាំងបំផុតនៅស្រទាប់អា
+ប៊ីស៊ិល
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 នៃបាតសមុទ្រដ៍ជ្រៅនេះមានទីតាំងជ្រៅជាង\TU/LatinModer
+nRoman(0)/m/n/10 4,000 \TU/NotoSansKhmer(0)/m/it/10 ម៉ែត្រ \TU/LatinModernRoman
+(0)/m/n/10 [[], []]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ដែលវានឹងមិនអាចទៅរួចទេ ប្រសិនបើសមុទ្រនៅជម្រៅនេះត្រូ
+វឡើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ក្តៅដោយសារបរិយាកាសខាងលើ។ ទិន្នន័យបានបង្ហាញយ៉ាងច្បា
+ស់ថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ការប្រែប្រួលអាកាសធាតុនិងដែនម៉ាញេទិកនៅបច្ចុប្បន្ននេ
+ះត្រូវបានរង
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 ឥទ្ធិពលដោយដំណើរការដែលស្ថិតនៅក្នុងស្នូលនៃផែនដី។ រូប
+ភាព []\TU/LatinModernRoman(0)/m/n/10 15[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+\TU/NotoSansKhmer(0)/m/it/10 បង្ហាញអត្រាឡើងកម្ដៅទឹកសមុទ្រដ៍ជ្រៅរបស់ពិភពលោកពីឆ្ន
+ាំ \TU/LatinModernRoman(0)/m/n/10 1991
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 419--419
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 វិធីសាស្ត្រដែលប
+ង្ហាញថាការប្តូរទិសប៉ូលរបស់ផែនដី
+ []
+
+File: saa-crop.jpeg Graphic file (type bmp)
+<saa-crop.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+\TU/NotoSansKhmer(0)/m/n/9 របស់ផែនដីខ្សោយ អាចឲ្យគេកំណត់កាលបរិច្ចេទថាការប្តូរទិស
+ប៉ូលនៃដែន
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 426--426
+\TU/NotoSansKhmer(0)/m/n/9 ម៉ាញ៉េទិករបស់ផែនដីអាចកើតមាននៅអំឡុងថ្ងៃទី \TU/LatinMo
+dernRoman(0)/m/n/9 13 \TU/NotoSansKhmer(0)/m/n/9 ខែមីនា ឆ្នាំ \TU/LatinModernRo
+man(0)/m/n/9 2059\TU/NotoSansKhmer(0)/m/n/9 ។
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+[]\TU/NotoSansKhmer(0)/m/it/10 ការព្យាករពេលវេលានៃការប្តូរទិសប៉ូលនៃដែនម៉ាញ៉េទិករ
+បស់ផែនដី
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 431--432
+\TU/NotoSansKhmer(0)/m/it/10 លើកក្រោយ គឺជាការងារដែលស្មុគស្មាញ។ បច្ចុប្បន្ន ម៉ូដ
+ែលល្អបំផុត
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 431--432
+\TU/NotoSansKhmer(0)/m/it/10 ដែលយើងមានសម្រាប់ការងារនេះ គឺផ្អែកលើដែនម៉ាញ៉េទិករបស
+់ផែនដី
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 431--432
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានទីតាំងនៅតំបន់ខុសប្រក្រតីនៅអាត្លង់ទិកខាងត្បូង
+។ តំបន់នេះ
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 431--432
+\TU/NotoSansKhmer(0)/m/it/10 ជាងគេ ហើយត្រូវបានកំណត់ថាជាតំបន់ដែលមានកម្លាំងវាលម៉ា
+ញេទិក
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 431--432
+\TU/NotoSansKhmer(0)/m/it/10 ក្រោម \TU/LatinModernRoman(0)/m/n/10 32,000 \TU/No
+toSansKhmer(0)/m/it/10 ណាណូតេស្លា \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoS
+ansKhmer(0)/m/it/10 ដែលជាតម្លៃកម្លាំងខ្សោយបំផុត
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+[]\TU/NotoSansKhmer(0)/m/it/10 ដើម្បីទទួលបានការព្យាករណ៍មួយចំពោះពេលវេលាដែលផែនដីអ
+ាច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+\TU/NotoSansKhmer(0)/m/it/10 កខាងត្បូងជាមួយទ្រឹស្តីថាមពលមួយរបស់ចំណុចបំប្លែងដែលវ
+ិធីសាស្ត្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+\TU/NotoSansKhmer(0)/m/it/10 នេះជាប្រព័ន្ធដ៍ស្មុគស្មាញដែលឆ្ពោះទៅរកការការផ្លាស់ប
+្តូរដោយភាព
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+\TU/NotoSansKhmer(0)/m/it/10 ល្អិតល្អន់បំផុត\TU/LatinModernRoman(0)/m/n/10 ​\TU
+/NotoSansKhmer(0)/m/it/10 ហើយប្រព័ន្ធនេះអាចត្រូវបានឆ្លងកាត់ការផ្លាស់ប្តូរដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+\TU/NotoSansKhmer(0)/m/it/10 លឿននិងភ្លាមៗបំផុត។ការគណនារបស់ខ្ញុំបានផ្តល់នូវកាលបរ
+ិច្ឆេទនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+\TU/NotoSansKhmer(0)/m/it/10 ដែលផែនដីកាន់តែទៅជិតទៅដល់ពេលនៃការផ្លាស់ប្តូរដែនម៉ាញ
+៉េទិកនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+[]\TU/NotoSansKhmer(0)/m/it/10 រង្វាស់ផ្សេងៗទៀតសម្រាប់ទស្សទាយមានដូចជាការប្តូរទិ
+សនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សបង្វិលរបស់ផែនដីអាកាសធាតុខុសប្រក្រតីនិងទិន្នន័
+យពីការរញ្ជួយដី
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 435--436
+\TU/NotoSansKhmer(0)/m/it/10 និងភ្នំភ្លើង ក៏អាចជួយឲ្យការព្យាករណ៍បានកាន់តែសុក្រឹ
+តអំពីពេលវេលា
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 12 Bold/OT
+:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 12 Bold/OT
+:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSansKhmer(0)/b/n/12 បញ្ជីរកាលបរិច្ឆ
+េទដែលព្រឹត្តិការណ៍\TU/LatinModernRoman(0)/b/n/12 ​ECDO​\TU/NotoSansKhmer(0)/b/n
+/12 បាន
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+[]\TU/NotoSansKhmer(0)/m/it/10 ទោះបីជាការកំណត់ពេលវេលាជាក់លាក់សម្រាប់ព្រឹត្តិការ
+ណ៍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងតិច\TU/LatinModernRoman(0)/m/n/10 2\TU/NotoSan
+sKhmer(0)/m/it/10 លើក ក្នុងអំឡុងសម័យដែលជាយុគសម័យថ្មីដែលចាប់ផ្តើម
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 តាំងពីប្រហែល \TU/LatinModernRoman(0)/m/n/10 11,700
+ \TU/NotoSansKhmer(0)/m/it/10 ឆ្នាំមុន គឺបន្ទាប់ពីសម័យទឹកកកចុងក្រោយ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ហើយបន្តរហូតដល់សព្វថ្ងៃ។សូមចំណាំពីការថ្លែងរបស់អ្នកប
+្រវត្តិវិទូ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ហេរូដូទូសដែលធ្លាប់និយាយពីអ្វីដែលអ្នកបួសអេហ្ស៊ីបបាន
+ប្រាប់គាត់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 ចាប់តាំងពីព្រះមហា
+ក្សត្រដំបូងបំផុតរហូតដល់អ្នកបួសនៃហេហ្វីទុស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 លិចពីមុនពីរដង ហើយទីកន្លែងដែលវាធ្លាប់លិចមកពីមុនឥឡូវ
+ក៍វាបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 រះនៅទីនោះពីរដងដែរ\TU/LatinModernRoman(0)/m/n/10 [[
+]]\TU/NotoSansKhmer(0)/m/it/10 ។អ្នកប្រាជ្ញក្រិចឈ្មោះ\TU/LatinModernRoman(0)/m/
+n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ផ្លាតូ\TU/LatinModernRoman(0)/m/n/10 ​\TU/No
+toSansKhmer(0)/m/it/10 និយាយថាបន្ទាប់ពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់ដែលបានលិចទ្វីបអាត្លង់ទិកអស់មួយថ្ងៃមួយយប់ ក
+ាលពី
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ប្រហែល\TU/LatinModernRoman(0)/m/n/10 9,000 \TU/Not
+oSansKhmer(0)/m/it/10 ឆ្នាំមុននេះ។ \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSan
+sKhmer(0)/m/it/10 តាំងពីមានទឹកជំនន់ជាច្រើនលើកច្រើន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 សារកើតឡើងមក អ្នកដែលនៅសល់ដោយរួចផុតពីគ្រោះថ្នាក់ទឹកជ
+ំនន់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ព្រោះតែពួកគេគេចទៅនៅលើភ្នំ ពួកគេមិនបានយកចិត្តទុកដាក
+់លើ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 សិល្បៈនៃការសរសេរទេ ហើយអស់ជាច្រើនជំនាន់ពួកគេបានព្យា
+យាម
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងពេញទំហឹងក្នុងការស្វែងរកមធ្យោបាយសម្រាប់រស់នៅ។\T
+U/LatinModernRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 ដែលនេះបញ្ជាក់ថា មានការប្តូរដែនម៉ាញ៉េទិករបស់ផែនដីច្
+រើនជាងពីរ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 លើក តាំងពីបញ្ចប់សម័យយុគទឹកកក\TU/LatinModernRoman(0
+)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 យ៉ាងហ្គឺទ្រីយ៉ាស់\TU/LatinModernRoman(0)
+/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ប្រហែលឆ្នាំ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\TU/NotoSansKhmer(0)/m/it/10 អត្តបទនេះ និងក្នុងការស្រាវជ្រាវរបស់ខ្ញុំ\TU/LatinM
+odernRoman(0)/m/n/10 [[]] \TU/NotoSansKhmer(0)/m/it/10 បានផ្ដល់ភស្តុតាងច្រើន
+ []
+
+[12]
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+[]\TU/NotoSansKhmer(0)/m/it/10 កាលបរិច្ឆេទមួយចុងក្រោយបំផុតសម្រាប់ព្រឹត្តិការណ៍ 
+\TU/LatinModernRoman(0)/m/n/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 គឺ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+\TU/NotoSansKhmer(0)/m/it/10 នៃព្រឹត្តិការណ៍សំខាន់ទាំងនោះដូចជា\TU/LatinModernRo
+man(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់ធំៗ \TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSansKhmer(0)/m/it/10 ទឹកជំនន់ឈ្មោះ
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 441--442
+\TU/NotoSansKhmer(0)/m/it/10 ហ្គុនយូ \TU/LatinModernRoman(0)/m/n/10 [[], [], []
+], \TU/NotoSansKhmer(0)/m/it/10 អូជីហ្គេស \TU/LatinModernRoman(0)/m/n/10 [[], [
+]], \TU/NotoSansKhmer(0)/m/it/10 ប៉េរូ \TU/LatinModernRoman(0)/m/n/10 [[], []],
+ \TU/NotoSansKhmer(0)/m/it/10 អ៊ិ
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 441--442
+\TU/NotoSansKhmer(0)/m/it/10 ចស្សូដឺស \TU/LatinModernRoman(0)/m/n/10 [[]]) \TU/
+NotoSansKhmer(0)/m/it/10 ព្រឹត្តិការណ៍នៃការបំផ្លាញ និងការបោះបង់ចោលនៃ
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 441--442
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងនោះមក យើងមិនឃើញថាមានភស្តុតាងច្បាស់លាស់អំពីវិនា
+សកម្ម
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+[]\TU/NotoSansKhmer(0)/m/it/10 ប្រតិបត្តិការណ៍ណានូកគឺជាប្រតិបត្តិការស៊ើបការណ៍រប
+ស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 សហរដ្ឋអាមេរិកក្នុងសម័យសង្គ្រាមត្រជាក់ ដើម្បីកំណត់ផ
+ែនទីរបស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 តំបន់អាក់តិក និងឆ្នេរភាគខាងជើងរបស់សហភាពសូវៀត បន្ទា
+ប់ពី
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 សង្គ្រាមលោកលើកទីពីរ។ \TU/LatinModernRoman(0)/m/n/1
+0 [[]]\TU/NotoSansKhmer(0)/m/it/10 ។ ក្នុងអំឡុងពេលស៊ើបអង្កេត ពួកគេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 បានរកឃើញថា ប៉ូលម៉ាញេទិចស្ថិតនៅភាគខាងជើងឆ្ងាយជាងទីត
+ាំង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 នេះ នាយកគម្រោងគ្រប់គ្រងដោយលោកបណ្ឌិត\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ផូល\TU/LatinModernRoman(0)/m/it/
+10 ​\TU/NotoSansKhmer(0)/m/it/10 អេ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSan
+sKhmer(0)/m/it/10 របស់ក្រុមហ៊ុន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 សហប្រតិបត្តិការ\TU/LatinModernRoman(0)/m/it/10 ​\T
+U/NotoSansKhmer(0)/m/it/10 រេនដ៍បានចុះកិច្ចសន្យាដើម្បីធ្វើការសិក្សាស្រាវជ្រាវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 ដោយប្រើប្រាស់គម្រូនៃផែនដីដែលបង្កើតពីស្រទាប់ស្របជុំ
+គ្នា វាមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 ស្រទាប់ខាងក្នុងតំណាងឲ្យស្នូលដែករាវដែលមានផ្ទុកអគ្គិ
+សនីនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 ម៉ាញេទិច\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+ansKhmer(0)/m/it/10 ស្នូលដែករាវដែលមានផ្ទុកអគ្គិសនីនិងម៉ាញេទិចរបស់ផែនដី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 ដែលអ័ក្សរបស់វាបង្កើតប៉ូលម៉ាញេទិក។តាមរយៈការធ្វើតេស្
+តឡើងវិញ
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 បានបង្ហាញថា ប៉ូលម៉ាញេទិក នៅពេលដែលវាឈានទៅជិតប៉ូលភូម
+ិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 បានលឿនជាងមុន ដូចជាត្រូវបានទាញទៅរកប៉ូលភូមិសាស្រ្តដោ
+យ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 កម្លាំងសេន្ដ្រីប៊ូតាល់ហើយចាប់ផ្តើមលោតរួមជាមួយប៉ូលភ
+ូមិសាស្រ្ត។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 គេឃើញថា\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoSa
+nsKhmer(0)/m/it/10 បង្វិលផ្ទុយ\TU/LatinModernRoman(0)/m/it/10 ”\TU/NotoSansKhme
+r(0)/m/it/10 យ៉ាងឆាប់រហ័សនៅជុំវិញប៉ូល\TU/LatinModernRoman(0)/m/it/10 “\TU/NotoS
+ansKhmer(0)/m/it/10 ភូមិសាស្ត្រ\TU/LatinModernRoman(0)/m/it/10 ”
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 បន្ទាប់មកវាបានបង្វិលចេញទៅទិសខ្សែអេក្វាទ័រជាមួយនឹងក
+ម្លាំងប៉ះ
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សទាំងពីរនោះមានភាពខុសគ្នាប្រហាក់ប្រហែល \TU/Lati
+nModernRoman(0)/m/it/10 89 \TU/NotoSansKhmer(0)/m/it/10 ដឺក្រេ។បន្ទាប់ពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+\TU/NotoSansKhmer(0)/m/it/10 មានការផ្លាស់ប្តូរដែនម៉ាញ៉េទិករបស់ប៉ូល\TU/LatinMode
+rnRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 អ័ក្សនឹងចាប់ផ្តើមបង្វិលត្រឡប់
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+\TU/NotoSansKhmer(0)/m/it/10 សមស្របក្នុងការប្រាប់សាធារណជនអំពីព្រឹត្តិការណ៍ប្តូរ
+ដែនម៉ាញ៉េទិក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+\TU/NotoSansKhmer(0)/m/it/10 ដែរអំពីរបៀបបង្ហាញពត៌មាននេះទៅកាន់សាធារណជន។ ចំណេះដឹង
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+\TU/NotoSansKhmer(0)/m/it/10 សរសៃឈាមរបស់សង្គមដូចជាសីលធម៌និងគុណធម៌។ ការភ័យខ្លាច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+\TU/NotoSansKhmer(0)/m/it/10 ពត៌មានអំពីផែនដីប្តូរប៉ូលម៉ាញ៉េទិកបានបង្ហោះក្នុងកាស
+ែតនិងទស្សនាវដ្តី
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 448--449
+\TU/NotoSansKhmer(0)/m/it/10 មួយ ហើយក៍គ្មានការឆ្លើយតបពីសាធារណជនក្នុងរបៀបណាមួយគួ
+រឲ្យ
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 4752) in paragraph at lines 450--451
+[]\TU/NotoSansKhmer(0)/m/it/10 ហេតុអ្វីបានជា\TU/LatinModernRoman(0)/m/n/10 ​\TU
+/NotoSansKhmer(0)/m/it/10 យើងមិនយកចិត្តទុកដាក់អំពីរឿងនេះ\TU/LatinModernRoman(0)
+/m/n/10 ? \TU/NotoSansKhmer(0)/m/it/10 មានហេតុ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 ផលច្រើនគ្រប់គ្រាន់អោយយើងជឿថាភពផែនដីធ្លាប់ប្តូរប៉ូល
+ម៉ាញ៉េទិកពិ
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 តមែន។ អត្តបទនេះរួមទាំងផ្នែកទីពីររបស់វា ផ្ដល់សង្ខេប
+ខ្លីនៃភស្តុតាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 ពីភស្តុតាងជាច្រើនដែលបង្ហាញថាវាជាបញ្ហា\TU/LatinMode
+rnRoman(0)/m/n/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដូចជារឿងទឹកជំនន់ជុំវិញ
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 អាចជាករណីដែល ពេលខ្លះៗ ពិភពលោកបានប្តូរប៉ូលម៉ាញ៉េទិក
+ ឬ\TU/LatinModernRoman(0)/m/n/10 ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 វិញ ដូចជាសម័យថ្ម ហើយធ្វើឲ្យកំណត់ត្រាបុរាណសំបូរតែរឿ
+ងរ៉ាវ
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយធម្មជាតិ\TU/LatinModernRoman(0)/m/n/1
+0 ?\TU/NotoSansKhmer(0)/m/it/10 ប្រសិនបើដូច្នេះ ការការពារមិនអោយវិបត្តិនេះ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើងម្ដងទៀតក៏អាចជាកិច្ចការសំខាន់បំផុតរបស់មនុស្សជ
+ាតិផង
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+[]\TU/NotoSansKhmer(0)/m/it/10 ជាចុងក្រោយ ខ្ញុំនឹងទុកឲ្យអ្នកអានអំពីរឿងមួយក្នុងស
+ៀវភៅទីមូស
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដែលប្លាតុងបានសរសេរពីការសន្ទនារវាងលោកមន្រ្តីសូឡូន ន
+ិងអ្នកបួស
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 អេហ្ស៊ីប \TU/LatinModernRoman(0)/m/n/10 [[]]: \TU/
+LatinModernRoman(0)/m/it/10 "\TU/NotoSansKhmer(0)/m/it/10 ហើយក្នុងឱកាសមួយ ពេលលោ
+កសូឡុនប្រាថ្នាចង់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 និយាយអំពីទំនៀមទម្លាប់បុរាណបំផុតរបស់ពួកយើង ដែលទាក់ទ
+ងនឹង
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ផូរណេអ៊ុស និងនិយោប៊ី ដែលត្រូវបាននិយាយថាជាបុរសដំបូង
+បង្អស់
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 452--454
+\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយគាត់បន្តនិយាយអ
+ំពីរឿងព្រេងនៃឌឺខាលីអុន និង ភៀរ៉ាបន្ទាប់ពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ពីវាហើយ\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoSa
+nsKhmer(0)/m/it/10 ដោយការរាប់ចំនួនឆ្នាំដែលព្រឹត្តិការណ៍នានាបានកើតឡើង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 គាត់បានព្យាយាមគណនាឱ្យបានច្បាស់អំពីរយៈពេលនៃកាលៈទេសៈ
+នី
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 មួយៗអាចនឹងកើតមានម្តងទៀត។ នៅពេលមួយមានអ្នកបួសដែលមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ជនជាតិចំណាស់បំផុតនោះទេ ហើយក៍គ្មានអ្វីដែលហៅថាក្រិកដ
+ែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 មានអាយុកាលដ៍យូរលង់ណាស់មកហើយដែរ។\TU/LatinModernRoma
+n(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ពេលលឺបែបននេះ គេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 មានដួងព្រលឹងដែលនៅក្មេង ព្រោះនៅទីនេះអ្នកមិនបានអានសិ
+ល្បៈ
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ណាដែលចាស់ៗមកពីប្រវត្តិសាស្ត្រចាស់ៗទេ អ្នកក៏មិនមានវ
+ិទ្យាសាស្ត្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដែលមានវ័យចំណាស់ផងដែរ។ នេះជាមូលហេតុដែលនៅតែមានការ
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដោយរបៀបផ្សេងៗគ្នា។ រឿងពិតដែលនិយាយនៅក្នុងប្រទេសអ្នក
+របស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 រទេះសេះបានល្អដូចឪពុករបស់គេទេ ហេតុនេះគេបានធ្វើឲ្យឆេ
+ះផែនដី
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងមូលដោយអចេតនា ហើយចុងក្រោយគេក៏បានរងគ្រោះស្លាប់ដោ
+យ
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 រន្ទះបាញ់ រឿងនេះជារឿងនិទាន ប៉ុន្តែផ្អែកលើផ្លាស់ប្ត
+ូរទីតាំងនៃផ្ទៃមេឃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដែលត្រូវធ្វើឲ្យផែនដីក្រឡាបចាក់\TU/LatinModernRoman
+(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហើយបំផ្លាញគ្រប់យ៉ាងនៅលើផែនដី
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដោយភ្លើងដ៍សណ្ធោសន្ធៅ។ ដោយហេតុនេះអ្នករស់នៅលើភ្នំនិង
+កន្លែង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ខ្ពស់ហើយស្ងួតនឹងប្រឈមនឹងការបាត់បង់ជីវិតជាងអ្នកស្ថិ
+តនៅជិតទន្លេ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ឬសមុទ្រ។ ចំពោះករណីរបស់យើងជាអ្នកទន្លេនីល\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ការអាចគេចផុតពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះមហន្តរាយទឹកជំនន់គឺការរស់នៅកន្លែងខ្ពស់ៗ។ ហើយនៅ
+ពេល
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដែលក្រុមតំណាងព្រះមកសម្អាតផែនដីចេញដោយទឹកភ្លៀង អ្នកគ
+ង្វាល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ចៀមទាំងឡាយដែលនៅលើភ្នំត្រូវបានរួចពីស្លាប់\TU/LatinM
+odernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ប៉ុន្តែអ្នកនៅក្នុងទីក្រុង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 នានានៃដែនដីរបស់អ្នក ត្រូវបានទឹកគួចចូលទៅក្នុងសមុទ្រ
+ដោយស្ទឹង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 មកពន្លិចដីដូច្នេះទេទាំងពេលនោះនិងពេលណាផ្សេងទៀត ផ្ទុ
+យទៅវិញ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកតែងតែជ្រៀបពីក្រោមដីមកវិញដោយធម្មជាតិ។\TU/LatinMo
+dernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ហេតុនេះហើយអ្វីៗ
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 រស់នៅបានទេ តែនៅតែមានពូជមនុស្សមួយស្ថិតនៅទីនោះជានិច្
+ចមិនថា
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ប្រទេសរបស់អ្នក ប្រទេសរបស់ពួកយើង ឬនៅកន្លែងផ្សេងទៀតដ
+ែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ពួកយើងបានដឹងតាមរបាយការណ៍ក៏ដោយ ព្រឹត្តិការណ៍ទាំងអស់
+នោះ
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវបានកត់ត្រាចាប់តាំងពីបុរាណ និងរក្សាទុកនៅក្នុងប
+្រាសាទរបស់ពួក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 បង្កើតនៅអក្សរ និងសិល្បៈនានាដែលចាប់ផ្តើមបង្កើតជាសង្
+គមមនុស្ស
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 បែបទំនើប\TU/LatinModernRoman(0)/m/it/10 ​\TU/NotoS
+ansKhmer(0)/m/it/10 ហើយពេលដែលកន្លងហួសទៅមួយរយៈពេល នោះក៍មាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 គ្រោះអាក្រក់ដូចជាជំងឺរាតត្បាតកើតឡើង\TU/LatinModern
+Roman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ពេលទឹកជំនន់មកពីលើមេឃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ហូរចុះមកលើប្រជាជនរបស់អ្នកម្តងទៀត វាបានបំផ្លាញអ្នកទ
+ាំងអស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ត្រូវក្លាយជាមនុស្សថ្មីឡើងវិញជារឿយៗ ដោយគ្មានចំណេះដឹ
+ងអំពីអ្វីៗ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ដែលបានកើតឡើងនៅក្នុងប្រទេសនេះ ឬប្រទេសរបស់អ្នកក្នុងស
+ម័យ
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 និយាយកន្លងមកអំពីប្រជាជនក្នុងប្រទេសរបស់អ្នក វាមានតម
+្លៃតិចជាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកធំនោះបានកើតមានមកហើយជាច្រើនដងកាលពីមុនមក\TU/Latin
+ModernRoman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 បន្ទាប់មក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 អ្នកក៏មិនដឹងថាជនជាតិដែលមានគុណធម៌ខ្ពង់ខ្ពស់បំផុត និ
+ងមាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ភាពល្អឥតខ្ចោះបំផុតក្នុងចំណោមមនុស្ស បានកើតនៅលើដីដែល
+អ្នក
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 កំពុងរស់នៅទេ\TU/LatinModernRoman(0)/m/it/10 ​\TU/N
+otoSansKhmer(0)/m/it/10 ឥឡូវនេះអ្នកផ្ទាល់ព្រមទាំងទីក្រុងទាំងមូលរបស់អ្នកដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ពីគ្រាប់ពូជតូចមួយដែលនៅសល់។ ប៉ុន្តែអ្នកមិនបានសង្កេត
+ឃើញអំពី
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 រឿងនេះទេ ពីព្រោះជាច្រើនជំនាន់ អ្នកដែលនៅសល់ពីការស្ល
+ាប់ពីមុន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+\TU/NotoSansKhmer(0)/m/it/10 ពួកគេបានស្លាប់អស់ ដោយពួកគេមិនមានសមត្ថភាពក្នុងការរៀ
+បរាប់ពី
+ []
+
+
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+[]\TU/NotoSansKhmer(0)/m/it/10 ជាការពិតមែនសូឡុន\TU/LatinModernRoman(0)/m/it/10 
+​\TU/NotoSansKhmer(0)/m/it/10 នៅមុនពេលការបំផ្លាញដ៏ធំបំផុតដោយទឹកបាន
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\TU/NotoSansKhmer(0)/m/it/10 កើតឡើង រដ្ឋអាថែនកាលពីមុនធ្លាប់ជារដ្ឋដ៏ក្លាហានបំផុត
+ក្នុងសង្គ្រាម
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\TU/NotoSansKhmer(0)/m/it/10 ហើយមានរចនាសម្ព័ន្ធល្អបំផុតគ្រប់វិស័យផងដែរ។ គេបាននិ
+យាយថា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\TU/NotoSansKhmer(0)/m/it/10 រដ្ឋនេះបានកាន់កាប់ស្នាដៃសិល្បៈដ៏អស្ចារ្យបំផុត និងប
+្រព័ន្ធគ្រប់គ្រង
+ []
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 10 Italic/
+OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+[]\TU/NotoSansKhmer(0)/m/it/10 អ្នកបួសដដែលនេះបានប្រាប់សូឡូនអំពីអធិរាជ្យបុរាណរបស
+់អាត្លង់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ទិកផងដែរ៖ \TU/LatinModernRoman(0)/m/it/10 "\TU/Not
+oSansKhmer(0)/m/it/10 មកដល់ពេល កន្លែងដែលពួកយើងកំពុងនិយាយអំពី
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 គឺវាស្រដៀងទៅនឹងឈូងសមុទ្រ វាជាអាងទឹកតូចមួយដែលមានផ្ល
+ូវ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ទឹកចូលតូច តែមិនមែនជាសមុទ្រពិតទេ។ ប៉ុន្តែកន្លែងដែលឆ
+្ងាយ
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 មួយទៀត វាជាសមុទ្រពិតប្រាកដ វាធំទូលាយនិងអស្ចារ្យហើយ
+ដីដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ព័ទ្ធជុំវិញសមុទ្រនោះធំណាស់\TU/LatinModernRoman(0)/
+m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 បើយោងតាមអត្ថន័យពេញលេញនិង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ពិតប្រាកដ\TU/LatinModernRoman(0)/m/it/10 ​\TU/Noto
+SansKhmer(0)/m/it/10 វាសមស្របណាស់ក្នុងការហៅថាជាទ្វីប។ឥឡូវនេះ នៅលើ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ទ្វីបអាត្លង់ទិកមានសហព័ន្ធរបស់ព្រះមហាក្សត្រ ដែលមានអ
+ំណាច
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 អស្ចារ្យនិងអស្ចារ្យយ៉ាងខ្លាំង ដែលមន្ត្រីរដ្ឋធំៗនីម
+ួយៗត្រូវបានគ្រប់គ្រង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 កោះទាំងមូល ហើយក៏គ្រប់គ្រងទឹកដីជាច្រើនផ្សេងទៀតផងដែរ
+រួមទាំង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ផ្នែកខ្លះនៃទ្វីបផងដែរ បន្ថែមពីនេះទៀតតាមរយៈផ្លូវភ្ជ
+ាប់រវាងសមុទ្រ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ពួកគេក៏បានគ្រប់គ្រងលើប្រទេសលីប៊ីយ៉ាហូតដល់អេហ្ស៊ីប 
+និងលើ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ទ្វីបអឺរ៉ុបរហូតដល់ទីរូយ៉ានៀផងដែរ។\TU/LatinModernRo
+man(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដូច្នេះកងទ័ពនេះបានរួមបញ្ចូលគ្នា
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ទាំងអស់ បានព្យាយាមវាយតែម្តងឲ្យឈ្នះ\TU/LatinModernR
+oman(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដើម្បីដាក់ឲ្យប្រទេសរបស់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 អ្នក និងប្រទេសរបស់ពួកយើង និងដែនដីទាំងមូលនៅខាងក្រោម
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ការគ្រប់គ្រងរបស់ខ្លួន។\TU/LatinModernRoman(0)/m/it
+/10 ​\TU/NotoSansKhmer(0)/m/it/10 សូឡូនហើយនៅពេលនោះហើយ\TU/LatinModernRoman(0)/m/
+it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ជាពេលដែល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 សភាពជាអ្នកក្លាហាន និងអំណាចរបស់រដ្ឋអ្នក បានបង្ហាញខ្
+លួនយ៉ាង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ឆ្នើមចំពោះពិភពលោកទាំងមូល។\TU/LatinModernRoman(0)/m
+/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 ដោយសារតែរដ្ឋរបស់អ្នកបានលេចធ្លោ
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 លើសគេដោយសារសេចក្តីក្លាហាន និងសិល្បៈសង្គ្រាមទាំងអស់
+ ពេល
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ខ្លះក៍បានដើរតួជាអ្នកដឹកនាំរបស់ក្រិកទាំងមូល និងពេលខ
+្លះក៏បានឈរ
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 តែម្នាក់ឯង\TU/LatinModernRoman(0)/m/it/10 ​\TU/Not
+oSansKhmer(0)/m/it/10 ព្រោះតែបានបង្ក្រាបកងទ័ពដទៃអស់។ បន្ទាប់ពីពេលប៉ះពាល់
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+\TU/NotoSansKhmer(0)/m/it/10 ពួកគេបានជួយសង្គ្រោះអ្នកដែលជាទាសករ\TU/LatinModernRo
+man(0)/m/it/10 ​\TU/NotoSansKhmer(0)/m/it/10 អ្នកដែលរស់នៅក្នុងព្រំដែន
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 461--462
+[]\TU/NotoSansKhmer(0)/m/it/10 ខ្ញុំសូមអរគុណលោក \TU/LatinModernRoman(0)/m/n/10 
+Ethical Skeptic \TU/NotoSansKhmer(0)/m/it/10 ដែលជាអ្នកនិពន្ធដើមនៃ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\TU/NotoSansKhmer(0)/m/it/10 សន្និដ្ឋានលើព្រឹត្តិការណ៍\TU/LatinModernRoman(0)/m
+/n/10 ECDO \TU/NotoSansKhmer(0)/m/it/10 ដែលបានសរសេរបញ្ជប់នូវទ្រឹស្តីថ្មី
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 461--462
+\TU/NotoSansKhmer(0)/m/it/10 ដែលពោរពេញដោយអត្ថន័យ និងធ្វើការចែករំលែកទូទាំងពិភពលោ
+ក។
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\TU/NotoSansKhmer(0)/m/it/10 ទ្រឹស្តការបញ្ជេញកម្តៅដែលកើតចេញពីស្រទាប់ស្នូលទាំងពី
+រនៃផែនដីវិ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+\TU/NotoSansKhmer(0)/m/it/10 លបញ្ជ្រាស់គ្នានិងមានព័ត៌មានច្រើនជាងនូវអ្វីដែលខ្ញុំ
+បានលើកឡើងក្នុង
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+[]\TU/NotoSansKhmer(0)/m/it/10 អរគុណចំពោះអានឃិត\TU/LatinModernRoman(0)/m/n/10 ,
+ \TU/NotoSansKhmer(0)/m/it/10 ដែលបានរៀបចំប្រមូលផ្ដុំទិន្នន័យអំពី
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 465--466
+\TU/NotoSansKhmer(0)/m/it/10 ដូចជាអ្នកដែលបានធ្វើការស្រាវជ្រាវ និងស្វែងរកយ៉ាងលំប
+ាក ដើម្បីឲ្យ
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 465--466
+\TU/NotoSansKhmer(0)/m/it/10 ស្នាដៃនេះអាចកើតមានឡើងបាន។ ពួកគេបានជួយនាំចំណេះដឹង ន
+ិង
+ []
+
+[14]
+File: wave.jpg Graphic file (type bmp)
+<wave.jpg>
+
+Underfull \hbox (badness 2435) in paragraph at lines 483--483
+[]\TU/NotoSansKhmer(0)/m/n/9 រូប \TU/LatinModernRoman(0)/m/n/9 17. []\TU/NotoSa
+nsKhmer(0)/m/n/9 រូបភាពដែលមើលឲ្យកាន់តែជិតទៅលើស្នាមសឹកនៅផ្នែកខាងក្រោមនៃ
+ []
+
+File: star-stone.jpg Graphic file (type bmp)
+<star-stone.jpg>
+[15
+
+
+
+
+
+
+]
+File: deepsea.jpg Graphic file (type bmp)
+<deepsea.jpg>
+
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font Latin Modern Roman 9 Regular/
+OT:script=latn;language=dflt;!
+File: sealevel.jpeg Graphic file (type bmp)
+<sealevel.jpeg>
+
+Underfull \hbox (badness 5771) in paragraph at lines 514--514
+[]\TU/NotoSansKhmer(0)/m/n/9 រូប \TU/LatinModernRoman(0)/m/n/9 20. []\TU/NotoSa
+nsKhmer(0)/m/n/9 កម្រិតទឹកសមុទ្របានបង្ហាញពីការកើនឡើង\TU/LatinModernRoman(0)/m/n
+/9 20\TU/NotoSansKhmer(0)/m/n/9 ភាគរយ ក្នុងការប្រែប្រួលគម្លាតក្នុងរយៈពេល\TU/Lat
+inModernRoman(0)/m/n/9 75\TU/NotoSansKhmer(0)/m/n/9 ឆ្នាំ តាមតបន់\TU/LatinModer
+nRoman(0)/m/n/9 63\TU/NotoSansKhmer(0)/m/n/9 កន្លែង ដែលបញ្ជាក់ថា ល្បឿននៃចរន្ត
+ []
+
+File: co2.jpg Graphic file (type bmp)
+<co2.jpg>
+File: ice.jpg Graphic file (type bmp)
+<ice.jpg>
+[16] [17] [18] (./1khmertranslated2.bbl
+Underfull \hbox (badness 2799) in paragraph at lines 4--7
+[]\TU/LatinModernRoman(0)/m/n/9 Great flood (china).  []$[][][][][] [] [] [] []
+[] [] [][][][][][][][][] [] [][][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 35--38
+[]\TU/LatinModernRoman(0)/m/n/9 D. A. Calvert.  Pyramid of khufu.  https://
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 126--130
+\TU/LatinModernRoman(0)/m/n/9 The selected erratic boulders in the swietokrzysk
+ie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\TU/LatinModernRoman(0)/m/n/9 github.com/sovrynn/ecdo/tree/master/1-EVIDENCE/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\TU/LatinModernRoman(0)/m/n/9 D. Koutsoyiannis, N. Mamassis, A. Efstratiadis,
+
+ []
+
+[19
+
+
+
+
+]
+Underfull \hbox (badness 4940) in paragraph at lines 231--234
+[]\TU/LatinModernRoman(0)/m/n/9 N. Maestri.  Chalchiuhtlicue - aztec goddess of
+
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 231--234
+\TU/LatinModernRoman(0)/m/n/9 lakes, streams, and oceans, 2023.  thoughtco.com/
+
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 292--296
+[]\TU/LatinModernRoman(0)/m/n/9 National Oceanic and Atmospheric Administration
+
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 334--339
+[]\TU/LatinModernRoman(0)/m/n/9 T. E. Skeptic.  Exothermic core-mantle decoupli
+ng
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 – dzhanibekov oscillation (ecdo) hypothesis, 2024
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/12/exotherm
+ic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\TU/LatinModernRoman(0)/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-ec
+do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2023/12/18/hidden-in-plain-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\TU/LatinModernRoman(0)/m/n/9 theethicalskeptic.com/2024/05/23/master-exothermi
+c-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+[][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][][][][] [] [][] 
+[] [][][][][][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+ []
+
+[20]
+Underfull \hbox (badness 1122) in paragraph at lines 428--433
+[]\TU/LatinModernRoman(0)/m/n/9 K. White.  \TU/LatinModernRoman(0)/m/it/9 World
+ in Peril: The Origin, Mission,
+ []
+
+) [21
+
+] (./1khmertranslated2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13819 strings out of 475702
+ 267177 string characters out of 5785445
+ 2156627 words of memory out of 5000000
+ 35527 multiletter control sequences out of 15000+600000
+ 568507 words of font info for 115 fonts, out of 8000000 for 9000
+ 932 hyphenation exceptions out of 8191
+ 79i,9n,93p,3050b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 1khmertranslated2.pdf (21 pages).

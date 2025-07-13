@@ -28,6 +28,18 @@
 \def\cvprPaperID{****} % *** Die CVPR Paper ID hier einfügen
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 
+\renewcommand{\tablename}{Tabelle}
+\renewcommand{\figurename}{Abbildung}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{Literaturverzeichnis}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Zusammenfassung}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+
+
 % Seiten sind im Einreichungsmodus nummeriert und in der endgültigen Version unnummeriert
 %\ifcvprfinal\pagestyle{empty}\fi
 \setcounter{page}{1}
@@ -466,9 +478,9 @@ Und natürlich danken wir den Giganten, auf deren Schultern wir stehen; jenen, d
 \twocolumn
 
 {\small
-\renewcommand{\refname}{Verweise}
+% \renewcommand{\refname}{Verweise}
 \bibliographystyle{ieee}
 \bibliography{egbib}
 }
 
-\end{Dokument}
+\end{document}

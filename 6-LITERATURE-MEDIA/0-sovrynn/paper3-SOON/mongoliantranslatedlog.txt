@@ -1,0 +1,3131 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./mongoliantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+
+Package fontspec Warning: Font "Noto Serif" does not contain requested Script
+(fontspec)                "Mongolian".
+
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 86.
+
+(./mongoliantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 99.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 100.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 Энэхүү судалгаа нь барууны засаглалын
+
+Underfull \hbox (badness 7796) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 эрх мэдэлтнүүд ойрын ирээдүйд тохиох
+
+Underfull \hbox (badness 1688) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 геофизикийн гамшигт бэлтгэж буй өргөн
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдүүлгийг цуглуулдаг чөлөөт хэвлэл
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдээллийн байгууллага болох Камелот
+
+Underfull \hbox (badness 4416) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 болон улс төрийн төлөвлөгөөнүүд бөгөөд
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 удахгүй тохиох \TU/LatinModernRoman(0)/b/n/10 "\TU/Noto
+Serif(1)/b/n/10 геофизикийн үзэгдэл\TU/LatinModernRoman(0)/b/n/10 "\TU/LatinMod
+ernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 байсан ба зарим нь ч нэлээд язгууртны
+
+Underfull \hbox (badness 3179) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 албаны тушаал өндөртэй хүмүүс ба нэг
+
+Underfull \hbox (badness 6364) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 цэргийн хүн байсан\TU/LatinModernRoman(0)/m/it/10 . \T
+U/NotoSerif(1)/m/it/10 Хоёул улс даяар
+
+Underfull \hbox (badness 2875) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 газарт зөвлөх байр суурьтай хүмүүс юм
+
+Underfull \hbox (badness 1394) in paragraph at lines 136--137
+\TU/LatinModernRoman(0)/m/it/10 — \TU/NotoSerif(1)/m/it/10 яг одоогийн байдлаар
+\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]. \TU/Noto
+Serif(1)/m/n/10 Мэдээлэгч
+[1]
+Underfull \hbox (badness 1127) in paragraph at lines 149--150
+[]\TU/NotoSerif(1)/m/n/10 Гэвч хамгийн чухал зүйл нь эдгээр үйл
+
+Underfull \hbox (badness 3209) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нэгэн үзэгдэл болох ба энэ нь хүн бүрд
+
+Underfull \hbox (badness 6300) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нөлөөлнө\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinMod
+ernRoman(0)/m/n/10 [[]]. \TU/NotoSerif(1)/m/n/10 Мэдээлэгч хэлэхдээ энэ
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/n/10 геофизикийн үзэгдлийн үед\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/b/it/10 "\TU/NotoSerif(1)/b/it/10 Дэлхийн
+
+Underfull \hbox (badness 1635) in paragraph at lines 149--150
+\TU/NotoSerif(1)/b/it/10 царцдас ойролцоогоор \TU/LatinModernRoman(0)/b/it/10 3
+0 \TU/NotoSerif(1)/b/it/10 градус\TU/LatinModernRoman(0)/b/it/10 , 1700-
+
+Underfull \hbox (badness 4673) in paragraph at lines 151--152
+[]\TU/NotoSerif(1)/m/n/10 Энэ бүх нууц төлөвлөгөөний шалтгаан
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 нь мэдээж эрх мэдэл юм\TU/LatinModernRoman(0)/m/n/10 . 
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгч
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон биологийн дайныг даван гарсан
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ам эрс буурна\TU/LatinModernRoman(0)/m/it/10 . \TU/Not
+oSerif(1)/m/it/10 Энэ геофизикийн гамшиг
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ойролцоогоор тэн хагас болж багасах
+
+Underfull \hbox (badness 1052) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байх\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1)
+/m/it/10 Үүнийг давж үлдсэн хүмүүс дэлхий
+
+Underfull \hbox (badness 3612) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон үлдсэн хүн амыг дараачийн эринд
+
+Underfull \hbox (badness 1248) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 удирдах хүмүүсийг тодорхойлно\TU/LatinModernRoman(0)/m
+/it/10 . \TU/NotoSerif(1)/m/it/10 Тэгэхээр
+
+Underfull \hbox (badness 1389) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 бид гамшгийн дараах эрнийг ярьж байна\TU/LatinModernRo
+man(0)/m/it/10 .
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 үхэн хатан зүтгэж байгаа\TU/LatinModernRoman(0)/m/it/1
+0 . \TU/NotoSerif(1)/m/it/10 Замбараагүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байдал дэгдэхээс өмнө зайлшгүй бүтэц
+
+Underfull \hbox (badness 3271) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь бэлэн байх ёстой\TU/LatinModernRoman(0)/m/it/10 , \
+TU/NotoSerif(1)/m/it/10 ингэснээр ирээдүйд
+
+Underfull \hbox (badness 2418) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болох гамшгаас амьд мултарч\TU/LatinModernRoman(0)/m/i
+t/10 , \TU/NotoSerif(1)/m/it/10 маргааш
+
+Underfull \hbox (badness 5105) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь хоёр хөл дээрээ зогсоод\TU/LatinModernRoman(0)/m/it
+/10 , \TU/NotoSerif(1)/m/it/10 эрх мэдлээ
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 хадгалан\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSeri
+f(1)/m/it/10 өмнөх хүчээ тогтоон барих
+
+Underfull \hbox (badness 4467) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 ажиллагаа\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif
+(1)/m/n/10 буюу Английн эртний уугуул
+
+Underfull \hbox (badness 1845) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 иргэдийн ажиллагаа гэж нэрлэгддэг тухай
+
+Underfull \hbox (badness 4582) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 цаад шалтгаан нь үндсэндээ төлөвлөгөө
+
+Underfull \hbox (badness 1688) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 уугуул ард түмэн уг шинэ дэлхийг дахин
+
+Underfull \hbox (badness 2343) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ба үүнийгээ эргэн тойронд ямар ч амьд
+
+Underfull \hbox (badness 3396) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/n/10 өөрийн тааврыг дэвшүүлсэн нь\TU/LatinModernRoman(0)/m/n
+/10 : \TU/LatinModernRoman(0)/m/it/10 "...\TU/NotoSerif(1)/m/it/10 өөрт
+
+Underfull \hbox (badness 1132) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 төрсөн зөнгөөрөө таамаглан хэлбэл\TU/LatinModernRoman(
+0)/m/it/10 , \TU/NotoSerif(1)/m/it/10 одоо
+
+Underfull \hbox (badness 1783) in paragraph at lines 153--154
+\TU/NotoSerif(1)/b/it/10 жилийн дотор тохиох нь гарцаагүй\TU/LatinModernRoman(0
+)/m/it/10 ...
+
+Underfull \hbox (badness 1107) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа үе рүү аль хэдийн орчихсон байна\TU/LatinModern
+Roman(0)/m/it/10 .
+
+Underfull \hbox (badness 1748) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 өмнө болсон бөгөөд\TU/LatinModernRoman(0)/m/it/10 , \T
+U/NotoSerif(1)/m/it/10 энэ нь ойролцоогоор
+
+Underfull \hbox (badness 2564) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 ... \TU/NotoSeri
+f(1)/m/it/10 Давтан хэлэхэд\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m
+/it/10 тэд мэдэхгүй
+
+Underfull \hbox (badness 5036) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байна гэдэг нь байж боломгүй зүйл \TU/LatinModernRoman
+(0)/m/it/10 —
+
+Underfull \vbox (badness 5050) has occurred while \output is active [2]
+Underfull \hbox (badness 1655) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Ярилцлагын үеэр тэрээр мөн дэлхийн нэг
+
+Underfull \hbox (badness 1755) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 болон хоёрдугаар дайн нь зохиомол дайн
+
+Underfull \hbox (badness 2828) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Английн эртний уугуул ардын ажиллагаа
+
+Underfull \hbox (badness 4660) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 нь бараг л баттайгаар олон үе дамжин
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгчийн хэлсэнчлэн геофизикийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]\TU/NotoSerif(1)/m/n/10 Давтан тохиох усан галавын талаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 барууны мэдлэг маш сайн хадгалагдсан
+
+Underfull \hbox (badness 2478) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 бөгөөд энэ нь зөвхөн Чөлөөт өрлөгүүдээр
+
+Underfull \hbox (badness 4967) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 хязгаарлагдахгүй\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerif(1)/m/n/10 Хамгийн багадаа \TU/LatinModernRoman(0)/m/n/10 2400
+
+Underfull \hbox (badness 5924) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 жилийн түүхтэй Кельтийн эртний соёлт
+
+Underfull \hbox (badness 4341) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 Друидууд \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSe
+rif(1)/m/n/10 дэлхий дээр давтан болдог
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 гамшигт явдлуудын тухай мэдлэгийг
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 мэдээллийг хуваалцсан\TU/LatinModernRoman(0)/m/n/10 : \
+TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Уламжлалын
+
+Underfull \hbox (badness 1303) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 дагуу би сүүлчийн гишүүн нь байж болох
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 баримт нь сүүлчийн их галав юүлэлт
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 буюу дэлхийг хамарсан сүйрлийн дараа
+
+Underfull \hbox (badness 1527) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрэл амссаных\TU/LatinModernRoman(0)/m/it/10 . \TU/N
+otoSerif(1)/m/it/10 Бүрэн хэмжээний одон
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 орон судлалын мэдлэгтэй байснаар уг
+
+Underfull \hbox (badness 1584) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрлүүд болж болзошгүй нөхцөл байдлыг
+
+Underfull \hbox (badness 2781) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 арга хэмжээ авах боломжтой гэж үздэг
+
+Underfull \hbox (badness 6268) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байжээ\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Ирландын агуйны нүсэр том
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байгууламжуудыг ажиглавал \TU/LatinModernRoman(0)/m/it
+/10 '\TU/NotoSerif(1)/m/it/10 ногоон
+
+Underfull \hbox (badness 2452) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 маш бүдүүн хүлэмж маягийн бөмбөгнөөс
+
+Underfull \hbox (badness 1622) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 хамгаалах барилга байгууламжууд гэдгийг
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Underfull \hbox (badness 3646) in paragraph at lines 164--165
+[]\TU/NotoSerif(1)/m/n/10 Үндсэндээ барууны эрх баригч хүчнүүд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 дэлхий нийтийн геофизикийн сүйрэл
+
+Underfull \hbox (badness 2359) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 ойртоод байна гэж үзэж байгаа бол ийм
+
+Underfull \hbox (badness 1394) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үйл явдлаас өөрсдийгөө хамгаалахын тулд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 суурилагдсан нууц хонгилын баазуудын
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үед оршин суугчдаа хамгаалж чадахаас
+
+Underfull \hbox (badness 4569) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 гадна төрөл бүрийн байгалийн гамшгаас
+
+Underfull \hbox (badness 2310) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 нь зүгээр нэг боломжит хувилбарууд бус\TU/LatinModernRo
+man(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 байгууламжуудыг барих\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerif(1)/m/n/10 хүний нөөцөөр
+
+Underfull \hbox (badness 2837) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 хангах\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)
+/m/n/10 засвар үйлчилгээ хийхэд асар их
+
+Underfull \hbox (badness 3323) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 мөнгө шаардагдах бөгөөд энэ нь АНУ\TU/LatinModernRoman(
+0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 ын
+
+Underfull \hbox (badness 6575) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 засгийн газарт \TU/LatinModernRoman(0)/m/n/10 18 \TU/No
+toSerif(1)/m/n/10 жилийн туршид алга
+
+Underfull \hbox (badness 1331) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 болсон хэдэн арван их наяд ам\TU/LatinModernRoman(0)/m/
+n/10 .\TU/NotoSerif(1)/m/n/10 доллартой
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бичиг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 төлөвлөгөөг цуглуулж архивлах\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 тэрэгнүүдээр холбоотой байх магадлалтай\TU/LatinModernR
+oman(0)/m/n/10 .
+
+Underfull \hbox (badness 6125) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 Эдгээр баазуудыг \TU/LatinModernRoman(0)/m/it/10 "\TU/N
+otoSerif(1)/m/it/10 төсөв өндөртэй\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSer
+if(1)/m/it/10 олон
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/it/10 тоглоом\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModer
+nRoman(0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 оор санхүүжүүлдэг бөгөөд энэ
+
+Underfull \hbox (badness 5133) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нь Америкийн Нэгдсэн Улс гэдэг нэртэй
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 компанийг эзэмшдэг хүмүүстэй ижил
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бүлэглэлийн бүрэн хяналтад байдаг \TU/LatinModernRoman(
+0)/m/n/10 [[]].
+
+Underfull \hbox (badness 1584) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 хэсэгт дурдагдана\TU/LatinModernRoman(0)/m/n/10 ) \TU/N
+otoSerif(1)/m/n/10 болон түүний хамтрагч
+
+Underfull \hbox (badness 5711) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нэгэн судлаачийн хамт эдгээр баазуудын
+
+Underfull \hbox (badness 5359) in paragraph at lines 188--189
+[]\TU/NotoSerif(1)/m/n/10 Энд Саудерын эх сурвалжуудаас эдгээр
+[4]
+Underfull \hbox (badness 1874) in paragraph at lines 203--203
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 5. []\TU/NotoSerif
+(1)/m/n/9 Усан доорх баазын зураглал\TU/LatinModernRoman(0)/m/n/9 , \TU/NotoSer
+if(1)/m/n/9 Вальтер
+
+Underfull \hbox (badness 3724) in paragraph at lines 203--203
+\TU/NotoSerif(1)/m/n/9 Зэвсгийн төвийн Тэнгисийн цэргийн Рок\TU/LatinModernRoma
+n(0)/m/n/9 -\TU/NotoSerif(1)/m/n/9 сайт
+
+Underfull \hbox (badness 1715) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 доорх соронзон хөвөлтийн галт тэрэгнүүд\TU/LatinModernR
+oman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 далайн ёроолд баригдсан баазууд \TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSerif(1)/m/n/10 Зураг
+
+Underfull \hbox (badness 4353) in paragraph at lines 208--209
+[]\TU/LatinModernRoman(0)/m/n/10 5[]), \TU/NotoSerif(1)/m/n/10 мөн хуурай газар
+ руу чиглэсэн усан
+
+Underfull \hbox (badness 1014) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 төхөөрөмж худалдан авсан талаар ярив\TU/LatinModernRom
+an(0)/m/it/10 ...
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 Тэр тоног төхөөрөмж нь суурилагдах
+[5]
+Underfull \hbox (badness 3364) in paragraph at lines 229--230
+[]\TU/NotoSerif(1)/m/n/10 Хэрвээ үнэхээр бидний хөл доор нүсэр
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 том\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/
+n/10 нууц\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 тив дамнасан\
+TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 гадаргуугаас
+
+Underfull \hbox (badness 2762) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 бааз\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m
+/n/10 тэдгээрийг холбосон дуунаас хурдан
+
+Underfull \hbox (badness 8000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 вакум хоолойн соронзон хөвөлттэй галт
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 тэрэг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 бидний хөдөлмөрийн үр шимээр
+
+Underfull \hbox (badness 2126) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 санхүүжүүлэгдсэн байгаа бол өнөөдөр хүн
+
+Underfull \hbox (badness 3547) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 мэдэлгүй\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(
+1)/m/n/10 улстөрч \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 арчил
+ж дэмжигчдийн\TU/LatinModernRoman(0)/m/n/10 "
+
+Underfull \hbox (badness 5119) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 нь хоосон\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 хоорондоо хуйвалдан бэлдсэн
+
+Underfull \hbox (badness 1122) in paragraph at lines 231--232
+[]\TU/NotoSerif(1)/m/n/10 Нэмэлт тайлбар \TU/LatinModernRoman(0)/m/n/10 - \TU/N
+otoSerif(1)/m/n/10 Ойрх дорнодод өрнөж
+
+Underfull \hbox (badness 8189) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 хонгилын сүлжээнүүдийн оршин байгааг
+
+Underfull \hbox (badness 2970) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 доор ухсан ХАМАС\TU/LatinModernRoman(0)/m/n/10 -\TU/Not
+oSerif(1)/m/n/10 ын хонгилууд \TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSeri
+f(1)/m/n/10 мөн
+
+Underfull \hbox (badness 5970) in paragraph at lines 231--232
+[]\TU/LatinModernRoman(0)/m/n/10 7[]) [[], []]). \TU/NotoSerif(1)/m/n/10 Эдгээр
+ нь ийнхүү бүтцийг
+
+Underfull \hbox (badness 4205) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барих боломж болон бодитойгоор оршин
+
+Underfull \hbox (badness 6775) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 байгаа эсэхэд эргэлзэх зай үлдээлгүйгээр
+
+Underfull \hbox (badness 2080) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барьсан байж болох талаар бидэнд бодол
+
+Underfull \hbox (badness 1552) in paragraph at lines 233--233
+[] \TU/LatinModernRoman(0)/b/n/11 . \TU/NotoSerif(1)/b/n/11 Нэмэлт нөөц хонгил\
+TU/LatinModernRoman(0)/b/n/11 , \TU/NotoSerif(1)/b/n/11 гамшгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 8. []\TU/NotoSerif
+(1)/m/n/9 Өмнөд Тирол дахь хоргодох байр\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 4181) in paragraph at lines 240--240
+\TU/NotoSerif(1)/m/n/9 Швейцар\TU/LatinModernRoman(0)/m/n/9 . \TU/NotoSerif(1)/
+m/n/9 Европын Альпын нуруу дамжсан
+
+Underfull \hbox (badness 1286) in paragraph at lines 250--250
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 9. []\TU/NotoSerif
+(1)/m/n/9 Норвегт байрлах Свалбардын Дэлхийн
+
+Underfull \hbox (badness 2261) in paragraph at lines 250--250
+\TU/LatinModernRoman(0)/m/n/9 [[]]. \TU/NotoSerif(1)/m/n/9 Ямар нөхцөлд уг асар
+ нөөцийг ашиглах
+
+Underfull \hbox (badness 3536) in paragraph at lines 250--250
+\TU/NotoSerif(1)/m/n/9 шаардлагатай болох талаар гайхахгүй байхын
+[6]
+Underfull \hbox (badness 5893) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 энэ жил Нью Йоркер сэтгүүлд хэлэхдээ
+
+Underfull \hbox (badness 4441) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 Силикон хөндийн тэрбумтнуудын \TU/LatinModernRoman(0)/
+m/it/10 50%-\TU/NotoSerif(1)/m/it/10 иас
+
+Underfull \hbox (badness 6001) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 илүү нь ямар нэг \TU/LatinModernRoman(0)/m/it/10 "\TU/
+NotoSerif(1)/m/it/10 гамшгийн даатгал\TU/LatinModernRoman(0)/m/it/10 ",
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 жишээлбэл газрын доорх хоргодох байр
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 гамшгийн үед хадгалахаар зорилготой
+
+Underfull \hbox (badness 7576) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 үрийн сан \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoS
+erif(1)/m/n/10 зэрэг томоохон архивын
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerif(1)/b/n/12 Асар том газар доор
+х
+
+Underfull \hbox (badness 3118) in paragraph at lines 276--276
+\TU/NotoSerif(1)/b/n/12 баазуудыг ардчилсан байдлаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 хэрхэн харанхуйд байлгах вэ\TU/LatinModernRoman(0)/m/n/
+10 ? \TU/NotoSerif(1)/m/n/10 Эдгээр
+
+Underfull \hbox (badness 7851) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 төслүүдэд ямар хэмжээний мөнгө ордог\TU/LatinModernRoma
+n(0)/m/n/10 ,
+
+Underfull \hbox (badness 1454) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 Остин Фитс болон Мичиганы Мужийн Их
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 онуудад зөвшөөрөлгүйгээр \TU/LatinModernRoman(0)/m/n/10
+ 21 \TU/NotoSerif(1)/m/n/10 их наяд
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 ам\TU/LatinModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/
+10 долларын зарцуулалт хийсэн болохыг
+
+Underfull \hbox (badness 6526) in paragraph at lines 280--281
+[]\TU/NotoSerif(1)/m/n/10 Тэдний илтгэлд дурдсанаар\TU/LatinModernRoman(0)/m/n/
+10 , \TU/LatinModernRoman(0)/m/it/10 "2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 3815) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Скэт Палтроу \TU/LatinModernRoman(0)/m/it/10 (2016) \T
+U/NotoSerif(1)/m/it/10 нийтлэл нийтэлсэн
+
+Underfull \hbox (badness 3199) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ө\TU/LatinModernRoman(0)/m/it/10 ̈\TU/NotoSerif(1)/m/i
+t/10 рийн дэвтрүүдээ тэнцвэртэй харагдуулах
+
+Underfull \hbox (badness 1400) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам \TU/LatinModernRoman(0)/m/it/10 $2.3 \TU/NotoSerif
+(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10
+ долларын гүйлгээний
+
+Underfull \hbox (badness 5105) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 баримтыг алдсан гэж хэлснээр нягтлан
+
+Underfull \hbox (badness 7397) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 бодох бүртгэлийн асуудлаараа томоохон
+
+Underfull \hbox (badness 3118) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 өдөр мэдээний гарчиг болсон ч маргааш
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 нь \TU/LatinModernRoman(0)/m/it/10 9/11-\TU/NotoSerif(
+1)/m/it/10 ийн гамшиг дэлхийн анхаарлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 татсанаар мартагдсан\TU/LatinModernRoman(0)/m/it/10 ..
+. \TU/NotoSerif(1)/m/it/10 Профессор
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Марк Скидмор Армийн нотлогдоогүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/LatinModernRoman(0)/m/it/10 $6.5 \TU/NotoSerif(1)/m/it/10 их наяд ам\TU/Lat
+inModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10 долларын гүйлгээний
+
+Underfull \hbox (badness 5175) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 холбогдож\TU/LatinModernRoman(0)/m/it/10 , 2017 \TU/No
+toSerif(1)/m/it/10 оны хавартаа хамтран
+
+Underfull \hbox (badness 3068) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ажиллаж\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+(1)/m/it/10 Орон сууц\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it/10
+ хот байгуулалтын
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам болон Батлан хамгаалах яаманд
+
+Underfull \hbox (badness 1253) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 газрын баримтыг цуглуулж\TU/LatinModernRoman(0)/m/it/1
+0 , 1998-2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 1584) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 хугацаанд нийт \TU/LatinModernRoman(0)/m/it/10 $21 \TU
+/NotoSerif(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(
+1)/m/it/10 долларын
+[7]
+Underfull \hbox (badness 6842) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 хэсэг нь газар доорх баазуудад нууцаар
+
+Underfull \hbox (badness 6559) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 зарцуулагдсан ба үүн дээр олон нийтэд
+
+Underfull \hbox (badness 2990) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 олон жилийн турш үргэлжилсэн төсвийн
+
+Underfull \hbox (badness 4254) in paragraph at lines 282--283
+\TU/LatinModernRoman(0)/m/n/10 2016-2023 \TU/NotoSerif(1)/m/n/10 оны зарлагын х
+увьтай адилтган
+
+Underfull \hbox (badness 1715) in paragraph at lines 284--285
+[]\TU/LatinModernRoman(0)/m/n/10 2021 \TU/NotoSerif(1)/m/n/10 онд Марк Скидмор 
+энэ судалгаагаа
+
+Underfull \hbox (badness 4242) in paragraph at lines 284--285
+\TU/LatinModernRoman(0)/m/n/10 94.7 \TU/NotoSerif(1)/m/n/10 их наяд ам\TU/Latin
+ModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/10 долларын нягтлан бодох
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+\TU/NotoSerif(1)/m/n/10 бүртгэлийн тохируулга хийсэн тухай
+
+Underfull \hbox (badness 2237) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 учир нь хөрөнгийг гартаа авсан барууны
+
+Underfull \hbox (badness 7796) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 бүрийн онол таамаг дэвшүүлэхдээ олны
+
+Underfull \hbox (badness 2119) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хүртэл багтаадаг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 миний хамгийн сайн
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 нэгэн нэрээ нууцалсан блогчин хүний
+
+Underfull \hbox (badness 1377) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 амьдралын бүтээлээс олж болно\TU/LatinModernRoman(0)/m/
+n/10 . \TU/NotoSerif(1)/m/n/10 Түүний
+
+Underfull \hbox (badness 2913) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хамарсан юм \TU/LatinModernRoman(0)/m/n/10 [[], []]. \T
+U/NotoSerif(1)/m/n/10 Би түүний ажлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 удахгүй болох геофизикийн сүйрлийн
+
+Underfull \hbox (badness 6141) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 талаарх \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1
+)/m/n/10 зөгнөлт\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж ит
+гэлтэйгээр хэлж
+[8]
+Underfull \hbox (badness 2197) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 бүлгийг тодорхойлж\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 эдгээрийг нийлүүлэн
+
+Underfull \hbox (badness 3503) in paragraph at lines 290--291
+\TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 Йовын үр сад\TU/LatinMo
+dernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж нэрлэсэн бөгөөд тэд
+
+Underfull \hbox (badness 1616) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 галав юүлэх аюулын тухай мэдлэгтэй гэж
+
+Underfull \hbox (badness 2556) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 өнөөгийн барууны улсуудыг удирддаг гэж
+
+Underfull \hbox (badness 3460) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 итгэдэг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 гарал үүсэл\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 
+түүхэн үнэн дүр
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+[]\TU/NotoSerif(1)/m/n/10 Гурван бүлгийг ерөнхийд нь дараах
+
+Underfull \hbox (badness 1281) in paragraph at lines 302--303
+[]\TU/NotoSerif(1)/m/n/10 Өнөө үед эдгээр гурван бүлэглэл нийлж
+
+Underfull \hbox (badness 1924) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Европын Иллюминатууд\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NotoSerif(1)/m/n/10 Чөлөөт өрлөгүүд\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн бичсэнээр\TU/LatinModernRoman(0)/m/n/10 ,
+ \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Яг одоо\TU/LatinMode
+rnRoman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1360) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 одоогийн ерөнхийлөгч хүртэл мэдэх ёсгүй\TU/LatinModern
+Roman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1939) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 тусгай зөвшөөрлийн ард сайнаар нуугдаж
+
+Underfull \hbox (badness 3281) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Өөрөөр хэлбэл\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it
+/10 тэд өөрсдийгөө
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 олон нийтийн хяналтаас төгс нуудаг
+
+Underfull \hbox (badness 3098) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 Нэгдсэн Улсын цэргийн болон засгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 эрхийг төдийгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 цаасан мөнгөний
+
+Underfull \hbox (badness 3343) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 хүч\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 томоохон корпорацууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 өөрсдийн
+
+Underfull \hbox (badness 4084) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 бүтээсэн бүгд найрамдах засаглалаар
+
+Underfull \hbox (badness 1796) in paragraph at lines 302--303
+\TU/LatinModernRoman(0)/b/it/10 (\TU/NotoSerif(1)/b/it/10 улс төрчид амархан ав
+лигад өртдөг\TU/LatinModernRoman(0)/b/it/10 ,
+
+Underfull \hbox (badness 3965) in paragraph at lines 324--325
+[]\TU/NotoSerif(1)/m/n/10 Амаллуллагийн хэлснээр\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NotoSerif(1)/m/n/10 эдгээр хүмүүс
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашныг басамжилж\TU/LatinModernRoman(0)/m/n/10 , \TU/No
+toSerif(1)/m/n/10 дэлхийн томоохон
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашнуудын ариун судруудыг өөрсдийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 дайснууддаа өршөөлгүй ханддаг\TU/LatinModernRoman(0)/m/
+n/10 : \TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModernRoman(0)/b/it/10 2600
+
+Underfull \hbox (badness 1789) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 гаруй жилийн хугацаанд тэд дэлхийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 төгсгөлийн тухай онцгой мэдлэгтэй
+
+Underfull \hbox (badness 6876) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 байсан хэнийг ч бай системтэйгээр
+
+Underfull \hbox (badness 1215) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 арабчууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSeri
+f(1)/b/it/10 энэтхэгийн мэргэдийг хэлээд
+
+Underfull \hbox (badness 6927) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 зогсохгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSer
+if(1)/b/it/10 Өмнөд Америкийн сунасан
+
+Underfull \hbox (badness 2073) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 Америкийн \TU/LatinModernRoman(0)/b/it/10 “\TU/NotoSer
+if(1)/b/it/10 уугуул иргэд\TU/LatinModernRoman(0)/b/it/10 ”-\TU/NotoSerif(1)/b/
+it/10 ыг устгасан
+[9]
+Underfull \hbox (badness 4096) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 төслийг бүхэлд нь \TU/LatinModernRoman(0)/m/n/10 "\TU/N
+otoSerif(1)/m/n/10 Пайкс Пик Батолит\TU/LatinModernRoman(0)/m/n/10 "-
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 ийг хянах зорилгоор хэрэгжүүлсэн гэж
+
+Underfull \hbox (badness 2103) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 үзсэн бөгөөд энэхүү боржин уулын нуруу
+
+Underfull \hbox (badness 7685) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 нь Газрын ховор геофизикийн гамшгаас
+
+Underfull \hbox (badness 7362) in paragraph at lines 326--327
+[]\TU/LatinModernRoman(0)/m/n/10 12[]). \TU/NotoSerif(1)/m/n/10 Амаллуллагийн х
+элснээр\TU/LatinModernRoman(0)/m/n/10 , \TU/LatinModernRoman(0)/m/it/10 "\TU/No
+toSerif(1)/m/it/10 АНУ\TU/LatinModernRoman(0)/m/it/10 -\TU/NotoSerif(1)/m/it/10
+ ын
+
+Underfull \hbox (badness 1147) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 өндөрт\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(
+1)/m/it/10 далайн эргээс ийм хол байрладаг
+
+Underfull \hbox (badness 2961) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хөдөлгөөний гажилтад тэсвэртэй үлдэхэд
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хамгийн тохиромжтой байрлал\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/LatinModernRoman(0)/m/n/10 [[], []].
+
+Underfull \hbox (badness 3849) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн судалгааны дагуу өнөөдөр
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 өргөн хэмжээний газар доорх хонгилын
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 мянган жилийн турш дэлхийд давтан
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 тохиох галав юүлэлтийн тухай мэдлэгээ
+
+Underfull \hbox (badness 3148) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 болгоомжтой хадгалж ирсэн\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 тун удахгүй
+
+Underfull \hbox (badness 7796) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хоргодох байгууламж барьсан\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSerif(1)/m/n/10 мөн ийм
+
+Underfull \hbox (badness 4660) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 дэлгэрэнгүй тайлбарласан\TU/LatinModernRoman(0)/m/n/10 
+. \TU/NotoSerif(1)/m/n/10 Энэ бүхнийг
+
+Underfull \hbox (badness 2478) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хэрхэн санхүүжүүлсэн тухай Америк дахь
+
+Underfull \hbox (badness 2781) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 баримтуудыг мөн дурдсан бөгөөд\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSerif(1)/m/n/10 нөхцөл
+
+Underfull \hbox (badness 6792) in paragraph at lines 332--333
+[]\TU/NotoSerif(1)/m/n/10 Ойртож буй геофизикийн үйл явдлын
+
+Underfull \hbox (badness 2277) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 дэлхийн гео\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoSeri
+f(1)/m/n/10 соронзон орон зай хурдацтай
+
+Underfull \hbox (badness 5924) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 өөрчлөгдөж байгаа явдал юм\TU/LatinModernRoman(0)/m/n/1
+0 . \TU/NotoSerif(1)/m/n/10 Энэ нь
+
+Underfull \hbox (badness 2781) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 байгаа \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSerif(1)
+/m/n/10 Зураг []\TU/LatinModernRoman(0)/m/n/10 13[]) \TU/NotoSerif(1)/m/n/10 бо
+лон Өмнөд Атлантын
+
+Underfull \hbox (badness 3977) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 соронзон орон зайн суларч\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 гажиж буйг
+
+Underfull \hbox (badness 4981) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэмжихэд илэрхий байгаагаар нотлогдоно
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 анхны хоёр \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/Noto
+Serif(1)/m/n/10 өгүүлэлд нарийвчлан
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэлэлцсэн бөгөөд тэдгээрийг миний
+
+Underfull \hbox (badness 2103) in paragraph at lines 344--345
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Энд би таны төсөөллий
+г туйлын заагт
+
+Underfull \hbox (badness 1546) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 одоо амьдарч буй\TU/LatinModernRoman(0)/m/it/10 , \TU/
+NotoSerif(1)/m/it/10 бага наснаасаа мэддэг
+
+Underfull \hbox (badness 1668) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 байлгахыг зорьсон\TU/LatinModernRoman(0)/m/it/10 , \TU
+/NotoSerif(1)/m/it/10 бүрэн зохиомол бодит
+
+Underfull \hbox (badness 2818) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 үүнийг би сүйрлийн нэгдмэл үзлийн уриа
+
+Underfull \hbox (badness 1521) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Харин надад хамгийн хэцүү нь хэлэх гэж
+
+Underfull \hbox (badness 1527) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 явдал\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1
+)/m/it/10 Яг одоогоор Матрикстай зүйрлэх
+
+Underfull \hbox (badness 1838) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нийтэд зөвшөөрөгдсөн шинжлэх ухаан
+
+Underfull \hbox (badness 1377) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нэг юман дээр л\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 газар дэлхийн хөрс
+
+Underfull \hbox (badness 8075) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Матрикс гэх компьютерын загварчилсан
+
+Underfull \hbox (badness 1577) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 бодит байдалд амьдарч байсныгаа ойлгох
+
+Underfull \vbox (badness 1210) has occurred while \output is active [10]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]\TU/NotoSerif(1)/m/n/10 Мэдлэгээ нийтийн хүртээл болгон
+
+Underfull \hbox (badness 1715) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 энэ ажил боломжгүй байх байсан ба хүн
+
+Underfull \hbox (badness 1014) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 төрөлхтөн харанхуйд үлдэх байлаа\TU/LatinModernRoman(0)
+/m/n/10 . \TU/NotoSerif(1)/m/n/10 Таны
+[11] (./mongoliantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 60--63
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/6‑literature‑media/amallulla”.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[12]) [13] (./mongoliantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on mongoliantranslated.pdf (13 pages).
+Transcript written on mongoliantranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: mongoliantranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+(There was 1 error message)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./mongoliantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+
+Package fontspec Warning: Font "Noto Serif" does not contain requested Script
+(fontspec)                "Mongolian".
+
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 86.
+
+(./mongoliantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 99.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 100.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 Энэхүү судалгаа нь барууны засаглалын
+
+Underfull \hbox (badness 7796) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 эрх мэдэлтнүүд ойрын ирээдүйд тохиох
+
+Underfull \hbox (badness 1688) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 геофизикийн гамшигт бэлтгэж буй өргөн
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдүүлгийг цуглуулдаг чөлөөт хэвлэл
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдээллийн байгууллага болох Камелот
+
+Underfull \hbox (badness 4416) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 болон улс төрийн төлөвлөгөөнүүд бөгөөд
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 удахгүй тохиох \TU/LatinModernRoman(0)/b/n/10 "\TU/Noto
+Serif(1)/b/n/10 геофизикийн үзэгдэл\TU/LatinModernRoman(0)/b/n/10 "\TU/LatinMod
+ernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 байсан ба зарим нь ч нэлээд язгууртны
+
+Underfull \hbox (badness 3179) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 албаны тушаал өндөртэй хүмүүс ба нэг
+
+Underfull \hbox (badness 6364) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 цэргийн хүн байсан\TU/LatinModernRoman(0)/m/it/10 . \T
+U/NotoSerif(1)/m/it/10 Хоёул улс даяар
+
+Underfull \hbox (badness 2875) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 газарт зөвлөх байр суурьтай хүмүүс юм
+
+Underfull \hbox (badness 1394) in paragraph at lines 136--137
+\TU/LatinModernRoman(0)/m/it/10 — \TU/NotoSerif(1)/m/it/10 яг одоогийн байдлаар
+\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]. \TU/Noto
+Serif(1)/m/n/10 Мэдээлэгч
+[1]
+Underfull \hbox (badness 1127) in paragraph at lines 149--150
+[]\TU/NotoSerif(1)/m/n/10 Гэвч хамгийн чухал зүйл нь эдгээр үйл
+
+Underfull \hbox (badness 3209) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нэгэн үзэгдэл болох ба энэ нь хүн бүрд
+
+Underfull \hbox (badness 6300) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нөлөөлнө\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinMod
+ernRoman(0)/m/n/10 [[]]. \TU/NotoSerif(1)/m/n/10 Мэдээлэгч хэлэхдээ энэ
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/n/10 геофизикийн үзэгдлийн үед\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/b/it/10 "\TU/NotoSerif(1)/b/it/10 Дэлхийн
+
+Underfull \hbox (badness 1635) in paragraph at lines 149--150
+\TU/NotoSerif(1)/b/it/10 царцдас ойролцоогоор \TU/LatinModernRoman(0)/b/it/10 3
+0 \TU/NotoSerif(1)/b/it/10 градус\TU/LatinModernRoman(0)/b/it/10 , 1700-
+
+Underfull \hbox (badness 4673) in paragraph at lines 151--152
+[]\TU/NotoSerif(1)/m/n/10 Энэ бүх нууц төлөвлөгөөний шалтгаан
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 нь мэдээж эрх мэдэл юм\TU/LatinModernRoman(0)/m/n/10 . 
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгч
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон биологийн дайныг даван гарсан
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ам эрс буурна\TU/LatinModernRoman(0)/m/it/10 . \TU/Not
+oSerif(1)/m/it/10 Энэ геофизикийн гамшиг
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ойролцоогоор тэн хагас болж багасах
+
+Underfull \hbox (badness 1052) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байх\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1)
+/m/it/10 Үүнийг давж үлдсэн хүмүүс дэлхий
+
+Underfull \hbox (badness 3612) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон үлдсэн хүн амыг дараачийн эринд
+
+Underfull \hbox (badness 1248) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 удирдах хүмүүсийг тодорхойлно\TU/LatinModernRoman(0)/m
+/it/10 . \TU/NotoSerif(1)/m/it/10 Тэгэхээр
+
+Underfull \hbox (badness 1389) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 бид гамшгийн дараах эрнийг ярьж байна\TU/LatinModernRo
+man(0)/m/it/10 .
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 үхэн хатан зүтгэж байгаа\TU/LatinModernRoman(0)/m/it/1
+0 . \TU/NotoSerif(1)/m/it/10 Замбараагүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байдал дэгдэхээс өмнө зайлшгүй бүтэц
+
+Underfull \hbox (badness 3271) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь бэлэн байх ёстой\TU/LatinModernRoman(0)/m/it/10 , \
+TU/NotoSerif(1)/m/it/10 ингэснээр ирээдүйд
+
+Underfull \hbox (badness 2418) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болох гамшгаас амьд мултарч\TU/LatinModernRoman(0)/m/i
+t/10 , \TU/NotoSerif(1)/m/it/10 маргааш
+
+Underfull \hbox (badness 5105) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь хоёр хөл дээрээ зогсоод\TU/LatinModernRoman(0)/m/it
+/10 , \TU/NotoSerif(1)/m/it/10 эрх мэдлээ
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 хадгалан\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSeri
+f(1)/m/it/10 өмнөх хүчээ тогтоон барих
+
+Underfull \hbox (badness 4467) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 ажиллагаа\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif
+(1)/m/n/10 буюу Английн эртний уугуул
+
+Underfull \hbox (badness 1845) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 иргэдийн ажиллагаа гэж нэрлэгддэг тухай
+
+Underfull \hbox (badness 4582) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 цаад шалтгаан нь үндсэндээ төлөвлөгөө
+
+Underfull \hbox (badness 1688) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 уугуул ард түмэн уг шинэ дэлхийг дахин
+
+Underfull \hbox (badness 2343) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ба үүнийгээ эргэн тойронд ямар ч амьд
+
+Underfull \hbox (badness 3396) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/n/10 өөрийн тааврыг дэвшүүлсэн нь\TU/LatinModernRoman(0)/m/n
+/10 : \TU/LatinModernRoman(0)/m/it/10 "...\TU/NotoSerif(1)/m/it/10 өөрт
+
+Underfull \hbox (badness 1132) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 төрсөн зөнгөөрөө таамаглан хэлбэл\TU/LatinModernRoman(
+0)/m/it/10 , \TU/NotoSerif(1)/m/it/10 одоо
+
+Underfull \hbox (badness 1783) in paragraph at lines 153--154
+\TU/NotoSerif(1)/b/it/10 жилийн дотор тохиох нь гарцаагүй\TU/LatinModernRoman(0
+)/m/it/10 ...
+
+Underfull \hbox (badness 1107) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа үе рүү аль хэдийн орчихсон байна\TU/LatinModern
+Roman(0)/m/it/10 .
+
+Underfull \hbox (badness 1748) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 өмнө болсон бөгөөд\TU/LatinModernRoman(0)/m/it/10 , \T
+U/NotoSerif(1)/m/it/10 энэ нь ойролцоогоор
+
+Underfull \hbox (badness 2564) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 ... \TU/NotoSeri
+f(1)/m/it/10 Давтан хэлэхэд\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m
+/it/10 тэд мэдэхгүй
+
+Underfull \hbox (badness 5036) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байна гэдэг нь байж боломгүй зүйл \TU/LatinModernRoman
+(0)/m/it/10 —
+
+Underfull \vbox (badness 5050) has occurred while \output is active [2]
+Underfull \hbox (badness 1655) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Ярилцлагын үеэр тэрээр мөн дэлхийн нэг
+
+Underfull \hbox (badness 1755) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 болон хоёрдугаар дайн нь зохиомол дайн
+
+Underfull \hbox (badness 2828) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Английн эртний уугуул ардын ажиллагаа
+
+Underfull \hbox (badness 4660) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 нь бараг л баттайгаар олон үе дамжин
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгчийн хэлсэнчлэн геофизикийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]\TU/NotoSerif(1)/m/n/10 Давтан тохиох усан галавын талаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 барууны мэдлэг маш сайн хадгалагдсан
+
+Underfull \hbox (badness 2478) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 бөгөөд энэ нь зөвхөн Чөлөөт өрлөгүүдээр
+
+Underfull \hbox (badness 4967) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 хязгаарлагдахгүй\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerif(1)/m/n/10 Хамгийн багадаа \TU/LatinModernRoman(0)/m/n/10 2400
+
+Underfull \hbox (badness 5924) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 жилийн түүхтэй Кельтийн эртний соёлт
+
+Underfull \hbox (badness 4341) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 Друидууд \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSe
+rif(1)/m/n/10 дэлхий дээр давтан болдог
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 гамшигт явдлуудын тухай мэдлэгийг
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 мэдээллийг хуваалцсан\TU/LatinModernRoman(0)/m/n/10 : \
+TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Уламжлалын
+
+Underfull \hbox (badness 1303) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 дагуу би сүүлчийн гишүүн нь байж болох
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 баримт нь сүүлчийн их галав юүлэлт
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 буюу дэлхийг хамарсан сүйрлийн дараа
+
+Underfull \hbox (badness 1527) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрэл амссаных\TU/LatinModernRoman(0)/m/it/10 . \TU/N
+otoSerif(1)/m/it/10 Бүрэн хэмжээний одон
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 орон судлалын мэдлэгтэй байснаар уг
+
+Underfull \hbox (badness 1584) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрлүүд болж болзошгүй нөхцөл байдлыг
+
+Underfull \hbox (badness 2781) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 арга хэмжээ авах боломжтой гэж үздэг
+
+Underfull \hbox (badness 6268) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байжээ\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Ирландын агуйны нүсэр том
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байгууламжуудыг ажиглавал \TU/LatinModernRoman(0)/m/it
+/10 '\TU/NotoSerif(1)/m/it/10 ногоон
+
+Underfull \hbox (badness 2452) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 маш бүдүүн хүлэмж маягийн бөмбөгнөөс
+
+Underfull \hbox (badness 1622) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 хамгаалах барилга байгууламжууд гэдгийг
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Underfull \hbox (badness 3646) in paragraph at lines 164--165
+[]\TU/NotoSerif(1)/m/n/10 Үндсэндээ барууны эрх баригч хүчнүүд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 дэлхий нийтийн геофизикийн сүйрэл
+
+Underfull \hbox (badness 2359) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 ойртоод байна гэж үзэж байгаа бол ийм
+
+Underfull \hbox (badness 1394) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үйл явдлаас өөрсдийгөө хамгаалахын тулд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 суурилагдсан нууц хонгилын баазуудын
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үед оршин суугчдаа хамгаалж чадахаас
+
+Underfull \hbox (badness 4569) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 гадна төрөл бүрийн байгалийн гамшгаас
+
+Underfull \hbox (badness 2310) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 нь зүгээр нэг боломжит хувилбарууд бус\TU/LatinModernRo
+man(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 байгууламжуудыг барих\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerif(1)/m/n/10 хүний нөөцөөр
+
+Underfull \hbox (badness 2837) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 хангах\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)
+/m/n/10 засвар үйлчилгээ хийхэд асар их
+
+Underfull \hbox (badness 3323) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 мөнгө шаардагдах бөгөөд энэ нь АНУ\TU/LatinModernRoman(
+0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 ын
+
+Underfull \hbox (badness 6575) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 засгийн газарт \TU/LatinModernRoman(0)/m/n/10 18 \TU/No
+toSerif(1)/m/n/10 жилийн туршид алга
+
+Underfull \hbox (badness 1331) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 болсон хэдэн арван их наяд ам\TU/LatinModernRoman(0)/m/
+n/10 .\TU/NotoSerif(1)/m/n/10 доллартой
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бичиг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 төлөвлөгөөг цуглуулж архивлах\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 тэрэгнүүдээр холбоотой байх магадлалтай\TU/LatinModernR
+oman(0)/m/n/10 .
+
+Underfull \hbox (badness 6125) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 Эдгээр баазуудыг \TU/LatinModernRoman(0)/m/it/10 "\TU/N
+otoSerif(1)/m/it/10 төсөв өндөртэй\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSer
+if(1)/m/it/10 олон
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/it/10 тоглоом\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModer
+nRoman(0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 оор санхүүжүүлдэг бөгөөд энэ
+
+Underfull \hbox (badness 5133) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нь Америкийн Нэгдсэн Улс гэдэг нэртэй
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 компанийг эзэмшдэг хүмүүстэй ижил
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бүлэглэлийн бүрэн хяналтад байдаг \TU/LatinModernRoman(
+0)/m/n/10 [[]].
+
+Underfull \hbox (badness 1584) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 хэсэгт дурдагдана\TU/LatinModernRoman(0)/m/n/10 ) \TU/N
+otoSerif(1)/m/n/10 болон түүний хамтрагч
+
+Underfull \hbox (badness 5711) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нэгэн судлаачийн хамт эдгээр баазуудын
+
+Underfull \hbox (badness 5359) in paragraph at lines 188--189
+[]\TU/NotoSerif(1)/m/n/10 Энд Саудерын эх сурвалжуудаас эдгээр
+[4]
+Underfull \hbox (badness 1874) in paragraph at lines 203--203
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 5. []\TU/NotoSerif
+(1)/m/n/9 Усан доорх баазын зураглал\TU/LatinModernRoman(0)/m/n/9 , \TU/NotoSer
+if(1)/m/n/9 Вальтер
+
+Underfull \hbox (badness 3724) in paragraph at lines 203--203
+\TU/NotoSerif(1)/m/n/9 Зэвсгийн төвийн Тэнгисийн цэргийн Рок\TU/LatinModernRoma
+n(0)/m/n/9 -\TU/NotoSerif(1)/m/n/9 сайт
+
+Underfull \hbox (badness 1715) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 доорх соронзон хөвөлтийн галт тэрэгнүүд\TU/LatinModernR
+oman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 далайн ёроолд баригдсан баазууд \TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSerif(1)/m/n/10 Зураг
+
+Underfull \hbox (badness 4353) in paragraph at lines 208--209
+[]\TU/LatinModernRoman(0)/m/n/10 5[]), \TU/NotoSerif(1)/m/n/10 мөн хуурай газар
+ руу чиглэсэн усан
+
+Underfull \hbox (badness 1014) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 төхөөрөмж худалдан авсан талаар ярив\TU/LatinModernRom
+an(0)/m/it/10 ...
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 Тэр тоног төхөөрөмж нь суурилагдах
+[5]
+Underfull \hbox (badness 3364) in paragraph at lines 229--230
+[]\TU/NotoSerif(1)/m/n/10 Хэрвээ үнэхээр бидний хөл доор нүсэр
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 том\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/
+n/10 нууц\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 тив дамнасан\
+TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 гадаргуугаас
+
+Underfull \hbox (badness 2762) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 бааз\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m
+/n/10 тэдгээрийг холбосон дуунаас хурдан
+
+Underfull \hbox (badness 8000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 вакум хоолойн соронзон хөвөлттэй галт
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 тэрэг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 бидний хөдөлмөрийн үр шимээр
+
+Underfull \hbox (badness 2126) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 санхүүжүүлэгдсэн байгаа бол өнөөдөр хүн
+
+Underfull \hbox (badness 3547) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 мэдэлгүй\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(
+1)/m/n/10 улстөрч \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 арчил
+ж дэмжигчдийн\TU/LatinModernRoman(0)/m/n/10 "
+
+Underfull \hbox (badness 5119) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 нь хоосон\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 хоорондоо хуйвалдан бэлдсэн
+
+Underfull \hbox (badness 1122) in paragraph at lines 231--232
+[]\TU/NotoSerif(1)/m/n/10 Нэмэлт тайлбар \TU/LatinModernRoman(0)/m/n/10 - \TU/N
+otoSerif(1)/m/n/10 Ойрх дорнодод өрнөж
+
+Underfull \hbox (badness 8189) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 хонгилын сүлжээнүүдийн оршин байгааг
+
+Underfull \hbox (badness 2970) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 доор ухсан ХАМАС\TU/LatinModernRoman(0)/m/n/10 -\TU/Not
+oSerif(1)/m/n/10 ын хонгилууд \TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSeri
+f(1)/m/n/10 мөн
+
+Underfull \hbox (badness 5970) in paragraph at lines 231--232
+[]\TU/LatinModernRoman(0)/m/n/10 7[]) [[], []]). \TU/NotoSerif(1)/m/n/10 Эдгээр
+ нь ийнхүү бүтцийг
+
+Underfull \hbox (badness 4205) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барих боломж болон бодитойгоор оршин
+
+Underfull \hbox (badness 6775) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 байгаа эсэхэд эргэлзэх зай үлдээлгүйгээр
+
+Underfull \hbox (badness 2080) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барьсан байж болох талаар бидэнд бодол
+
+Underfull \hbox (badness 1552) in paragraph at lines 233--233
+[] \TU/LatinModernRoman(0)/b/n/11 . \TU/NotoSerif(1)/b/n/11 Нэмэлт нөөц хонгил\
+TU/LatinModernRoman(0)/b/n/11 , \TU/NotoSerif(1)/b/n/11 гамшгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 8. []\TU/NotoSerif
+(1)/m/n/9 Өмнөд Тирол дахь хоргодох байр\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 4181) in paragraph at lines 240--240
+\TU/NotoSerif(1)/m/n/9 Швейцар\TU/LatinModernRoman(0)/m/n/9 . \TU/NotoSerif(1)/
+m/n/9 Европын Альпын нуруу дамжсан
+
+Underfull \hbox (badness 1286) in paragraph at lines 250--250
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 9. []\TU/NotoSerif
+(1)/m/n/9 Норвегт байрлах Свалбардын Дэлхийн
+
+Underfull \hbox (badness 2261) in paragraph at lines 250--250
+\TU/LatinModernRoman(0)/m/n/9 [[]]. \TU/NotoSerif(1)/m/n/9 Ямар нөхцөлд уг асар
+ нөөцийг ашиглах
+
+Underfull \hbox (badness 3536) in paragraph at lines 250--250
+\TU/NotoSerif(1)/m/n/9 шаардлагатай болох талаар гайхахгүй байхын
+[6]
+Underfull \hbox (badness 5893) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 энэ жил Нью Йоркер сэтгүүлд хэлэхдээ
+
+Underfull \hbox (badness 4441) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 Силикон хөндийн тэрбумтнуудын \TU/LatinModernRoman(0)/
+m/it/10 50%-\TU/NotoSerif(1)/m/it/10 иас
+
+Underfull \hbox (badness 6001) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 илүү нь ямар нэг \TU/LatinModernRoman(0)/m/it/10 "\TU/
+NotoSerif(1)/m/it/10 гамшгийн даатгал\TU/LatinModernRoman(0)/m/it/10 ",
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 жишээлбэл газрын доорх хоргодох байр
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 гамшгийн үед хадгалахаар зорилготой
+
+Underfull \hbox (badness 7576) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 үрийн сан \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoS
+erif(1)/m/n/10 зэрэг томоохон архивын
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerif(1)/b/n/12 Асар том газар доор
+х
+
+Underfull \hbox (badness 3118) in paragraph at lines 276--276
+\TU/NotoSerif(1)/b/n/12 баазуудыг ардчилсан байдлаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 хэрхэн харанхуйд байлгах вэ\TU/LatinModernRoman(0)/m/n/
+10 ? \TU/NotoSerif(1)/m/n/10 Эдгээр
+
+Underfull \hbox (badness 7851) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 төслүүдэд ямар хэмжээний мөнгө ордог\TU/LatinModernRoma
+n(0)/m/n/10 ,
+
+Underfull \hbox (badness 1454) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 Остин Фитс болон Мичиганы Мужийн Их
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 онуудад зөвшөөрөлгүйгээр \TU/LatinModernRoman(0)/m/n/10
+ 21 \TU/NotoSerif(1)/m/n/10 их наяд
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 ам\TU/LatinModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/
+10 долларын зарцуулалт хийсэн болохыг
+
+Underfull \hbox (badness 6526) in paragraph at lines 280--281
+[]\TU/NotoSerif(1)/m/n/10 Тэдний илтгэлд дурдсанаар\TU/LatinModernRoman(0)/m/n/
+10 , \TU/LatinModernRoman(0)/m/it/10 "2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 3815) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Скэт Палтроу \TU/LatinModernRoman(0)/m/it/10 (2016) \T
+U/NotoSerif(1)/m/it/10 нийтлэл нийтэлсэн
+
+Underfull \hbox (badness 3199) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ө\TU/LatinModernRoman(0)/m/it/10 ̈\TU/NotoSerif(1)/m/i
+t/10 рийн дэвтрүүдээ тэнцвэртэй харагдуулах
+
+Underfull \hbox (badness 1400) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам \TU/LatinModernRoman(0)/m/it/10 $2.3 \TU/NotoSerif
+(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10
+ долларын гүйлгээний
+
+Underfull \hbox (badness 5105) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 баримтыг алдсан гэж хэлснээр нягтлан
+
+Underfull \hbox (badness 7397) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 бодох бүртгэлийн асуудлаараа томоохон
+
+Underfull \hbox (badness 3118) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 өдөр мэдээний гарчиг болсон ч маргааш
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 нь \TU/LatinModernRoman(0)/m/it/10 9/11-\TU/NotoSerif(
+1)/m/it/10 ийн гамшиг дэлхийн анхаарлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 татсанаар мартагдсан\TU/LatinModernRoman(0)/m/it/10 ..
+. \TU/NotoSerif(1)/m/it/10 Профессор
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Марк Скидмор Армийн нотлогдоогүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/LatinModernRoman(0)/m/it/10 $6.5 \TU/NotoSerif(1)/m/it/10 их наяд ам\TU/Lat
+inModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10 долларын гүйлгээний
+
+Underfull \hbox (badness 5175) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 холбогдож\TU/LatinModernRoman(0)/m/it/10 , 2017 \TU/No
+toSerif(1)/m/it/10 оны хавартаа хамтран
+
+Underfull \hbox (badness 3068) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ажиллаж\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+(1)/m/it/10 Орон сууц\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it/10
+ хот байгуулалтын
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам болон Батлан хамгаалах яаманд
+
+Underfull \hbox (badness 1253) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 газрын баримтыг цуглуулж\TU/LatinModernRoman(0)/m/it/1
+0 , 1998-2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 1584) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 хугацаанд нийт \TU/LatinModernRoman(0)/m/it/10 $21 \TU
+/NotoSerif(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(
+1)/m/it/10 долларын
+[7]
+Underfull \hbox (badness 6842) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 хэсэг нь газар доорх баазуудад нууцаар
+
+Underfull \hbox (badness 6559) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 зарцуулагдсан ба үүн дээр олон нийтэд
+
+Underfull \hbox (badness 2990) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 олон жилийн турш үргэлжилсэн төсвийн
+
+Underfull \hbox (badness 4254) in paragraph at lines 282--283
+\TU/LatinModernRoman(0)/m/n/10 2016-2023 \TU/NotoSerif(1)/m/n/10 оны зарлагын х
+увьтай адилтган
+
+Underfull \hbox (badness 1715) in paragraph at lines 284--285
+[]\TU/LatinModernRoman(0)/m/n/10 2021 \TU/NotoSerif(1)/m/n/10 онд Марк Скидмор 
+энэ судалгаагаа
+
+Underfull \hbox (badness 4242) in paragraph at lines 284--285
+\TU/LatinModernRoman(0)/m/n/10 94.7 \TU/NotoSerif(1)/m/n/10 их наяд ам\TU/Latin
+ModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/10 долларын нягтлан бодох
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+\TU/NotoSerif(1)/m/n/10 бүртгэлийн тохируулга хийсэн тухай
+
+Underfull \hbox (badness 2237) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 учир нь хөрөнгийг гартаа авсан барууны
+
+Underfull \hbox (badness 7796) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 бүрийн онол таамаг дэвшүүлэхдээ олны
+
+Underfull \hbox (badness 2119) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хүртэл багтаадаг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 миний хамгийн сайн
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 нэгэн нэрээ нууцалсан блогчин хүний
+
+Underfull \hbox (badness 1377) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 амьдралын бүтээлээс олж болно\TU/LatinModernRoman(0)/m/
+n/10 . \TU/NotoSerif(1)/m/n/10 Түүний
+
+Underfull \hbox (badness 2913) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хамарсан юм \TU/LatinModernRoman(0)/m/n/10 [[], []]. \T
+U/NotoSerif(1)/m/n/10 Би түүний ажлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 удахгүй болох геофизикийн сүйрлийн
+
+Underfull \hbox (badness 6141) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 талаарх \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1
+)/m/n/10 зөгнөлт\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж ит
+гэлтэйгээр хэлж
+[8]
+Underfull \hbox (badness 2197) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 бүлгийг тодорхойлж\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 эдгээрийг нийлүүлэн
+
+Underfull \hbox (badness 3503) in paragraph at lines 290--291
+\TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 Йовын үр сад\TU/LatinMo
+dernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж нэрлэсэн бөгөөд тэд
+
+Underfull \hbox (badness 1616) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 галав юүлэх аюулын тухай мэдлэгтэй гэж
+
+Underfull \hbox (badness 2556) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 өнөөгийн барууны улсуудыг удирддаг гэж
+
+Underfull \hbox (badness 3460) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 итгэдэг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 гарал үүсэл\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 
+түүхэн үнэн дүр
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+[]\TU/NotoSerif(1)/m/n/10 Гурван бүлгийг ерөнхийд нь дараах
+
+Underfull \hbox (badness 1281) in paragraph at lines 302--303
+[]\TU/NotoSerif(1)/m/n/10 Өнөө үед эдгээр гурван бүлэглэл нийлж
+
+Underfull \hbox (badness 1924) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Европын Иллюминатууд\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NotoSerif(1)/m/n/10 Чөлөөт өрлөгүүд\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн бичсэнээр\TU/LatinModernRoman(0)/m/n/10 ,
+ \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Яг одоо\TU/LatinMode
+rnRoman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1360) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 одоогийн ерөнхийлөгч хүртэл мэдэх ёсгүй\TU/LatinModern
+Roman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1939) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 тусгай зөвшөөрлийн ард сайнаар нуугдаж
+
+Underfull \hbox (badness 3281) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Өөрөөр хэлбэл\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it
+/10 тэд өөрсдийгөө
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 олон нийтийн хяналтаас төгс нуудаг
+
+Underfull \hbox (badness 3098) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 Нэгдсэн Улсын цэргийн болон засгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 эрхийг төдийгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 цаасан мөнгөний
+
+Underfull \hbox (badness 3343) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 хүч\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 томоохон корпорацууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 өөрсдийн
+
+Underfull \hbox (badness 4084) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 бүтээсэн бүгд найрамдах засаглалаар
+
+Underfull \hbox (badness 1796) in paragraph at lines 302--303
+\TU/LatinModernRoman(0)/b/it/10 (\TU/NotoSerif(1)/b/it/10 улс төрчид амархан ав
+лигад өртдөг\TU/LatinModernRoman(0)/b/it/10 ,
+
+Underfull \hbox (badness 3965) in paragraph at lines 324--325
+[]\TU/NotoSerif(1)/m/n/10 Амаллуллагийн хэлснээр\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NotoSerif(1)/m/n/10 эдгээр хүмүүс
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашныг басамжилж\TU/LatinModernRoman(0)/m/n/10 , \TU/No
+toSerif(1)/m/n/10 дэлхийн томоохон
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашнуудын ариун судруудыг өөрсдийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 дайснууддаа өршөөлгүй ханддаг\TU/LatinModernRoman(0)/m/
+n/10 : \TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModernRoman(0)/b/it/10 2600
+
+Underfull \hbox (badness 1789) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 гаруй жилийн хугацаанд тэд дэлхийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 төгсгөлийн тухай онцгой мэдлэгтэй
+
+Underfull \hbox (badness 6876) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 байсан хэнийг ч бай системтэйгээр
+
+Underfull \hbox (badness 1215) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 арабчууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSeri
+f(1)/b/it/10 энэтхэгийн мэргэдийг хэлээд
+
+Underfull \hbox (badness 6927) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 зогсохгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSer
+if(1)/b/it/10 Өмнөд Америкийн сунасан
+
+Underfull \hbox (badness 2073) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 Америкийн \TU/LatinModernRoman(0)/b/it/10 “\TU/NotoSer
+if(1)/b/it/10 уугуул иргэд\TU/LatinModernRoman(0)/b/it/10 ”-\TU/NotoSerif(1)/b/
+it/10 ыг устгасан
+[9]
+Underfull \hbox (badness 4096) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 төслийг бүхэлд нь \TU/LatinModernRoman(0)/m/n/10 "\TU/N
+otoSerif(1)/m/n/10 Пайкс Пик Батолит\TU/LatinModernRoman(0)/m/n/10 "-
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 ийг хянах зорилгоор хэрэгжүүлсэн гэж
+
+Underfull \hbox (badness 2103) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 үзсэн бөгөөд энэхүү боржин уулын нуруу
+
+Underfull \hbox (badness 7685) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 нь Газрын ховор геофизикийн гамшгаас
+
+Underfull \hbox (badness 7362) in paragraph at lines 326--327
+[]\TU/LatinModernRoman(0)/m/n/10 12[]). \TU/NotoSerif(1)/m/n/10 Амаллуллагийн х
+элснээр\TU/LatinModernRoman(0)/m/n/10 , \TU/LatinModernRoman(0)/m/it/10 "\TU/No
+toSerif(1)/m/it/10 АНУ\TU/LatinModernRoman(0)/m/it/10 -\TU/NotoSerif(1)/m/it/10
+ ын
+
+Underfull \hbox (badness 1147) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 өндөрт\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(
+1)/m/it/10 далайн эргээс ийм хол байрладаг
+
+Underfull \hbox (badness 2961) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хөдөлгөөний гажилтад тэсвэртэй үлдэхэд
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хамгийн тохиромжтой байрлал\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/LatinModernRoman(0)/m/n/10 [[], []].
+
+Underfull \hbox (badness 3849) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн судалгааны дагуу өнөөдөр
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 өргөн хэмжээний газар доорх хонгилын
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 мянган жилийн турш дэлхийд давтан
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 тохиох галав юүлэлтийн тухай мэдлэгээ
+
+Underfull \hbox (badness 3148) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 болгоомжтой хадгалж ирсэн\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 тун удахгүй
+
+Underfull \hbox (badness 7796) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хоргодох байгууламж барьсан\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSerif(1)/m/n/10 мөн ийм
+
+Underfull \hbox (badness 4660) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 дэлгэрэнгүй тайлбарласан\TU/LatinModernRoman(0)/m/n/10 
+. \TU/NotoSerif(1)/m/n/10 Энэ бүхнийг
+
+Underfull \hbox (badness 2478) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хэрхэн санхүүжүүлсэн тухай Америк дахь
+
+Underfull \hbox (badness 2781) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 баримтуудыг мөн дурдсан бөгөөд\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSerif(1)/m/n/10 нөхцөл
+
+Underfull \hbox (badness 6792) in paragraph at lines 332--333
+[]\TU/NotoSerif(1)/m/n/10 Ойртож буй геофизикийн үйл явдлын
+
+Underfull \hbox (badness 2277) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 дэлхийн гео\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoSeri
+f(1)/m/n/10 соронзон орон зай хурдацтай
+
+Underfull \hbox (badness 5924) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 өөрчлөгдөж байгаа явдал юм\TU/LatinModernRoman(0)/m/n/1
+0 . \TU/NotoSerif(1)/m/n/10 Энэ нь
+
+Underfull \hbox (badness 2781) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 байгаа \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSerif(1)
+/m/n/10 Зураг []\TU/LatinModernRoman(0)/m/n/10 13[]) \TU/NotoSerif(1)/m/n/10 бо
+лон Өмнөд Атлантын
+
+Underfull \hbox (badness 3977) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 соронзон орон зайн суларч\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 гажиж буйг
+
+Underfull \hbox (badness 4981) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэмжихэд илэрхий байгаагаар нотлогдоно
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 анхны хоёр \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/Noto
+Serif(1)/m/n/10 өгүүлэлд нарийвчлан
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэлэлцсэн бөгөөд тэдгээрийг миний
+
+Underfull \hbox (badness 2103) in paragraph at lines 344--345
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Энд би таны төсөөллий
+г туйлын заагт
+
+Underfull \hbox (badness 1546) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 одоо амьдарч буй\TU/LatinModernRoman(0)/m/it/10 , \TU/
+NotoSerif(1)/m/it/10 бага наснаасаа мэддэг
+
+Underfull \hbox (badness 1668) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 байлгахыг зорьсон\TU/LatinModernRoman(0)/m/it/10 , \TU
+/NotoSerif(1)/m/it/10 бүрэн зохиомол бодит
+
+Underfull \hbox (badness 2818) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 үүнийг би сүйрлийн нэгдмэл үзлийн уриа
+
+Underfull \hbox (badness 1521) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Харин надад хамгийн хэцүү нь хэлэх гэж
+
+Underfull \hbox (badness 1527) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 явдал\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1
+)/m/it/10 Яг одоогоор Матрикстай зүйрлэх
+
+Underfull \hbox (badness 1838) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нийтэд зөвшөөрөгдсөн шинжлэх ухаан
+
+Underfull \hbox (badness 1377) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нэг юман дээр л\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 газар дэлхийн хөрс
+
+Underfull \hbox (badness 8075) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Матрикс гэх компьютерын загварчилсан
+
+Underfull \hbox (badness 1577) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 бодит байдалд амьдарч байсныгаа ойлгох
+
+Underfull \vbox (badness 1210) has occurred while \output is active [10]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]\TU/NotoSerif(1)/m/n/10 Мэдлэгээ нийтийн хүртээл болгон
+
+Underfull \hbox (badness 1715) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 энэ ажил боломжгүй байх байсан ба хүн
+
+Underfull \hbox (badness 1014) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 төрөлхтөн харанхуйд үлдэх байлаа\TU/LatinModernRoman(0)
+/m/n/10 . \TU/NotoSerif(1)/m/n/10 Таны
+[11] (./mongoliantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 60--63
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/6‑literature‑media/amallulla”.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[12]) [13] (./mongoliantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on mongoliantranslated.pdf (13 pages).
+Transcript written on mongoliantranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./mongoliantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+
+Package fontspec Warning: Font "Noto Serif" does not contain requested Script
+(fontspec)                "Mongolian".
+
+(./cvpr.sty (./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 86.
+
+(./mongoliantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 99.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 100.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 Энэхүү судалгаа нь барууны засаглалын
+
+Underfull \hbox (badness 7796) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 эрх мэдэлтнүүд ойрын ирээдүйд тохиох
+
+Underfull \hbox (badness 1688) in paragraph at lines 112--114
+\TU/NotoSerif(1)/m/it/10 геофизикийн гамшигт бэлтгэж буй өргөн
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдүүлгийг цуглуулдаг чөлөөт хэвлэл
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 мэдээллийн байгууллага болох Камелот
+
+Underfull \hbox (badness 4416) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 болон улс төрийн төлөвлөгөөнүүд бөгөөд
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/NotoSerif(1)/m/n/10 удахгүй тохиох \TU/LatinModernRoman(0)/b/n/10 "\TU/Noto
+Serif(1)/b/n/10 геофизикийн үзэгдэл\TU/LatinModernRoman(0)/b/n/10 "\TU/LatinMod
+ernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 байсан ба зарим нь ч нэлээд язгууртны
+
+Underfull \hbox (badness 3179) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 албаны тушаал өндөртэй хүмүүс ба нэг
+
+Underfull \hbox (badness 6364) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 цэргийн хүн байсан\TU/LatinModernRoman(0)/m/it/10 . \T
+U/NotoSerif(1)/m/it/10 Хоёул улс даяар
+
+Underfull \hbox (badness 2875) in paragraph at lines 136--137
+\TU/NotoSerif(1)/m/it/10 газарт зөвлөх байр суурьтай хүмүүс юм
+
+Underfull \hbox (badness 1394) in paragraph at lines 136--137
+\TU/LatinModernRoman(0)/m/it/10 — \TU/NotoSerif(1)/m/it/10 яг одоогийн байдлаар
+\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinModernRoman(0)/m/n/10 [[]]. \TU/Noto
+Serif(1)/m/n/10 Мэдээлэгч
+[1]
+Underfull \hbox (badness 1127) in paragraph at lines 149--150
+[]\TU/NotoSerif(1)/m/n/10 Гэвч хамгийн чухал зүйл нь эдгээр үйл
+
+Underfull \hbox (badness 3209) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нэгэн үзэгдэл болох ба энэ нь хүн бүрд
+
+Underfull \hbox (badness 6300) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/it/10 нөлөөлнө\TU/LatinModernRoman(0)/m/it/10 " \TU/LatinMod
+ernRoman(0)/m/n/10 [[]]. \TU/NotoSerif(1)/m/n/10 Мэдээлэгч хэлэхдээ энэ
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\TU/NotoSerif(1)/m/n/10 геофизикийн үзэгдлийн үед\TU/LatinModernRoman(0)/m/n/10
+ , \TU/LatinModernRoman(0)/b/it/10 "\TU/NotoSerif(1)/b/it/10 Дэлхийн
+
+Underfull \hbox (badness 1635) in paragraph at lines 149--150
+\TU/NotoSerif(1)/b/it/10 царцдас ойролцоогоор \TU/LatinModernRoman(0)/b/it/10 3
+0 \TU/NotoSerif(1)/b/it/10 градус\TU/LatinModernRoman(0)/b/it/10 , 1700-
+
+Underfull \hbox (badness 4673) in paragraph at lines 151--152
+[]\TU/NotoSerif(1)/m/n/10 Энэ бүх нууц төлөвлөгөөний шалтгаан
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 нь мэдээж эрх мэдэл юм\TU/LatinModernRoman(0)/m/n/10 . 
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгч
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон биологийн дайныг даван гарсан
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ам эрс буурна\TU/LatinModernRoman(0)/m/it/10 . \TU/Not
+oSerif(1)/m/it/10 Энэ геофизикийн гамшиг
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ойролцоогоор тэн хагас болж багасах
+
+Underfull \hbox (badness 1052) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байх\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1)
+/m/it/10 Үүнийг давж үлдсэн хүмүүс дэлхий
+
+Underfull \hbox (badness 3612) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болон үлдсэн хүн амыг дараачийн эринд
+
+Underfull \hbox (badness 1248) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 удирдах хүмүүсийг тодорхойлно\TU/LatinModernRoman(0)/m
+/it/10 . \TU/NotoSerif(1)/m/it/10 Тэгэхээр
+
+Underfull \hbox (badness 1389) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 бид гамшгийн дараах эрнийг ярьж байна\TU/LatinModernRo
+man(0)/m/it/10 .
+
+Underfull \hbox (badness 1226) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 үхэн хатан зүтгэж байгаа\TU/LatinModernRoman(0)/m/it/1
+0 . \TU/NotoSerif(1)/m/it/10 Замбараагүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 байдал дэгдэхээс өмнө зайлшгүй бүтэц
+
+Underfull \hbox (badness 3271) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь бэлэн байх ёстой\TU/LatinModernRoman(0)/m/it/10 , \
+TU/NotoSerif(1)/m/it/10 ингэснээр ирээдүйд
+
+Underfull \hbox (badness 2418) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 болох гамшгаас амьд мултарч\TU/LatinModernRoman(0)/m/i
+t/10 , \TU/NotoSerif(1)/m/it/10 маргааш
+
+Underfull \hbox (badness 5105) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 нь хоёр хөл дээрээ зогсоод\TU/LatinModernRoman(0)/m/it
+/10 , \TU/NotoSerif(1)/m/it/10 эрх мэдлээ
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 хадгалан\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSeri
+f(1)/m/it/10 өмнөх хүчээ тогтоон барих
+
+Underfull \hbox (badness 4467) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 ажиллагаа\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif
+(1)/m/n/10 буюу Английн эртний уугуул
+
+Underfull \hbox (badness 1845) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/n/10 иргэдийн ажиллагаа гэж нэрлэгддэг тухай
+
+Underfull \hbox (badness 4582) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 цаад шалтгаан нь үндсэндээ төлөвлөгөө
+
+Underfull \hbox (badness 1688) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 уугуул ард түмэн уг шинэ дэлхийг дахин
+
+Underfull \hbox (badness 2343) in paragraph at lines 151--152
+\TU/NotoSerif(1)/m/it/10 ба үүнийгээ эргэн тойронд ямар ч амьд
+
+Underfull \hbox (badness 3396) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/n/10 өөрийн тааврыг дэвшүүлсэн нь\TU/LatinModernRoman(0)/m/n
+/10 : \TU/LatinModernRoman(0)/m/it/10 "...\TU/NotoSerif(1)/m/it/10 өөрт
+
+Underfull \hbox (badness 1132) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 төрсөн зөнгөөрөө таамаглан хэлбэл\TU/LatinModernRoman(
+0)/m/it/10 , \TU/NotoSerif(1)/m/it/10 одоо
+
+Underfull \hbox (badness 1783) in paragraph at lines 153--154
+\TU/NotoSerif(1)/b/it/10 жилийн дотор тохиох нь гарцаагүй\TU/LatinModernRoman(0
+)/m/it/10 ...
+
+Underfull \hbox (badness 1107) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа үе рүү аль хэдийн орчихсон байна\TU/LatinModern
+Roman(0)/m/it/10 .
+
+Underfull \hbox (badness 1748) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 өмнө болсон бөгөөд\TU/LatinModernRoman(0)/m/it/10 , \T
+U/NotoSerif(1)/m/it/10 энэ нь ойролцоогоор
+
+Underfull \hbox (badness 2564) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 ... \TU/NotoSeri
+f(1)/m/it/10 Давтан хэлэхэд\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m
+/it/10 тэд мэдэхгүй
+
+Underfull \hbox (badness 5036) in paragraph at lines 153--154
+\TU/NotoSerif(1)/m/it/10 байна гэдэг нь байж боломгүй зүйл \TU/LatinModernRoman
+(0)/m/it/10 —
+
+Underfull \vbox (badness 5050) has occurred while \output is active [2]
+Underfull \hbox (badness 1655) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Ярилцлагын үеэр тэрээр мөн дэлхийн нэг
+
+Underfull \hbox (badness 1755) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 болон хоёрдугаар дайн нь зохиомол дайн
+
+Underfull \hbox (badness 2828) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Английн эртний уугуул ардын ажиллагаа
+
+Underfull \hbox (badness 4660) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 нь бараг л баттайгаар олон үе дамжин
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\TU/NotoSerif(1)/m/n/10 Мэдээлэгчийн хэлсэнчлэн геофизикийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]\TU/NotoSerif(1)/m/n/10 Давтан тохиох усан галавын талаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 барууны мэдлэг маш сайн хадгалагдсан
+
+Underfull \hbox (badness 2478) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 бөгөөд энэ нь зөвхөн Чөлөөт өрлөгүүдээр
+
+Underfull \hbox (badness 4967) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 хязгаарлагдахгүй\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerif(1)/m/n/10 Хамгийн багадаа \TU/LatinModernRoman(0)/m/n/10 2400
+
+Underfull \hbox (badness 5924) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 жилийн түүхтэй Кельтийн эртний соёлт
+
+Underfull \hbox (badness 4341) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 Друидууд \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoSe
+rif(1)/m/n/10 дэлхий дээр давтан болдог
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 гамшигт явдлуудын тухай мэдлэгийг
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/n/10 мэдээллийг хуваалцсан\TU/LatinModernRoman(0)/m/n/10 : \
+TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Уламжлалын
+
+Underfull \hbox (badness 1303) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 дагуу би сүүлчийн гишүүн нь байж болох
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 баримт нь сүүлчийн их галав юүлэлт
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 буюу дэлхийг хамарсан сүйрлийн дараа
+
+Underfull \hbox (badness 1527) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрэл амссаных\TU/LatinModernRoman(0)/m/it/10 . \TU/N
+otoSerif(1)/m/it/10 Бүрэн хэмжээний одон
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 орон судлалын мэдлэгтэй байснаар уг
+
+Underfull \hbox (badness 1584) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 сүйрлүүд болж болзошгүй нөхцөл байдлыг
+
+Underfull \hbox (badness 2781) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 арга хэмжээ авах боломжтой гэж үздэг
+
+Underfull \hbox (badness 6268) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байжээ\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Ирландын агуйны нүсэр том
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 байгууламжуудыг ажиглавал \TU/LatinModernRoman(0)/m/it
+/10 '\TU/NotoSerif(1)/m/it/10 ногоон
+
+Underfull \hbox (badness 2452) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 маш бүдүүн хүлэмж маягийн бөмбөгнөөс
+
+Underfull \hbox (badness 1622) in paragraph at lines 159--160
+\TU/NotoSerif(1)/m/it/10 хамгаалах барилга байгууламжууд гэдгийг
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Underfull \hbox (badness 3646) in paragraph at lines 164--165
+[]\TU/NotoSerif(1)/m/n/10 Үндсэндээ барууны эрх баригч хүчнүүд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 дэлхий нийтийн геофизикийн сүйрэл
+
+Underfull \hbox (badness 2359) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 ойртоод байна гэж үзэж байгаа бол ийм
+
+Underfull \hbox (badness 1394) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үйл явдлаас өөрсдийгөө хамгаалахын тулд
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 суурилагдсан нууц хонгилын баазуудын
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 үед оршин суугчдаа хамгаалж чадахаас
+
+Underfull \hbox (badness 4569) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 гадна төрөл бүрийн байгалийн гамшгаас
+
+Underfull \hbox (badness 2310) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 нь зүгээр нэг боломжит хувилбарууд бус\TU/LatinModernRo
+man(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 байгууламжуудыг барих\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerif(1)/m/n/10 хүний нөөцөөр
+
+Underfull \hbox (badness 2837) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 хангах\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)
+/m/n/10 засвар үйлчилгээ хийхэд асар их
+
+Underfull \hbox (badness 3323) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 мөнгө шаардагдах бөгөөд энэ нь АНУ\TU/LatinModernRoman(
+0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 ын
+
+Underfull \hbox (badness 6575) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 засгийн газарт \TU/LatinModernRoman(0)/m/n/10 18 \TU/No
+toSerif(1)/m/n/10 жилийн туршид алга
+
+Underfull \hbox (badness 1331) in paragraph at lines 164--165
+\TU/NotoSerif(1)/m/n/10 болсон хэдэн арван их наяд ам\TU/LatinModernRoman(0)/m/
+n/10 .\TU/NotoSerif(1)/m/n/10 доллартой
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бичиг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 төлөвлөгөөг цуглуулж архивлах\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 2884) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 тэрэгнүүдээр холбоотой байх магадлалтай\TU/LatinModernR
+oman(0)/m/n/10 .
+
+Underfull \hbox (badness 6125) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 Эдгээр баазуудыг \TU/LatinModernRoman(0)/m/it/10 "\TU/N
+otoSerif(1)/m/it/10 төсөв өндөртэй\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSer
+if(1)/m/it/10 олон
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/it/10 тоглоом\TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModer
+nRoman(0)/m/n/10 -\TU/NotoSerif(1)/m/n/10 оор санхүүжүүлдэг бөгөөд энэ
+
+Underfull \hbox (badness 5133) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нь Америкийн Нэгдсэн Улс гэдэг нэртэй
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 компанийг эзэмшдэг хүмүүстэй ижил
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 бүлэглэлийн бүрэн хяналтад байдаг \TU/LatinModernRoman(
+0)/m/n/10 [[]].
+
+Underfull \hbox (badness 1584) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 хэсэгт дурдагдана\TU/LatinModernRoman(0)/m/n/10 ) \TU/N
+otoSerif(1)/m/n/10 болон түүний хамтрагч
+
+Underfull \hbox (badness 5711) in paragraph at lines 168--169
+\TU/NotoSerif(1)/m/n/10 нэгэн судлаачийн хамт эдгээр баазуудын
+
+Underfull \hbox (badness 5359) in paragraph at lines 188--189
+[]\TU/NotoSerif(1)/m/n/10 Энд Саудерын эх сурвалжуудаас эдгээр
+[4]
+Underfull \hbox (badness 1874) in paragraph at lines 203--203
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 5. []\TU/NotoSerif
+(1)/m/n/9 Усан доорх баазын зураглал\TU/LatinModernRoman(0)/m/n/9 , \TU/NotoSer
+if(1)/m/n/9 Вальтер
+
+Underfull \hbox (badness 3724) in paragraph at lines 203--203
+\TU/NotoSerif(1)/m/n/9 Зэвсгийн төвийн Тэнгисийн цэргийн Рок\TU/LatinModernRoma
+n(0)/m/n/9 -\TU/NotoSerif(1)/m/n/9 сайт
+
+Underfull \hbox (badness 1715) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 доорх соронзон хөвөлтийн галт тэрэгнүүд\TU/LatinModernR
+oman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/n/10 далайн ёроолд баригдсан баазууд \TU/LatinModernRoman(0)
+/m/n/10 (\TU/NotoSerif(1)/m/n/10 Зураг
+
+Underfull \hbox (badness 4353) in paragraph at lines 208--209
+[]\TU/LatinModernRoman(0)/m/n/10 5[]), \TU/NotoSerif(1)/m/n/10 мөн хуурай газар
+ руу чиглэсэн усан
+
+Underfull \hbox (badness 1014) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 төхөөрөмж худалдан авсан талаар ярив\TU/LatinModernRom
+an(0)/m/it/10 ...
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\TU/NotoSerif(1)/m/it/10 Тэр тоног төхөөрөмж нь суурилагдах
+[5]
+Underfull \hbox (badness 3364) in paragraph at lines 229--230
+[]\TU/NotoSerif(1)/m/n/10 Хэрвээ үнэхээр бидний хөл доор нүсэр
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 том\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/
+n/10 нууц\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 тив дамнасан\
+TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 гадаргуугаас
+
+Underfull \hbox (badness 2762) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 бааз\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m
+/n/10 тэдгээрийг холбосон дуунаас хурдан
+
+Underfull \hbox (badness 8000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 вакум хоолойн соронзон хөвөлттэй галт
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 тэрэг\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/
+m/n/10 бидний хөдөлмөрийн үр шимээр
+
+Underfull \hbox (badness 2126) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 санхүүжүүлэгдсэн байгаа бол өнөөдөр хүн
+
+Underfull \hbox (badness 3547) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 мэдэлгүй\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(
+1)/m/n/10 улстөрч \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 арчил
+ж дэмжигчдийн\TU/LatinModernRoman(0)/m/n/10 "
+
+Underfull \hbox (badness 5119) in paragraph at lines 229--230
+\TU/NotoSerif(1)/m/n/10 нь хоосон\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 хоорондоо хуйвалдан бэлдсэн
+
+Underfull \hbox (badness 1122) in paragraph at lines 231--232
+[]\TU/NotoSerif(1)/m/n/10 Нэмэлт тайлбар \TU/LatinModernRoman(0)/m/n/10 - \TU/N
+otoSerif(1)/m/n/10 Ойрх дорнодод өрнөж
+
+Underfull \hbox (badness 8189) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 хонгилын сүлжээнүүдийн оршин байгааг
+
+Underfull \hbox (badness 2970) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 доор ухсан ХАМАС\TU/LatinModernRoman(0)/m/n/10 -\TU/Not
+oSerif(1)/m/n/10 ын хонгилууд \TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSeri
+f(1)/m/n/10 мөн
+
+Underfull \hbox (badness 5970) in paragraph at lines 231--232
+[]\TU/LatinModernRoman(0)/m/n/10 7[]) [[], []]). \TU/NotoSerif(1)/m/n/10 Эдгээр
+ нь ийнхүү бүтцийг
+
+Underfull \hbox (badness 4205) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барих боломж болон бодитойгоор оршин
+
+Underfull \hbox (badness 6775) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 байгаа эсэхэд эргэлзэх зай үлдээлгүйгээр
+
+Underfull \hbox (badness 2080) in paragraph at lines 231--232
+\TU/NotoSerif(1)/m/n/10 барьсан байж болох талаар бидэнд бодол
+
+Underfull \hbox (badness 1552) in paragraph at lines 233--233
+[] \TU/LatinModernRoman(0)/b/n/11 . \TU/NotoSerif(1)/b/n/11 Нэмэлт нөөц хонгил\
+TU/LatinModernRoman(0)/b/n/11 , \TU/NotoSerif(1)/b/n/11 гамшгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 8. []\TU/NotoSerif
+(1)/m/n/9 Өмнөд Тирол дахь хоргодох байр\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 4181) in paragraph at lines 240--240
+\TU/NotoSerif(1)/m/n/9 Швейцар\TU/LatinModernRoman(0)/m/n/9 . \TU/NotoSerif(1)/
+m/n/9 Европын Альпын нуруу дамжсан
+
+Underfull \hbox (badness 1286) in paragraph at lines 250--250
+[]\TU/NotoSerif(1)/m/n/9 Зураг \TU/LatinModernRoman(0)/m/n/9 9. []\TU/NotoSerif
+(1)/m/n/9 Норвегт байрлах Свалбардын Дэлхийн
+
+Underfull \hbox (badness 2261) in paragraph at lines 250--250
+\TU/LatinModernRoman(0)/m/n/9 [[]]. \TU/NotoSerif(1)/m/n/9 Ямар нөхцөлд уг асар
+ нөөцийг ашиглах
+
+Underfull \hbox (badness 3536) in paragraph at lines 250--250
+\TU/NotoSerif(1)/m/n/9 шаардлагатай болох талаар гайхахгүй байхын
+[6]
+Underfull \hbox (badness 5893) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 энэ жил Нью Йоркер сэтгүүлд хэлэхдээ
+
+Underfull \hbox (badness 4441) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 Силикон хөндийн тэрбумтнуудын \TU/LatinModernRoman(0)/
+m/it/10 50%-\TU/NotoSerif(1)/m/it/10 иас
+
+Underfull \hbox (badness 6001) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 илүү нь ямар нэг \TU/LatinModernRoman(0)/m/it/10 "\TU/
+NotoSerif(1)/m/it/10 гамшгийн даатгал\TU/LatinModernRoman(0)/m/it/10 ",
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+\TU/NotoSerif(1)/m/it/10 жишээлбэл газрын доорх хоргодох байр
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 гамшгийн үед хадгалахаар зорилготой
+
+Underfull \hbox (badness 7576) in paragraph at lines 267--276
+\TU/NotoSerif(1)/m/n/10 үрийн сан \TU/LatinModernRoman(0)/m/n/10 [[]] \TU/NotoS
+erif(1)/m/n/10 зэрэг томоохон архивын
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerif(1)/b/n/12 Асар том газар доор
+х
+
+Underfull \hbox (badness 3118) in paragraph at lines 276--276
+\TU/NotoSerif(1)/b/n/12 баазуудыг ардчилсан байдлаар
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 хэрхэн харанхуйд байлгах вэ\TU/LatinModernRoman(0)/m/n/
+10 ? \TU/NotoSerif(1)/m/n/10 Эдгээр
+
+Underfull \hbox (badness 7851) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 төслүүдэд ямар хэмжээний мөнгө ордог\TU/LatinModernRoma
+n(0)/m/n/10 ,
+
+Underfull \hbox (badness 1454) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 Остин Фитс болон Мичиганы Мужийн Их
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 онуудад зөвшөөрөлгүйгээр \TU/LatinModernRoman(0)/m/n/10
+ 21 \TU/NotoSerif(1)/m/n/10 их наяд
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/NotoSerif(1)/m/n/10 ам\TU/LatinModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/
+10 долларын зарцуулалт хийсэн болохыг
+
+Underfull \hbox (badness 6526) in paragraph at lines 280--281
+[]\TU/NotoSerif(1)/m/n/10 Тэдний илтгэлд дурдсанаар\TU/LatinModernRoman(0)/m/n/
+10 , \TU/LatinModernRoman(0)/m/it/10 "2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 3815) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Скэт Палтроу \TU/LatinModernRoman(0)/m/it/10 (2016) \T
+U/NotoSerif(1)/m/it/10 нийтлэл нийтэлсэн
+
+Underfull \hbox (badness 3199) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ө\TU/LatinModernRoman(0)/m/it/10 ̈\TU/NotoSerif(1)/m/i
+t/10 рийн дэвтрүүдээ тэнцвэртэй харагдуулах
+
+Underfull \hbox (badness 1400) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам \TU/LatinModernRoman(0)/m/it/10 $2.3 \TU/NotoSerif
+(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10
+ долларын гүйлгээний
+
+Underfull \hbox (badness 5105) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 баримтыг алдсан гэж хэлснээр нягтлан
+
+Underfull \hbox (badness 7397) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 бодох бүртгэлийн асуудлаараа томоохон
+
+Underfull \hbox (badness 3118) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 өдөр мэдээний гарчиг болсон ч маргааш
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 нь \TU/LatinModernRoman(0)/m/it/10 9/11-\TU/NotoSerif(
+1)/m/it/10 ийн гамшиг дэлхийн анхаарлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 татсанаар мартагдсан\TU/LatinModernRoman(0)/m/it/10 ..
+. \TU/NotoSerif(1)/m/it/10 Профессор
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 Марк Скидмор Армийн нотлогдоогүй
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/LatinModernRoman(0)/m/it/10 $6.5 \TU/NotoSerif(1)/m/it/10 их наяд ам\TU/Lat
+inModernRoman(0)/m/it/10 .\TU/NotoSerif(1)/m/it/10 долларын гүйлгээний
+
+Underfull \hbox (badness 5175) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 холбогдож\TU/LatinModernRoman(0)/m/it/10 , 2017 \TU/No
+toSerif(1)/m/it/10 оны хавартаа хамтран
+
+Underfull \hbox (badness 3068) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 ажиллаж\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+(1)/m/it/10 Орон сууц\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it/10
+ хот байгуулалтын
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 яам болон Батлан хамгаалах яаманд
+
+Underfull \hbox (badness 1253) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 газрын баримтыг цуглуулж\TU/LatinModernRoman(0)/m/it/1
+0 , 1998-2016 \TU/NotoSerif(1)/m/it/10 оны
+
+Underfull \hbox (badness 1584) in paragraph at lines 280--281
+\TU/NotoSerif(1)/m/it/10 хугацаанд нийт \TU/LatinModernRoman(0)/m/it/10 $21 \TU
+/NotoSerif(1)/m/it/10 их наяд ам\TU/LatinModernRoman(0)/m/it/10 .\TU/NotoSerif(
+1)/m/it/10 долларын
+[7]
+Underfull \hbox (badness 6842) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 хэсэг нь газар доорх баазуудад нууцаар
+
+Underfull \hbox (badness 6559) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 зарцуулагдсан ба үүн дээр олон нийтэд
+
+Underfull \hbox (badness 2990) in paragraph at lines 282--283
+\TU/NotoSerif(1)/m/n/10 олон жилийн турш үргэлжилсэн төсвийн
+
+Underfull \hbox (badness 4254) in paragraph at lines 282--283
+\TU/LatinModernRoman(0)/m/n/10 2016-2023 \TU/NotoSerif(1)/m/n/10 оны зарлагын х
+увьтай адилтган
+
+Underfull \hbox (badness 1715) in paragraph at lines 284--285
+[]\TU/LatinModernRoman(0)/m/n/10 2021 \TU/NotoSerif(1)/m/n/10 онд Марк Скидмор 
+энэ судалгаагаа
+
+Underfull \hbox (badness 4242) in paragraph at lines 284--285
+\TU/LatinModernRoman(0)/m/n/10 94.7 \TU/NotoSerif(1)/m/n/10 их наяд ам\TU/Latin
+ModernRoman(0)/m/n/10 .\TU/NotoSerif(1)/m/n/10 долларын нягтлан бодох
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+\TU/NotoSerif(1)/m/n/10 бүртгэлийн тохируулга хийсэн тухай
+
+Underfull \hbox (badness 2237) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 учир нь хөрөнгийг гартаа авсан барууны
+
+Underfull \hbox (badness 7796) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 бүрийн онол таамаг дэвшүүлэхдээ олны
+
+Underfull \hbox (badness 2119) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хүртэл багтаадаг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 миний хамгийн сайн
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 нэгэн нэрээ нууцалсан блогчин хүний
+
+Underfull \hbox (badness 1377) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 амьдралын бүтээлээс олж болно\TU/LatinModernRoman(0)/m/
+n/10 . \TU/NotoSerif(1)/m/n/10 Түүний
+
+Underfull \hbox (badness 2913) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 хамарсан юм \TU/LatinModernRoman(0)/m/n/10 [[], []]. \T
+U/NotoSerif(1)/m/n/10 Би түүний ажлыг
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 удахгүй болох геофизикийн сүйрлийн
+
+Underfull \hbox (badness 6141) in paragraph at lines 288--289
+\TU/NotoSerif(1)/m/n/10 талаарх \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1
+)/m/n/10 зөгнөлт\TU/LatinModernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж ит
+гэлтэйгээр хэлж
+[8]
+Underfull \hbox (badness 2197) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 бүлгийг тодорхойлж\TU/LatinModernRoman(0)/m/n/10 , \TU/
+NotoSerif(1)/m/n/10 эдгээрийг нийлүүлэн
+
+Underfull \hbox (badness 3503) in paragraph at lines 290--291
+\TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerif(1)/m/n/10 Йовын үр сад\TU/LatinMo
+dernRoman(0)/m/n/10 " \TU/NotoSerif(1)/m/n/10 гэж нэрлэсэн бөгөөд тэд
+
+Underfull \hbox (badness 1616) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 галав юүлэх аюулын тухай мэдлэгтэй гэж
+
+Underfull \hbox (badness 2556) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 өнөөгийн барууны улсуудыг удирддаг гэж
+
+Underfull \hbox (badness 3460) in paragraph at lines 290--291
+\TU/NotoSerif(1)/m/n/10 итгэдэг ч\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif
+(1)/m/n/10 гарал үүсэл\TU/LatinModernRoman(0)/m/n/10 , \TU/NotoSerif(1)/m/n/10 
+түүхэн үнэн дүр
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+[]\TU/NotoSerif(1)/m/n/10 Гурван бүлгийг ерөнхийд нь дараах
+
+Underfull \hbox (badness 1281) in paragraph at lines 302--303
+[]\TU/NotoSerif(1)/m/n/10 Өнөө үед эдгээр гурван бүлэглэл нийлж
+
+Underfull \hbox (badness 1924) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Европын Иллюминатууд\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NotoSerif(1)/m/n/10 Чөлөөт өрлөгүүд\TU/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн бичсэнээр\TU/LatinModernRoman(0)/m/n/10 ,
+ \TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Яг одоо\TU/LatinMode
+rnRoman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1360) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 одоогийн ерөнхийлөгч хүртэл мэдэх ёсгүй\TU/LatinModern
+Roman(0)/m/it/10 ,
+
+Underfull \hbox (badness 1939) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 тусгай зөвшөөрлийн ард сайнаар нуугдаж
+
+Underfull \hbox (badness 3281) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 байгаа\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(
+1)/m/it/10 Өөрөөр хэлбэл\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(1)/m/it
+/10 тэд өөрсдийгөө
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/m/it/10 олон нийтийн хяналтаас төгс нуудаг
+
+Underfull \hbox (badness 3098) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 Нэгдсэн Улсын цэргийн болон засгийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 эрхийг төдийгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 цаасан мөнгөний
+
+Underfull \hbox (badness 3343) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 хүч\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 томоохон корпорацууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSerif(1)/
+b/it/10 өөрсдийн
+
+Underfull \hbox (badness 4084) in paragraph at lines 302--303
+\TU/NotoSerif(1)/b/it/10 бүтээсэн бүгд найрамдах засаглалаар
+
+Underfull \hbox (badness 1796) in paragraph at lines 302--303
+\TU/LatinModernRoman(0)/b/it/10 (\TU/NotoSerif(1)/b/it/10 улс төрчид амархан ав
+лигад өртдөг\TU/LatinModernRoman(0)/b/it/10 ,
+
+Underfull \hbox (badness 3965) in paragraph at lines 324--325
+[]\TU/NotoSerif(1)/m/n/10 Амаллуллагийн хэлснээр\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NotoSerif(1)/m/n/10 эдгээр хүмүүс
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашныг басамжилж\TU/LatinModernRoman(0)/m/n/10 , \TU/No
+toSerif(1)/m/n/10 дэлхийн томоохон
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 шашнуудын ариун судруудыг өөрсдийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/m/n/10 дайснууддаа өршөөлгүй ханддаг\TU/LatinModernRoman(0)/m/
+n/10 : \TU/LatinModernRoman(0)/m/it/10 "\TU/LatinModernRoman(0)/b/it/10 2600
+
+Underfull \hbox (badness 1789) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 гаруй жилийн хугацаанд тэд дэлхийн
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 төгсгөлийн тухай онцгой мэдлэгтэй
+
+Underfull \hbox (badness 6876) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 байсан хэнийг ч бай системтэйгээр
+
+Underfull \hbox (badness 1215) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 арабчууд\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSeri
+f(1)/b/it/10 энэтхэгийн мэргэдийг хэлээд
+
+Underfull \hbox (badness 6927) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 зогсохгүй\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoSer
+if(1)/b/it/10 Өмнөд Америкийн сунасан
+
+Underfull \hbox (badness 2073) in paragraph at lines 324--325
+\TU/NotoSerif(1)/b/it/10 Америкийн \TU/LatinModernRoman(0)/b/it/10 “\TU/NotoSer
+if(1)/b/it/10 уугуул иргэд\TU/LatinModernRoman(0)/b/it/10 ”-\TU/NotoSerif(1)/b/
+it/10 ыг устгасан
+[9]
+Underfull \hbox (badness 4096) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 төслийг бүхэлд нь \TU/LatinModernRoman(0)/m/n/10 "\TU/N
+otoSerif(1)/m/n/10 Пайкс Пик Батолит\TU/LatinModernRoman(0)/m/n/10 "-
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 ийг хянах зорилгоор хэрэгжүүлсэн гэж
+
+Underfull \hbox (badness 2103) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 үзсэн бөгөөд энэхүү боржин уулын нуруу
+
+Underfull \hbox (badness 7685) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 нь Газрын ховор геофизикийн гамшгаас
+
+Underfull \hbox (badness 7362) in paragraph at lines 326--327
+[]\TU/LatinModernRoman(0)/m/n/10 12[]). \TU/NotoSerif(1)/m/n/10 Амаллуллагийн х
+элснээр\TU/LatinModernRoman(0)/m/n/10 , \TU/LatinModernRoman(0)/m/it/10 "\TU/No
+toSerif(1)/m/it/10 АНУ\TU/LatinModernRoman(0)/m/it/10 -\TU/NotoSerif(1)/m/it/10
+ ын
+
+Underfull \hbox (badness 1147) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 өндөрт\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif(
+1)/m/it/10 далайн эргээс ийм хол байрладаг
+
+Underfull \hbox (badness 2961) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хөдөлгөөний гажилтад тэсвэртэй үлдэхэд
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/it/10 хамгийн тохиромжтой байрлал\TU/LatinModernRoman(0)/m/i
+t/10 " \TU/LatinModernRoman(0)/m/n/10 [[], []].
+
+Underfull \hbox (badness 3849) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 Амаллуллагийн судалгааны дагуу өнөөдөр
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+\TU/NotoSerif(1)/m/n/10 өргөн хэмжээний газар доорх хонгилын
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 мянган жилийн турш дэлхийд давтан
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 тохиох галав юүлэлтийн тухай мэдлэгээ
+
+Underfull \hbox (badness 3148) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 болгоомжтой хадгалж ирсэн\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 тун удахгүй
+
+Underfull \hbox (badness 7796) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хоргодох байгууламж барьсан\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NotoSerif(1)/m/n/10 мөн ийм
+
+Underfull \hbox (badness 4660) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 дэлгэрэнгүй тайлбарласан\TU/LatinModernRoman(0)/m/n/10 
+. \TU/NotoSerif(1)/m/n/10 Энэ бүхнийг
+
+Underfull \hbox (badness 2478) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 хэрхэн санхүүжүүлсэн тухай Америк дахь
+
+Underfull \hbox (badness 2781) in paragraph at lines 330--331
+\TU/NotoSerif(1)/m/n/10 баримтуудыг мөн дурдсан бөгөөд\TU/LatinModernRoman(0)/m
+/n/10 , \TU/NotoSerif(1)/m/n/10 нөхцөл
+
+Underfull \hbox (badness 6792) in paragraph at lines 332--333
+[]\TU/NotoSerif(1)/m/n/10 Ойртож буй геофизикийн үйл явдлын
+
+Underfull \hbox (badness 2277) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 дэлхийн гео\TU/LatinModernRoman(0)/m/n/10 -\TU/NotoSeri
+f(1)/m/n/10 соронзон орон зай хурдацтай
+
+Underfull \hbox (badness 5924) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 өөрчлөгдөж байгаа явдал юм\TU/LatinModernRoman(0)/m/n/1
+0 . \TU/NotoSerif(1)/m/n/10 Энэ нь
+
+Underfull \hbox (badness 2781) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 байгаа \TU/LatinModernRoman(0)/m/n/10 (\TU/NotoSerif(1)
+/m/n/10 Зураг []\TU/LatinModernRoman(0)/m/n/10 13[]) \TU/NotoSerif(1)/m/n/10 бо
+лон Өмнөд Атлантын
+
+Underfull \hbox (badness 3977) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 соронзон орон зайн суларч\TU/LatinModernRoman(0)/m/n/10
+ , \TU/NotoSerif(1)/m/n/10 гажиж буйг
+
+Underfull \hbox (badness 4981) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэмжихэд илэрхий байгаагаар нотлогдоно
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 анхны хоёр \TU/LatinModernRoman(0)/m/n/10 ECDO \TU/Noto
+Serif(1)/m/n/10 өгүүлэлд нарийвчлан
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSerif(1)/m/n/10 хэлэлцсэн бөгөөд тэдгээрийг миний
+
+Underfull \hbox (badness 2103) in paragraph at lines 344--345
+\TU/LatinModernRoman(0)/m/it/10 "\TU/NotoSerif(1)/m/it/10 Энд би таны төсөөллий
+г туйлын заагт
+
+Underfull \hbox (badness 1546) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 одоо амьдарч буй\TU/LatinModernRoman(0)/m/it/10 , \TU/
+NotoSerif(1)/m/it/10 бага наснаасаа мэддэг
+
+Underfull \hbox (badness 1668) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 байлгахыг зорьсон\TU/LatinModernRoman(0)/m/it/10 , \TU
+/NotoSerif(1)/m/it/10 бүрэн зохиомол бодит
+
+Underfull \hbox (badness 2818) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 үүнийг би сүйрлийн нэгдмэл үзлийн уриа
+
+Underfull \hbox (badness 1521) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Харин надад хамгийн хэцүү нь хэлэх гэж
+
+Underfull \hbox (badness 1527) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 явдал\TU/LatinModernRoman(0)/m/it/10 . \TU/NotoSerif(1
+)/m/it/10 Яг одоогоор Матрикстай зүйрлэх
+
+Underfull \hbox (badness 1838) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нийтэд зөвшөөрөгдсөн шинжлэх ухаан
+
+Underfull \hbox (badness 1377) in paragraph at lines 344--345
+\TU/NotoSerif(1)/b/it/10 нэг юман дээр л\TU/LatinModernRoman(0)/b/it/10 , \TU/N
+otoSerif(1)/b/it/10 газар дэлхийн хөрс
+
+Underfull \hbox (badness 8075) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 Матрикс гэх компьютерын загварчилсан
+
+Underfull \hbox (badness 1577) in paragraph at lines 344--345
+\TU/NotoSerif(1)/m/it/10 бодит байдалд амьдарч байсныгаа ойлгох
+
+Underfull \vbox (badness 1210) has occurred while \output is active [10]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]\TU/NotoSerif(1)/m/n/10 Мэдлэгээ нийтийн хүртээл болгон
+
+Underfull \hbox (badness 1715) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 энэ ажил боломжгүй байх байсан ба хүн
+
+Underfull \hbox (badness 1014) in paragraph at lines 350--351
+\TU/NotoSerif(1)/m/n/10 төрөлхтөн харанхуйд үлдэх байлаа\TU/LatinModernRoman(0)
+/m/n/10 . \TU/NotoSerif(1)/m/n/10 Таны
+[11] (./mongoliantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 60--63
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/6‑literature‑media/amallulla”.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[12]) [13] (./mongoliantranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on mongoliantranslated.pdf (13 pages).
+Transcript written on mongoliantranslated.log.

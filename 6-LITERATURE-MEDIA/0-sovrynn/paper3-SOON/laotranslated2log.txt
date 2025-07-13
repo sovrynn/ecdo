@@ -1,0 +1,1007 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated2.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ຮູ້ຈັກ ກັນ ໃນນາມ \TU/LatinModernRoman(0)/m/it/1
+0 ”The Ethical Skeptic” [[]] \TU/NotoSerifLao(0)/m/it/10 ໄດ້
+
+Underfull \hbox (badness 1057) in paragraph at lines 104--108
+\TU/LatinModernRoman(0)/m/it/10 Dzhanibekov \TU/NotoSerifLao(0)/m/it/10 ຂອງ ການ
+ແຍກ ຕົວ ຂອງ ແກນ ໂລກ ແລະ ເປືອກ
+
+Underfull \hbox (badness 1314) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ທີ່ ປ່ອຍ ຄວາມຮ້ອນ ອອກມາ \TU/LatinModernRoman(0)
+/m/it/10 (ECDO) [[]]. \TU/NotoSerifLao(0)/m/it/10 ທິດສະດີ
+
+Underfull \hbox (badness 1939) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ແລ້ວ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ການປ່ຽນແປງ ທີ່ ຮ້າຍແຮງ ຂອງ ແກນ ໝູນວຽນ ຂອງ ມັນ\TU/LatinModernRoma
+n(0)/m/it/10 ,
+[1]
+Underfull \hbox (badness 1412) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາດວ່າ ຈະ
+ ເກີດຂຶ້ນ ຫຼັງຈາກ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+Underfull \hbox (badness 2717) in paragraph at lines 176--189
+[]\TU/NotoSerifLao(0)/m/it/10 ການ ສືບສວນ ສາທາລະນະ ທີ່ ກວ້າງຂວາງ ທີ່ສຸດ ກ່ຽວກັບ 
+ຖານ
+
+Underfull \hbox (badness 2261) in paragraph at lines 176--189
+\TU/NotoSerifLao(0)/m/it/10 ຫຼາຍ ຫົວ ກ່ຽວກັບ ຖານ ທັບ ໃຕ້ດິນ ເລິກ \TU/LatinModer
+nRoman(0)/m/n/10 [[]]. \TU/NotoSerifLao(0)/m/it/10 ຜົນງານ ຂອງ
+
+Underfull \vbox (badness 1436) has occurred while \output is active
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+[4]
+Underfull \vbox (badness 4752) has occurred while \output is active
+Underfull \vbox (badness 2134) has occurred while \output is active [5]
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+Underfull \hbox (badness 1102) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ໃດ ໃນຂະນະທີ່ ປິດບັງ ບໍ່ໃຫ້ ປະຊາຊົນ ຜູ້ ເປັນ ໜີ້ສິນ 
+ຮູ້ ເລີຍ\TU/LatinModernRoman(0)/m/n/10 ? \TU/NotoSerifLao(0)/m/it/10 ມີ
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 2961) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 [[], []]. \TU/NotoSerifLao(0)/m/it/10 ຖ້າ ພວກ ເຮ
+ົາ ຄໍານຶງເຖິງ ການ ປອມແປງ ເງິນໂດລາ
+
+Underfull \hbox (badness 1184) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ໜຶ່ງ ສະຕະວັດ ນັບ ຕັ້ງແຕ່ ການສ້າງ ຕັ້ງ ທະນາຄານ ກາງ ສ
+ະຫະລັດ
+
+Underfull \hbox (badness 1303) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 (Federal Reserve) \TU/NotoSerifLao(0)/m/it/10 ໃນ
+ ປີ \TU/LatinModernRoman(0)/m/n/10 1913 \TU/NotoSerifLao(0)/m/it/10 ເປັນຕົ້ນມາ 
+\TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSerifLao(0)/m/it/10 ມັນ ຈຶ່ງ
+
+Underfull \hbox (badness 1107) in paragraph at lines 316--321
+\TU/NotoSerifLao(0)/m/it/10 ຍັງຄົງ ປິດບັງ ຕົວ ເອງ ຢູ່ໃນ ເງົາ ມືດ\TU/LatinModern
+Roman(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ເຖິງແມ່ນວ່າ ຈະ ມີ ທິດສະດີ
+
+Underfull \hbox (badness 1661) in paragraph at lines 330--342
+\TU/NotoSerifLao(0)/m/it/10 ໄດ້ ພັນລະນາ ໄວ້\TU/LatinModernRoman(0)/m/n/10 , \TU
+/LatinModernRoman(0)/m/it/10 " \TU/NotoSerifLao(0)/m/it/10 ໃນ ຕອນນີ້\TU/LatinMo
+dernRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ໃນ ຍຸກ ສຸດທ້າຍ\TU/LatinModer
+nRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ລູກ ຫລານ
+
+Underfull \hbox (badness 2189) in paragraph at lines 348--348
+\TU/NotoSerifLao(0)/m/it/9 ພູມ ສັນຖານ ຂອງ ພາກ ຕາເວັນຕົກ ຂອງ ສະຫະລັດ ອາເມລິກາ\TU
+/LatinModernRoman(0)/m/n/9 . [[]].
+
+Underfull \hbox (badness 1383) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໄລຍະ ເວລາ ຫຼາຍກວ່າ \TU/LatinModernRoman(0)/b/it/10 
+2,600 \TU/NotoSerifLao(0)/b/it/10 ປີ\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoS
+erifLao(0)/b/it/10 ພວກເຂົາ ໄດ້ ກຳຈັດ ຜູ້
+
+Underfull \hbox (badness 2512) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ອື່ນ ໆ ທີ່ມີ ຄວາມຮູ້ ສະເພາະ ກ່ຽວກັບ ວັນ ສິ້ນ ໂລກ ຢ່
+າງ ເປັນ
+
+Underfull \hbox (badness 1297) in paragraph at lines 353--355
+\TU/LatinModernRoman(0)/b/it/10 gated Skulls) \TU/NotoSerifLao(0)/b/it/10 ໃນ ອາ
+ເມລິກາ ໃຕ້ ແລະ ພວກ ນັກບວດ
+
+Underfull \hbox (badness 1221) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໃນ ອາເມລິກາ ເໜືອ ເພື່ອ ຮັກສາ ດິນແດນ ແຫ່ງ ຍຸກ ສຸດທ້າ
+ຍ
+[8]
+Underfull \hbox (badness 1622) in paragraph at lines 356--359
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ເພື່ອ ໃນ ການຄວບຄຸມ
+ \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerifLao(0)/m/it/10 ຫີນ ແກຼ
+
+Underfull \hbox (badness 1292) in paragraph at lines 361--377
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1466) in paragraph at lines 361--377
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ເຫຼັກ ໂລກ\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerifLao(0)/m/it/10 ສິ່ງ ນີ້ ສາມາດ ວັດແທກ ໄດ້ ບໍ່ ພຽງແຕ່ ຈາກ ການ
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 2529) in paragraph at lines 378--383
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \vbox (badness 1748) has occurred while \output is active [9]
+[10] (./laotranslated2.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ amallulla”
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[11]) [12] (./laotranslated2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated2.pdf (12 pages).
+Transcript written on laotranslated2.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: laotranslated2.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+You're missing a field name---line 217 of file egbib.bib
+ :   address      = {Kempton, Pennsylvania},   
+ :                                             % typical HQ location, adjust if needed
+I'm skipping whatever remains of this entry
+Warning--entry type for "38" isn't style-file defined
+--line 355 of file egbib.bib
+Warning--entry type for "39" isn't style-file defined
+--line 363 of file egbib.bib
+Warning--empty year in 31
+Warning--empty year in 28
+Warning--empty year in 22
+Warning--empty year in 27
+Warning--empty year in 35
+(There was 1 error message)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated2.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ຮູ້ຈັກ ກັນ ໃນນາມ \TU/LatinModernRoman(0)/m/it/1
+0 ”The Ethical Skeptic” [[]] \TU/NotoSerifLao(0)/m/it/10 ໄດ້
+
+Underfull \hbox (badness 1057) in paragraph at lines 104--108
+\TU/LatinModernRoman(0)/m/it/10 Dzhanibekov \TU/NotoSerifLao(0)/m/it/10 ຂອງ ການ
+ແຍກ ຕົວ ຂອງ ແກນ ໂລກ ແລະ ເປືອກ
+
+Underfull \hbox (badness 1314) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ທີ່ ປ່ອຍ ຄວາມຮ້ອນ ອອກມາ \TU/LatinModernRoman(0)
+/m/it/10 (ECDO) [[]]. \TU/NotoSerifLao(0)/m/it/10 ທິດສະດີ
+
+Underfull \hbox (badness 1939) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ແລ້ວ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ການປ່ຽນແປງ ທີ່ ຮ້າຍແຮງ ຂອງ ແກນ ໝູນວຽນ ຂອງ ມັນ\TU/LatinModernRoma
+n(0)/m/it/10 ,
+[1]
+Underfull \hbox (badness 1412) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາດວ່າ ຈະ
+ ເກີດຂຶ້ນ ຫຼັງຈາກ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+Underfull \hbox (badness 2717) in paragraph at lines 176--189
+[]\TU/NotoSerifLao(0)/m/it/10 ການ ສືບສວນ ສາທາລະນະ ທີ່ ກວ້າງຂວາງ ທີ່ສຸດ ກ່ຽວກັບ 
+ຖານ
+
+Underfull \hbox (badness 2261) in paragraph at lines 176--189
+\TU/NotoSerifLao(0)/m/it/10 ຫຼາຍ ຫົວ ກ່ຽວກັບ ຖານ ທັບ ໃຕ້ດິນ ເລິກ \TU/LatinModer
+nRoman(0)/m/n/10 [[]]. \TU/NotoSerifLao(0)/m/it/10 ຜົນງານ ຂອງ
+
+Underfull \vbox (badness 1436) has occurred while \output is active
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+[4]
+Underfull \vbox (badness 4752) has occurred while \output is active
+Underfull \vbox (badness 2134) has occurred while \output is active [5]
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+Underfull \hbox (badness 1102) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ໃດ ໃນຂະນະທີ່ ປິດບັງ ບໍ່ໃຫ້ ປະຊາຊົນ ຜູ້ ເປັນ ໜີ້ສິນ 
+ຮູ້ ເລີຍ\TU/LatinModernRoman(0)/m/n/10 ? \TU/NotoSerifLao(0)/m/it/10 ມີ
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 2961) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 [[], []]. \TU/NotoSerifLao(0)/m/it/10 ຖ້າ ພວກ ເຮ
+ົາ ຄໍານຶງເຖິງ ການ ປອມແປງ ເງິນໂດລາ
+
+Underfull \hbox (badness 1184) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ໜຶ່ງ ສະຕະວັດ ນັບ ຕັ້ງແຕ່ ການສ້າງ ຕັ້ງ ທະນາຄານ ກາງ ສ
+ະຫະລັດ
+
+Underfull \hbox (badness 1303) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 (Federal Reserve) \TU/NotoSerifLao(0)/m/it/10 ໃນ
+ ປີ \TU/LatinModernRoman(0)/m/n/10 1913 \TU/NotoSerifLao(0)/m/it/10 ເປັນຕົ້ນມາ 
+\TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSerifLao(0)/m/it/10 ມັນ ຈຶ່ງ
+
+Underfull \hbox (badness 1107) in paragraph at lines 316--321
+\TU/NotoSerifLao(0)/m/it/10 ຍັງຄົງ ປິດບັງ ຕົວ ເອງ ຢູ່ໃນ ເງົາ ມືດ\TU/LatinModern
+Roman(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ເຖິງແມ່ນວ່າ ຈະ ມີ ທິດສະດີ
+
+Underfull \hbox (badness 1661) in paragraph at lines 330--342
+\TU/NotoSerifLao(0)/m/it/10 ໄດ້ ພັນລະນາ ໄວ້\TU/LatinModernRoman(0)/m/n/10 , \TU
+/LatinModernRoman(0)/m/it/10 " \TU/NotoSerifLao(0)/m/it/10 ໃນ ຕອນນີ້\TU/LatinMo
+dernRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ໃນ ຍຸກ ສຸດທ້າຍ\TU/LatinModer
+nRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ລູກ ຫລານ
+
+Underfull \hbox (badness 2189) in paragraph at lines 348--348
+\TU/NotoSerifLao(0)/m/it/9 ພູມ ສັນຖານ ຂອງ ພາກ ຕາເວັນຕົກ ຂອງ ສະຫະລັດ ອາເມລິກາ\TU
+/LatinModernRoman(0)/m/n/9 . [[]].
+
+Underfull \hbox (badness 1383) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໄລຍະ ເວລາ ຫຼາຍກວ່າ \TU/LatinModernRoman(0)/b/it/10 
+2,600 \TU/NotoSerifLao(0)/b/it/10 ປີ\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoS
+erifLao(0)/b/it/10 ພວກເຂົາ ໄດ້ ກຳຈັດ ຜູ້
+
+Underfull \hbox (badness 2512) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ອື່ນ ໆ ທີ່ມີ ຄວາມຮູ້ ສະເພາະ ກ່ຽວກັບ ວັນ ສິ້ນ ໂລກ ຢ່
+າງ ເປັນ
+
+Underfull \hbox (badness 1297) in paragraph at lines 353--355
+\TU/LatinModernRoman(0)/b/it/10 gated Skulls) \TU/NotoSerifLao(0)/b/it/10 ໃນ ອາ
+ເມລິກາ ໃຕ້ ແລະ ພວກ ນັກບວດ
+
+Underfull \hbox (badness 1221) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໃນ ອາເມລິກາ ເໜືອ ເພື່ອ ຮັກສາ ດິນແດນ ແຫ່ງ ຍຸກ ສຸດທ້າ
+ຍ
+[8]
+Underfull \hbox (badness 1622) in paragraph at lines 356--359
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ເພື່ອ ໃນ ການຄວບຄຸມ
+ \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerifLao(0)/m/it/10 ຫີນ ແກຼ
+
+Underfull \hbox (badness 1292) in paragraph at lines 361--377
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1466) in paragraph at lines 361--377
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ເຫຼັກ ໂລກ\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerifLao(0)/m/it/10 ສິ່ງ ນີ້ ສາມາດ ວັດແທກ ໄດ້ ບໍ່ ພຽງແຕ່ ຈາກ ການ
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 2529) in paragraph at lines 378--383
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \vbox (badness 1748) has occurred while \output is active [9]
+[10] (./laotranslated2.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ amallulla”
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[11]) [12] (./laotranslated2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated2.pdf (12 pages).
+Transcript written on laotranslated2.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./laotranslated2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 89.
+
+(./laotranslated2.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `TU/NotoSerifLao(0)/m/it' undefined
+(Font)              using `TU/NotoSerifLao(0)/m/n' instead on input line 104.
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ທີ່ ຮູ້ຈັກ ກັນ ໃນນາມ \TU/LatinModernRoman(0)/m/it/1
+0 ”The Ethical Skeptic” [[]] \TU/NotoSerifLao(0)/m/it/10 ໄດ້
+
+Underfull \hbox (badness 1057) in paragraph at lines 104--108
+\TU/LatinModernRoman(0)/m/it/10 Dzhanibekov \TU/NotoSerifLao(0)/m/it/10 ຂອງ ການ
+ແຍກ ຕົວ ຂອງ ແກນ ໂລກ ແລະ ເປືອກ
+
+Underfull \hbox (badness 1314) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ໂລກ ທີ່ ປ່ອຍ ຄວາມຮ້ອນ ອອກມາ \TU/LatinModernRoman(0)
+/m/it/10 (ECDO) [[]]. \TU/NotoSerifLao(0)/m/it/10 ທິດສະດີ
+
+Underfull \hbox (badness 1939) in paragraph at lines 104--108
+\TU/NotoSerifLao(0)/m/it/10 ແລ້ວ\TU/LatinModernRoman(0)/m/it/10 , \TU/NotoSerif
+Lao(0)/m/it/10 ການປ່ຽນແປງ ທີ່ ຮ້າຍແຮງ ຂອງ ແກນ ໝູນວຽນ ຂອງ ມັນ\TU/LatinModernRoma
+n(0)/m/it/10 ,
+[1]
+Underfull \hbox (badness 1412) in paragraph at lines 153--155
+[]\TU/NotoSerifLao(0)/m/it/10 ແຕ່ ສິ່ງ ທີ່ ສຳຄັນ ທີ່ສຸດ ແມ່ນ ສິ່ງ ທີ່ ຄາດວ່າ ຈະ
+ ເກີດຂຶ້ນ ຫຼັງຈາກ
+
+Underfull \vbox (badness 10000) has occurred while \output is active [2]
+Underfull \hbox (badness 1163) in paragraph at lines 170--173
+\TU/NotoSerifLao(0)/m/it/10 ປົກປ້ອງ ຕົນເອງ ຈາກ ເຫດການ ດັ່ງກ່າວ\TU/LatinModernRo
+man(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ແລະ ແທ້ຈິງ ແລ້ວ\TU/LatinModernRoman
+(0)/m/n/10 , \TU/NotoSerifLao(0)/m/it/10 ມີ
+
+Underfull \vbox (badness 1454) has occurred while \output is active [3]
+Underfull \hbox (badness 2717) in paragraph at lines 176--189
+[]\TU/NotoSerifLao(0)/m/it/10 ການ ສືບສວນ ສາທາລະນະ ທີ່ ກວ້າງຂວາງ ທີ່ສຸດ ກ່ຽວກັບ 
+ຖານ
+
+Underfull \hbox (badness 2261) in paragraph at lines 176--189
+\TU/NotoSerifLao(0)/m/it/10 ຫຼາຍ ຫົວ ກ່ຽວກັບ ຖານ ທັບ ໃຕ້ດິນ ເລິກ \TU/LatinModer
+nRoman(0)/m/n/10 [[]]. \TU/NotoSerifLao(0)/m/it/10 ຜົນງານ ຂອງ
+
+Underfull \vbox (badness 1436) has occurred while \output is active
+Underfull \hbox (badness 1231) in paragraph at lines 241--241
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 7. []\TU/Noto
+SerifLao(0)/m/it/9 ວິ ດີ ໂອ ຈາກ ທາງ ການ ອີຣ່ານ ທີ່ ສະແດງ ໃຫ້ ເຫັນ \TU/LatinMode
+rnRoman(0)/m/n/9 "\TU/NotoSerifLao(0)/m/it/9 ເມືອງ
+[4]
+Underfull \vbox (badness 4752) has occurred while \output is active
+Underfull \vbox (badness 2134) has occurred while \output is active [5]
+Underfull \hbox (badness 1817) in paragraph at lines 259--259
+[]\TU/NotoSerifLao(0)/m/it/9 ຮູບພາບ \TU/LatinModernRoman(0)/m/n/9 8. []\TU/Noto
+SerifLao(0)/m/it/9 ທີ່ ຫຼົບ ໄພ ໃຕ້ດິນ ໃນ \TU/LatinModernRoman(0)/m/n/9 South Ty
+rol, Switzerland.
+
+Underfull \hbox (badness 4479) in paragraph at lines 301--301
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NotoSerifLao(0)/b/n/12 ກົນໄກ ການສະໜອງ ທ
+ຶນ ແບບ ປະຊາທິປະໄຕ
+
+Underfull \hbox (badness 1102) in paragraph at lines 303--311
+\TU/NotoSerifLao(0)/m/it/10 ໃດ ໃນຂະນະທີ່ ປິດບັງ ບໍ່ໃຫ້ ປະຊາຊົນ ຜູ້ ເປັນ ໜີ້ສິນ 
+ຮູ້ ເລີຍ\TU/LatinModernRoman(0)/m/n/10 ? \TU/NotoSerifLao(0)/m/it/10 ມີ
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [7]
+Underfull \hbox (badness 2753) in paragraph at lines 312--314
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ປີ \TU/LatinModernRoman(0)/m/n/10 2021, Mark S
+kidmore \TU/NotoSerifLao(0)/m/it/10 ໄດ້ ເຜີຍແຜ່ ບົດ ສະຫຼຸບ
+
+Underfull \hbox (badness 2961) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 [[], []]. \TU/NotoSerifLao(0)/m/it/10 ຖ້າ ພວກ ເຮ
+ົາ ຄໍານຶງເຖິງ ການ ປອມແປງ ເງິນໂດລາ
+
+Underfull \hbox (badness 1184) in paragraph at lines 312--314
+\TU/NotoSerifLao(0)/m/it/10 ໜຶ່ງ ສະຕະວັດ ນັບ ຕັ້ງແຕ່ ການສ້າງ ຕັ້ງ ທະນາຄານ ກາງ ສ
+ະຫະລັດ
+
+Underfull \hbox (badness 1303) in paragraph at lines 312--314
+\TU/LatinModernRoman(0)/m/n/10 (Federal Reserve) \TU/NotoSerifLao(0)/m/it/10 ໃນ
+ ປີ \TU/LatinModernRoman(0)/m/n/10 1913 \TU/NotoSerifLao(0)/m/it/10 ເປັນຕົ້ນມາ 
+\TU/LatinModernRoman(0)/m/n/10 [[]], \TU/NotoSerifLao(0)/m/it/10 ມັນ ຈຶ່ງ
+
+Underfull \hbox (badness 1107) in paragraph at lines 316--321
+\TU/NotoSerifLao(0)/m/it/10 ຍັງຄົງ ປິດບັງ ຕົວ ເອງ ຢູ່ໃນ ເງົາ ມືດ\TU/LatinModern
+Roman(0)/m/n/10 . \TU/NotoSerifLao(0)/m/it/10 ເຖິງແມ່ນວ່າ ຈະ ມີ ທິດສະດີ
+
+Underfull \hbox (badness 1661) in paragraph at lines 330--342
+\TU/NotoSerifLao(0)/m/it/10 ໄດ້ ພັນລະນາ ໄວ້\TU/LatinModernRoman(0)/m/n/10 , \TU
+/LatinModernRoman(0)/m/it/10 " \TU/NotoSerifLao(0)/m/it/10 ໃນ ຕອນນີ້\TU/LatinMo
+dernRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ໃນ ຍຸກ ສຸດທ້າຍ\TU/LatinModer
+nRoman(0)/m/it/10 , \TU/NotoSerifLao(0)/m/it/10 ລູກ ຫລານ
+
+Underfull \hbox (badness 2189) in paragraph at lines 348--348
+\TU/NotoSerifLao(0)/m/it/9 ພູມ ສັນຖານ ຂອງ ພາກ ຕາເວັນຕົກ ຂອງ ສະຫະລັດ ອາເມລິກາ\TU
+/LatinModernRoman(0)/m/n/9 . [[]].
+
+Underfull \hbox (badness 1383) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໄລຍະ ເວລາ ຫຼາຍກວ່າ \TU/LatinModernRoman(0)/b/it/10 
+2,600 \TU/NotoSerifLao(0)/b/it/10 ປີ\TU/LatinModernRoman(0)/b/it/10 , \TU/NotoS
+erifLao(0)/b/it/10 ພວກເຂົາ ໄດ້ ກຳຈັດ ຜູ້
+
+Underfull \hbox (badness 2512) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ອື່ນ ໆ ທີ່ມີ ຄວາມຮູ້ ສະເພາະ ກ່ຽວກັບ ວັນ ສິ້ນ ໂລກ ຢ່
+າງ ເປັນ
+
+Underfull \hbox (badness 1297) in paragraph at lines 353--355
+\TU/LatinModernRoman(0)/b/it/10 gated Skulls) \TU/NotoSerifLao(0)/b/it/10 ໃນ ອາ
+ເມລິກາ ໃຕ້ ແລະ ພວກ ນັກບວດ
+
+Underfull \hbox (badness 1221) in paragraph at lines 353--355
+\TU/NotoSerifLao(0)/b/it/10 ໃນ ອາເມລິກາ ເໜືອ ເພື່ອ ຮັກສາ ດິນແດນ ແຫ່ງ ຍຸກ ສຸດທ້າ
+ຍ
+[8]
+Underfull \hbox (badness 1622) in paragraph at lines 356--359
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ນ ຖືກ ດໍາ ເນີນ ເພື່ອ ຈຸດປະສົງ ເພື່ອ ໃນ ການຄວບຄຸມ
+ \TU/LatinModernRoman(0)/m/n/10 "\TU/NotoSerifLao(0)/m/it/10 ຫີນ ແກຼ
+
+Underfull \hbox (badness 1292) in paragraph at lines 361--377
+[]\TU/NotoSerifLao(0)/m/it/10 ໃນ ເອກະສານ ສະບັບ ນີ້\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ໄດ້ ລົງ ລາຍ ລະອຽດ ບັນດາ
+
+Underfull \hbox (badness 1466) in paragraph at lines 361--377
+\TU/NotoSerifLao(0)/m/it/10 ແມ່ເຫຼັກ ໂລກ\TU/LatinModernRoman(0)/m/n/10 . \TU/No
+toSerifLao(0)/m/it/10 ສິ່ງ ນີ້ ສາມາດ ວັດແທກ ໄດ້ ບໍ່ ພຽງແຕ່ ຈາກ ການ
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 2529) in paragraph at lines 378--383
+[]\TU/NotoSerifLao(0)/m/it/10 ສະຫຼຸບ ທ້າຍ ນີ້\TU/LatinModernRoman(0)/m/n/10 , \
+TU/NotoSerifLao(0)/m/it/10 ຂ້າພະເຈົ້າ ຂໍ ຝາກ ຄຳເວົ້າ ຂອງ \TU/LatinModernRoman(0
+)/m/n/10 Amallulla
+
+Underfull \vbox (badness 1748) has occurred while \output is active [9]
+[10] (./laotranslated2.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[][][] [] [][][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][
+][] [] [][][]$[]\TU/LatinModernRoman(0)/m/n/9 , July
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][]
+[][][][][][][][][][][] []
+
+Underfull \hbox (badness 4303) in paragraph at lines 77--80
+[]\TU/LatinModernRoman(0)/m/n/9 National Centers for Environmental Information
+
+Underfull \hbox (badness 7631) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 https:// theethicalskeptic.com/ 2024/05/23/ maste
+r-
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 1688) in paragraph at lines 149--154
+[]\TU/LatinModernRoman(0)/m/n/9 South Tyrol Blog.  “south tyrol’s bunker land-
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+\TU/LatinModernRoman(0)/m/n/9 scape”.  []$[][][][][] [] [] [] [][][] [] [][][][
+][][][][][][][][] [] [][][] [] [][][][] []
+
+Underfull \hbox (badness 2608) in paragraph at lines 149--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , Oct. 2023.  Pub-
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]\TU/LatinModernRoman(0)/m/n/9 sovrynn.  “ecdo/ 6‑literature‑media/ amallulla”
+.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] 
+[][][][] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+[][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][]$[]
+\TU/LatinModernRoman(0)/m/n/9 , 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][] [] [][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][] 
+[] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][] [] [][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][
+][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][
+][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--184
+[][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][] 
+[]
+
+Underfull \hbox (badness 1205) in paragraph at lines 177--184
+[][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][]$[]\TU/LatinMod
+ernRoman(0)/m/n/9 , 2025.  Accessed:
+[11]) [12] (./laotranslated2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on laotranslated2.pdf (12 pages).
+Transcript written on laotranslated2.log.

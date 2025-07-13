@@ -1,0 +1,1055 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1germantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./1germantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Underfull \hbox (badness 2088) in paragraph at lines 73--74
+[]\T1/ptm/m/it/10 Im Mai 2024 teilte ein pseudonymer Online-Autor
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./b.png>]
+Underfull \hbox (badness 5681) in paragraph at lines 113--116
+[]\T1/ptm/m/n/10 Viele dieser Geschichten beschreiben präzise das
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\T1/ptm/m/n/10 Berichte über Katas-tro-phen in der chi-ne-sis-chen
+
+Underfull \hbox (badness 1226) in paragraph at lines 123--124
+\T1/ptm/m/it/10 sachte groÿe Katas-tro-phen, wie unaufhör-liche Brände,
+
+Underfull \hbox (badness 5726) in paragraph at lines 139--139
+[] \elvbf . Statis-tis-che Anal-yse von Katastrophen-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Overfull \hbox (20.91179pt too wide) in paragraph at lines 146--163
+ [] 
+
+Underfull \hbox (badness 2409) in paragraph at lines 174--175
+[]\T1/ptm/m/n/10 Einige der in-ter-es-san-testen Ge-bi-ete mit Salzwasser
+[3]
+Underfull \hbox (badness 1552) in paragraph at lines 182--182
+[]\T1/ptm/m/n/9 Abbildung 3. []Eine to-pographis-che Karte des Hi-malaya, die
+
+Underfull \hbox (badness 2556) in paragraph at lines 187--188
+[]\T1/ptm/m/n/10 Während die uni-for-mi-taris-tis-che Schule des ge-ol-o-
+
+Underfull \hbox (badness 1199) in paragraph at lines 187--188
+\T1/ptm/m/n/10 gis-chen Denkens Anoma-lien wie Salz und Meeres-fos-
+[4 <./marine.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 2556) in paragraph at lines 225--226
+[]\T1/ptm/m/n/10 Eines der wichtig-sten Un-ter-suchungs-ge-bi-ete in der
+
+Underfull \hbox (badness 3417) in paragraph at lines 244--245
+[]\T1/ptm/m/n/10 Ethical Skep-tic schlägt da-her vor, dass die Erde
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5 <./tibe
+t.jpg>]
+Underfull \hbox (badness 3724) in paragraph at lines 246--247
+\T1/ptm/m/n/10 berichtet Herodot, wie ihm die ägyp-tis-chen Priester
+
+Underfull \hbox (badness 1831) in paragraph at lines 248--249
+\T1/ptm/m/n/10 wenn die Sonne sich in Ägypten be-wegte, sie \T1/ptm/m/it/10 ihr
+en
+
+Underfull \hbox (badness 1097) in paragraph at lines 250--251
+[]\T1/ptm/m/n/10 Ägypten ist der \T1/ptm/m/it/10 einzige \T1/ptm/m/n/10 Ort auf
+ der Erde, an dem
+[6 <./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 7944) has occurred while \output is active [7 <./shaft
+s.jpg> <./drawing.jpg>]
+Underfull \hbox (badness 1052) in paragraph at lines 285--286
+\T1/ptm/m/n/10 Erd-kruste (Ab-bil-dung []8[]), bei de-nen die Erd-kruste ge-
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[]\T1/ptm/m/n/10 Die Stan-dorte der wichtig-sten Wüsten und
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/ptm/m/n/10 Biodiversitäts-Hotspots der Welt stim-men eben-falls
+
+Underfull \hbox (badness 3919) in paragraph at lines 289--290
+\T1/ptm/m/n/10 Rotationspfad finden sich auch in den sed-i-men-tären
+
+Underfull \hbox (badness 1762) in paragraph at lines 303--304
+\T1/ptm/m/n/10 trägheit-sach-sen dreht, wird seine Ro-ta-tion-sachse nicht
+[8 <./laj.jpg> <./meinesz3.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 307--308
+[]\T1/ptm/m/n/10 Der spez-i-fis-che Prozess, der die in-terne Störung in
+
+Underfull \hbox (badness 1127) in paragraph at lines 307--308
+\T1/ptm/m/n/10 bil-dung []11[]). Der in-nere Kern besteht aus hexag-o-nal
+
+Underfull \hbox (badness 1509) in paragraph at lines 307--308
+\T1/ptm/m/n/10 (large low-velocity shear province, groÿe Ge-bi-ete mit
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1360) in paragraph at lines 322--322
+[]\T1/ptm/m/n/9 Abbildung 12. []Eine de-tail-lierte Darstel-lung des LLVP unter
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [9 <./biod
+iversity.jpg> <./dzhani.jpg>]
+Underfull \vbox (badness 6300) has occurred while \output is active [10 <./laye
+rs.jpg> <./llvp.jpg>]
+Underfull \vbox (badness 1354) has occurred while \output is active [11 <./saa.
+jpg> <./npw.jpg> <./ocean-highlight.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[] \T1/ptm/b/n/12 . Mod-el-lierung der bevorste-hen-den Er-
+
+Underfull \hbox (badness 3407) in paragraph at lines 385--386
+[]\T1/ptm/m/n/10 Um eine Schätzung dafür zu er-hal-ten, wann die
+
+Underfull \hbox (badness 2573) in paragraph at lines 385--386
+\T1/ptm/m/n/10 der SAA mit einer Potenzgesetz-Kipppunkt-Gleichung
+
+Underfull \hbox (badness 2119) in paragraph at lines 385--386
+\T1/ptm/m/n/10 angepasst, die ein kom-plexes Sys-tem mod-el-liert, das
+
+Underfull \hbox (badness 2343) in paragraph at lines 385--386
+\T1/ptm/m/n/10 tem einen drama-tis-chen und abrupten Wan-del durch-
+
+Underfull \hbox (badness 2126) in paragraph at lines 391--392
+\T1/ptm/m/n/10 zu-min-d-est 2 ECDO-Ereignisse während des Holozäns
+
+Underfull \hbox (badness 1286) in paragraph at lines 391--392
+\T1/ptm/m/it/10 regierte, es drei-hun-dertei-n-und-vierzig Gen-er-a-tio-nen von
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 397--398
+\T1/ptm/m/n/10 von dem lag, wo er laut früheren Ex-pe-di-tio-nen sein
+[12 <./saa-crop.jpeg>]
+Underfull \hbox (badness 2326) in paragraph at lines 399--400
+\T1/ptm/m/it/10 aufmerk-sam zu machen. Keiner der Wis-senschaftler
+
+Underfull \hbox (badness 2237) in paragraph at lines 399--400
+\T1/ptm/m/it/10 thal-ten; aber an-der-er-seits kon-nte sich auch nie-mand
+
+Underfull \vbox (badness 5050) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+Underfull \vbox (badness 10000) has occurred while \output is active [14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15 <./wav
+e.jpg> <./star-stone.jpg>] [16 <./deepsea.jpg>] [17 <./sealevel.jpeg>] [18 <./c
+o2.jpg> <./ice.jpg>] (./1germantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[]\T1/ptm/m/n/9 D. A. Calvert.  Pyra-mid of khufu.
+
+Underfull \hbox (badness 2073) in paragraph at lines 139--143
+[]\T1/ptm/m/n/9 J. Hol-land.  Mys-tery of the mam-moth and the but-
+
+Underfull \hbox (badness 1286) in paragraph at lines 152--157
+\T1/ptm/m/n/9 berg, project guten-berg ebook no. 2848 edi-tion, 2001.
+
+Underfull \hbox (badness 4391) in paragraph at lines 152--157
+\T1/ptm/m/n/9 Pub-lic do-main in the USA. Last up-dated: Jan-uary
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\T1/ptm/m/n/9 Junho.  Ecdo kmls.  []$\T1/pcr/m/n/9 https : / / github . com /
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\T1/pcr/m/n/9 sovrynn / ecdo / tree / master / 5-[]TOOLS-[]DEV /
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[]\T1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\T1/ptm/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\T1/ptm/m/n/9 https://github.com/sovrynn/ecdo/tree/master/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\T1/ptm/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+Underfull \hbox (badness 1028) in paragraph at lines 188--192
+\T1/ptm/m/n/9 N. Zarkadoulas, and Y. Marko-nis.  \T1/ptm/m/it/9 Floods in Greec
+e\T1/ptm/m/n/9 ,
+
+Underfull \hbox (badness 1735) in paragraph at lines 200--205
+\T1/ptm/m/n/9 averaged co2 de-ter-mined from noaa global mon-i-tor-ing
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+[]\T1/ptm/m/n/9 D. J. McAdam.  The scheme of the pe-ru-vian
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+\T1/ptm/m/n/9 sa-vants.  []$\T1/pcr/m/n/9 https : / / www . djmcadam . com /
+
+Underfull \hbox (badness 1527) in paragraph at lines 242--245
+[]\T1/ptm/m/n/9 M. W. McEl-hinny.  \T1/ptm/m/it/9 Pa-le-o-mag-netism: Con-ti-ne
+nts and
+
+Underfull \hbox (badness 5050) in paragraph at lines 334--339
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 ^^U dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-ecdo-
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Hid-den in plain sight, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2023/12/18/hidden-in-plain-
+
+Underfull \hbox (badness 4303) in paragraph at lines 346--351
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 cou-pling ^^U dzhanibekov os-cil-la-tion (ecdo) the-ory,
+
+Underfull \hbox (badness 6842) in paragraph at lines 346--351
+\T1/ptm/m/n/9 2024.  https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\T1/pcr/m/n/9 ecdo / tree / master / 0-[]FOUNDATION-[]THEORY / s2 #
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+[]\T1/ptm/m/n/9 Wikibooks.  Chi-nese sto-ries/nüwa.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+\T1/pcr/m/n/9 / / en . wikibooks . org / wiki / Chinese _ Stories /
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+[]\T1/ptm/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+\T1/pcr/m/n/9 / / en . wikipedia . org / wiki / Great _ Pyramid _
+
+Underfull \hbox (badness 5893) in paragraph at lines 456--459
+[]\T1/ptm/m/n/9 Wikipedia.  Pyra-mid of khafre.  []$\T1/pcr/m/n/9 https : / / e
+n .
+
+Underfull \hbox (badness 5847) in paragraph at lines 461--464
+[]\T1/ptm/m/n/9 Wikipedia.  Salt min-ing, 2024.  []$\T1/pcr/m/n/9 https : / / e
+n .
+) [21] (./1germantranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/c
+ourier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 1germantranslated.pdf (21 pages, 7319956 bytes).
+Transcript written on 1germantranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 1germantranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "135" isn't style-file defined
+--line 1249 of file egbib.bib
+Warning--entry type for "147" isn't style-file defined
+--line 1362 of file egbib.bib
+Warning--to sort, need author or key in 114
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1072 of file ieee.bst
+Warning--empty journal in 7
+Warning--empty publisher in 13
+Name 1 in "Jun," has a comma at the end for entry 121
+while executing---line 1115 of file ieee.bst
+Warning--empty publisher in 10
+Warning--empty publisher in 9
+(There were 2 error messages)
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1germantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./1germantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Underfull \hbox (badness 2088) in paragraph at lines 73--74
+[]\T1/ptm/m/it/10 Im Mai 2024 teilte ein pseudonymer Online-Autor
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./b.png>]
+Underfull \hbox (badness 5681) in paragraph at lines 113--116
+[]\T1/ptm/m/n/10 Viele dieser Geschichten beschreiben präzise das
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\T1/ptm/m/n/10 Berichte über Katas-tro-phen in der chi-ne-sis-chen
+
+Underfull \hbox (badness 1226) in paragraph at lines 123--124
+\T1/ptm/m/it/10 sachte groÿe Katas-tro-phen, wie unaufhör-liche Brände,
+
+Underfull \hbox (badness 5726) in paragraph at lines 139--139
+[] \elvbf . Statis-tis-che Anal-yse von Katastrophen-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Overfull \hbox (20.91179pt too wide) in paragraph at lines 146--163
+ [] 
+
+Underfull \hbox (badness 2409) in paragraph at lines 174--175
+[]\T1/ptm/m/n/10 Einige der in-ter-es-san-testen Ge-bi-ete mit Salzwasser
+[3]
+Underfull \hbox (badness 1552) in paragraph at lines 182--182
+[]\T1/ptm/m/n/9 Abbildung 3. []Eine to-pographis-che Karte des Hi-malaya, die
+
+Underfull \hbox (badness 2556) in paragraph at lines 187--188
+[]\T1/ptm/m/n/10 Während die uni-for-mi-taris-tis-che Schule des ge-ol-o-
+
+Underfull \hbox (badness 1199) in paragraph at lines 187--188
+\T1/ptm/m/n/10 gis-chen Denkens Anoma-lien wie Salz und Meeres-fos-
+[4 <./marine.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 2556) in paragraph at lines 225--226
+[]\T1/ptm/m/n/10 Eines der wichtig-sten Un-ter-suchungs-ge-bi-ete in der
+
+Underfull \hbox (badness 3417) in paragraph at lines 244--245
+[]\T1/ptm/m/n/10 Ethical Skep-tic schlägt da-her vor, dass die Erde
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5 <./tibe
+t.jpg>]
+Underfull \hbox (badness 3724) in paragraph at lines 246--247
+\T1/ptm/m/n/10 berichtet Herodot, wie ihm die ägyp-tis-chen Priester
+
+Underfull \hbox (badness 1831) in paragraph at lines 248--249
+\T1/ptm/m/n/10 wenn die Sonne sich in Ägypten be-wegte, sie \T1/ptm/m/it/10 ihr
+en
+
+Underfull \hbox (badness 1097) in paragraph at lines 250--251
+[]\T1/ptm/m/n/10 Ägypten ist der \T1/ptm/m/it/10 einzige \T1/ptm/m/n/10 Ort auf
+ der Erde, an dem
+[6 <./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 7944) has occurred while \output is active [7 <./shaft
+s.jpg> <./drawing.jpg>]
+Underfull \hbox (badness 1052) in paragraph at lines 285--286
+\T1/ptm/m/n/10 Erd-kruste (Ab-bil-dung []8[]), bei de-nen die Erd-kruste ge-
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[]\T1/ptm/m/n/10 Die Stan-dorte der wichtig-sten Wüsten und
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/ptm/m/n/10 Biodiversitäts-Hotspots der Welt stim-men eben-falls
+
+Underfull \hbox (badness 3919) in paragraph at lines 289--290
+\T1/ptm/m/n/10 Rotationspfad finden sich auch in den sed-i-men-tären
+
+Underfull \hbox (badness 1762) in paragraph at lines 303--304
+\T1/ptm/m/n/10 trägheit-sach-sen dreht, wird seine Ro-ta-tion-sachse nicht
+[8 <./laj.jpg> <./meinesz3.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 307--308
+[]\T1/ptm/m/n/10 Der spez-i-fis-che Prozess, der die in-terne Störung in
+
+Underfull \hbox (badness 1127) in paragraph at lines 307--308
+\T1/ptm/m/n/10 bil-dung []11[]). Der in-nere Kern besteht aus hexag-o-nal
+
+Underfull \hbox (badness 1509) in paragraph at lines 307--308
+\T1/ptm/m/n/10 (large low-velocity shear province, groÿe Ge-bi-ete mit
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1360) in paragraph at lines 322--322
+[]\T1/ptm/m/n/9 Abbildung 12. []Eine de-tail-lierte Darstel-lung des LLVP unter
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [9 <./biod
+iversity.jpg> <./dzhani.jpg>]
+Underfull \vbox (badness 6300) has occurred while \output is active [10 <./laye
+rs.jpg> <./llvp.jpg>]
+Underfull \vbox (badness 1354) has occurred while \output is active [11 <./saa.
+jpg> <./npw.jpg> <./ocean-highlight.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[] \T1/ptm/b/n/12 . Mod-el-lierung der bevorste-hen-den Er-
+
+Underfull \hbox (badness 3407) in paragraph at lines 385--386
+[]\T1/ptm/m/n/10 Um eine Schätzung dafür zu er-hal-ten, wann die
+
+Underfull \hbox (badness 2573) in paragraph at lines 385--386
+\T1/ptm/m/n/10 der SAA mit einer Potenzgesetz-Kipppunkt-Gleichung
+
+Underfull \hbox (badness 2119) in paragraph at lines 385--386
+\T1/ptm/m/n/10 angepasst, die ein kom-plexes Sys-tem mod-el-liert, das
+
+Underfull \hbox (badness 2343) in paragraph at lines 385--386
+\T1/ptm/m/n/10 tem einen drama-tis-chen und abrupten Wan-del durch-
+
+Underfull \hbox (badness 2126) in paragraph at lines 391--392
+\T1/ptm/m/n/10 zu-min-d-est 2 ECDO-Ereignisse während des Holozäns
+
+Underfull \hbox (badness 1286) in paragraph at lines 391--392
+\T1/ptm/m/it/10 regierte, es drei-hun-dertei-n-und-vierzig Gen-er-a-tio-nen von
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 397--398
+\T1/ptm/m/n/10 von dem lag, wo er laut früheren Ex-pe-di-tio-nen sein
+[12 <./saa-crop.jpeg>]
+Underfull \hbox (badness 2326) in paragraph at lines 399--400
+\T1/ptm/m/it/10 aufmerk-sam zu machen. Keiner der Wis-senschaftler
+
+Underfull \hbox (badness 2237) in paragraph at lines 399--400
+\T1/ptm/m/it/10 thal-ten; aber an-der-er-seits kon-nte sich auch nie-mand
+
+Underfull \vbox (badness 5050) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+Underfull \vbox (badness 10000) has occurred while \output is active [14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15 <./wav
+e.jpg> <./star-stone.jpg>] [16 <./deepsea.jpg>] [17 <./sealevel.jpeg>] [18 <./c
+o2.jpg> <./ice.jpg>] (./1germantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[]\T1/ptm/m/n/9 D. A. Calvert.  Pyra-mid of khufu.
+
+Underfull \hbox (badness 2073) in paragraph at lines 139--143
+[]\T1/ptm/m/n/9 J. Hol-land.  Mys-tery of the mam-moth and the but-
+
+Underfull \hbox (badness 1286) in paragraph at lines 152--157
+\T1/ptm/m/n/9 berg, project guten-berg ebook no. 2848 edi-tion, 2001.
+
+Underfull \hbox (badness 4391) in paragraph at lines 152--157
+\T1/ptm/m/n/9 Pub-lic do-main in the USA. Last up-dated: Jan-uary
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\T1/ptm/m/n/9 Junho.  Ecdo kmls.  []$\T1/pcr/m/n/9 https : / / github . com /
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\T1/pcr/m/n/9 sovrynn / ecdo / tree / master / 5-[]TOOLS-[]DEV /
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[]\T1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\T1/ptm/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\T1/ptm/m/n/9 https://github.com/sovrynn/ecdo/tree/master/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\T1/ptm/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+Underfull \hbox (badness 1028) in paragraph at lines 188--192
+\T1/ptm/m/n/9 N. Zarkadoulas, and Y. Marko-nis.  \T1/ptm/m/it/9 Floods in Greec
+e\T1/ptm/m/n/9 ,
+
+Underfull \hbox (badness 1735) in paragraph at lines 200--205
+\T1/ptm/m/n/9 averaged co2 de-ter-mined from noaa global mon-i-tor-ing
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+[]\T1/ptm/m/n/9 D. J. McAdam.  The scheme of the pe-ru-vian
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+\T1/ptm/m/n/9 sa-vants.  []$\T1/pcr/m/n/9 https : / / www . djmcadam . com /
+
+Underfull \hbox (badness 1527) in paragraph at lines 242--245
+[]\T1/ptm/m/n/9 M. W. McEl-hinny.  \T1/ptm/m/it/9 Pa-le-o-mag-netism: Con-ti-ne
+nts and
+
+Underfull \hbox (badness 5050) in paragraph at lines 334--339
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 ^^U dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-ecdo-
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Hid-den in plain sight, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2023/12/18/hidden-in-plain-
+
+Underfull \hbox (badness 4303) in paragraph at lines 346--351
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 cou-pling ^^U dzhanibekov os-cil-la-tion (ecdo) the-ory,
+
+Underfull \hbox (badness 6842) in paragraph at lines 346--351
+\T1/ptm/m/n/9 2024.  https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\T1/pcr/m/n/9 ecdo / tree / master / 0-[]FOUNDATION-[]THEORY / s2 #
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+[]\T1/ptm/m/n/9 Wikibooks.  Chi-nese sto-ries/nüwa.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+\T1/pcr/m/n/9 / / en . wikibooks . org / wiki / Chinese _ Stories /
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+[]\T1/ptm/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+\T1/pcr/m/n/9 / / en . wikipedia . org / wiki / Great _ Pyramid _
+
+Underfull \hbox (badness 5893) in paragraph at lines 456--459
+[]\T1/ptm/m/n/9 Wikipedia.  Pyra-mid of khafre.  []$\T1/pcr/m/n/9 https : / / e
+n .
+
+Underfull \hbox (badness 5847) in paragraph at lines 461--464
+[]\T1/ptm/m/n/9 Wikipedia.  Salt min-ing, 2024.  []$\T1/pcr/m/n/9 https : / / e
+n .
+) [21] (./1germantranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/c
+ourier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 1germantranslated.pdf (21 pages, 7319956 bytes).
+Transcript written on 1germantranslated.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./1germantranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./1germantranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Underfull \hbox (badness 2088) in paragraph at lines 73--74
+[]\T1/ptm/m/it/10 Im Mai 2024 teilte ein pseudonymer Online-Autor
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc} <./b.png>]
+Underfull \hbox (badness 5681) in paragraph at lines 113--116
+[]\T1/ptm/m/n/10 Viele dieser Geschichten beschreiben präzise das
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\T1/ptm/m/n/10 Berichte über Katas-tro-phen in der chi-ne-sis-chen
+
+Underfull \hbox (badness 1226) in paragraph at lines 123--124
+\T1/ptm/m/it/10 sachte groÿe Katas-tro-phen, wie unaufhör-liche Brände,
+
+Underfull \hbox (badness 5726) in paragraph at lines 139--139
+[] \elvbf . Statis-tis-che Anal-yse von Katastrophen-
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Overfull \hbox (20.91179pt too wide) in paragraph at lines 146--163
+ [] 
+
+Underfull \hbox (badness 2409) in paragraph at lines 174--175
+[]\T1/ptm/m/n/10 Einige der in-ter-es-san-testen Ge-bi-ete mit Salzwasser
+[3]
+Underfull \hbox (badness 1552) in paragraph at lines 182--182
+[]\T1/ptm/m/n/9 Abbildung 3. []Eine to-pographis-che Karte des Hi-malaya, die
+
+Underfull \hbox (badness 2556) in paragraph at lines 187--188
+[]\T1/ptm/m/n/10 Während die uni-for-mi-taris-tis-che Schule des ge-ol-o-
+
+Underfull \hbox (badness 1199) in paragraph at lines 187--188
+\T1/ptm/m/n/10 gis-chen Denkens Anoma-lien wie Salz und Meeres-fos-
+[4 <./marine.jpg>] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+Underfull \hbox (badness 2556) in paragraph at lines 225--226
+[]\T1/ptm/m/n/10 Eines der wichtig-sten Un-ter-suchungs-ge-bi-ete in der
+
+Underfull \hbox (badness 3417) in paragraph at lines 244--245
+[]\T1/ptm/m/n/10 Ethical Skep-tic schlägt da-her vor, dass die Erde
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5 <./tibe
+t.jpg>]
+Underfull \hbox (badness 3724) in paragraph at lines 246--247
+\T1/ptm/m/n/10 berichtet Herodot, wie ihm die ägyp-tis-chen Priester
+
+Underfull \hbox (badness 1831) in paragraph at lines 248--249
+\T1/ptm/m/n/10 wenn die Sonne sich in Ägypten be-wegte, sie \T1/ptm/m/it/10 ihr
+en
+
+Underfull \hbox (badness 1097) in paragraph at lines 250--251
+[]\T1/ptm/m/n/10 Ägypten ist der \T1/ptm/m/it/10 einzige \T1/ptm/m/n/10 Ort auf
+ der Erde, an dem
+[6 <./khafre.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \vbox (badness 7944) has occurred while \output is active [7 <./shaft
+s.jpg> <./drawing.jpg>]
+Underfull \hbox (badness 1052) in paragraph at lines 285--286
+\T1/ptm/m/n/10 Erd-kruste (Ab-bil-dung []8[]), bei de-nen die Erd-kruste ge-
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[]\T1/ptm/m/n/10 Die Stan-dorte der wichtig-sten Wüsten und
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/ptm/m/n/10 Biodiversitäts-Hotspots der Welt stim-men eben-falls
+
+Underfull \hbox (badness 3919) in paragraph at lines 289--290
+\T1/ptm/m/n/10 Rotationspfad finden sich auch in den sed-i-men-tären
+
+Underfull \hbox (badness 1762) in paragraph at lines 303--304
+\T1/ptm/m/n/10 trägheit-sach-sen dreht, wird seine Ro-ta-tion-sachse nicht
+[8 <./laj.jpg> <./meinesz3.jpg>]
+Underfull \hbox (badness 1009) in paragraph at lines 307--308
+[]\T1/ptm/m/n/10 Der spez-i-fis-che Prozess, der die in-terne Störung in
+
+Underfull \hbox (badness 1127) in paragraph at lines 307--308
+\T1/ptm/m/n/10 bil-dung []11[]). Der in-nere Kern besteht aus hexag-o-nal
+
+Underfull \hbox (badness 1509) in paragraph at lines 307--308
+\T1/ptm/m/n/10 (large low-velocity shear province, groÿe Ge-bi-ete mit
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1360) in paragraph at lines 322--322
+[]\T1/ptm/m/n/9 Abbildung 12. []Eine de-tail-lierte Darstel-lung des LLVP unter
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [9 <./biod
+iversity.jpg> <./dzhani.jpg>]
+Underfull \vbox (badness 6300) has occurred while \output is active [10 <./laye
+rs.jpg> <./llvp.jpg>]
+Underfull \vbox (badness 1354) has occurred while \output is active [11 <./saa.
+jpg> <./npw.jpg> <./ocean-highlight.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[] \T1/ptm/b/n/12 . Mod-el-lierung der bevorste-hen-den Er-
+
+Underfull \hbox (badness 3407) in paragraph at lines 385--386
+[]\T1/ptm/m/n/10 Um eine Schätzung dafür zu er-hal-ten, wann die
+
+Underfull \hbox (badness 2573) in paragraph at lines 385--386
+\T1/ptm/m/n/10 der SAA mit einer Potenzgesetz-Kipppunkt-Gleichung
+
+Underfull \hbox (badness 2119) in paragraph at lines 385--386
+\T1/ptm/m/n/10 angepasst, die ein kom-plexes Sys-tem mod-el-liert, das
+
+Underfull \hbox (badness 2343) in paragraph at lines 385--386
+\T1/ptm/m/n/10 tem einen drama-tis-chen und abrupten Wan-del durch-
+
+Underfull \hbox (badness 2126) in paragraph at lines 391--392
+\T1/ptm/m/n/10 zu-min-d-est 2 ECDO-Ereignisse während des Holozäns
+
+Underfull \hbox (badness 1286) in paragraph at lines 391--392
+\T1/ptm/m/it/10 regierte, es drei-hun-dertei-n-und-vierzig Gen-er-a-tio-nen von
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 397--398
+\T1/ptm/m/n/10 von dem lag, wo er laut früheren Ex-pe-di-tio-nen sein
+[12 <./saa-crop.jpeg>]
+Underfull \hbox (badness 2326) in paragraph at lines 399--400
+\T1/ptm/m/it/10 aufmerk-sam zu machen. Keiner der Wis-senschaftler
+
+Underfull \hbox (badness 2237) in paragraph at lines 399--400
+\T1/ptm/m/it/10 thal-ten; aber an-der-er-seits kon-nte sich auch nie-mand
+
+Underfull \vbox (badness 5050) has occurred while \output is active
+Underfull \vbox (badness 10000) has occurred while \output is active [13]
+Underfull \vbox (badness 10000) has occurred while \output is active [14]
+Underfull \vbox (badness 10000) has occurred while \output is active [15 <./wav
+e.jpg> <./star-stone.jpg>] [16 <./deepsea.jpg>] [17 <./sealevel.jpeg>] [18 <./c
+o2.jpg> <./ice.jpg>] (./1germantranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[]\T1/ptm/m/n/9 D. A. Calvert.  Pyra-mid of khufu.
+
+Underfull \hbox (badness 2073) in paragraph at lines 139--143
+[]\T1/ptm/m/n/9 J. Hol-land.  Mys-tery of the mam-moth and the but-
+
+Underfull \hbox (badness 1286) in paragraph at lines 152--157
+\T1/ptm/m/n/9 berg, project guten-berg ebook no. 2848 edi-tion, 2001.
+
+Underfull \hbox (badness 4391) in paragraph at lines 152--157
+\T1/ptm/m/n/9 Pub-lic do-main in the USA. Last up-dated: Jan-uary
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\T1/ptm/m/n/9 Junho.  Ecdo kmls.  []$\T1/pcr/m/n/9 https : / / github . com /
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\T1/pcr/m/n/9 sovrynn / ecdo / tree / master / 5-[]TOOLS-[]DEV /
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[]\T1/ptm/m/n/9 Junho.  Ecdo github re-search repos-i-tory, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+[]\T1/ptm/m/n/9 Junho.  Egypt cat-a-clysm chronol-ogy, 2025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+\T1/ptm/m/n/9 https://github.com/sovrynn/ecdo/tree/master/1-
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--192
+[]\T1/ptm/m/n/9 D. Kout-soyian-nis, N. Ma-mas-sis, A. Ef-s-tra-tiadis,
+
+Underfull \hbox (badness 1028) in paragraph at lines 188--192
+\T1/ptm/m/n/9 N. Zarkadoulas, and Y. Marko-nis.  \T1/ptm/m/it/9 Floods in Greec
+e\T1/ptm/m/n/9 ,
+
+Underfull \hbox (badness 1735) in paragraph at lines 200--205
+\T1/ptm/m/n/9 averaged co2 de-ter-mined from noaa global mon-i-tor-ing
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+[]\T1/ptm/m/n/9 D. J. McAdam.  The scheme of the pe-ru-vian
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+\T1/ptm/m/n/9 sa-vants.  []$\T1/pcr/m/n/9 https : / / www . djmcadam . com /
+
+Underfull \hbox (badness 1527) in paragraph at lines 242--245
+[]\T1/ptm/m/n/9 M. W. McEl-hinny.  \T1/ptm/m/it/9 Pa-le-o-mag-netism: Con-ti-ne
+nts and
+
+Underfull \hbox (badness 5050) in paragraph at lines 334--339
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Exother-mic core-mantle de-cou-pling
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 ^^U dzhanibekov os-cil-la-tion (ecdo) hy-poth-e-sis, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2024/05/12/exothermic-
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--339
+\T1/ptm/m/n/9 core-mantle-decoupling-dzhanibekov-oscillation-ecdo-
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Hid-den in plain sight, 2024.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+\T1/ptm/m/n/9 https://theethicalskeptic.com/2023/12/18/hidden-in-plain-
+
+Underfull \hbox (badness 4303) in paragraph at lines 346--351
+[]\T1/ptm/m/n/9 T. E. Skep-tic.  Mas-ter exother-mic core-mantle de-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 cou-pling ^^U dzhanibekov os-cil-la-tion (ecdo) the-ory,
+
+Underfull \hbox (badness 6842) in paragraph at lines 346--351
+\T1/ptm/m/n/9 2024.  https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--351
+\T1/ptm/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--359
+\T1/pcr/m/n/9 ecdo / tree / master / 0-[]FOUNDATION-[]THEORY / s2 #
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+[]\T1/ptm/m/n/9 Wikibooks.  Chi-nese sto-ries/nüwa.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+\T1/pcr/m/n/9 / / en . wikibooks . org / wiki / Chinese _ Stories /
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+[]\T1/ptm/m/n/9 Wikipedia.  Great pyra-mid of giza.  []$\T1/pcr/m/n/9 https :
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
+\T1/pcr/m/n/9 / / en . wikipedia . org / wiki / Great _ Pyramid _
+
+Underfull \hbox (badness 5893) in paragraph at lines 456--459
+[]\T1/ptm/m/n/9 Wikipedia.  Pyra-mid of khafre.  []$\T1/pcr/m/n/9 https : / / e
+n .
+
+Underfull \hbox (badness 5847) in paragraph at lines 461--464
+[]\T1/ptm/m/n/9 Wikipedia.  Salt min-ing, 2024.  []$\T1/pcr/m/n/9 https : / / e
+n .
+) [21] (./1germantranslated.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/c
+ourier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 1germantranslated.pdf (21 pages, 7319956 bytes).
+Transcript written on 1germantranslated.log.

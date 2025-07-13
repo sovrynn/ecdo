@@ -6,24 +6,28 @@
 % \captionsetup[table]{skip=8pt}   % Зөвхөн хүснэгтүүдэд нөлөөлнө
 \usepackage{stfloats}  % Үүнийг эхэнд нь нэмнэ үү
 \usepackage{float}
-\usepackage[T2A]{fontenc}
 
-% \usepackage{fontspec}
-\usepackage[english]{babel}
+\usepackage{newunicodechar}
+\usepackage{graphicx}
 
-% load Lao via babelprovide, turn on "onchar=ids" for automatic shaping
-\babelprovide[import,onchar=ids fonts]{mongolian}
+% Define a half-width em-dash
+\newcommand{\shortemdash}{\scalebox{0.5}[1]{\textemdash}}
 
-% main (rm) font for Latin
-\babelfont{rm}{Noto Serif}
-% alternate (sans-serif) font for Latin
-\babelfont{alt}{Lato}
+% Map U+2015 to this shorter dash
+\newunicodechar{─}{\shortemdash}
 
-% Lao text in Noto Serif Lao at 1.2× scale
-\babelfont[mongolian]{rm}{Noto Serif}
-\babelfont[mongolian]{sf}{Noto Serif}
-% Lao text in Noto Serif Lao for the alt family too
-\babelfont[mongolian]{alt}{Noto Serif}
+\usepackage{fontspec}
+\usepackage{ucharclasses}
+
+%–– your fonts ––
+\newfontfamily\latinfont{Latin Modern Roman}                % default (Latin)
+\newfontfamily\mongscriptfont[Script=Mongolian]{Noto Serif}  
+\newfontfamily\cyrillicfont[Script=Cyrillic]{Noto Serif}      % or Noto Serif, etc.
+
+%–– detect and switch ––
+\setDefaultTransitions{\latinfont}{}                        
+\setTransitionsFor{Mongolian}{\mongscriptfont}{\latinfont} 
+\setTransitionsFor{Cyrillic}{\cyrillicfont}{\latinfont}
 
 \usepackage{cvpr}
 \usepackage{times}
@@ -40,15 +44,53 @@
 % egpaper.aux-г дахин ажиллуулахаас өмнө.  (Эсвэл эхний латекс ажиллуулалтын үед 'q'-г дараад, дуусгаж байгаарай, тэгээд тодорхой болно.)
 \usepackage[breaklinks=true,bookmarks=false]{hyperref}
 
-\makeatletter
-\def\cvprsubsection{\@startsection {subsection}{2}{\z@}
-    {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
-\makeatother
+% \makeatletter
+% \def\cvprsubsection{\@startsection {subsection}{2}{\z@}
+%     {8pt plus 2pt minus 2pt}{6pt}{\bfseries\normalsize}}
+% \makeatother
 
 \cvprfinalcopy % *** Эцсийн хувилбарыг илгээхэд энэ мөрийг идэвхжүүлнэ үү
 
 \def\cvprPaperID{****} % *** CVPR өгүүллийн дугаарыг энд оруулна уу
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\refname}{Эшлэлүүд}
+\renewcommand{\tablename}{Хүснэгт}
+\renewcommand{\figurename}{Зураг}   % or whatever you like instead of "Hình"
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf Хураангуй}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
 
 % Илгээх горимд хуудсууд дугаарлагдсан, эцсийн хувилбарт дугааргүй байна
 %\ifcvprfinal\pagestyle{empty}\fi

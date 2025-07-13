@@ -4,9 +4,22 @@
 \usepackage{stfloats}
 \usepackage{float}
 
-\usepackage[T2A]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
+% \usepackage[T2A]{fontenc}
+% \usepackage[utf8]{inputenc}
+% \usepackage[russian]{babel}
+
+\usepackage{fontspec}
+\usepackage{ucharclasses}
+
+%–– your fonts ––
+\newfontfamily\latinfont{Latin Modern Roman}                % default (Latin)
+\newfontfamily\mongscriptfont[Script=Mongolian]{Noto Serif}  
+\newfontfamily\cyrillicfont[Script=Cyrillic]{Noto Serif}      % or Noto Serif, etc.
+
+%–– detect and switch ––
+\setDefaultTransitions{\latinfont}{}                        
+\setTransitionsFor{Mongolian}{\mongscriptfont}{\latinfont} 
+\setTransitionsFor{Cyrillic}{\cyrillicfont}{\latinfont}    
 
 
 \usepackage{cvpr}
@@ -267,6 +280,16 @@
 
 Амаллулла выделил три западные политические фракции, которые вместе он называл “Потомками Юпитера”, обладающими знанием о “конце времён” — периодических катастрофах Земли. Он считал, что эти три фракции вместе управляют западными странами сегодня, но делятся на три разные группы, исходя из различий их происхождения и исторических идентичностей, возможных прошлых разногласий и воспринимаемых различий в системах ценностей и действиях.
 
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{illuminati.jpg}
+\end{center}
+   \caption{Кто же такие потомки Юпитера? (Изображение: \cite{35})}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
 Эти три фракции можно примерно классифицировать так:
 
 \begin{flushleft}
@@ -278,15 +301,6 @@
 \end{flushleft}
 
 Сегодня эти три фракции вместе включают европейских иллюминатов, масонов и ЦРУ. Как описал Амаллулла, \textit{"Прямо сейчас, в конце времен, потомки Юпитера надежно спрятаны за допусками к информации, доступ к которой ограничен даже действующему президенту Соединенных Штатов Америки. Другими словами, они довели до совершенства искусство скрываться от общественного внимания. \textbf{Потомки Юпитера не только контролируют военные и правительство Соединённых Штатов Америки, но и с помощью власти фиатных денег, крупных корпораций и изобретённой ими республиканской формы правления (осознавая, что политики будут легко подкуплены и таким образом подчинены), они контролируют весь западный мир}"} \cite{33,34}.
-
-\begin{figure}[t]
-\begin{center}
-   \includegraphics[width=1\linewidth]{illuminati.jpg}
-\end{center}
-   \caption{Кто же такие потомки Юпитера? (Изображение: \cite{35})}
-\label{fig:10}
-\label{fig:onecol}
-\end{figure}
 
 \begin{figure}[t]
 \begin{center}

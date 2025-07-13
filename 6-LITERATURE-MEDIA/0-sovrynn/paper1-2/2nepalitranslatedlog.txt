@@ -1,0 +1,1482 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepalitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 46.
+
+(./2nepalitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/b/n' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 61.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/m/it' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+2.
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 62--63
+[]\TU/NewCM08Devanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 , 
+"\TU/NewCM08Devanagari(0)/m/it/10 द इथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/it
+/10 " \TU/NewCM08Devanagari(0)/m/it/10 उपनाम द्वारा
+
+Underfull \hbox (badness 1895) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 छुट्टिने जानिबेकोभ कम्पन \TU/LatinModernRoman(
+0)/m/it/10 (Exothermic Core-Mantle
+
+Underfull \hbox (badness 2726) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 एउटा नयाँ मार्ग खोल्ने सिद्धान्त प्रकाशित गरे 
+\TU/LatinModernRoman(0)/m/it/10 [[]]\TU/NewCM08Devanagari(0)/m/it/10 ।
+
+Underfull \hbox (badness 1874) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 समुद्रहरूलाई जड़त्वाघूर्णका कारण महादेशहरूमा ब
+गाई
+
+Underfull \hbox (badness 2521) in paragraph at lines 64--65
+[]\TU/NewCM08Devanagari(0)/m/it/10 यो अनुसन्धानपत्र \TU/LatinModernRoman(0)/m/i
+t/10 ECDO \TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तमा ६ महिनासम्म
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 गरिएको स्वतन्त्र अनुसन्धानको दुइ\TU/LatinModer
+nRoman(0)/m/it/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागको संक्षिप्त
+
+Underfull \hbox (badness 2941) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 वैज्ञानिक र ऐतिहासिक विसंगतिहरूलाई केन्द्रीत ग
+रेर
+
+Underfull \hbox (badness 4927) in paragraph at lines 72--73
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्ता विसंगतिहरू\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NewCM08Devanagari(0)/m/it/10 जुन् हामी देख्नेछौं\TU/LatinModernRoman(0
+)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 2970) in paragraph at lines 72--73
+\TU/NewCM08Devanagari(0)/m/it/10 भूवैज्ञानिक बलहरूद्वारा सबैभन्दा राम्रोसँग व्य
+ाख्या गर्न
+
+Underfull \hbox (badness 3884) in paragraph at lines 74--74
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NewCM08Devanagari(0)/b/n/12 माटोमा गाडि
+एका र तिव्रगतिमा जमेका
+
+Underfull \hbox (badness 1122) in paragraph at lines 85--86
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्तै प्रकारको विसंगति भनेको आर्कटिक क्षेत्र
+हरूमा
+
+Underfull \hbox (badness 1009) in paragraph at lines 85--86
+\TU/NewCM08Devanagari(0)/m/it/10 तह समेत राम्ररी सुरक्षित फाइबरयुक्त बनावटमा रह
+ेछ\TU/LatinModernRoman(0)/m/it/10 ,
+[1]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1590) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 कि यी विशाल अवसादी तहहरूको निक्षेपण महत्वपूर्ण
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 तहहरू निक्षेपण पछिको छोटो समयमै\TU/LatinModern
+Roman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 अझै नरम हुँदा\TU/LatinModern
+Roman(0)/m/n/10 ,
+
+Underfull \vbox (badness 1769) has occurred while \output is active [2]
+Underfull \hbox (badness 1769) in paragraph at lines 126--129
+\TU/NewCM08Devanagari(0)/m/it/10 मात्रामा अवसाद हटाउँदै क्यान्यन कोरेको थियो। ग
+्रान्ड
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1132) in paragraph at lines 132--133
+[]\TU/NewCM08Devanagari(0)/m/it/10 पिरामिड बाहेक\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NewCM08Devanagari(0)/m/it/10 प्राचीन ईन्जिनियरिङ्को एक उत्कृष्ट
+
+Underfull \hbox (badness 4752) in paragraph at lines 132--133
+\TU/NewCM08Devanagari(0)/m/it/10 उदाहरण हो डेरिन्कुयु भूमिगत सहर \TU/LatinModer
+nRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/LatinModernRoman
+(0)/m/n/10 5[]), \TU/NewCM08Devanagari(0)/m/it/10 जुन
+
+Underfull \hbox (badness 1755) in paragraph at lines 145--146
+[]\TU/NewCM08Devanagari(0)/m/it/10 डेरिन्कुयु रोचक हुनुको कारण के हो भने कुनैपन
+ि
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[]\TU/NewCM08Devanagari(0)/m/it/10 भूमिगत शहरको ढाँचाको स्केल\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 गहिराइ र
+
+Underfull \hbox (badness 5161) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 घातक शक्तिहरू विरुद्ध सुरक्षाको लागि दीर्घकाली
+न
+
+Underfull \hbox (badness 3009) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 आश्रयको रूपमा डिजाइन गरिएको थियो। डेरिन्कुयुमा
+
+[3]
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 4229) in paragraph at lines 167--177
+[]\TU/NewCM08Devanagari(0)/m/it/10 विभिन्न किसिमका जनावर र वनस्पतिहरूको जैव
+
+Underfull \hbox (badness 2119) in paragraph at lines 167--177
+\TU/LatinModernRoman(0)/m/n/10 vianæ"(\TU/NewCM08Devanagari(0)/m/it/10 प्रलयकाल
+ीन अवशेषहरू\TU/LatinModernRoman(0)/m/n/10 ) \TU/NewCM08Devanagari(0)/m/it/10 मा
+\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 रेभरेन्ड विलि
+यम
+
+Underfull \hbox (badness 1968) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरहरूको जीवाश्म विवरण दिएका छन्\T
+U/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 1436) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 जसलाई एउटै स्थानमा फेला पार्नुको कुनै स्पष्ट क
+ारण
+
+Underfull \hbox (badness 1184) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 मिसिएका मात्र थिएनन्\TU/LatinModernRoman(0)/m/
+n/10 , \TU/NewCM08Devanagari(0)/m/it/10 बरु टुक्रा\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 फुटेका र छरिएका
+
+Underfull \hbox (badness 1831) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरका हड्डीहरू काँचो \TU/LatinMode
+rnRoman(0)/m/n/10 (glassy) \TU/NewCM08Devanagari(0)/m/it/10 माटोसँग
+[4]
+Underfull \hbox (badness 2253) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 मेहनत गरिएको छ भन्ने थाहा हुन्छ \TU/LatinModer
+nRoman(0)/m/n/10 - \TU/NewCM08Devanagari(0)/m/it/10 न्युग्रेन्ज करिब
+
+Underfull \hbox (badness 1509) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 तीनवटा साना कक्षहरू छन्\TU/LatinModernRoman(0)
+/m/it/10 , \TU/NewCM08Devanagari(0)/m/it/10 जसमा माथिल्लो भागमा
+
+Underfull \hbox (badness 1902) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 जलरोधक बनाउनको लागि जलेको माटो र समुन्द्रको
+
+Underfull \hbox (badness 1199) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 बालुवाको मिश्रणले छोपिएको थियो र यस मिश्रणबाट
+
+Underfull \hbox (badness 1122) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 प्रतिनिधित्व गर्छ। भित्रका सामग्रीहरूको कार्बन
+ मितिका
+
+Underfull \hbox (badness 1377) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 हो भने यी प्राचीन र ध्यानपूर्वक जलरोधक बनाइएका
+
+[5]
+Underfull \hbox (badness 2828) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 सङ्कीर्णता र भूपरिवेशी ह्वेल जीवाश्महरू छन्। झ
+ेङ्ग
+
+Underfull \hbox (badness 1859) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 उत्परिवर्तनहरूका आधारमा\TU/LatinModernRoman(0)
+/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 करिब ५\TU/LatinModernRoman(0)/m/n/10
+ ,\TU/NewCM08Devanagari(0)/m/it/10 ००० देखि ७\TU/LatinModernRoman(0)/m/n/10 ,\T
+U/NewCM08Devanagari(0)/m/it/10 ०००
+
+Underfull \hbox (badness 1308) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (LOME), \TU/NewCM08Devanagari(0)/m/it/10 पछिल्लो
+ डेवोनियन \TU/LatinModernRoman(0)/m/n/10 (LDME), \TU/NewCM08Devanagari(0)/m/it/
+10 अन्त\TU/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 परमियन
+
+Underfull \hbox (badness 2158) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (EPME), \TU/NewCM08Devanagari(0)/m/it/10 अन्त\TU
+/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 ट्राइसिक \TU/Lati
+nModernRoman(0)/m/n/10 (ETME) \TU/NewCM08Devanagari(0)/m/it/10 र अन्त\TU/LatinM
+odernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 क्रिटेशियस
+
+Underfull \hbox (badness 2261) in paragraph at lines 234--234
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 11. []\TU/NewCM08Devanagari(0)/m/n/9 ग्ल
+ेशियल लेक कोलम्बिया\TU/LatinModernRoman(0)/m/n/9 , \TU/NewCM08Devanagari(0)/m/n
+/9 वाशिंगटन राज्यमा
+
+Underfull \hbox (badness 1152) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 रहेको च्यानल्ड स्क्याबल्याण्ड्स हो। यहाँ\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 हामी तलछट
+
+Underfull \hbox (badness 2237) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल समुद्री प्रवाहबाट बनेको सय भन्दा बढी ठूल
+ा
+[6]
+Underfull \hbox (badness 1655) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 उल्टोफेरले राम्रोसँग व्याख्या गर्न सकिन्छ। दक्
+षिणी चीन
+
+Underfull \hbox (badness 1127) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/Ne
+wCM08Devanagari(0)/m/it/10 कोन कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/NewC
+M08Devanagari(0)/m/it/10 प्राकृतिक पुलहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+ewCM08Devanagari(0)/m/it/10 खोँचहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08
+Devanagari(0)/m/it/10 ठूला
+
+Underfull \hbox (badness 1205) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल क्वार्ट्जयुक्त बालुवापत्थर स्तम्भहरू \TU
+/LatinModernRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/Latin
+ModernRoman(0)/m/n/10 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NewCM08Devanagari(0)/m/it/10 आधुनिक वैज्ञानिक साहित्यले पृथ्वीको हालैको
+
+Underfull \hbox (badness 1308) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 अस्तित्वलाई मान्यता दिन्छ। दुई उल्लेखनीय उदाहर
+णहरू
+
+Underfull \hbox (badness 1789) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 जनसंख्या घटावट र ठूलो भौगोलिक क्षेत्रमा समाजिक
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 र बरफको कोर\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 जीवाश्म कोरल\TU/LatinModernRoman(0)/m/n/10 , O18
+ \TU/NewCM08Devanagari(0)/m/it/10 आइसोटोप
+
+Underfull \hbox (badness 1755) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 मान\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM0
+8Devanagari(0)/m/it/10 परागकण र स्पिलियोथेम अभिलेख\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 तथा समुद्री
+
+Underfull \hbox (badness 2564) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 सतहका डेटामा विसंगतिहरूको रूपमा संरक्षित भएको
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 तापक्रमको तिब्र गिरावट\TU/LatinModernRoman(0)/
+m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 मरुभूमीकरण\TU/LatinModernRoman(0)/m/n
+/10 , \TU/NewCM08Devanagari(0)/m/it/10 एटलान्टिक
+[7]
+Underfull \hbox (badness 6236) in paragraph at lines 270--271
+\TU/NewCM08Devanagari(0)/m/it/10 विपत्तिपूर्ण घटनाहरूको अभिलेख सिर्जना गरेको छ।
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 3895) in paragraph at lines 291--292
+[]\TU/NewCM08Devanagari(0)/m/it/10 कार्बन डेटिङ बाहेक अन्य रेडियोआइसोटोप डेटिङ
+
+Underfull \hbox (badness 1418) in paragraph at lines 291--292
+\TU/NewCM08Devanagari(0)/m/it/10 अनुसन्धान समूहले यस्ता विधिहरूबाट प्राप्त मिति
+हरूमा
+
+Underfull \hbox (badness 1460) in paragraph at lines 295--296
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस लेखमा\TU/LatinModernRoman(0)/m/n/10 , \TU
+/NewCM08Devanagari(0)/m/it/10 मैले विनाशकारी उत्पत्तिहरू संकेत गर्ने
+
+Underfull \hbox (badness 1721) in paragraph at lines 295--296
+\TU/NewCM08Devanagari(0)/m/it/10 सबैभन्दा प्रभावशाली विसंगतिहरू समेटेको छु जसला
+ई
+
+Underfull \hbox (badness 1009) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 उहाँको सजीव\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 नविनतम् थेसिस सम्पन्न गरी संसारसंग
+
+Underfull \hbox (badness 1888) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 साझा गर्नुभएकोमा धन्यवाद। उहाँको त्रि\TU/Latin
+ModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागीय थेसिस
+
+Underfull \hbox (badness 1540) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तको लागि अधिकारिक कृति रहिरहन्छ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 र त्यहाँ
+[8] [9] (./2nepalitranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/LatinModernRoman(0)/m/n/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/LatinModernRoman(0)/m/n/9 national park.  []$[][][][][] [] [] [] [][][] [] 
+[][][] [] [][][] [] [][][][] [] [][][][][] []
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/LatinModernRoman(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/LatinModernRoman(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[11]) [12] (./2nepalitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepalitranslated.pdf (12 pages).
+Transcript written on 2nepalitranslated.log.
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+The top-level auxiliary file: 2nepalitranslated.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "15" isn't style-file defined
+--line 120 of file egbib.bib
+Warning--entry type for "42" isn't style-file defined
+--line 357 of file egbib.bib
+Warning--to sort, need author or key in 42
+Warning--to sort, need author or key in 88
+Warning--to sort, need author, editor, or key in 103
+Warning--empty author and editor in 103
+Warning--empty author in 88
+Warning--empty booktitle in 54
+Warning--empty year in 63
+Warning--empty journal in 145
+Warning--empty publisher in 64
+(There were 11 warnings)
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepalitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 46.
+
+(./2nepalitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/b/n' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 61.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/m/it' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+2.
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 62--63
+[]\TU/NewCM08Devanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 , 
+"\TU/NewCM08Devanagari(0)/m/it/10 द इथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/it
+/10 " \TU/NewCM08Devanagari(0)/m/it/10 उपनाम द्वारा
+
+Underfull \hbox (badness 1895) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 छुट्टिने जानिबेकोभ कम्पन \TU/LatinModernRoman(
+0)/m/it/10 (Exothermic Core-Mantle
+
+Underfull \hbox (badness 2726) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 एउटा नयाँ मार्ग खोल्ने सिद्धान्त प्रकाशित गरे 
+\TU/LatinModernRoman(0)/m/it/10 [[]]\TU/NewCM08Devanagari(0)/m/it/10 ।
+
+Underfull \hbox (badness 1874) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 समुद्रहरूलाई जड़त्वाघूर्णका कारण महादेशहरूमा ब
+गाई
+
+Underfull \hbox (badness 2521) in paragraph at lines 64--65
+[]\TU/NewCM08Devanagari(0)/m/it/10 यो अनुसन्धानपत्र \TU/LatinModernRoman(0)/m/i
+t/10 ECDO \TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तमा ६ महिनासम्म
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 गरिएको स्वतन्त्र अनुसन्धानको दुइ\TU/LatinModer
+nRoman(0)/m/it/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागको संक्षिप्त
+
+Underfull \hbox (badness 2941) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 वैज्ञानिक र ऐतिहासिक विसंगतिहरूलाई केन्द्रीत ग
+रेर
+
+Underfull \hbox (badness 4927) in paragraph at lines 72--73
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्ता विसंगतिहरू\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NewCM08Devanagari(0)/m/it/10 जुन् हामी देख्नेछौं\TU/LatinModernRoman(0
+)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 2970) in paragraph at lines 72--73
+\TU/NewCM08Devanagari(0)/m/it/10 भूवैज्ञानिक बलहरूद्वारा सबैभन्दा राम्रोसँग व्य
+ाख्या गर्न
+
+Underfull \hbox (badness 3884) in paragraph at lines 74--74
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NewCM08Devanagari(0)/b/n/12 माटोमा गाडि
+एका र तिव्रगतिमा जमेका
+
+Underfull \hbox (badness 1122) in paragraph at lines 85--86
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्तै प्रकारको विसंगति भनेको आर्कटिक क्षेत्र
+हरूमा
+
+Underfull \hbox (badness 1009) in paragraph at lines 85--86
+\TU/NewCM08Devanagari(0)/m/it/10 तह समेत राम्ररी सुरक्षित फाइबरयुक्त बनावटमा रह
+ेछ\TU/LatinModernRoman(0)/m/it/10 ,
+[1]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1590) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 कि यी विशाल अवसादी तहहरूको निक्षेपण महत्वपूर्ण
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 तहहरू निक्षेपण पछिको छोटो समयमै\TU/LatinModern
+Roman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 अझै नरम हुँदा\TU/LatinModern
+Roman(0)/m/n/10 ,
+
+Underfull \vbox (badness 1769) has occurred while \output is active [2]
+Underfull \hbox (badness 1769) in paragraph at lines 126--129
+\TU/NewCM08Devanagari(0)/m/it/10 मात्रामा अवसाद हटाउँदै क्यान्यन कोरेको थियो। ग
+्रान्ड
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1132) in paragraph at lines 132--133
+[]\TU/NewCM08Devanagari(0)/m/it/10 पिरामिड बाहेक\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NewCM08Devanagari(0)/m/it/10 प्राचीन ईन्जिनियरिङ्को एक उत्कृष्ट
+
+Underfull \hbox (badness 4752) in paragraph at lines 132--133
+\TU/NewCM08Devanagari(0)/m/it/10 उदाहरण हो डेरिन्कुयु भूमिगत सहर \TU/LatinModer
+nRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/LatinModernRoman
+(0)/m/n/10 5[]), \TU/NewCM08Devanagari(0)/m/it/10 जुन
+
+Underfull \hbox (badness 1755) in paragraph at lines 145--146
+[]\TU/NewCM08Devanagari(0)/m/it/10 डेरिन्कुयु रोचक हुनुको कारण के हो भने कुनैपन
+ि
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[]\TU/NewCM08Devanagari(0)/m/it/10 भूमिगत शहरको ढाँचाको स्केल\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 गहिराइ र
+
+Underfull \hbox (badness 5161) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 घातक शक्तिहरू विरुद्ध सुरक्षाको लागि दीर्घकाली
+न
+
+Underfull \hbox (badness 3009) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 आश्रयको रूपमा डिजाइन गरिएको थियो। डेरिन्कुयुमा
+
+[3]
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 4229) in paragraph at lines 167--177
+[]\TU/NewCM08Devanagari(0)/m/it/10 विभिन्न किसिमका जनावर र वनस्पतिहरूको जैव
+
+Underfull \hbox (badness 2119) in paragraph at lines 167--177
+\TU/LatinModernRoman(0)/m/n/10 vianæ"(\TU/NewCM08Devanagari(0)/m/it/10 प्रलयकाल
+ीन अवशेषहरू\TU/LatinModernRoman(0)/m/n/10 ) \TU/NewCM08Devanagari(0)/m/it/10 मा
+\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 रेभरेन्ड विलि
+यम
+
+Underfull \hbox (badness 1968) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरहरूको जीवाश्म विवरण दिएका छन्\T
+U/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 1436) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 जसलाई एउटै स्थानमा फेला पार्नुको कुनै स्पष्ट क
+ारण
+
+Underfull \hbox (badness 1184) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 मिसिएका मात्र थिएनन्\TU/LatinModernRoman(0)/m/
+n/10 , \TU/NewCM08Devanagari(0)/m/it/10 बरु टुक्रा\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 फुटेका र छरिएका
+
+Underfull \hbox (badness 1831) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरका हड्डीहरू काँचो \TU/LatinMode
+rnRoman(0)/m/n/10 (glassy) \TU/NewCM08Devanagari(0)/m/it/10 माटोसँग
+[4]
+Underfull \hbox (badness 2253) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 मेहनत गरिएको छ भन्ने थाहा हुन्छ \TU/LatinModer
+nRoman(0)/m/n/10 - \TU/NewCM08Devanagari(0)/m/it/10 न्युग्रेन्ज करिब
+
+Underfull \hbox (badness 1509) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 तीनवटा साना कक्षहरू छन्\TU/LatinModernRoman(0)
+/m/it/10 , \TU/NewCM08Devanagari(0)/m/it/10 जसमा माथिल्लो भागमा
+
+Underfull \hbox (badness 1902) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 जलरोधक बनाउनको लागि जलेको माटो र समुन्द्रको
+
+Underfull \hbox (badness 1199) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 बालुवाको मिश्रणले छोपिएको थियो र यस मिश्रणबाट
+
+Underfull \hbox (badness 1122) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 प्रतिनिधित्व गर्छ। भित्रका सामग्रीहरूको कार्बन
+ मितिका
+
+Underfull \hbox (badness 1377) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 हो भने यी प्राचीन र ध्यानपूर्वक जलरोधक बनाइएका
+
+[5]
+Underfull \hbox (badness 2828) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 सङ्कीर्णता र भूपरिवेशी ह्वेल जीवाश्महरू छन्। झ
+ेङ्ग
+
+Underfull \hbox (badness 1859) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 उत्परिवर्तनहरूका आधारमा\TU/LatinModernRoman(0)
+/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 करिब ५\TU/LatinModernRoman(0)/m/n/10
+ ,\TU/NewCM08Devanagari(0)/m/it/10 ००० देखि ७\TU/LatinModernRoman(0)/m/n/10 ,\T
+U/NewCM08Devanagari(0)/m/it/10 ०००
+
+Underfull \hbox (badness 1308) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (LOME), \TU/NewCM08Devanagari(0)/m/it/10 पछिल्लो
+ डेवोनियन \TU/LatinModernRoman(0)/m/n/10 (LDME), \TU/NewCM08Devanagari(0)/m/it/
+10 अन्त\TU/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 परमियन
+
+Underfull \hbox (badness 2158) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (EPME), \TU/NewCM08Devanagari(0)/m/it/10 अन्त\TU
+/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 ट्राइसिक \TU/Lati
+nModernRoman(0)/m/n/10 (ETME) \TU/NewCM08Devanagari(0)/m/it/10 र अन्त\TU/LatinM
+odernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 क्रिटेशियस
+
+Underfull \hbox (badness 2261) in paragraph at lines 234--234
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 11. []\TU/NewCM08Devanagari(0)/m/n/9 ग्ल
+ेशियल लेक कोलम्बिया\TU/LatinModernRoman(0)/m/n/9 , \TU/NewCM08Devanagari(0)/m/n
+/9 वाशिंगटन राज्यमा
+
+Underfull \hbox (badness 1152) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 रहेको च्यानल्ड स्क्याबल्याण्ड्स हो। यहाँ\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 हामी तलछट
+
+Underfull \hbox (badness 2237) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल समुद्री प्रवाहबाट बनेको सय भन्दा बढी ठूल
+ा
+[6]
+Underfull \hbox (badness 1655) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 उल्टोफेरले राम्रोसँग व्याख्या गर्न सकिन्छ। दक्
+षिणी चीन
+
+Underfull \hbox (badness 1127) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/Ne
+wCM08Devanagari(0)/m/it/10 कोन कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/NewC
+M08Devanagari(0)/m/it/10 प्राकृतिक पुलहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+ewCM08Devanagari(0)/m/it/10 खोँचहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08
+Devanagari(0)/m/it/10 ठूला
+
+Underfull \hbox (badness 1205) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल क्वार्ट्जयुक्त बालुवापत्थर स्तम्भहरू \TU
+/LatinModernRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/Latin
+ModernRoman(0)/m/n/10 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NewCM08Devanagari(0)/m/it/10 आधुनिक वैज्ञानिक साहित्यले पृथ्वीको हालैको
+
+Underfull \hbox (badness 1308) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 अस्तित्वलाई मान्यता दिन्छ। दुई उल्लेखनीय उदाहर
+णहरू
+
+Underfull \hbox (badness 1789) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 जनसंख्या घटावट र ठूलो भौगोलिक क्षेत्रमा समाजिक
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 र बरफको कोर\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 जीवाश्म कोरल\TU/LatinModernRoman(0)/m/n/10 , O18
+ \TU/NewCM08Devanagari(0)/m/it/10 आइसोटोप
+
+Underfull \hbox (badness 1755) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 मान\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM0
+8Devanagari(0)/m/it/10 परागकण र स्पिलियोथेम अभिलेख\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 तथा समुद्री
+
+Underfull \hbox (badness 2564) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 सतहका डेटामा विसंगतिहरूको रूपमा संरक्षित भएको
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 तापक्रमको तिब्र गिरावट\TU/LatinModernRoman(0)/
+m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 मरुभूमीकरण\TU/LatinModernRoman(0)/m/n
+/10 , \TU/NewCM08Devanagari(0)/m/it/10 एटलान्टिक
+[7]
+Underfull \hbox (badness 6236) in paragraph at lines 270--271
+\TU/NewCM08Devanagari(0)/m/it/10 विपत्तिपूर्ण घटनाहरूको अभिलेख सिर्जना गरेको छ।
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 3895) in paragraph at lines 291--292
+[]\TU/NewCM08Devanagari(0)/m/it/10 कार्बन डेटिङ बाहेक अन्य रेडियोआइसोटोप डेटिङ
+
+Underfull \hbox (badness 1418) in paragraph at lines 291--292
+\TU/NewCM08Devanagari(0)/m/it/10 अनुसन्धान समूहले यस्ता विधिहरूबाट प्राप्त मिति
+हरूमा
+
+Underfull \hbox (badness 1460) in paragraph at lines 295--296
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस लेखमा\TU/LatinModernRoman(0)/m/n/10 , \TU
+/NewCM08Devanagari(0)/m/it/10 मैले विनाशकारी उत्पत्तिहरू संकेत गर्ने
+
+Underfull \hbox (badness 1721) in paragraph at lines 295--296
+\TU/NewCM08Devanagari(0)/m/it/10 सबैभन्दा प्रभावशाली विसंगतिहरू समेटेको छु जसला
+ई
+
+Underfull \hbox (badness 1009) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 उहाँको सजीव\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 नविनतम् थेसिस सम्पन्न गरी संसारसंग
+
+Underfull \hbox (badness 1888) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 साझा गर्नुभएकोमा धन्यवाद। उहाँको त्रि\TU/Latin
+ModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागीय थेसिस
+
+Underfull \hbox (badness 1540) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तको लागि अधिकारिक कृति रहिरहन्छ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 र त्यहाँ
+[8] [9] (./2nepalitranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/LatinModernRoman(0)/m/n/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/LatinModernRoman(0)/m/n/9 national park.  []$[][][][][] [] [] [] [][][] [] 
+[][][] [] [][][] [] [][][][] [] [][][][][] []
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/LatinModernRoman(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/LatinModernRoman(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[11]) [12] (./2nepalitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepalitranslated.pdf (12 pages).
+Transcript written on 2nepalitranslated.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./2nepalitranslated.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (./cvpr.sty
+(./eso-pic.sty (./cvpr_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 46.
+
+(./2nepalitranslated.aux
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+
+LaTeX Warning: Label `fig:onecol' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/b/n' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 61.
+
+
+LaTeX Font Warning: Font shape `TU/NewCM08Devanagari(0)/m/it' undefined
+(Font)              using `TU/NewCM08Devanagari(0)/m/n' instead on input line 6
+2.
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 62--63
+[]\TU/NewCM08Devanagari(0)/m/it/10 मे २०२४ मा\TU/LatinModernRoman(0)/m/it/10 , 
+"\TU/NewCM08Devanagari(0)/m/it/10 द इथिकल स्केप्टिक\TU/LatinModernRoman(0)/m/it
+/10 " \TU/NewCM08Devanagari(0)/m/it/10 उपनाम द्वारा
+
+Underfull \hbox (badness 1895) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 छुट्टिने जानिबेकोभ कम्पन \TU/LatinModernRoman(
+0)/m/it/10 (Exothermic Core-Mantle
+
+Underfull \hbox (badness 2726) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 एउटा नयाँ मार्ग खोल्ने सिद्धान्त प्रकाशित गरे 
+\TU/LatinModernRoman(0)/m/it/10 [[]]\TU/NewCM08Devanagari(0)/m/it/10 ।
+
+Underfull \hbox (badness 1874) in paragraph at lines 62--63
+\TU/NewCM08Devanagari(0)/m/it/10 समुद्रहरूलाई जड़त्वाघूर्णका कारण महादेशहरूमा ब
+गाई
+
+Underfull \hbox (badness 2521) in paragraph at lines 64--65
+[]\TU/NewCM08Devanagari(0)/m/it/10 यो अनुसन्धानपत्र \TU/LatinModernRoman(0)/m/i
+t/10 ECDO \TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तमा ६ महिनासम्म
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 गरिएको स्वतन्त्र अनुसन्धानको दुइ\TU/LatinModer
+nRoman(0)/m/it/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागको संक्षिप्त
+
+Underfull \hbox (badness 2941) in paragraph at lines 64--65
+\TU/NewCM08Devanagari(0)/m/it/10 वैज्ञानिक र ऐतिहासिक विसंगतिहरूलाई केन्द्रीत ग
+रेर
+
+Underfull \hbox (badness 4927) in paragraph at lines 72--73
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्ता विसंगतिहरू\TU/LatinModernRoman(0)/m/n/
+10 , \TU/NewCM08Devanagari(0)/m/it/10 जुन् हामी देख्नेछौं\TU/LatinModernRoman(0
+)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 प्रलयकारी
+
+Underfull \hbox (badness 2970) in paragraph at lines 72--73
+\TU/NewCM08Devanagari(0)/m/it/10 भूवैज्ञानिक बलहरूद्वारा सबैभन्दा राम्रोसँग व्य
+ाख्या गर्न
+
+Underfull \hbox (badness 3884) in paragraph at lines 74--74
+[] \TU/LatinModernRoman(0)/b/n/12 . \TU/NewCM08Devanagari(0)/b/n/12 माटोमा गाडि
+एका र तिव्रगतिमा जमेका
+
+Underfull \hbox (badness 1122) in paragraph at lines 85--86
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस्तै प्रकारको विसंगति भनेको आर्कटिक क्षेत्र
+हरूमा
+
+Underfull \hbox (badness 1009) in paragraph at lines 85--86
+\TU/NewCM08Devanagari(0)/m/it/10 तह समेत राम्ररी सुरक्षित फाइबरयुक्त बनावटमा रह
+ेछ\TU/LatinModernRoman(0)/m/it/10 ,
+[1]
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1590) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 कि यी विशाल अवसादी तहहरूको निक्षेपण महत्वपूर्ण
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 112--113
+\TU/NewCM08Devanagari(0)/m/it/10 तहहरू निक्षेपण पछिको छोटो समयमै\TU/LatinModern
+Roman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 अझै नरम हुँदा\TU/LatinModern
+Roman(0)/m/n/10 ,
+
+Underfull \vbox (badness 1769) has occurred while \output is active [2]
+Underfull \hbox (badness 1769) in paragraph at lines 126--129
+\TU/NewCM08Devanagari(0)/m/it/10 मात्रामा अवसाद हटाउँदै क्यान्यन कोरेको थियो। ग
+्रान्ड
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 1132) in paragraph at lines 132--133
+[]\TU/NewCM08Devanagari(0)/m/it/10 पिरामिड बाहेक\TU/LatinModernRoman(0)/m/n/10 
+, \TU/NewCM08Devanagari(0)/m/it/10 प्राचीन ईन्जिनियरिङ्को एक उत्कृष्ट
+
+Underfull \hbox (badness 4752) in paragraph at lines 132--133
+\TU/NewCM08Devanagari(0)/m/it/10 उदाहरण हो डेरिन्कुयु भूमिगत सहर \TU/LatinModer
+nRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/LatinModernRoman
+(0)/m/n/10 5[]), \TU/NewCM08Devanagari(0)/m/it/10 जुन
+
+Underfull \hbox (badness 1755) in paragraph at lines 145--146
+[]\TU/NewCM08Devanagari(0)/m/it/10 डेरिन्कुयु रोचक हुनुको कारण के हो भने कुनैपन
+ि
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[]\TU/NewCM08Devanagari(0)/m/it/10 भूमिगत शहरको ढाँचाको स्केल\TU/LatinModernRom
+an(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 गहिराइ र
+
+Underfull \hbox (badness 5161) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 घातक शक्तिहरू विरुद्ध सुरक्षाको लागि दीर्घकाली
+न
+
+Underfull \hbox (badness 3009) in paragraph at lines 147--149
+\TU/NewCM08Devanagari(0)/m/it/10 आश्रयको रूपमा डिजाइन गरिएको थियो। डेरिन्कुयुमा
+
+[3]
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 4229) in paragraph at lines 167--177
+[]\TU/NewCM08Devanagari(0)/m/it/10 विभिन्न किसिमका जनावर र वनस्पतिहरूको जैव
+
+Underfull \hbox (badness 2119) in paragraph at lines 167--177
+\TU/LatinModernRoman(0)/m/n/10 vianæ"(\TU/NewCM08Devanagari(0)/m/it/10 प्रलयकाल
+ीन अवशेषहरू\TU/LatinModernRoman(0)/m/n/10 ) \TU/NewCM08Devanagari(0)/m/it/10 मा
+\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 रेभरेन्ड विलि
+यम
+
+Underfull \hbox (badness 1968) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरहरूको जीवाश्म विवरण दिएका छन्\T
+U/LatinModernRoman(0)/m/n/10 ,
+
+Underfull \hbox (badness 1436) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 जसलाई एउटै स्थानमा फेला पार्नुको कुनै स्पष्ट क
+ारण
+
+Underfull \hbox (badness 1184) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 मिसिएका मात्र थिएनन्\TU/LatinModernRoman(0)/m/
+n/10 , \TU/NewCM08Devanagari(0)/m/it/10 बरु टुक्रा\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 फुटेका र छरिएका
+
+Underfull \hbox (badness 1831) in paragraph at lines 167--177
+\TU/NewCM08Devanagari(0)/m/it/10 प्रजातिका जनावरका हड्डीहरू काँचो \TU/LatinMode
+rnRoman(0)/m/n/10 (glassy) \TU/NewCM08Devanagari(0)/m/it/10 माटोसँग
+[4]
+Underfull \hbox (badness 2253) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 मेहनत गरिएको छ भन्ने थाहा हुन्छ \TU/LatinModer
+nRoman(0)/m/n/10 - \TU/NewCM08Devanagari(0)/m/it/10 न्युग्रेन्ज करिब
+
+Underfull \hbox (badness 1509) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 तीनवटा साना कक्षहरू छन्\TU/LatinModernRoman(0)
+/m/it/10 , \TU/NewCM08Devanagari(0)/m/it/10 जसमा माथिल्लो भागमा
+
+Underfull \hbox (badness 1902) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 जलरोधक बनाउनको लागि जलेको माटो र समुन्द्रको
+
+Underfull \hbox (badness 1199) in paragraph at lines 193--194
+\TU/NewCM08Devanagari(0)/m/it/10 बालुवाको मिश्रणले छोपिएको थियो र यस मिश्रणबाट
+
+Underfull \hbox (badness 1122) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 प्रतिनिधित्व गर्छ। भित्रका सामग्रीहरूको कार्बन
+ मितिका
+
+Underfull \hbox (badness 1377) in paragraph at lines 205--207
+\TU/NewCM08Devanagari(0)/m/it/10 हो भने यी प्राचीन र ध्यानपूर्वक जलरोधक बनाइएका
+
+[5]
+Underfull \hbox (badness 2828) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 सङ्कीर्णता र भूपरिवेशी ह्वेल जीवाश्महरू छन्। झ
+ेङ्ग
+
+Underfull \hbox (badness 1859) in paragraph at lines 224--226
+\TU/NewCM08Devanagari(0)/m/it/10 उत्परिवर्तनहरूका आधारमा\TU/LatinModernRoman(0)
+/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 करिब ५\TU/LatinModernRoman(0)/m/n/10
+ ,\TU/NewCM08Devanagari(0)/m/it/10 ००० देखि ७\TU/LatinModernRoman(0)/m/n/10 ,\T
+U/NewCM08Devanagari(0)/m/it/10 ०००
+
+Underfull \hbox (badness 1308) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (LOME), \TU/NewCM08Devanagari(0)/m/it/10 पछिल्लो
+ डेवोनियन \TU/LatinModernRoman(0)/m/n/10 (LDME), \TU/NewCM08Devanagari(0)/m/it/
+10 अन्त\TU/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 परमियन
+
+Underfull \hbox (badness 2158) in paragraph at lines 224--226
+\TU/LatinModernRoman(0)/m/n/10 (EPME), \TU/NewCM08Devanagari(0)/m/it/10 अन्त\TU
+/LatinModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 ट्राइसिक \TU/Lati
+nModernRoman(0)/m/n/10 (ETME) \TU/NewCM08Devanagari(0)/m/it/10 र अन्त\TU/LatinM
+odernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 क्रिटेशियस
+
+Underfull \hbox (badness 2261) in paragraph at lines 234--234
+[]\TU/LatinModernRoman(0)/m/n/9 Figure 11. []\TU/NewCM08Devanagari(0)/m/n/9 ग्ल
+ेशियल लेक कोलम्बिया\TU/LatinModernRoman(0)/m/n/9 , \TU/NewCM08Devanagari(0)/m/n
+/9 वाशिंगटन राज्यमा
+
+Underfull \hbox (badness 1152) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 रहेको च्यानल्ड स्क्याबल्याण्ड्स हो। यहाँ\TU/La
+tinModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 हामी तलछट
+
+Underfull \hbox (badness 2237) in paragraph at lines 239--240
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल समुद्री प्रवाहबाट बनेको सय भन्दा बढी ठूल
+ा
+[6]
+Underfull \hbox (badness 1655) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 उल्टोफेरले राम्रोसँग व्याख्या गर्न सकिन्छ। दक्
+षिणी चीन
+
+Underfull \hbox (badness 1127) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/Ne
+wCM08Devanagari(0)/m/it/10 कोन कार्स्ट\TU/LatinModernRoman(0)/m/n/10 , \TU/NewC
+M08Devanagari(0)/m/it/10 प्राकृतिक पुलहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/N
+ewCM08Devanagari(0)/m/it/10 खोँचहरू\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM08
+Devanagari(0)/m/it/10 ठूला
+
+Underfull \hbox (badness 1205) in paragraph at lines 263--264
+\TU/NewCM08Devanagari(0)/m/it/10 विशाल क्वार्ट्जयुक्त बालुवापत्थर स्तम्भहरू \TU
+/LatinModernRoman(0)/m/n/10 (\TU/NewCM08Devanagari(0)/m/it/10 चित्र []\TU/Latin
+ModernRoman(0)/m/n/10 12[])
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\TU/NewCM08Devanagari(0)/m/it/10 आधुनिक वैज्ञानिक साहित्यले पृथ्वीको हालैको
+
+Underfull \hbox (badness 1308) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 अस्तित्वलाई मान्यता दिन्छ। दुई उल्लेखनीय उदाहर
+णहरू
+
+Underfull \hbox (badness 1789) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 जनसंख्या घटावट र ठूलो भौगोलिक क्षेत्रमा समाजिक
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 र बरफको कोर\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 जीवाश्म कोरल\TU/LatinModernRoman(0)/m/n/10 , O18
+ \TU/NewCM08Devanagari(0)/m/it/10 आइसोटोप
+
+Underfull \hbox (badness 1755) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 मान\TU/LatinModernRoman(0)/m/n/10 , \TU/NewCM0
+8Devanagari(0)/m/it/10 परागकण र स्पिलियोथेम अभिलेख\TU/LatinModernRoman(0)/m/n/1
+0 , \TU/NewCM08Devanagari(0)/m/it/10 तथा समुद्री
+
+Underfull \hbox (badness 2564) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 सतहका डेटामा विसंगतिहरूको रूपमा संरक्षित भएको
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\TU/NewCM08Devanagari(0)/m/it/10 तापक्रमको तिब्र गिरावट\TU/LatinModernRoman(0)/
+m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 मरुभूमीकरण\TU/LatinModernRoman(0)/m/n
+/10 , \TU/NewCM08Devanagari(0)/m/it/10 एटलान्टिक
+[7]
+Underfull \hbox (badness 6236) in paragraph at lines 270--271
+\TU/NewCM08Devanagari(0)/m/it/10 विपत्तिपूर्ण घटनाहरूको अभिलेख सिर्जना गरेको छ।
+
+Missing character: There is no ‍ (U+200D) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+Missing character: There is no फ़ (U+095E) in font Latin Modern Roman 10 Regular
+/OT:script=latn;language=dflt;!
+
+Underfull \hbox (badness 3895) in paragraph at lines 291--292
+[]\TU/NewCM08Devanagari(0)/m/it/10 कार्बन डेटिङ बाहेक अन्य रेडियोआइसोटोप डेटिङ
+
+Underfull \hbox (badness 1418) in paragraph at lines 291--292
+\TU/NewCM08Devanagari(0)/m/it/10 अनुसन्धान समूहले यस्ता विधिहरूबाट प्राप्त मिति
+हरूमा
+
+Underfull \hbox (badness 1460) in paragraph at lines 295--296
+[]\TU/NewCM08Devanagari(0)/m/it/10 यस लेखमा\TU/LatinModernRoman(0)/m/n/10 , \TU
+/NewCM08Devanagari(0)/m/it/10 मैले विनाशकारी उत्पत्तिहरू संकेत गर्ने
+
+Underfull \hbox (badness 1721) in paragraph at lines 295--296
+\TU/NewCM08Devanagari(0)/m/it/10 सबैभन्दा प्रभावशाली विसंगतिहरू समेटेको छु जसला
+ई
+
+Underfull \hbox (badness 1009) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 उहाँको सजीव\TU/LatinModernRoman(0)/m/n/10 , \T
+U/NewCM08Devanagari(0)/m/it/10 नविनतम् थेसिस सम्पन्न गरी संसारसंग
+
+Underfull \hbox (badness 1888) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 साझा गर्नुभएकोमा धन्यवाद। उहाँको त्रि\TU/Latin
+ModernRoman(0)/m/n/10 -\TU/NewCM08Devanagari(0)/m/it/10 भागीय थेसिस
+
+Underfull \hbox (badness 1540) in paragraph at lines 298--299
+\TU/NewCM08Devanagari(0)/m/it/10 सिद्धान्तको लागि अधिकारिक कृति रहिरहन्छ\TU/Lat
+inModernRoman(0)/m/n/10 , \TU/NewCM08Devanagari(0)/m/it/10 र त्यहाँ
+[8] [9] (./2nepalitranslated.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\TU/LatinModernRoman(0)/m/n/9 Answers research journal, 2008--present.
+
+Underfull \hbox (badness 7595) in paragraph at lines 101--105
+[]\TU/LatinModernRoman(0)/m/n/9 GetYourGuide.  Canyoning in grand canyon.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][]
+[][][][][][][][][][][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo kmls.  []$[][][][][] [] [] [] [][]
+[][][][] [] [][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+[][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][][][
+][][] [] [][][] []
+
+Underfull \hbox (badness 3323) in paragraph at lines 139--144
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Mega-current ripples.  []$[][][][][] []
+ [] [] [][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][][][][][
+][][][][][] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+[][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
+][][][] []
+
+Underfull \hbox (badness 2302) in paragraph at lines 146--149
+[]\TU/LatinModernRoman(0)/m/n/9 Junho.  Ecdo github research repository, 2024.
+
+Underfull \hbox (badness 2057) in paragraph at lines 163--169
+\TU/LatinModernRoman(0)/m/n/9 son, M. Finlayson, T. Gumbricht, L. Hilarides,
+
+Underfull \hbox (badness 1735) in paragraph at lines 189--193
+[]\TU/LatinModernRoman(0)/m/n/9 National Park Service.  Geology - death valley
+
+Underfull \hbox (badness 2591) in paragraph at lines 189--193
+\TU/LatinModernRoman(0)/m/n/9 national park.  []$[][][][][] [] [] [] [][][] [] 
+[][][] [] [][][] [] [][][][] [] [][][][][] []
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+[][][][] [] [][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] [] [][][][]$[]\TU/LatinModernRoman(0)/m/n/9 ,
+
+Underfull \hbox (badness 3417) in paragraph at lines 218--225
+\TU/LatinModernRoman(0)/m/n/9 May 2017.  Annotazioni di Rosanna Pellerito.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 https://theethicalskeptic.com/2024/05/23/master-
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+\TU/LatinModernRoman(0)/m/n/9 exothermic-core-mantle-decoupling-dzhanibekov-
+
+Underfull \hbox (badness 4913) in paragraph at lines 372--375
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia.  Great pyramid of giza.  []$[][][][]
+[] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+[] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] [] [][][][
+][][][] [] [][] [] [][][][] []
+
+Underfull \hbox (badness 7256) in paragraph at lines 377--380
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Extinction event ---
+
+Underfull \hbox (badness 5316) in paragraph at lines 382--385
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  4.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 387--390
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  8.2-kiloyear event ---
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 398--401
+[]\TU/LatinModernRoman(0)/m/n/9 Wikipedia contributors.  Dolmen de Soto ---
+
+Underfull \hbox (badness 2334) in paragraph at lines 408--411
+\TU/LatinModernRoman(0)/m/n/9 Free Encyclopedia, 2025.  [Online; accessed 9-
+[11]) [12] (./2nepalitranslated.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on 2nepalitranslated.pdf (12 pages).
+Transcript written on 2nepalitranslated.log.

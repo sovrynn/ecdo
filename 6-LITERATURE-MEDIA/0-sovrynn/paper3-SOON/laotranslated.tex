@@ -36,6 +36,27 @@
 \def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
 \def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
 
+% 1) Choose your desired fixed leading:
+\renewcommand\baselinestretch{1.2}  % or 1.3, 1.1…  adjust to taste
+
+% 2) Force TeX to *always* use \baselineskip, never fall back to \lineskip:
+\makeatletter
+  \setlength\lineskiplimit{-\maxdimen} % always allow baselineskip
+  \setlength\lineskip{0pt}             % no extra glue ever
+\makeatother
+
+% \renewcommand{\tablename}{ตาราง}
+\renewcommand{\figurename}{ຮູບພາບ}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{ເອກະສານອ້າງອີງ}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf ບົດສະຫຼຸບຫຍໍ້}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
 % This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
 \makeatletter
 \def\cvprsubsection{%
@@ -67,7 +88,7 @@
 \setcounter{page}{1}
 \begin{document}
 
-\title{ເອກະສານ ECDO ສະບັບທີ 3: ຫຼັກຖານການກະກຽມຂອງບັນດາອຳນາດປົກຄອງຕາເວັນຕົກໃນປັດຈຸບັນ ສໍາລັບໄພພິບັດທາງທໍລະນີຟີຊິກທີ່ຈະມາເຖິງໃນໄວໆນີ້}
+\title{ເອກະສານ ECDO ສະບັບທີ 3: ຫຼັກຖານການກະກຽມຂອງມະຫາອຳນາດປົກຄອງຕາເວັນຕົກໃນປັດຈຸບັນ ສໍາລັບໄພພິບັດທາງທໍລະນີຟີຊິກທີ່ຈະມາເຖິງໃນໄວໆນີ້}
 
 \author{Junho\\
 ເຜີຍແຜ່ເດືອນມິຖຸນາ 2025\\
@@ -80,29 +101,31 @@
 %\thispagestyle{empty}
 
 \begin{abstract}
-ໃນເດືອນພຶດສະພາ 2024, ນັກຂຽນອອນລາຍນິລະນາມຜູ້ໜຶ່ງທີ່ຮູ້ຈັກກັນໃນນາມ “The Ethical Skeptic” \cite{0} ໄດ້ແບ່ງປັນທິດສະດີໃໝ່ທີ່ກ້າວໜ້າ ເຊິ່ງເອີ້ນວ່າ ການສັ່ນສະເທືອນແບບ Dzhanibekov ຂອງການແຍກຕົວຂອງແກນໂລກ ແລະ ເປືອກໂລກທີ່ປ່ອຍຄວາມຮ້ອນອອກມາ (ECDO) \cite{1}. ທິດສະດີນີ້ຊີ້ໃຫ້ເຫັນວ່າ ໂລກເຄີຍປະສົບກັບການປ່ຽນແປງກະທັນຫັນມາແລ້ວ, ການປ່ຽນແປງທີ່ຮ້າຍແຮງຂອງແກນໝູນວຽນຂອງມັນ, ເຊິ່ງກໍ່ໃຫ້ເກີດນໍ້າຖ້ວມໃຫຍ່ທົ່ວໂລກ ເນື່ອງຈາກນໍ້າມະຫາສະໝຸດໄຫຼບ່າລົ້ນທະວີບຕ່າງໆ ຍ້ອນຄວາມເຄື່ອນທີ່ໝູນວຽນ. ນອກຈາກນີ້, ມັນຍັງນຳສະເໜີຂະບວນການທາງທໍລະນີຟີຊິກທີ່ອະທິບາຍໄດ້ ແລະ ຂໍ້ມູນທີ່ຊີ້ບອກວ່າ ການປ່ຽນແປງແບບນີ້ອີກຄັ້ງອາດຈະເກີດຂຶ້ນໃນໄວໆນີ້. ເຖິງແມ່ນວ່າຄຳທຳນວາຍກ່ຽວກັບນໍ້າຖ້ວມໃຫຍ່ ແລະ ວັນສິ້ນໂລກແບບນີ້ບໍ່ແມ່ນເລື່ອງໃໝ່ກໍຕາມ, ແຕ່ທິດສະດີ ECDO ມີຄວາມໜ້າສົນໃຈເປັນພິເສດ ເນື່ອງຈາກລັກສະນະທາງວິທະຍາສາດຂອງມັນ, ທີ່ທັນສະໄໝ, ມີຫຼາຍສາຂາວິຊາ ແລະ ໃຊ້ຂໍ້ມູນເປັນຫຼັກ.
-
-ເອກະສານສະບັບນີ້ແມ່ນຜົນງານທີສາມຂອງຂ້າພະເຈົ້າ \cite{2,3} ໃນຫົວຂໍ້ນີ້, ແລະ ສຸມໃສ່ດ້ານການເມືອງໃນປັດຈຸບັນຂອງທິດສະດີນີ້:
+ໃນເດືອນພຶດສະພາ 2024, ນັກຂຽນອອນລາຍນິລະນາມຜູ້ໜຶ່ງທີ່ຮູ້ຈັກກັນໃນນາມ ”The Ethical Skeptic” \cite{0} ໄດ້ແບ່ງປັນທິດສະດີໃໝ່ທີ່ກ້າວໜ້າ ເຊິ່ງເອີ້ນວ່າ ການສັ່ນສະເທືອນແບບ Dzhanibekov ຂອງການແຍກຕົວຂອງແກນໂລກ ແລະ ເປືອກໂລກທີ່ປ່ອຍຄວາມຮ້ອນອອກມາ (ECDO) \cite{1}.
+ທິດສະດີນີ້ຊີ້ໃຫ້ເຫັນວ່າ ໂລກເຄີຍປະສົບກັບການປ່ຽນແປງກະທັນຫັນມາແລ້ວ, ການປ່ຽນແປງທີ່ຮ້າຍແຮງຂອງແກນໝູນວຽນຂອງມັນ, ເຊິ່ງກໍ່ໃຫ້ເກີດນໍ້າຖ້ວມໃຫຍ່ທົ່ວໂລກ ເນື່ອງຈາກມະຫາສະໝຸດໄດ້ໄຫຼທະລັກເຂົ້າຖ້ວມທະວີບຕ່າງໆ ຍ້ອນແຮງເໜັງຕີງຂອງການໝູນວຽນ. ນອກຈາກນີ້, ມັນຍັງນຳສະເໜີຂະບວນການທາງທໍລະນີຟີຊິກທີ່ອະທິບາຍໄດ້ ແລະ ຂໍ້ມູນທີ່ຊີ້ບອກວ່າ ການປ່ຽນແປງແບບນີ້ອີກຄັ້ງອາດຈະເກີດຂຶ້ນໃນໄວໆນີ້. \cite{92}
+ເຖິງແມ່ນວ່າຄຳທຳນາຍກ່ຽວກັບນໍ້າຖ້ວມໃຫຍ່ ແລະ ວັນສິ້ນໂລກແບບນີ້ບໍ່ແມ່ນເລື່ອງໃໝ່ກໍຕາມ, ແຕ່ທິດສະດີ ECDO ມີຄວາມໜ້າສົນໃຈເປັນພິເສດ ເນື່ອງຈາກລັກສະນະທາງວິທະຍາສາດຂອງມັນ, ທີ່ທັນສະໄໝ, ມີຫຼາຍສາຂາວິຊາ ແລະ ໃຊ້ຂໍ້ມູນເປັນຫຼັກ. \cite{93}
+ເອກະສານສະບັບນີ້ແມ່ນຜົນງານທີສາມຂອງຂ້າພະເຈົ້າ \cite{2,3} ໃນຫົວຂໍ້ນີ້, ແລະ ເນັ້ນໜັກໃສ່ດ້ານການເມືອງໃນປັດຈຸບັນຂອງທິດສະດີນີ້: \cite{94}
 \begin{flushleft}
 \begin{enumerate}
     \item ຄໍາໃຫ້ການຂອງຜູ້ເປີດເຜີຍຂໍ້ມູນຊີ້ວ່າ ບັນດາອໍານາດຕາເວັນຕົກເຊື່ອວ່າໄພພິບັດທາງທໍລະນີຟີຊິກກຳລັງຈະເກີດຂຶ້ນໃນໄວໆນີ້ ແລະ ພວກເຂົາມີແຜນທີ່ຈະໃຊ້ປະໂຫຍດທາງດ້ານການເມືອງ ແລະ ການທະຫານຈາກເຫດການດັ່ງກ່າວ.
     \item ຫຼັກຖານຂອງຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ນໍ້າຂະໜາດໃຫຍ່ຂອງຝ່າຍຕາເວັນຕົກ ທີ່ຖືກສ້າງຂຶ້ນເພື່ອກະກຽມຮັບມືກັບເຫດການດັ່ງກ່າວ.
-    \item ຫຼັກຖານຂອງເງິນຈໍານວນມະຫາສານທີ່ຖືກດຶງອອກຈາກລະບົບເງິນຕາຂອງຝ່າຍຕາເວັນຕົກ ເພື່ອໃຊ້ໃນການກໍ່ສ້າງຖານທັບເຫຼົ່ານີ້.
+    \item ຫຼັກຖານຂອງເງິນຈໍານວນມະຫາສານທີ່ຖືກດຶງອອກຈາກລະບົບເງິນຕາຂອງຝ່າຍຕາເວັນຕົກ ເພື່ອໃຊ້ໃນການກໍ່ສ້າງຖານທັບເຫຼົ່ານີ້. \cite{95}
 \end{enumerate}
 \end{flushleft}
 
 ເອກະສານສະບັບນີ້ໄດ້ບັນທຶກການກະກຽມຢ່າງກວ້າງຂວາງທີ່ບັນດາອຳນາດປົກຄອງຕາເວັນຕົກກຳລັງດໍາເນີນການ ເພື່ອກະກຽມຮັບມືກັບໄພພິບັດທາງທໍລະນີຟີຊິກທີ່ພວກເຂົາເຊື່ອວ່າກຳລັງຈະເກີດຂຶ້ນໃນໄວໆນີ້.
 \end{abstract}
 
-\section{ຂະບວນການ Free-masonry ແລະ "ພາລະກິດແອງໂກຼ-ແຊັກຊົງ"}
+\section{Freemasonry ແລະ "ພາລະກິດ Anglo-Saxon"}
 
-ໃນເດືອນມັງກອນ 2010, ໂຄງການ Camelot, ອົງການສື່ ແລະ ວາລະສານທາງເລືອກ ເຊິ່ງຮວບຮວມຄໍາໃຫ້ການຂອງຜູ້ເປີດເຜີຍຂໍ້ມູນ, ໄດ້ສໍາພາດ \cite{4,6} ຜູ້ຮູ້ຈັກພາຍໃນຜູ້ໜຶ່ງທີ່ໄດ້ເຂົ້າຮ່ວມກອງປະຊຸມຂອງບັນດາ Free-mason ອາວຸໂສ ທີ່ນະຄອນລອນດອນ ໃນເດືອນມິຖຸນາ 2005 ດ້ວຍຕົນເອງ. ຫົວຂໍ້ທີ່ປຶກສາຫາລືໃນກອງປະຊຸມແມ່ນແຜນການທາງທະຫານ ແລະ ການເມືອງ ໂດຍມີພື້ນຖານຢູ່ເບື້ອງຫຼັງຂອງການມາເຖິງຂອງ \textbf{"ເຫດການທາງທໍລະນີຟີຊິກ"}, ເຊິ່ງໝາຍເຖິງໄພພິບັດທຳມະຊາດທົ່ວໂລກ.
+ໃນເດືອນມັງກອນ 2010, ໂຄງການ Camelot, ເຊິ່ງເປັນອົງກອນສື່ທາງເລືອກ ແລະ ໜັງສືພິມທີ່ລວບລວມຄຳໃຫ້ການຂອງຜູ້ເປີດເຜີຍຄວາມລັບ, ໄດ້ສໍາພາດ \cite{4,6} ຜູ້ຢູ່ວົງໃນຄົນໜຶ່ງ ຜູ້ທີ່ໄດ້ເຂົ້າຮ່ວມກອງປະຊຸມຂອງບັນດາ Senior Masons ໃນ ເມືອງລອນດອນ ດ້ວຍຕົນເອງ ໃນເດືອນມິຖຸນາ ປີ 2005.
+ຫົວຂໍ້ທີ່ປຶກສາຫາລືໃນກອງປະຊຸມແມ່ນແຜນການທາງທະຫານ ແລະ ການເມືອງ ໂດຍມີພື້ນຖານຢູ່ເທິງ \textbf{"ເຫດການທາງທໍລະນີຟີຊິກ"}, ທີ່ຈະມາເຖິງ, ເຊິ່ງກໍຄືໄພພິບັດທໍາມະຊາດທົ່ວໂລກ. \cite{96}
 
 \begin{figure}[b]
 \begin{center}
    \includegraphics[width=1\linewidth]{freemason.jpg}
 \end{center}
-   \caption{ພວກ Free-mason ຊາວອັງກິດໃນສະພາບປົກກະຕິຂອງພວກເຂົາ, ພວມວາງແຜນລັບໆທີ່ຈະຖິ້ມລະເບີດນິວເຄລຍ ແລະ ຍຶດຄອງໂລກ - ທີ່ Earls Court ໃນລອນດອນ, ປີ 1992 \cite{5}.}
+   \caption{ພວກ Free-mason ຊາວອັງກິດໃນສະພາບປົກກະຕິຂອງພວກເຂົາ, ພວມວາງແຜນຢ່າງລັບໆທີ່ຈະຖິ້ມລະເບີດນິວເຄລຍ ແລະ ຍຶດຄອງໂລກ - ທີ່ Earls Court ໃນລອນດອນ, ປີ 1992 \cite{5}.}
 \label{fig:1}
 \label{fig:onecol}
 \end{figure}
@@ -111,50 +134,55 @@
 \begin{center}
 \includegraphics[width=1\textwidth]{british.jpg}
 \end{center}
-   \caption{ຈັກກະພັດອັງກິດໃນປີ 1937, ເປັນການສະແດງອຳນາດອັນຍິ່ງໃຫຍ່ຂອງຊາວແອງໂກຼ-ແຊັກຊົງ \cite{14}.}
+   \caption{ອານາຈັກອັງກິດໃນປີ 1937, ເປັນການສະແດງອອກອັນຍິ່ງໃຫຍ່ຂອງອຳນາດຊາວ Anglo-Saxon \cite{14}.}
    \label{fig:2}
 \end{figure*}
 
-ອີງຕາມຜູ້ຮູ້ຈັກພາຍໃນຜູ້ນີ້, ຜູ້ເຂົ້າຮ່ວມກອງປະຊຸມ 25-30 ຄົນແມ່ນ \textit{"...ລ້ວນແຕ່ເປັນຄົນອັງກິດ, ແລະບາງຄົນໃນນັ້ນແມ່ນບຸກຄົນທີ່ມີຊື່ສຽງເຊິ່ງຄົນໃນສະຫະລາດຊະອານາຈັກຈະຮູ້ຈັກທັນທີ... ມີລັກສະນະຊົນຊັ້ນສູງຢູ່ທີ່ນັ້ນ, ແລະບາງຄົນກໍມາຈາກພື້ນຖານຊົນຊັ້ນສູງຫຼາຍສົມຄວນ.  ອີກສອງຄົນເປັນບຸກຄົນສຳຄັນຈາກຕຳຫຼວດ, ແລະອີກຄົນໜຶ່ງແມ່ນມາຈາກກອງທັບ. ທັງສອງຄົນເປັນທີ່ຮູ້ຈັກໃນລະດັບຊາດ ແລະ ທັງສອງແມ່ນບຸກຄົນສຳຄັນໃນການໃຫ້ຄຳປຶກສາແກ່ລັດຖະບານຊຸດປັດຈຸບັນ — ໃນເວລານີ້"} \cite{4}. ຜູ້ຮູ້ຈັກພາຍໃນກ່າວວ່າ ລາວໄດ້ເຂົ້າຮ່ວມກອງປະຊຸມ,\ \textit{"ໂດຍບັງເອີນແທ້ໆ! ຂ້າພະເຈົ້າຄິດວ່າມັນເປັນກອງປະຊຸມປົກກະຕິທີ່ຈັດຂຶ້ນທຸກໆສາມເດືອນ... ຂ້າພະເຈົ້າໄດ້ໄປຮ່ວມກອງປະຊຸມນີ້ ແລະ ມັນບໍ່ແມ່ນກອງປະຊຸມທີ່ຂ້າພະເຈົ້າຄາດຫວັງໄວ້. ຂ້າພະເຈົ້າເຊື່ອວ່າຂ້າພະເຈົ້າໄດ້ຮັບເຊີນ... ເນື່ອງຈາກຕໍາແໜ່ງທີ່ຂ້າພະເຈົ້າດໍາລົງຢູ່ ແລະ ເພາະວ່າພວກເຂົາເຊື່ອວ່າ, ເຊັ່ນດຽວກັນກັບພວກເຂົາ, ຂ້າພະເຈົ້າແມ່ນຄົນໜຶ່ງໃນກຸ່ມຂອງພວກເຂົາ."} \cite{4}.
-
-ລໍາດັບເຫດການພື້ນຖານທີ່ໄດ້ປຶກສາຫາລືໃນກອງປະຊຸມ (ໃນປີ 2005) ມີດັ່ງນີ້:
+ອີງຕາມຜູ້ຢູ່ວົງໃນຄົນນີ້, ຜູ້ເຂົ້າຮ່ວມກອງປະຊຸມ 25-30 ຄົນແມ່ນ \textit{"...ລ້ວນແຕ່ເປັນຄົນອັງກິດ, ແລະ ບາງຄົນໃນນັ້ນແມ່ນບຸກຄົນທີ່ມີຊື່ສຽງທີ່ຄົນໃນສະຫະລາດຊະອານາຈັກຈະຮູ້ຈັກທັນທີ... ມີຊົນຊັ້ນສູງຢູ່ບາງສ່ວນ, ແລະບາງຄົນກໍມາຈາກພື້ນຖານຄອບຄົວຊົນຊັ້ນສູງພໍສົມຄວນ. ມີຄົນໜຶ່ງທີ່ຂ້າພະເຈົ້າຈຳແນກໄດ້ໃນກອງປະຊຸມນັ້ນ ເຊິ່ງເປັນນັກການເມືອງອາວຸໂສ. ອີກສອງຄົນເປັນບຸກຄົນສຳຄັນຈາກຕຳຫຼວດ, ແລະ ອີກຄົນໜຶ່ງແມ່ນມາຈາກກອງທັບ. ທັງສອງຄົນເປັນທີ່ຮູ້ຈັກທົ່ວປະເທດ ແລະ ທັງສອງແມ່ນບຸກຄົນສຳຄັນໃນການໃຫ້ຄຳປຶກສາແກ່ລັດຖະບານຊຸດປັດຈຸບັນ — ໃນເວລານີ້"} \cite{4}.
+ຜູ້ຢູ່ວົງໃນໄດ້ກ່າວວ່າ ລາວໄດ້ເຂົ້າຮ່ວມກອງປະຊຸມ,\ \textit{"ໂດຍບັງເອີນຢ່າງສິ້ນເຊີງ! ຂ້າພະເຈົ້າຄິດວ່າມັນເປັນກອງປະຊຸມປົກກະຕິທີ່ຈັດຂຶ້ນທຸກໆສາມເດືອນ... ຂ້າພະເຈົ້າໄດ້ໄປຮ່ວມກອງປະຊຸມນີ້ ແລະ ມັນບໍ່ແມ່ນກອງປະຊຸມທີ່ຂ້າພະເຈົ້າຄາດຫວັງໄວ້. ຂ້າພະເຈົ້າເຊື່ອວ່າຂ້າພະເຈົ້າຖືກເຊີນ... ຍ້ອນຕໍາແໜ່ງທີ່ຂ້າພະເຈົ້າເຄີຍດໍາລົງ ແລະ ຍ້ອນວ່າພວກເຂົາເຊື່ອວ່າ, ເປັນເຫມືອນພວກເຂົາ, ຂ້າພະເຈົ້າແມ່ນຄົນໜຶ່ງໃນກຸ່ມຂອງພວກເຂົາ."} \cite{4}. \cite{97}
+ລໍາດັບເຫດການພື້ນຖານທີ່ໄດ້ປຶກສາຫາລືໃນກອງປະຊຸມ (ໃນປີ 2005) ມີດັ່ງນີ້: \cite{98}
 
 \begin{flushleft}
 \begin{enumerate}
-    \item ຍຸຍົງໃຫ້ອີຣານ ຫຼື ຈີນ ໃຊ້ອາວຸດນິວເຄລຍທາງຍຸດທະວິທີ ແລະ ນໍາໄປສູ່ການແລກປ່ຽນນິວເຄລຍແບບຈໍາກັດ, ແລ້ວຈຶ່ງສ້າງຕັ້ງການຢຸດຍິງ.
-    \item ການປ່ອຍອາວຸດຊີວະພາບໃສ່ປະເທດຈີນ, ເຊິ່ງລາຍງານວ່າເປັນເປົ້າໝາຍຫຼັກ "ຕັ້ງແຕ່ຊຸມປີ 70".
-    \item ການນຳເອົາລັດຖະບານທະຫານຜະເດັດການເຂົ້າມາປົກຄອງ ໂດຍມີເຫດຜົນມາຈາກຄວາມຢ້ານກົວ ແລະ ຄວາມວຸ້ນວາຍທີ່ເກີດຂຶ້ນ.
+    \item ຍຸຍົງໃຫ້ອີຣ່ານ ຫຼື ຈີນ ໃຊ້ອາວຸດນິວເຄລຍທາງຍຸດທະວິທີ ແລະ ນໍາໄປສູ່ການແລກປ່ຽນນິວເຄລຍແບບຈໍາກັດ, ແລ້ວຈຶ່ງສ້າງຕັ້ງການຢຸດຍິງ.
+    \item ການປ່ອຍອາວຸດຊີວະພາບໃສ່ຈີນ, ເຊິ່ງມີລາຍງານວ່າເປັນເປົ້າໝາຍຫຼັກ "ຕັ້ງແຕ່ຊຸມປີ 70".
+    \item ການນໍາພາລັດຖະບານທະຫານຜະເດັດການເຂົ້າສູ່ອໍານາດ ໂດຍອ້າງເຖິງຄວາມຢ້ານກົວ ແລະ ຄວາມວຸ້ນວາຍທີ່ເກີດຂຶ້ນ. \cite{99}
 \end{enumerate}
 \end{flushleft}
 
-ແຕ່ສິ່ງທີ່ສຳຄັນທີ່ສຸດແມ່ນສິ່ງທີ່ຈະເກີດຂຶ້ນຫຼັງຈາກເຫດການເຫຼົ່ານີ້: \textit{"ສະນັ້ນ ພວກເຮົາຈະມຸ່ງໜ້າເຂົ້າສູ່ສົງຄາມນີ້, ຈາກນັ້ນຫຼັງຈາກນັ້ນ... ຈະມີເຫດການທາງທໍລະນີຟີຊິກເກີດຂຶ້ນເທິງໂລກ ເຊິ່ງຈະສົ່ງຜົນກະທົບຕໍ່ທຸກຄົນ"} \cite{4}. ຜູ້ຮູ້ຈັກພາຍໃນເຊື່ອວ່າ ໃນລະຫວ່າງເຫດການທາງທໍລະນີຟີຊິກນີ້, \textit{\textbf{"ເປືອກໂລກຈະເລື່ອນປະມານ 30 ອົງສາ, ປະມານ 1700 ຫາ 2000 ໄມລ໌ ລົງໄປທາງໃຕ້, ແລະ ມັນຈະເຮັດໃຫ້ເກີດຄວາມປັ່ນປ່ວນອັນໃຫຍ່ຫຼວງ, ເຊິ່ງຜົນກະທົບຂອງມັນຈະຄົງຢູ່ເປັນເວລາດົນນານ"}} \cite{4}.
+ແຕ່ສິ່ງທີ່ສຳຄັນທີ່ສຸດແມ່ນສິ່ງທີ່ຄາວວ່າຈະເກີດຂຶ້ນຫຼັງຈາກເຫດການເຫຼົ່ານີ້: \textit{"ສະນັ້ນ ພວກເຮົາຈະກຳລັງຈະເຂົ້າສູ່ສົງຄາມນີ້, ແລ້ວຫຼັງຈາກນັ້ນ... ຈະມີເຫດການທາງທໍລະນີຟີຊິກເກີດຂຶ້ນເທິງໂລກ ເຊິ່ງຈະສົ່ງຜົນກະທົບຕໍ່ທຸກຄົນ"} \cite{4}.
+ຜູ້ຢູ່ວົງໃນເຊື່ອວ່າ ໃນລະຫວ່າງເຫດການທາງທໍລະນີຟີຊິກນີ້, \textit{\textbf{"ເປືອກໂລກຈະເລື່ອນປະມານ 30 ອົງສາ, ປະມານ 1700 ຫາ 2000 ໄມລ໌ ລົງໄປທາງໃຕ້, ແລະ ມັນຈະເຮັດໃຫ້ເກີດຄວາມປັ່ນປ່ວນຢ່າງຫຼວງຫຼາຍ, ເຊິ່ງຜົນກະທົບຂອງມັນຈະຄົງຢູ່ເປັນເວລາດົນນານ"}} \cite{4}. \cite{100}
 
-ເຫດຜົນສໍາລັບການວາງແຜນລັບທັງໝົດນີ້, ແນ່ນອນ, ແມ່ນອຳນາດ. ຜູ້ຮູ້ຈັກພາຍໃນໄດ້ອະທິບາຍວ່າ, \textit{"ໃນເວລານັ້ນ, ພວກ​ເຮົາ​ທຸກ​ຄົນ​ຈະ​ໄດ້​ຜ່ານ​ພົ້ນ​ສົງ​ຄາມ​ນິວ​ເຄລຍ ແລະ ຊີວະ​ພາບ​ມາ​ແລ້ວ. ປະຊາກອນໂລກ, ຖ້າສິ່ງນີ້ເກີດຂຶ້ນ, ຈະຫຼຸດລົງຢ່າງຫຼວງຫຼາຍ. ເມື່ອເຫດການທາງທໍລະນີຟີຊິກນີ້ຈະເກີດຂຶ້ນ, ແລ້ວຈໍານວນທີ່ເຫຼືອອາດຈະຫຼຸດລົງອີກເຄິ່ງໜຶ່ງ. ແລະ ຜູ້ໃດທີ່ລອດຊີວິດຈາກເຫດການນັ້ນ ຈະເປັນຜູ້ກໍານົດວ່າໃຜຈະນຳພາໂລກ ແລະ ປະຊາກອນທີ່ຍັງເຫຼືອເຂົ້າສູ່ຍຸກຕໍ່ໄປ. ສະນັ້ນ, ພວກເຮົາກຳລັງເວົ້າເຖິງຍຸກຫຼັງເຫດການໄພພິບັດ. ໃຜຈະເປັນຜູ້ຮັບຜິດຊອບ? ໃຜຈະເປັນຜູ້ຄວບຄຸມ? ສະນັ້ນ, ມັນແມ່ນທັງໝົດກ່ຽວກັບເລື່ອງນັ້ນ. ແລະ ນັ້ນຄືເຫດຜົນທີ່ພວກເຂົາຢາກໃຫ້ສິ່ງເຫຼົ່ານີ້ເກີດຂຶ້ນພາຍໃນກຳນົດເວລາທີ່ກຳນົດໄວ້ຢ່າງສິ້ນຫວັງ... ຕ້ອງມີໂຄງສ້າງທີ່ຖືກຈັດຕັ້ງຂຶ້ນກ່ອນທີ່ [ຄວາມວຸ້ນວາຍ] ຈະເກີດຂຶ້ນ ດ້ວຍຄວາມແນ່ນອນວ່າໂຄງສ້າງນັ້ນຈະຢູ່ລອດສິ່ງທີ່ຈະເກີດຂຶ້ນ -- ເພື່ອໃຫ້ມັນສາມາດຢືນຢັດໄດ້ຢ່າງໝັ້ນຄົງໃນມື້ຕໍ່ມາ, ແລະ ຈາກນັ້ນກໍຍັງຄົງຢູ່ໃນອຳນາດ ແລະ ມີອຳນາດທີ່ເຄີຍມີມາກ່ອນ"} \cite{4}. ໃນລະຫວ່າງການສຳພາດ, ຊື່ຂອງແຜນການນີ້, "ພາລະກິດແອງໂກຼ-ແຊັກຊົງ", ກໍຖືກປຶກສາຫາລືເຊັ່ນກັນ: \textit{[ຜູ້ສຳພາດ]: "...ເຫດຜົນທີ່ມັນຖືກເອີ້ນວ່າ "ພາລະກິດແອງໂກຼ-ແຊັກຊົງ" ນັ້ນກໍຍ້ອນວ່າແຜນການພື້ນຖານແມ່ນການກຳຈັດຊາວຈີນ ເພື່ອວ່າຫຼັງຈາກໄພພິບັດ ແລະ ເມື່ອສິ່ງຕ່າງໆຖືກສ້າງຂຶ້ນໃໝ່, ມັນຈະເປັນຊາວແອງໂກຼ-ແຊັກຊົງ ຜູ້ທີ່ຈະຢູ່ໃນຖານະສ້າງສາຄືນໃໝ່ ແລະ ສືບທອດໂລກໃໝ່, ໂດຍບໍ່ມີຄົນອື່ນຢູ່ອ້ອມຂ້າງ. ແມ່ນແທ້ບໍ?" [ຜູ້ຮູ້ຈັກພາຍໃນ]: "ຂ້ອຍກໍບໍ່ຮູ້ວ່າຖືກຕ້ອງຫຼືບໍ່, ແຕ່ຂ້ອຍເຫັນດີນຳເຈົ້າ. ຢ່າງໜ້ອຍກໍຕະຫຼອດສະຕະວັດທີ 20, ແລະ ແມ່ນແຕ່ກ່ອນໜ້ານັ້ນເຂົ້າໄປໃນສະຕະວັດທີ 19 ແລະ 18, ປະຫວັດສາດຂອງໂລກນີ້ສ່ວນໃຫຍ່ແມ່ນຖືກກຳນົດໂດຍພາກຕາເວັນຕົກ ແລະ ພາກເໜືອຂອງໂລກ"} \cite{4}.
+ເຫດຜົນສໍາລັບການວາງແຜນລັບໆທັງໝົດນີ້, ແນ່ນອນ, ແມ່ນອຳນາດ.
+ຜູ້ຢູ່ວົງໃນໄດ້ອະທິບາຍວ່າ, \textit{"ໃນເວລານັ້ນ, ພວກ​ເຮົາ​ທຸກ​ຄົນ​ຈະ​ໄດ້​ຜ່ານ​ພົ້ນ​ສົງ​ຄາມ​ນິວ​ເຄລຍ ແລະ ຊີວະ​ພາບ​ມາ​ແລ້ວ. ປະຊາກອນໂລກ, ຖ້າສິ່ງນີ້ເກີດຂຶ້ນ, ຈະຫຼຸດລົງຢ່າງຫຼວງຫຼາຍ. ເມື່ອເຫດການທາງທໍລະນີຟີຊິກນີ້ຈະເກີດຂຶ້ນ, ແລ້ວຜູ້ທີ່ຍັງເຫຼືອຢູ່ກໍອາດຈະຫຼຸດລົງອີກເຄິ່ງໜຶ່ງ. ແລະ ໃຜທີ່ລອດຊີວິດຈາກເຫດການນັ້ນ ຈະເປັນຜູ້ກໍານົດວ່າໃຜຈະນຳພາໂລກ ແລະ ປະຊາກອນທີ່ຍັງເຫຼືອເຂົ້າສູ່ຍຸກຕໍ່ໄປ. ສະນັ້ນ, ພວກເຮົາກຳລັງເວົ້າເຖິງຍຸກຫຼັງເຫດການໄພພິບັດ. ໃຜຈະເປັນຜູ້ຮັບຜິດຊອບ? ໃຜຈະເປັນຜູ້ຄວບຄຸມ? ສະນັ້ນ, ມັນແມ່ນທັງໝົດກ່ຽວກັບເລື່ອງນັ້ນ. ແລະ ນັ້ນຄືເຫດຜົນທີ່ພວກເຂົາຮີບຮ້ອນຢ່າງຍິ່ງ ທີ່ຈະໃຫ້ສິ່ງເຫຼົ່ານີ້ເກີດຂຶ້ນພາຍໃນຂອບເຂດເວລາທີ່ກຳນົດໄວ້... ໂຄງສ້າງຈຳເປັນຕ້ອງຖືກຈັດຕັ້ງໄວ້ກ່ອນທີ່ [ຄວາມວຸ້ນວາຍ] ຈະເກີດຂຶ້ນ ດ້ວຍຄວາມແນ່ນອນວ່າຈະສາມາດລອດພົ້ນຈາກສິ່ງທີ່ຈະມາເຖິງ - ເພື່ອໃຫ້ມັນສາມາດຢືນຢັດໄດ້ຢ່າງໝັ້ນຄົງໃນມື້ຕໍ່ມາ, ແລະ ຈາກນັ້ນກໍຍັງຄົງຢູ່ໃນອຳນາດ ແລະ ມີອຳນາດທີ່ເຄີຍມີມາກ່ອນ"} \cite{4}. \cite{101}
+ໃນລະຫວ່າງການສຳພາດ, ຊື່ຂອງແຜນການນີ້, "ພາລະກິດ Anglo-Saxon", ກໍໄດ້ຖືກປຶກສາຫາລືຄືກັນ: \textit{[ຜູ້ສຳພາດ]: "...ເຫດຜົນທີ່ມັນຖືກເອີ້ນວ່າ "ພາລະກິດ Anglo-Saxon" ນັ້ນກໍຍ້ອນວ່າແຜນການພື້ນຖານແມ່ນການກຳຈັດຊາວຈີນ ເພື່ອວ່າຫຼັງຈາກໄພພິບັດ ແລະ ເມື່ອສິ່ງຕ່າງໆຖືກສ້າງຂຶ້ນໃໝ່, ມັນຈະເປັນຊາວ Anglo-Saxon ຜູ້ທີ່ຈະຢູ່ໃນຖານະສ້າງສາຄືນໃໝ່ ແລະ ສືບທອດໂລກໃໝ່, ໂດຍບໍ່ມີຄົນອື່ນໆຢູ່ອ້ອມຂ້າງເລຍ. ແມ່ນແທ້ບໍ?"} \cite{102}
+\textit{[ຜູ້ຢູ່ວົງໃນ]: "ວ່າແມ່ນແທ້ບໍ່ນັ້ນ ຂ້າພະເຈົ້າບໍ່ຮູ້ແທ້ໆ, ແຕ່ຂ້າພະເຈົ້າເຫັນດີກັບທ່ານ. ຢ່າງໜ້ອຍກໍຕະຫຼອດສະຕະວັດທີ 20, ແລະ  ແມ້ແຕ່ກ່ອນໜ້ານັ້ນໃນສະຕະວັດທີ 19 ແລະ 18, ປະຫວັດສາດຂອງໂລກນີ້ສ່ວນໃຫຍ່ແມ່ນຖືກຄຸ້ມຄອງຈາກຝັ່ງຕາເວັນຕົກ ແລະ ພາກເໜືອຂອງໂລກ"} \cite{4}. \cite{103}
+ກ່ຽວກັບກຳນົດເວລາທີ່ແນ່ນອນຂອງເຫດການທໍລະນີຟີຊິກທີ່ຄາດວ່າຈະເກີດຂຶ້ນ, ຜູ້ຢູ່ວົງໃນໄດ້ໃຫ້ການຄາດຄະເນທີ່ດີທີ່ສຸດຂອງລາວ: \textit{"...ຄວາມຮູ້ສຶກ, ແລະມັນເປັນສິ່ງທີ່ຄາດເດົາໄດ້ດີ, ຄືວ່າພວກເຂົາຕ້ອງຈັດການສິ່ງຕ່າງໆໃຫ້ຮຽບຮ້ອຍໃນຕອນນີ້... ຂ້າພະເຈົ້າຄິດວ່າພວກເຂົາຮູ້ດີວ່າເຫດການນັ້ນຈະເກີດຂຶ້ນເມື່ອໃດ... \textbf{ຂ້າພະເຈົ້າມີຄວາມຮູ້ສຶກທີ່ແຮງກ້າຫຼາຍວ່າ ມັນຈະເກີດຂຶ້ນໃນຊ່ວງຊີວິດຂອງຂ້າພະເຈົ້າ, ເວົ້າອີກຢ່າງໜຶ່ງຄືພາຍໃນ 20 ປີ}... ຕອນນີ້ພວກເຮົາໄດ້ເຂົ້າສູ່ຊ່ວງເວລາທີ່ເຫດການທໍລະນີຟີຊິກນີ້ກຳລັງຈະເກີດຂຶ້ນແລ້ວ, ເມື່ອເຮົາພິຈາລະນາເຖິງໄລຍະເວລາທີ່ຜ່ານມາຕັ້ງແຕ່ຄັ້ງສຸດທ້າຍເຊິ່ງເກີດຂຶ້ນປະມານ 11,500 ປີກ່ອນ, ແລະມັນເກີດຂຶ້ນປະມານທຸກໆ 11,500 ປີ, ເປັນວົງຈອນ. ຕອນນີ້ມັນເຖິງກຳນົດທີ່ຈະເກີດຂຶ້ນອີກແລ້ວ... ພວກເຂົາເຂົ້າໃຈວ່າມັນຈະເກີດຂຶ້ນ. ພວກເຂົາມີຄວາມຮູ້ທີ່ແນ່ນອນວ່າມັນຈະເກີດຂຶ້ນ... ອີກເທື່ອໜຶ່ງ, ມັນເປັນສິ່ງໜຶ່ງໃນບັນດາສິ່ງເຫຼົ່ານີ້—ມັນຄົງເປັນສິ່ງທີ່ຄິດບໍ່ເຖິງເລີຍ ຖ້າພວກເຂົາບໍ່ຮູ້. ຂ້າພະເຈົ້າໝາຍຄວາມວ່າ, ບັນດານັກຄິດທີ່ເກັ່ງທີ່ສຸດໃນໂລກຈະເຮັດວຽກໃຫ້ພວກເຂົາໃນເລື່ອງນີ້"} \cite{4}. \cite{104}
+ນີ້ແມ່ນຄຳໃຫ້ການທີ່ຊົງພະລັງ ເຊິ່ງພວກເຮົາຄວນຈະຮູ້ສຶກຂອບໃຈເປັນຢ່າງຍິ່ງ. ໃນບົດສໍາພາດ, ຜູ້ຂຽນຍັງໄດ້ສົນທະນາກ່ຽວກັບຄວາມເຊື່ອຂອງລາວວ່າສົງຄາມໂລກຄັ້ງທີ 1 ແລະ ສົງຄາມໂລກຄັ້ງທີ 2 ເປັນສົງຄາມທີ່ຖືກສ້າງຂຶ້ນ, ແລະ ພາລະກິດ Anglo-Saxon ເກືອບແນ່ນອນວ່າມີມາແຕ່ຫຼາຍໆລຸ້ນຄົນແລ້ວ. ປັດຈຸບັນນີ້ເປັນເວລາ 15 ປີແລ້ວນັບຕັ້ງແຕ່ການສໍາພາດ, ເຊິ່ງເກີດຂຶ້ນໃນປີ 2010. ຍັງເຫຼືອອີກຫ້າປີຈຶ່ງຈະຮອດກຳນົດເວລາ 20 ປີທີ່ຜູ້ຢູ່ວົງໃນໄດ້ຄາດຄະເນໄວ້ສຳລັບເຫດການທໍລະນີຟີຊິກ. \cite{105}
+\subsection{ຄວາມຮູ້ລຶກລັບຂອງຊາວດຣູອິດຝ່າຍຕາເວັນຕົກກ່ຽວກັບໄພພິບັດຄັ້ງໃຫຍ່}
 
-ກ່ຽວກັບກຳນົດເວລາທີ່ແນ່ນອນຂອງເຫດການທໍລະນີຟີຊິກທີ່ຄາດວ່າຈະເກີດຂຶ້ນ, ຜູ້ຮູ້ຈັກພາຍໃນໄດ້ໃຫ້ການຄາດຄະເນທີ່ດີທີ່ສຸດຂອງລາວ: \textit{"...ຄວາມຮູ້ສຶກ, ແລະມັນເປັນສິ່ງທີ່ຄາດເດົາໄດ້ດີ, ແມ່ນວ່າພວກເຂົາຕ້ອງຈັດການສິ່ງຕ່າງໆໃຫ້ເປັນລະບົບດຽວນີ້... ຂ້ອຍຄິດວ່າພວກເຂົາຮູ້ດີວ່າເຫດການນັ້ນຈະເກີດຂຶ້ນເມື່ອໃດ... \textbf{ຂ້ອຍມີຄວາມຮູ້ສຶກທີ່ແຮງກ້າຫຼາຍວ່າ ມັນຈະເກີດຂຶ້ນໃນຊ່ວງຊີວິດຂອງຂ້ອຍ, ເວົ້າອີກຢ່າງໜຶ່ງຄືພາຍໃນ 20 ປີ}... ຕອນນີ້ພວກເຮົາໄດ້ເຂົ້າສູ່ຊ່ວງເວລາທີ່ເຫດການທໍລະນີຟີຊິກນີ້ກຳລັງຈະເກີດຂຶ້ນແລ້ວ, ເມື່ອເຮົາພິຈາລະນາເຖິງໄລຍະເວລາທີ່ຜ່ານໄປນັບຕັ້ງແຕ່ຄັ້ງສຸດທ້າຍທີ່ເກີດຂຶ້ນປະມານ 11,500 ປີກ່ອນ, ແລະມັນເກີດຂຶ້ນປະມານທຸກໆ 11,500 ປີ, ເປັນວົງຈອນ. ຕອນນີ້ມັນເຖິງກຳນົດທີ່ຈະເກີດຂຶ້ນອີກແລ້ວ... ພວກເຂົາເຂົ້າໃຈວ່າມັນຈະເກີດຂຶ້ນ. ພວກເຂົາມີຄວາມແນ່ນອນໃນຄວາມຮູ້ວ່າສິ່ງນັ້ນຈະເກີດຂຶ້ນ... ອີກເທື່ອໜຶ່ງ, ມັນເປັນໜຶ່ງໃນສິ່ງເຫຼົ່ານີ້—ມັນຄົງເປັນສິ່ງທີ່ຄິດບໍ່ເຖິງເລີຍ ຖ້າພວກເຂົາບໍ່ຮູ້. ຂ້ອຍໝາຍຄວາມວ່າ, ບັນດານັກຄິດທີ່ເກັ່ງທີ່ສຸດໃນໂລກຈະເຮັດວຽກໃຫ້ພວກເຂົາໃນເລື່ອງນີ້"} \cite{4}.
+ຄວາມຮູ້ຂອງຊາວຕາເວັນຕົກກ່ຽວກັບໄພພິບັດທີ່ເກີດຂຶ້ນຊ້ຳໆ ໄດ້ຖືກເກັບຮັກສາໄວ້ເປັນຢ່າງດີ, ແລະ ບໍ່ພຽງແຕ່ຊາວ Freemason ເທົ່ານັ້ນ. ຊາວດຣູອິດ, ເຊິ່ງເປັນວັດທະນະທໍາຊາວແຄລຕິກບູຮານທີ່ມີການບັນທຶກໄວ້ເປັນຢ່າງດີ ທີ່ມີມາຢ່າງໜ້ອຍ 2400 ປີ  \cite{7}, ໄດ້ສືບທອດຄວາມຮູ້ກ່ຽວກັບໄພພິບັດທີ່ເກີດຂຶ້ນຊ້ຳໆ ຂອງໂລກ. ເຊື່ອກັນວ່າຊາວດຣູອິດຄົນສຸດທ້າຍທີ່ຮູ້ຈັກກັນແມ່ນ Ben McBrady. \cite{106}
+ໃນສາລະຄະດີປີ 1992 ເລື່ອງ  "The Last Druid", ລາວໄດ້ແບ່ງປັນຂໍ້ມູນກ່ຽວກັບຄວາມຮູ້ຂອງຊາວດຣູອິດວ່າ: \textit{"ກຸ່ມທີ່ຂ້າພະເຈົ້າອາດຈະເປັນສະມາຊິກຄົນສຸດທ້າຍຕາມທໍານຽມປະເພນີ, ໄດ້ເກີດຂຶ້ນຫຼັງຈາກໄພພິບັດຄັ້ງໃຫຍ່ສຸດ, ຫຼື ຫາຍະນະ, ເຊິ່ງສົ່ງຜົນກະທົບຕໍ່ໂລກ. ບັດນີ້ດ້ວຍຜົນກະທົບອັນໃຫຍ່ຫຼວງ ແລະ ຮ້າຍແຮງເຫຼົ່ານີ້ຕໍ່ໂລກ ຈາກພາຍຸຝົນຟ້າຄະນອງຂະຫນາດໃຫຍ່, ຖືກດືງດູດດ້ວຍຫາງຂອງດາວຕົກ, ຫຼື ຝົນດາວຕົກ, ອະລິຍະທໍາທີ່ເຮົາຮູ້ຈັກໄດ້ຖືກທໍາລາຍລົງຢ່າງສິ້ນເຊີງ... ຄວາມຮູ້ທັງໝົດລ້ວນແຕ່ຢູ່ໃນຂອບເຂດຂອງກຸ່ມນີ້, ແຕ່ພວກເຂົາໄດ້ເອົາໃຈໃສ່ເປັນພິເສດກັບດາລາສາດ ເພາະວ່າພວກເຂົາໄດ້ປະສົບກັບໄພພິບັດທີ່ສໍາຄັນຫຼາຍຢ່າງ. ເປັນທີ່ເຊື່ອກັນວ່າ ຄວາມຮູ້ທາງດາລາສາດຢ່າງຄົບຖ້ວນ ຈະຊ່ວຍໃຫ້ພວກເຂົາສາມາດຄາດຄະເນສະພາບການເມື່ອໄພພິບັດເຫຼົ່ານີ້ມີແນວໂນ້ມທີ່ຈະເກີດຂຶ້ນ ແລະ ດໍາເນີນການບາງຢ່າງເພື່ອປົກປ້ອງຕົນເອງ. ຖ້າທ່ານເບິ່ງສະຖານທີ່ຫີນໃຫຍ່ບູຮານ (megalithic complexes) ອັນຍິ່ງໃຫຍ່ໃນປະເທດໄອແລນ, ທ່ານຈະເຫັນວ່າສິ່ງທີ່ຖືກອະທິບາຍວ່າເປັນສຸສານທາງເຂົ້າ (passage graves) ນັ້ນ ແທ້ຈິງແລ້ວແມ່ນບ່ອນຫຼົບໄພລະເບີດໃນຮູບແບບທີ່ລຽບງ່າຍຫຼາຍ. ພວກມັນຢູ່ສູງກວ່າລະດັບຄື້ນສຶນາມິທຸກລະດັບ ແລະ ພວກມັນຍັງໃຫ້ການປົກປ້ອງຈາກຝົນດາວຕົກນຳອີກ"} \cite{8,9}. \cite{107}
+% ຍັງເຊື່ອກັນວ່າ Freemasonry ເອງກໍ່ມີຕົ້ນກຳເນີດມາຈາກຊາວດຣູອິດ \cite{10}.
 
-This is a powerful testimony for which we should be very grateful. In the interview, the author also discusses his belief that WWI and WWII were manufactured wars, and that the Anglo-Saxon Mission almost certainly dates back many, many generations. It has now been 15 years since the interview, which occurred in 2010. There are five years remaining until the insider's stated 20-year timeframe prediction for the geophysical event reaches its end.
+\section{ຫຼັກຖານການກະກຽມຮັບມືໄພພິບັດຄັ້ງໃຫຍ່ຂອງຝ່າຍຕາເວັນຕົກໃນຍຸກປັດຈຸບັນ}
 
-\subsection{Druidic Esoteric Western Knowledge of Cataclysms}
+ເນື່ອງຈາກວ່າອຳນາດປົກຄອງຢູ່ຂອງຝ່າຍຕາເວັນຕົກເບິ່ງຄືຈະເຊື່ອວ່າ ໄພພິບັດທໍລະນີຟີຊິກທົ່ວໂລກກຳລັງຈະເກີດຂຶ້ນໃນອີກບໍ່ດົນ, ພວກເຮົາຄາດຫວັງວ່າຈະມີການກະກຽມທີ່ສຳຄັນເກີດຂຶ້ນ ເພື່ອປົກປ້ອງຕົນເອງຈາກເຫດການດັ່ງກ່າວ. ແລະແທ້ຈິງແລ້ວ, ມີຫຼັກຖານໃນຂົງເຂດສາທາລະນະກ່ຽວກັບເຄືອຂ່າຍອຸໂມງໃຕ້ດິນເລິກທີ່ກວ້າງຂວາງໃນຫຼາຍປະເທດຕາເວັນຕົກ. ໃນຂະນະທີ່ສະຖານທີ່ດັ່ງກ່າວຈະສາມາດປົກປ້ອງຜູ້ອາໃສຢູ່ໃນກໍລະນີສົງຄາມນິວເຄລຍ, ພວກມັນຍັງຈະເປັນບ່ອນປ້ອງກັນຈາກໄພພິບັດທໍາມະຊາດຫຼາຍຮູບແບບອີກດ້ວຍ.
+ອີງຕາມຄຳໃຫ້ການຂອງ Freemason ອາວຸໂສຊາວອັງກິດຈາກໂຄງການ Camelot \cite{4,6}, ເບິ່ງຄືວ່າສະຖານະການເຫຼົ່ານີ້ບໍ່ແມ່ນພຽງແຕ່ຄວາມເປັນໄປໄດ້, ແຕ່ແມ່ນແຜນການທີ່ຖືກວາງໄວ້ລ່ວງໜ້າແລ້ວ. ສິ່ງທີ່ຄວນສັງເກດອີກຢ່າງໜຶ່ງຄືຈໍານວນເງິນມະຫາສານທີ່ຈະຕ້ອງໃຊ້ໃນການກໍ່ສ້າງ, ຈັດຫາບຸກຄະລາກອນ, ແລະ ບໍາລຸງຮັກສາຖານທັບເຫຼົ່ານີ້, ເຊິ່ງສອດຄ້ອງກັນດີກັບຈໍານວນເງິນຈໍານວນຫຼວງຫຼາຍເຖິງຫຼາຍສິບລ້ານລ້ານໂດລາທີ່ຫາຍໄປຈາກລັດຖະບານສະຫະລັດໃນໄລຍະ 18 ປີ (ຈະໄດ້ກ່າວເຖິງໃນພາກຕໍ່ໄປ) \cite{11,12,13}. \cite{109}
+ຕົວຢ່າງອື່ນໆຂອງການກະກຽມສຳລັບເຫດການລະດັບການສູນພັນ ລວມມີບັນດາໂຄງການເກັບຮັກສາຕ່າງໆ ເຊັ່ນ: ຄັງເກັບເມັດພັນ ແລະ ຄັງເກັບຄວາມຮູ້. \cite{110}
 
-Western knowledge of recurring cataclysms is well kept, and not just by Freemasons. The Druids, a well-documented ancient Celtic culture dating back at least 2400 years \cite{7}, passed on knowledge about the Earth's recurring cataclysms. The last known Druid is believed to be Ben McBrady. In "The Last Druid", a 1992 documentary, he shared information about the knowledge of the Druids: \textit{"The order of which I may be the last member by tradition, came into existence after the last great cataclysm, or catastrophe, which affected the world. Now with these great and terrible impacts on the Earth by great electrical storms, being caught up in the tails of meteors, or showers of meteorites, civilization as we know it was totally destroyed... All knowledge came within the ambit of the order, but they were particularly concerned with astronomy because they had experienced so many very significant calamities. It was thought that a full knowledge of astronomy would enable them to predict conditions when these calamities were likely to take place and take some kind of action to protect themselves. If you look at the great megalithic complexes in Ireland you'll see that what are described as passage graves are really bomb shelters of a very primitive kind. They are well above any tidal wave level and they also afford protection from meteoric showers"} \cite{8,9}.
+\subsection{ຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ນ້ຳຂອງອາເມຣິກາ}
 
-% It is also believed that Freemasonry itself actually originates from the Druids \cite{10}.
-
-\section{Evidence of Present-Day Western Cataclysm Preparation}
-
-Given that the ruling Western powers seem to believe that a global geophysical cataclysm is imminent, we would expect significant preparations to be occurring to protect themselves from such an event. And indeed, there is evidence in the public domain of extensive networks of deep underground bases across multiple Western countries. While such installations would certainly protect inhabitants in a nuclear war, they would also serve as protection from various kinds of natural disasters. Given the testimony of the British Senior Freemason from Project Camelot \cite{4,6}, it seems that these scenarios are not possibilities, but rather, premeditated plans. Also of note is the tremendous amount of money that would be required to build, staff, and maintain these bases, which lines up neatly with amounts such as a hefty tens of trillions of dollars missing from the US government over 18 years (covered in the next section) \cite{11,12,13}. Other examples of preparation for an extinction-level event include various archival projects such as seed and knowledge vaults.
-
-\subsection{American Underground and Undersea Bases}
-
-The most extensive public investigation into underground bases that I have found is from Richard Sauder, an independent American researcher who has published several books about deep underground bases \cite{22}. Sauder's work consists of archiving government documents and plans, perusing historical and present news stories and technologies, cultivating sources, and compiling insider claims. Sauder's research reveals that there is a large network of deep underground and undersea bases in and around America and its territories (Figure \ref{fig:4}), reaching to potential depths of at least 3 miles, and potentially connected by underground vacuum tube high-speed magnetic levitation trains. These bases are discreetly funded through a \textit{"high finance, international, interagency, money laundering shell game"} run by the same people who own the company of the United States of America \cite{22}. A follow-up work done into the extent of these bases by Catherine Austin Fitts (whose work is covered in the next section) and one of her collaborators produced an estimate of 170 underground and undersea American bases \cite{16,20}.
-
+ການສືບສວນສາທາລະນະທີ່ກວ້າງຂວາງທີ່ສຸດກ່ຽວກັບຖານທັບໃຕ້ດິນທີ່ຂ້ອຍໄດ້ພົບເຫັນແມ່ນມາຈາກ Richard Sauder, ນັກຄົ້ນຄວ້າເອກະລາດຊາວອາເມຣິກັນ ຜູ້ທີ່ໄດ້ພິມເຜີຍແຜ່ປຶ້ມຫຼາຍຫົວກ່ຽວກັບຖານທັບໃຕ້ດິນເລິກ \cite{22}. \cite{111}
+ຜົນງານຂອງ Sauder ປະກອບດ້ວຍການເກັບຮັກສາເອກະສານ ແລະ ແຜນການຂອງລັດຖະບານ, ການພິຈາລະນາເລື່ອງລາວຂ່າວ ແລະ ເທັກໂນໂລຢີທາງປະຫວັດສາດ ແລະ ປັດຈຸບັນ, ການພັດທະນາແຫຼ່ງຂໍ້ມູນ, ແລະ ການຮວບຮວມຂໍ້ມູນຈາກຄຳກ່າວອ້າງຂອງຄົນວົງໃນ. \cite{112}
+ການຄົ້ນຄວ້າຂອງ Sauder ເປີດເຜີຍວ່າ ມີເຄືອຂ່າຍຂະໜາດໃຫຍ່ຂອງຖານທັບໃຕ້ດິນເລິກ ແລະ ຖານທັບໃຕ້ນ້ຳ ຢູ່ໃນ ແລະ ອ້ອມຮອບອາເມຣິກາ ແລະ ດິນແດນຂອງມັນ (Figure \ref{fig:4}), ເຊິ່ງອາດຈະມີຄວາມເລິກຢ່າງໜ້ອຍ 3 ໄມລ໌, ແລະອາດຈະເຊື່ອມຕໍ່ກັນດ້ວຍລົດໄຟແມ່ເຫຼັກຄວາມໄວສູງແບບສູນຍາກາດໃຕ້ດິນ. \cite{113}
+ຖານທັບເຫຼົ່ານີ້ໄດ້ຮັບການສະໜອງທຶນແບບລັບໆ \textit{"ຜ່ານເກມຫຼອກລວງການຟອກເງິນທີ່ມີລັກສະນະການເງິນຂະໜາດໃຫຍ່, ລະຫວ່າງປະເທດ ແລະ ຫຼາຍອົງການ."} ດໍາເນີນງານໂດຍຄົນກຸ່ມດຽວກັນທີ່ເປັນເຈົ້າຂອງບໍລິສັດສະຫະລັດອາເມຣິກາ \cite{22}. ຜົນງານຕິດຕາມກວດກາຂອບເຂດຂອງຖານທັບເຫຼົ່ານີ້ໂດຍ Catherine Austin Fitts  (ເຊິ່ງຜົນງານຂອງລາວຈະຖືກກ່າວເຖິງໃນພາກຕໍ່ໄປ) ແລະໜຶ່ງໃນຜູ້ຮ່ວມມືຂອງລາວໄດ້ຄາດຄະເນວ່າ ມີຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ທະເລຂອງອາເມຣິກາປະມານ 170 ແຫ່ງ \cite{16,20}. \cite{114}
 \begin{figure}[b]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{penta.jpg}
 \end{center}
-   \caption{What actually lies under the White House and Pentagon? Evidently, a deep underground network of tunnels (Picture: \cite{31}).}
+   \caption{ແທ້ຈິງແລ້ວມີຫຍັງຢູ່ໃຕ້ທຳນຽບຂາວ ແລະ ອາຄານ Pentagon? ເຫັນໄດ້ຢ່າງຊັດເຈນວ່າ, ມີເຄືອຂ່າຍອຸໂມງໃຕ້ດິນເລິກ  (Picture: \cite{31}). \cite{115}}
 \label{fig:3}
 \label{fig:onecol}
 \end{figure}
@@ -165,17 +193,19 @@ The most extensive public investigation into underground bases that I have found
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
 \includegraphics[width=0.9\textwidth]{basescrop.png}
 \end{center}
-   \caption{A map showing the exact locations Sauder's research reveals most certainly have underground and undersea bases, as well as underwater submarine tunnels leading inland. Sauder is \textit{"sure there are \textbf{many more} facilities than [these]"} \cite{22}.}
+   \caption{ແຜນທີ່ທີ່ສະແດງສະຖານແນ່ນອນຂອງຜົນການຄົ້ນຄວ້າຂອງ Sauder ເປີດເຜີຍ ວ່າສ່ວນໃຫຍ່ແນ່ນອນວ່າມີຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ນ້ຳ, ພ້ອມທັງອຸໂມງເຮືອດຳນ້ຳໃຕ້ນ້ຳທີ່ນຳໄປສູ່ພາຍໃນແຜ່ນດິນ.
+Sauder ແມ່ນ \textit{"ແນ່ໃຈວ່າ ມີສະຖານທີ່ \textbf{ຫຼາຍກວ່ານີ້ອີກ} (facilities) ຫຼາຍບ່ອນ [ນອກເໜືອຈາກເຫຼົ່ານີ້]"} \cite{22}. \cite{116}}
    \label{fig:4}
 \end{figure*}
 
-Here are some testimony snippets from Sauder's sources that detail the extent of some of these bases:
+ນີ້ແມ່ນບາງສ່ວນຂອງຄຳໃຫ້ການຈາກແຫຼ່ງຂໍ້ມູນຂອງ Sauder ທີ່ໄດ້ອະທິບາຍລາຍລະອຽດກ່ຽວກັບຂອບເຂດຂອງຖານທັບເຫຼົ່ານີ້:
 
 \begin{flushleft}
 \begin{enumerate}
-    \item Camp David, Maryland: \textit{"My source informed me that the underground portions of Camp David are so extensive and elaborate, and there are so many miles of secret tunnels, that it is doubtful that any one person would have a complete map of the facility in his or her mind"} \cite{22}.
-    \item The White House, Washington DC: \textit{"One of my close friends was taken down into this facility during the Lyndon B. Johnson administration in the 1960s. She entered an elevator in the White House and was escorted straight down. She believes that the elevator went down 17 levels. When the door opened underground she was escorted down a corridor that appeared to disappear to the vanishing point in the distance. Other doors and corridors opened off of that corridor"} \cite{22}. Depicted in Figure \ref{fig:3}.
-    \item Fort Meade, Maryland - from a source who accidentally stumbled into the "basement" in the 1970s: \textit{"I opened the door and it was a stairwell leading down. I went over to the edge and looked down between the railings. I didn't count the number of floors down, but I had the feeling it was about 15-20 floors... I walked down one flight and there was a door... I opened the door and stuck my head through and looked left and right and saw a tunnel which ran clear out of sight in both directions. It was definitely much further than the area covered by the building and parking lot at ground level. There were doors along the opposite walls spaced about 30-40 feet apart... I decided to check out a couple of more floors so I walked down another level... and saw the same layout... I went down one more floor and looked in and saw the same as the first 2 floors"} \cite{22}.
+    \item Camp David, Maryland: \textit{"ແຫຼ່ງຂໍ້ມູນຂອງຂ້ອຍໄດ້ແຈ້ງໃຫ້ຊາບວ່າ ພາກສ່ວນໃຕ້ດິນຂອງ Camp David ນັ້ນກວ້າງຂວາງ ແລະ ສະລັບຊັບຊ້ອນຫຼາຍ, ແລະມີອຸໂມງລັບຫຼາຍໄມລ໌, ຈົນວ່າເປັນທີ່ສົງໄສວ່າຈະມີບຸກຄົນໃດຜູ້ໜຶ່ງມີແຜນທີ່ທີ່ສົມບູນຂອງສະຖານທີ່ນັ້ນຢູ່ໃນຄວາມຄິດຂອງຕົນເອງໄດ້."} \cite{22}. \cite{117}
+    \item The White House (ທຳນຽບຂາວ), Washington DC: \textit{"ໝູ່ສະໜິດຄົນໜຶ່ງຂອງຂ້າພະເຈົ້າຖືກພາລົງໄປໃນສະຖານທີ່ແຫ່ງນີ້ໃນຊ່ວງການບໍລິຫານຂອງປະທານາທິບໍດີ Lyndon B. Johnson ໃນຊຸມປີ 1960. ລາວໄດ້ເຂົ້າໄປໃນລິຟຢູ່ທຳນຽບຂາວ ແລະ ຖືກນຳພາລົງໄປຊັ້ນລຸ່ມໂດຍກົງ. ລາວເຊື່ອວ່າລິຟໄດ້ລົງໄປ 17 ຊັ້ນ. ເມື່ອປະຕູເປີດອອກຢູ່ໃຕ້ດິນ, ລາວຖືກນຳພາໄປຕາມລະບຽງທາງເດິນທີ່ເບິ່ງຄືວ່າຫາຍລັບໄປສຸດສາຍຕາ. ປະຕູ ແລະ ລະບຽງທາງເດີນອື່ນໆກໍໄດ້ເປີດອອກຈາກລະບຽງທາງເດີນນັ້ນ"} \cite{22}. \cite{118}
+ດັ່ງທີ່ສະແດງຢູ່ໃນຮູບ \ref{fig:3}.
+    \item Fort Meade, Maryland - ຈາກແຫຼ່ງຂໍ້ມູນຜູ້ທີ່ບັງເອີນເຂົ້າໄປໃນ "ຫ້ອງໃຕ້ດິນ" ໃນຊຸມປີ 1970: \textit{"ຂ້າພະເຈົ້າໄດ້ເປີດປະຕູອອກ ແລະ ມັນເປັນຂັ້ນໄດທີ່ນໍາລົງໄປລຸ່ມ. ຂ້າພະເຈົ້າເດີນໄປທີ່ຂອບແລ້ວເບິ່ງລົງໄປລະຫວ່າງລາວກັ້ນ ຂ້າພະເຈົ້າບໍ່ໄດ້ນັບຈຳນວນຊັ້ນທີ່ລົງໄປ, ແຕ່ຂ້າພະເຈົ້າຮູ້ສຶກວ່າມັນປະມານ 15-20 ຊັ້ນ... ຂ້າພະເຈົ້າເດີນລົງໄປຊັ້ນໜຶ່ງ ແລ້ວກໍມີປະຕູ... ຂ້າພະເຈົ້າເປີດປະຕູອອກ ແລະ ຢຽດຫົວເຂົ້າໄປເບິ່ງຊ້າຍຂວາ ກໍເຫັນອຸໂມງທີ່ທອດຍາວຈົນສຸດສາຍຕາທັງສອງທິດທາງ. ມັນແນ່ນອນວ່າເລິກກວ່າພື້ນທີ່ຕຶກອາຄານ ແລະ ລານຈອດລົດຢູ່ຊັ້ນພື້ນດິນຫຼາຍ. ມີປະຕູຕາມຝາຜະໜັງກົງກັນຂ້າມ ໂດຍມີໄລຍະຫ່າງກັນປະມານ 30-40 ຟຸດ... ຂ້າພະເຈົ້າຕັດສິນໃຈກວດເບິ່ງອີກສອງສາມຊັ້ນ, ສະນັ້ນຂ້າພະເຈົ້າຈຶ່ງເດີນລົງໄປອີກຊັ້ນໜຶ່ງ... ແລະກໍເຫັນການຈັດວາງແບບດຽວກັນ... ຂ້ອຍເດີນລົງໄປອີກຊັ້ນໜຶ່ງ ແລ້ວແນມເບິ່ງກໍເຫັນແບບດຽວກັນກັບສອງຊັ້ນທຳອິດ"} \cite{22}. \cite{119}
 \end{enumerate}
 \end{flushleft}
 
@@ -184,19 +214,21 @@ Here are some testimony snippets from Sauder's sources that detail the extent of
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{undersea.jpg}
 \end{center}
-   \caption{Illustration of an undersea base, by Walter Koerschner. He was an illustrator for the US Navy's Rock-Site undersea base team at the Navy's China Lake, California Weapons Center in the 1960s. One of Sauder's sources reveals there is an underground base one mile deep at China Lake \cite{22,23}.}
+   \caption{ຮູບປະກອບຂອງຖານທັບໃຕ້ນ້ຳ, ໂດຍ Walter Koerschner.
+ລາວເຄີຍເປັນນັກແຕ້ມຮູບປະກອບໃຫ້ກັບທີມຖານທັບໃຕ້ນ້ຳ Rock-Site ຂອງກອງທັບເຮືອສະຫະລັດ ທີ່ສູນອາວຸດ China Lake, ລັດຄາລິຟໍເນຍ ຂອງກອງທັບເຮືອ ໃນຊຸມປີ 1960. ໜຶ່ງໃນແຫຼ່ງຂໍ້ມູນຂອງ Sauder ເປີດເຜີຍວ່າ ມີຖານທັບໃຕ້ດິນເລິກໜຶ່ງໄມລ໌ຢູ່ China Lake \cite{22,23}. \cite{120}}
 \label{fig:5}
 \label{fig:onecol}
 \end{figure}
 
-Sauder also received testimonies about underground magnetic levitation trains that reach speeds of 2,000 mph, bases built under the ocean floor (Figure \ref{fig:5}), and underwater submarine tunnels that lead inland. Regarding one of the testimonies about an underwater base in the Gulf of Mexico, Sauder says, \textit{"About a half year after the publication of Underwater and Underground Bases, I was contacted by a man who said he had knowledge of an unusual underwater project... he specified that the project was under the seabed of the Gulf of Mexico, and that Parsons was the contractor. He went on to say that Parsons had purchased some specialty equipment intended for operation 2,800 feet beneath the sea floor... The equipment is distinctive enough that it clearly presupposes the presence of live human beings in the places where it is installed"} \cite{22}.
+Sauder ຍັງໄດ້ຮັບຄໍາໃຫ້ການກ່ຽວກັບລົດໄຟແມ່ເຫຼັກລອຍທີ່ສາມາດບັນລຸຄວາມໄວເຖິງ 2,000 ໄມລ໌ຕໍ່ຊົ່ວໂມງ, ຖານທັບທີ່ສ້າງຂຶ້ນໃຕ້ພື້ນມະຫາສະໝຸດ (ຮູບພາບ \ref{fig:5}), ແລະ ອຸໂມງໃຕ້ນ້ຳສຳລັບເຮືອດຳນ້ຳທີ່ເຊື່ອມຕໍ່ໄປຫາພື້ນທີ່ໃນແຜ່ນດິນ.
+ກ່ຽວກັບຄຳໃຫ້ການອັນໜຶ່ງທີ່ກ່າວເຖິງຖານທັບໃຕ້ນ້ຳໃນອ່າວເມັກຊິໂກ, Sauder ກ່າວວ່າ, \textit{"ປະມານເຄິ່ງປີຫຼັງຈາກການຕີພິມປຶ້ມ Underwater and Underground Bases, ຂ້າພະເຈົ້າໄດ້ຖືກຕິດຕໍ່ໂດຍຊາຍຄົນໜຶ່ງທີ່ບອກວ່າ ລາວມີຄວາມຮູ້ກ່ຽວກັບໂຄງການໃຕ້ນ້ຳທີ່ຜິດປົກກະຕິ... ລາວໄດ້ລະບຸວ່າໂຄງການດັ່ງກ່າວແມ່ນຢູ່ໃຕ້ພື້ນທະເລຂອງອ່າວເມັກຊິໂກ, ແລະ Parson's ແມ່ນຜູ້ຮັບເໝົາ. ລາວໄດ້ເວົ້າຕໍ່ໄປວ່າ Parsons ໄດ້ຊື້ເຄື່ອງມືພິເສດບາງຢ່າງທີ່ຕັ້ງໃຈໄວ້ສໍາລັບການປະຕິບັດງານ 2,800 ຟຸດໃຕ້ພື້ນທະເລ... ອຸປະກອນດັ່ງກ່າວມີລັກສະນະພິເສດພໍທີ່ຈະສະແດງໃຫ້ເຫັນຢ່າງຊັດເຈນວ່າ ຕ້ອງມີການປະກົດຕົວຂອງມະນຸດທີ່ມີຊີວິດ \cite{121} ຢູ່ໃນສະຖານທີ່ທີ່ມີການຕິດຕັ້ງ"} \cite{22}. \cite{122}
 
 \begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{sub.jpg}
 \end{center}
-   \caption{An illustration of an underwater submarine tunnel, by Walter Koerschner \cite{22,23}.}
+   \caption{ຮູບປະກອບຂອງຖານທັບໃຕ້ນ້ຳ, ໂດຍ Walter Koerschner \cite{22,23}.}
 \label{fig:6}
 \label{fig:onecol}
 \end{figure}
@@ -206,23 +238,25 @@ Sauder also received testimonies about underground magnetic levitation trains th
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{iran.jpeg}
 \end{center}
-   \caption{A clip from an official Iranian video showcasing their underground "missile city" \cite{39,40}.}
+   \caption{ວິດີໂອຈາກທາງການອີຣ່ານທີ່ສະແດງໃຫ້ເຫັນ "ເມືອງຂີປະນາວຸດ" ໃຕ້ດິນຂອງພວກເຂົາ \cite{39,40}.}
 \label{fig:12}
 \label{fig:onecol}
 \end{figure}
 
-If there really is a vast secret transcontinental network of 170+ underground and undersea bases dug to depths of miles beneath the surface under our feet, connected by hypersonic vacuum-tube maglev trains, funded using the fruits of our labor, the masses of humanity today would be in a state of terminal and blissful ignorance, not only unaware of what is under them but what lies ahead of them in the near future, as they lap up the empty and coordinated statements of their politician handlers.
-
-An additional note - the existence of large underground tunnel networks has been revealed without a doubt in the ongoing conflict in the Middle East (Hamas tunnels under the Gaza Strip \cite{38}, and Iran's underground "missile city" (Figure \ref{fig:12}) \cite{39,40}). These should leave no doubt as to both the possibility of building, and actual existence of, such structures. They should also leave us wondering what structures other significantly better capitalized countries may have constructed during the same time.
-
-\subsection{Additional Bunker and Cataclysm Preparation Evidence}
+ຖ້າຫາກວ່າມີເຄືອຂ່າຍລັບທີ່ກວ້າງໃຫຍ່ໄພສານລະຫວ່າງທະວີບຂອງຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ນ້ຳຫຼາຍກວ່າ 170 ແຫ່ງ ທີ່ຖືກຂຸດລົງໄປເລິກຫຼາຍໄມລ໌ຢູ່ໃຕ້ພື້ນດິນທີ່ພວກເຮົາຢືນຢູ່, ເຊື່ອມຕໍ່ກັນດ້ວຍລົດໄຟແມ່ເຫຼັກຄວາມໄວສູງແບບສູນຍາກາດ, ໂດຍໄດ້ຮັບການສະໜອງທຶນຈາກຜົນຂອງແຮງງານຂອງພວກເຮົາ, ມວນມະນຸດໃນທຸກວັນນີ້ຈະຢູ່ໃນສະພາວະທີ່ບໍ່ຮູ້ເລື່ອງລາວຢ່າງທີ່ສູດ ແລະ ມີຄວາມສຸກທີ່ສຸດ, \cite{123} ບໍ່ພຽງແຕ່ບໍ່ຮູ້ວ່າມີຫຍັງຢູ່ໃຕ້ພວກເຂົາ, ແຕ່ຍັງບໍ່ຮູ້ວ່າຈະມີຫຍັງເກີດຂຶ້ນກັບພວກເຂົາໃນອະນາຄົດອັນໃກ້ນີ້, ໃນຂະນະທີ່ພວກເຂົາກໍ່ເຊື່ອຟັງຖ້ອຍຄຳທີ່ວ່າງເປົ່າ ແລະ ຖືກຈັດຕັ້ງໂດຍພວກນັກການເມືອງທີ່ຄຸມພວກເຂົາ.
+ຂໍ້ສັງເກດເພີ່ມເຕີມ - ການມີຢູ່ຂອງເຄືອຂ່າຍອຸໂມງໃຕ້ດິນຂະໜາດໃຫຍ່ໄດ້ຖືກເປີດເຜີຍຢ່າງບໍ່ຕ້ອງສົງໄສໃນຄວາມຂັດແຍ້ງທີ່ກຳລັງດຳເນີນຢູ່ໃນຕາເວັນອອກກາງ (ອຸໂມງ Hamas ໃຕ້ເຂດ Gaza Strip  \cite{38},  ແລະ "ເມືອງຂີປະນາວຸດ" ໃຕ້ດິນຂອງອີຣ່ານ
+ (figure \ref{fig:12}) \cite{39,40}).  \cite{124}
+ສິ່ງເຫຼົ່ານີ້ຄວນຈະເຮັດໃຫ້ບໍ່ມີຂໍ້ສົງໄສທັງໃນຄວາມເປັນໄປໄດ້ໃນການກໍ່ສ້າງ ແລະ ການມີຢູ່ແທ້ຈິງຂອງໂຄງສ້າງດັ່ງກ່າວ. \cite{125}
+ພວກເຂົາຍັງເຮັດໃຫ້ພວກເຮົາສົງໄສອີກວ່າ ບັນດາປະເທດອື່ນໆ ທີ່ມີທຶນສູງກວ່າຢ່າງຫຼວງຫຼາຍ ອາດຈະໄດ້ສ້າງໂຄງສ້າງຫຍັງແດ່ໃນຊ່ວງເວລາຽດຽວກັນນັ້ນ. \cite{126}
+\subsection{ຫຼັກຖານເພີ່ມເຕີມກ່ຽວກັບການກະກຽມທີ່ຫຼົບໄພໃຕ້ດິນ ແລະ ໄພພິບັດ}
 
 \begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{tyrol.jpg}
 \end{center}
-   \caption{Bunkers in South Tyrol, Switzerland. Switzerland, spanning the European Alps mountain range, is known for cleverly disguising its mountain bunkers \cite{32}.}
+   \caption{ທີ່ຫຼົບໄພໃຕ້ດິນໃນ South Tyrol, Switzerland.
+ສະວິດເຊີແລນ, ເຊິ່ງກວມເອົາພູຜາປ່າດົງ Alps ຂອງເອີຣົບ, ມີຊື່ສຽງໃນການປິດບັງ ທີ່ຫຼົບໄພໃຕ້ດິນ ທີ່ຢູ່ໃນພູຜາຂອງຕົນຢ່າງສະຫຼາດ \cite{32}. \cite{128}}
 \label{fig:7}
 \label{fig:onecol}
 \end{figure}
@@ -232,68 +266,79 @@ An additional note - the existence of large underground tunnel networks has been
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{svalbard.jpg}
 \end{center}
-   \caption{The Svalbard Global Seed Vault in Norway, containing more than a million seeds \cite{24}. One has to wonder what kind of catastrophe would necessitate its usage.}
+   \caption{ຄັງເມັດພັນໂລກ Svalbard (ສະຟາລບາດ) ທີ່ປະເທດນໍເວ, ເຊິ່ງບັນຈຸເມັດພັນຫຼາຍກວ່າໜຶ່ງລ້ານເມັດ \cite{24}.
+ເຮົາຕ້ອງສົງໄສວ່າ ໄພພິບັດແບບໃດທີ່ຈະເຮັດໃຫ້ຕ້ອງນຳໃຊ້ມັນ. \cite{129}}
 \label{fig:8}
 \label{fig:onecol}
 \end{figure}
 
-There are plenty of additional clues of cataclysm preparation around the world aside from the underground American royal bases. Norway, Switzerland, Sweden, and Finland are great examples:
+ມີຂໍ້ຄິດເພີ່ມເຕີມຫຼາຍຢ່າງກ່ຽວກັບການກະກຽມຮັບມືໄພພິບັດທົ່ວໂລກ ນອກເໜືອໄປຈາກຖານທັບໃຕ້ດິນຂອງຊາວອາເມຣິກັນ. \cite{130}
+Norway, Switzerland, Sweden ແລະ Finland ແມ່ນຕົວຢ່າງທີ່ດີ:
 
 \begin{flushleft}
 \begin{enumerate}
-    \item Project Camelot shared a relevant testimony from a Norwegian politician \cite{25,26}, whose identity they verified but kept private. He alleges that Norway has 18 extensive underground bases, and that Norway (along with Israel and "many other countries") is building these bases to prepare for some kind of natural disaster. Richard Sauder also received a testimony from a man who had been inside a massive underground base built inside a hollowed-out mountain in Norway \cite{22}.
-    \item Switzerland is well known to have many nuclear bunkers built in the heights of the Alps (Figure \ref{fig:7}). These number over an astonishing 370,000 - enough to shelter every single resident \cite{27}.
-    \item Sweden and Finland have enough bunkers to shelter residents in every major city \cite{27}. 
+    \item ໂຄງການ Camelot ໄດ້ເຜີຍແຜ່ຄຳໃຫ້ການທີ່ກ່ຽວຂ້ອງຈາກນັກການເມືອງຊາວນໍເວຄົນໜຶ່ງ \cite{25,26}, ເຊິ່ງພວກເຂົາໄດ້ຢັ້ງຢືນຕົວຕົນແລ້ວ ແຕ່ເກັບໄວ້ເປັນສ່ວນຕົວ. \cite{131}
+ລາວກ່າວຫາວ່ານໍເວມີຖານທັບໃຕ້ດິນຂະໜາດໃຫຍ່ 18 ແຫ່ງ, ແລະ ນໍເວ (ພ້ອມກັບອິດສະຣາແອລ ແລະ "ອີກຫຼາຍປະເທດ") ກໍາລັງສ້າງຖານທັບເຫຼົ່ານີ້ເພື່ອກະກຽມຮັບມືກັບໄພພິບັດທໍາມະຊາດບາງຢ່າງ. \cite{132}
+Richard Sauder ຍັງໄດ້ຮັບຄຳໃຫ້ການຈາກຊາຍຄົນໜຶ່ງ ຜູ້ທີ່ເຄີຍເຂົ້າໄປໃນຖານທັບໃຕ້ດິນຂະໜາດໃຫຍ່ ເຊິ່ງຖືກສ້າງຂຶ້ນພາຍໃນພູທີ່ຖືກເຈາະໃຫ້ກວ້າງອອກໃນປະເທດນໍເວ \cite{22}. \cite{133}
+    \item ສະວິດເຊີແລນເປັນທີ່ຮູ້ຈັກກັນດີວ່າມີທີ່ຫຼົບໄພໃຕ້ດິນນິວເຄລຍຈໍານວນຫຼາຍທີ່ສ້າງຂຶ້ນໃນເຂດພູສູງຂອງ Alps (Figure \ref{fig:7}). \cite{134}
+ຈຳນວນເຫຼົ່ານີ້ມີຫຼາຍກວ່າ 370,000 ແຫ່ງຢ່າງໜ້າອັດສະຈັນ – ພຽງພໍທີ່ຈະໃຫ້ທີ່ພັກພິງແກ່ພົນລະເມືອງທຸກໆຄົນ \cite{27}. \cite{135}
+    \item ສະວີເດັນ ແລະ ຟິນແລນ ມີທີ່ຫຼົບໄພໃຕ້ດິນພຽງພໍທີ່ຈະໃຫ້ທີ່ພັກພິງແກ່ຊາວເມືອງໃນທຸກໆເມືອງໃຫຍ່ \cite{27}. \cite{136}
 \end{enumerate}
 \end{flushleft}
 
-Silicon Valley business tycoons are apparently also in the know. Reportedly, \textit{"Reid Hoffman, the cofounder of LinkedIn and a notable investor, told The New Yorker earlier this year he estimated that more than 50\% of Silicon Valley billionaires had bought some level of "apocalypse insurance," like an underground bunker... According to Jim Dobson, a Forbes contributor, lots of billionaires have private planes "ready to depart at a moment's notice." They also own motorcycles, weaponry, and generators"} \cite{28}.
-
-There are also various large archival projects such as the Global Knowledge Vault, run by the Arch Mission Foundation, \cite{29} and the Svalbard Global Seed Vault \cite{30} which seem to be preparing to preserve humanity's vital assets in the case of an extinction-level disaster.
-
+ເຫັນໄດ້ຊັດເຈນວ່າ ມະຫາເສດຖີທຸລະກິດຈາກ Silicon Valley ກໍຮູ້ເລື່ອງນີ້ເຊັ່ນກັນ. \cite{137}
+ມີລາຍງານວ່າ, \textit{"Reid Hoffman, ຜູ້ຮ່ວມກໍ່ຕັ້ງ LinkedIn ແລະ ນັກລົງທຶນທີ່ມີຊື່ສຽງ, ໄດ້ບອກກັບ The New Yorker ເມື່ອຕົ້ນປີນີ້ວ່າ ລາວຄາດຄະເນວ່າ ຫຼາຍກວ່າ 50\% ຂອງມະຫາເສດຖີ Silicon Valley ໄດ້ຊື້ "ປະກັນໄພວັນສິ້ນໂລກ" ໃນລະດັບໃດໜຶ່ງ ເຊັ່ນ: ທີ່ຫຼົບໄພໃຕ້ດິນ... ອີງຕາມ Jim Dobson, ນັກຂຽນຂອງ Forbes, ມະຫາເສດຖີຈໍານວນຫຼາຍມີຍົນບິນສ່ວນຕົວ "ພ້ອມທີ່ຈະອອກເດີນທາງໄດ້ທັນທີທັນໃດ." ພວກເຂົາເຈົ້າຍັງເປັນເຈົ້າຂອງລົດຈັກ, ອາວຸດ ແລະ ເຄື່ອງປັ່ນໄຟ"} \cite{28}. \cite{138}
+ນອກຈາກນີ້ ຍັງມີໂຄງການເກັບຮັກສາຂໍ້ມູນຂະໜາດໃຫຍ່ຕ່າງໆ ເຊັ່ນ: Global Knowledge Vault, ທີ່ດໍາເນີນການໂດຍມູນນິທິ Arch Mission Foundation, \cite{29} ແລະ Svalbard Global Seed Vault \cite{30} ເຊິ່ງເບິ່ງຄືວ່າກໍາລັງກະກຽມທີ່ຈະຮັກສາຊັບສິນອັນສໍາຄັນຂອງມະນຸດຊາດ ໃນກໍລະນີທີ່ເກີດໄພພິບັດໃນລະດັບສູນພັນ. \cite{139}
 \begin{figure*}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{.9\linewidth}{0pt}}
 \includegraphics[width=0.9\textwidth]{govcrop2.png}
 \end{center}
-   \caption{US government revenue, spending, and secret underground base spending from 1998 to 2023 \cite{19}.}
+   \caption{ລາຍຮັບ, ລາຍຈ່າຍ, ແລະ ລາຍຈ່າຍສໍາລັບຖານລັບໃຕ້ດິນຂອງລັດຖະບານສະຫະລັດ ຕັ້ງແຕ່ປີ 1998 ຫາ 2023 \cite{19}.}
    \label{fig:9}
 \end{figure*}
 
-\section{Democratic Funding Mechanisms for Massive Underground Bases}
+\section{ກົນໄກການສະໜອງທຶນແບບປະຊາທິປະໄຕ ສຳລັບຖານທັບໃຕ້ດິນຂະໜາດໃຫຍ່.}
 
-So how are massive transcontinental networks of 170+ underground and undersea bases funded whilst keeping the debt slaves in the dark? There's one paper trail that can give us an idea of the scale of money that goes into these projects and where it comes from. In 2017, Catherine Austin Fitts, an American investment banker and former public official during the Bush administration, and Mark Skidmore, a Michigan State University economist, found 21 trillion USD in unauthorized spending in the US government during fiscal years 1998-2015 \cite{11,12,13}.
+ດັ່ງນັ້ນ, ເຄືອຂ່າຍຖານທັບໃຕ້ດິນ ແລະ ໃຕ້ນ້ຳຂະໜາດໃຫຍ່ຂ້າມທະວີບຫຼາຍກວ່າ 170 ແຫ່ງນັ້ນ ໄດ້ຮັບການສະໜອງທຶນແນວໃດ ໃນຂະນະທີ່ປິດບັງບໍ່ໃຫ້ປະຊາຊົນຜູ້ເປັນໜີ້ສິນຮູ້ເລີຍ? \cite{140}
+ມີຮ່ອງຮອຍເອກະສານອັນໜຶ່ງທີ່ສາມາດເຮັດໃຫ້ພວກເຮົາພໍຮູ້ໄດ້ເຖິງຂະໜາດຂອງເງິນທີ່ໃຊ້ເຂົ້າໃນໂຄງການເຫຼົ່ານີ້ ແລະ ທີ່ມາຂອງມັນ. \cite{141}
+ໃນປີ 2017, Catherine Austin Fitts, ນັກລົງທຶນດ້ານການທະນາຄານຊາວອາເມຣິກັນ ແລະ ອະດີດເຈົ້າໜ້າທີ່ລັດຖະການໃນໄລຍະການບໍລິຫານຂອງປະທານາທິບໍດີ Bush, ແລະ Mark Skidmore, ນັກເສດຖະສາດຈາກມະຫາວິທະຍາໄລ Michigan State, ໄດ້ພົບເຫັນການໃຊ້ຈ່າຍທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດເຖິງ 21 ລ້ານລ້ານໂດລາສະຫະລັດ (USD) ໃນລັດຖະບານສະຫະລັດອາເມຣິກາ ໃນຊ່ວງປີປະມານ 1998-2015 \cite{11,12,13}. \cite{142}
+ຕາມລາຍງານຂອງພວກເຂົາ, \textit{"ໃນວັນທີ 7 ຕຸລາ 2016, ສຳນັກຂ່າວ Reuters ໄດ້ເຜີຍແຜ່ບົດຄວາມໂດຍ Scot Paltrow (2016), ເຊິ່ງລາຍງານວ່າໃນປີປະມານ 2015, ກອງທັບໄດ້ປັບບັນຊີທີ່ບໍ່ມີເອກະສານຢັ້ງຢືນເຖິງ 6.5 ລ້ານລ້ານໂດລາສະຫະລັດ "ເພື່ອສ້າງພາບລວງຕາວ່າບັນຊີຂອງພວກເຂົາມີສົມດຸນ.” \cite{143}
+ພິຈາລະນາວ່າງົບປະມານກອງທຶນທົ່ວໄປຂອງກອງທັບໃນປີດຽວກັນນັ້ນແມ່ນ 122 ຕື້ໂດລາສະຫະລັດ, ນີ້ຖືເປັນການເປີດເຜີຍທີ່ໜ້າຕົກໃຈຢ່າງຍິ່ງ... ກະຊວງປ້ອງກັນປະເທດ (DOD) ໄດ້ກາຍເປັນຂ່າວໃຫຍ່ໃນສື່ຕ່າງໆຫຼາຍປີກ່ອນໜ້ານັ້ນ ສຳລັບບັນຫາການບັນຊີຂອງຕົນ ໃນວັນທີ 10 ກັນຍາ 2001, ເມື່ອລັດຖະມົນຕີກະຊວງປ້ອງກັນປະເທດ Donald Rumsfeld ໄດ້ຖະແຫຼງໃນກອງປະຊຸມສະພາ (C-SPAN, 2014) ວ່າ ກະຊວງປ້ອງກັນປະເທດ (DOD) ໄດ້ສູນເສຍບັນທຶກທຸລະກຳມູນຄ່າ 2.3 ລ້ານລ້ານໂດລາສະຫະລັດ... ການຍອມຮັບນີ້ໄດ້ກາຍເປັນຂ່າວໃຫຍ່ໃນວັນນັ້ນ, ແຕ່ຖືກລືມໄປໃນມື້ຕໍ່ມາ ເມື່ອເຫດການໂສກນາດຕະກໍາ 9/11 ໄດ້ດຶງດູດຄວາມສົນໃຈຂອງຄົນທົ່ວໂລກ... ເມື່ອສາດສະດາຈານ Mark Skidmore ໄດ້ຮູ້ກ່ຽວກັບທຸລະກໍາທີ່ກອງທັບບໍ່ສາມາດກວດສອບໄດ້ເຖິງ 6.5 ລ້ານລ້ານໂດລາສະຫະລັດ, ລາວໄດ້ຕິດຕໍ່ຫາ\cite{144} ທ່ານນາງ Fitts ແລະ ພວກເຂົາໄດ້ຕົກລົງກັນໃນລະດູບໃບໄມ້ປົ່ງຂອງປີ 2017 ທີ່ຈະເຮັດວຽກຮ່ວມກັນເພື່ອກໍານົດລາຍງານຂອງລັດຖະບານອື່ນໆທີ່ຄ້າຍຄືກັນ ເຊິ່ງຊີ້ໃຫ້ເຫັນເຖິງທຸລະກໍາທີ່ບໍ່ສາມາດກວດສອບໄດ້ຂະໜາດໃຫຍ່ຜິດປົກກະຕິພາຍໃນ HUD ແລະ DOD. ໃນໄລຍະຫົກເດືອນຕໍ່ມາ, Skidmore, Fitts ແລະ ທີມງານນັກສຶກສາຈົບໃໝ່ກຸ່ມນ້ອຍໆໄດ້ລວບລວມເອກະສານທາງການຂອງລັດຖະບານ ເຊິ່ງໄດ້ລະບຸທຸລະກຳທີ່ບໍ່ສາມາດຢັ້ງຢືນໄດ້ລວມທັງໝົດ 21 ລ້ານລ້ານໂດລາສະຫະລັດ ໃນຊ່ວງປີ 1998-2016"} \cite{12}. \cite{145}
+ຕະຫຼອດໄລຍະ 18 ປີດຽວກັນ ທີ່ຄອບຄຸມຕັ້ງແຕ່ປີ 1998 ຫາ 2015, ລາຍຮັບຂອງລັດຖະບານສະຫະລັດທີ່ຖືກເປີດເຜີຍຕໍ່ສາທາລະນະມີພຽງແຕ່ 40.8 ລ້ານລ້ານໂດລາສະຫະລັດ \cite{15}, ຊີ້ໃຫ້ເຫັນວ່າຫຼາຍກວ່າເຄິ່ງໜຶ່ງຂອງລາຍຮັບລັດຖະບານສະຫະລັດອາເມຣິກາ ຖືກໃຊ້ຈ່າຍຢ່າງລັບໆໄປກັບຖານທັບໃຕ້ດິນ, ນອກເໜືອຈາກລາຍຈ່າຍຂອງລັດຖະບານສະຫະລັດອາເມຣິກາທີ່ຮັບຮູ້ຕໍ່ສາທາລະນະ. \cite{146}
+ສິ່ງທີ່ໜ້າສັງເກດອີກຢ່າງໜຶ່ງຄື ການໃຊ້ຈ່າຍແບບລັບໆນີ້ໄດ້ເກີດຂຶ້ນນອກເໜືອຈາກການຂາດດຸນງົບປະມານທີ່ມີມາຢ່າງຍາວນານ, ແລະ ຄາດວ່າບໍ່ພຽງແຕ່ສືບຕໍ່ມາຈົນເຖິງທຸກມື້ນີ້ເທົ່ານັ້ນ ແຕ່ຍັງມີມາກ່ອນປີ 1998 ອີກດ້ວຍ, ເຊິ່ງໝາຍຄວາມວ່າຈຳນວນເງິນລວມທີ່ໃຊ້ຈ່າຍໄປກັບຖານທັບເຫຼົ່ານີ້ແມ່ນຫຼາຍກວ່າ 21 ລ້ານລ້ານໂດລາສະຫະລັດ. \cite{147}
+ການນຳໃຊ້ສັດສ່ວນຂອງການໃຊ້ຈ່າຍແບບລັບໆອັນດຽວກັນກັບຊ່ວງປີ 2016-2023 ຈະເຮັດໃຫ້ໄດ້ຈຳນວນເງິນລວມທັງໝົດ 36.6 ພັນຕື້ໂດລາສະຫະລັດ ທີ່ຖືກໃຊ້ຈ່າຍນັບຕັ້ງແຕ່ປີ 1998 ເປັນຕົ້ນມາ.
 
-According to their report, \textit{"On October 7, 2016 Reuters published an article by Scot Paltrow (2016), which reported that in fiscal year 2015 the Army made \$6.5 trillion in unsupported accounting adjustments “to create an illusion that its books were balanced.” Given that the Army general fund budget in that year was \$122 billion, this was an astounding revelation... The DOD made major media headlines many years earlier for its accounting problems on September 10, 2001 when Secretary of Defense Donald Rumsfeld stated in a Congressional hearing (C-SPAN, 2014) that the DOD had lost track of \$2.3 trillion in transactions... This acknowledgement made news headlines on that day, but was forgotten a day later when the tragedy of 9/11 captured the attention of the entire world... When Professor Mark Skidmore learned of the \$6.5 trillion in unverifiable Army transactions, he contacted Ms. Fitts and they agreed in the spring of 2017 to work together to identify other similar government reports that indicated unusually large unverifiable transactions within HUD and DOD. Over the course of the next six months, Skidmore, Fitts and a small team of graduate students collected official government documents wherein a total of \$21 trillion in undocumentable transactions were identified during the 1998-2016 period"} \cite{12}.
+ໃນປີ 2021, Mark Skidmore ໄດ້ເຜີຍແຜ່ບົດສະຫຼຸບການປັບປຸງການຄົ້ນຄວ້ານີ້ ກ່ຽວກັບການປະກາດຂອງ Bloomberg ທີ່ວ່າໃນຊ່ວງປີປະມານ 2017-19, Pentagon ໄດ້ບັນທຶກການປັບປຸງບັນຊີເປັນຈຳນວນເງິນ 94.7 ພັນຕື້ໂດລາສະຫະລັດ ຢ່າງໜ້າຕົກໃຈ \cite{17,18}. \cite{148}
+ຖ້າພວກເຮົາຄໍານຶງເຖິງການປອມແປງເງິນໂດລາສະຫະລັດຜ່ານລະບົບທະນາຄານກາງທີ່ເກີດຂຶ້ນມາເປັນເວລາກວ່າໜຶ່ງສະຕະວັດ ນັບຕັ້ງແຕ່ການສ້າງຕັ້ງທະນາຄານກາງສະຫະລັດ (Federal Reserve) ໃນປີ 1913 ເປັນຕົ້ນມາ \cite{37}, ມັນຈຶ່ງກາຍເປັນທີ່ຈະແຈ້ງວ່າການບັນຊີເງິນໂດລາສາທາລະນະທັງໝົດແມ່ນການເວົ້າທີ່ຫຼອກລວງຢ່າງສິ້ນເຊີງ, ແລະ ສະກຸນເງິນຂອງສະຫະລັດ ແລະ ລັດຖະບານແມ່ນເປັນພຽງລະບົບການຈັດສັນຊັບພະຍາກອນ ທີ່ເຈົ້າຂອງຜູ້ຊົງອຳນາດສາມາດກອບໂກຍເອົາ (ຫຼືເວົ້າອີກຢ່າງໜຶ່ງ, ຖອກເທອອກ) ໄດ້ຫຼາຍເທົ່າທີ່ພວກເຂົາຕ້ອງການຢ່າງງຽບໆ. \cite{149}
+\section{ລູກຫຼານຂອງ Jove: ຕົວຕົນຂອງກະສັດເງົາແຫ່ງຝັ່ງຕາເວັນຕົກ}
 
-Across the same 18-year period spanning 1998-2015, publicly acknowledged US government receipts were only 40.8 trillion \cite{15}, indicating that an amount of over half of US government receipts was secretly spent on underground bases in addition to publicly acknowledged US government spending. Also noteworthy is that this secret spending occurred on top of a long-running budget deficit, and has presumably not only continued till today but also existed before 1998, implying the total nominal amount spent on these bases is much greater than 21 trillion dollars. Applying the same ratio of secret spending to the period spanning 2016-2023 yields a total amount of 36.6 trillion USD spent since 1998.
-
-In 2021, Mark Skidmore published an update to this research concerning an announcement by Bloomberg that during fiscal years 2017-19, the Pentagon recorded a mind-boggling 94.7 trillion dollars of accounting adjustments \cite{17,18}. If we take into account the counterfeiting of US dollars via the central banking system that has occurred for over a century since the establishment of the Federal Reserve in 1913 \cite{37}, it becomes clear that all public dollar accounting is complete doublespeak bunk, and that the US currency and government are simply resource allocation systems from which its royal owners can quietly skim off (or rather, pour out) however much they want.
-
-\section{Progeny of Jove: Identities of the Shadow Western Kings}
-
-So, who's actually running the show? We cannot know for sure, because the Western kings of capital keep themselves in the shadows. While there are all kinds of theories, spanning from public figures to extraterrestrial beings, the best answer I have to this lies in the life work of an anonymous blogger who went by the pseudonym "Amallulla". His work constituted an expansive synthesis of over 20 authors and 50 "irreplaceable" documents covering topics of ancient and modern history, occult symbolism, and Western politics \cite{33,34}. I can only describe his work as "prophetic" regarding the impending geophysical cataclysm - it is \textit{significantly} more comprehensive than mine.
-
-Amallulla identified three political Western factions, which together he called the "Progeny of Jove", who possess knowledge of the "end times" - Earth's recurring cataclysms. He believed these three factions together control the Western nations today, but divided them into three different groups based on their differing origins and historical identities, possible past disagreements, and perceived differences in their value systems and actions.
-
-The three factions can be vaguely categorized as follows:
+ສະນັ້ນ, ໃຜກັນແທ້ທີ່ເປັນຜູ້ກຳອຳນາດ? \cite{150}
+ພວກເຮົາບໍ່ສາມາດຮູ້ໄດ້ຢ່າງແນ່ນອນ, ເພາະວ່າບັນດາກະສັດແຫ່ງທຶນຂອງໂລກຕາເວັນຕົກ ຍັງຄົງປິດບັງຕົວເອງຢູ່ໃນເງົາມືດ. \cite{151}
+ເຖິງແມ່ນວ່າຈະມີທິດສະດີຫລາຍຢ່າງ, ຕັ້ງແຕ່ບຸກຄົນສາທາລະນະຈົນເຖິງສິ່ງມີຊີວິດນອກໂລກ, ຄໍາຕອບທີ່ດີທີ່ສຸດທີ່ຂ້າພະເຈົ້າມີຕໍ່ຄໍາຖາມນີ້ແມ່ນມາຈາກຜົນງານຕະຫຼອດຊີວິດຂອງບລັອກເກີທີ່ບໍ່ເປີດເຜີຍຊື່ ຜູ້ທີ່ໃຊ້ຊື່ແຝງວ່າ "Amallulla". \cite{152}
+ຜົນງານຂອງເຂົາແມ່ນການລວມປະສົມປະສານຢ່າງກວ້າງຂວາງຂອງນັກຂຽນຫຼາຍກວ່າ 20 ຄົນ ແລະເອກະສານ “ທີ່ບໍ່ສາມາດຫາສິ່ງໃດມາແທນໄດ້” ກວ່າ 50 ສະບັບ ເຊິ່ງກວມເອົາຫົວຂໍ້ປະຫວັດສາດບູຮານ ແລະ ສະໄໝໃໝ່, ສັນຍະລັກລຶກລັບ, ແລະ ການເມືອງຕາເວັນຕົກ. \cite{33,34}. \cite{153}
+ຂ້າພະເຈົ້າສາມາດອະທິບາຍຜົນງານຂອງລາວວ່າ "ເປັນຄໍາທໍານາຍ" ກ່ຽວກັບໄພພິບັດທາງທໍລະນີຟີຊິກທີ່ກຳລັງຈະເກີດຂຶ້ນ — ມັນແມ່ນ \textit{ຢ່າງເຫັນໄດ້ຊັດ} ຄົບຖ້ວນສົມບູນກວ່າຂອງຂ້າພະເຈົ້າຫຼາຍ. \cite{154}
+Amallulla ໄດ້ລະບຸສາມກຸ່ມການເມືອງຂອງຝ່າຍຕາເວັນຕົກ, ເຊິ່ງລາວເອີ້ນລວມກັນວ່າ "ລູກຫລານຂອງ Jove", ຜູ້ທີ່ມີຄວາມຮູ້ກ່ຽວກັບ "ວັນສິ້ນໂລກ" – ເຊິ່ງກໍຄືໄພພິບັດທີ່ເກີດຂຶ້ນຊ້ຳໆຂອງໂລກ. \cite{155}
+ລາວເຊື່ອວ່າສາມກຸ່ມນີ້ຮ່ວມກັນຄວບຄຸມປະເທດຊາດຝ່າຍຕາເວັນຕົກໃນປັດຈຸບັນ, ແຕ່ໄດ້ແບ່ງພວກເຂົາອອກເປັນສາມກຸ່ມທີ່ແຕກຕ່າງກັນໂດຍອີງໃສ່ຕົ້ນກຳເນີດ ແລະ ເອກະລັກທາງປະຫວັດສາດທີ່ແຕກຕ່າງກັນ, ຄວາມຂັດແຍ້ງທີ່ອາດຈະເຄີຍເກີດຂຶ້ນໃນອະດີດ, ແລະ ຄວາມແຕກຕ່າງທີ່ຮັບຮູ້ໄດ້ໃນລະບົບຄ່ານິຍົມ ແລະ ການກະທຳຂອງພວກເຂົາ. \cite{156}
+ສາມກຸ່ມດັ່ງກ່າວສາມາດຈັດປະເພດແບບຄາວໆໄດ້ດັ່ງນີ້:
 
 \begin{flushleft}
 \begin{enumerate}
-    \item \textbf{The Bankers}: The ancient Roman Elite, who turned into the Knights Templar and the Northern Jurisdiction of Freemasons in America.
-    \item \textbf{The Thinkers}: The Rosicrucians and the Southern American Freemasons.
-    \item \textbf{The Jesuits and Black Pope}: The faction of the progeny of Jove within the Roman Catholic Church.
+    \item \textbf{ນັກທະນາຄານ}: ຊົນຊັ້ນສູງໂຣມັນບູຮານ, ຜູ້ທີ່ກາຍມາເປັນກຸ່ມອັດສະວິນວິຫານ (Knights Templar) ແລະ ຂອບເຂດອຳນາດພາກເໜືອຂອງ Freemasons ໃນອາເມຣິກາ. \cite{157}
+    \item \textbf{ນັກຄິດ}: Rosicrucians ແລະ Freemasons ອາເມຣິກັນພາກໃຕ້. \cite{158}
+    \item \textbf{The Jesuits and Black Pope}: ກຸ່ມຂອງລູກຫລານຂອງ Jove ພາຍໃນໂບດ Roman Catholic. \cite{159}
 \end{enumerate}
 \end{flushleft}
 
-Today, these three factions together comprise the European Illuminati, Freemasons, and CIA. As Amallulla described, \textit{"Right now, in the end-time, the progeny of Jove are well-hidden behind need-to-know clearances that exclude even the sitting President of the United States of America. In other words, they have perfected the art of hiding themselves from public scrutiny. \textbf{The progeny of Jove not only control the military and government of the United States of America, but through the power of fiat currency, major corporations, and the Republic form of government they invented (knowing the politicians would be easily corrupted and thereby controlled), they control the entire Western world}"} \cite{33,34}.
-
+ທຸກມື້ນີ້, ສາມກຸ່ມເຫຼົ່ານີ້ລວມກັນປະກອບເປັນກຸ່ມ European Illuminati, Freemasons, ແລະ CIA. \cite{160}
+ຕາມທີ່ Amallulla ໄດ້ພັນລະນາໄວ້, \textit{" ໃນຕອນນີ້, ໃນຍຸກສຸດທ້າຍ, ລູກຫລານຂອງ Jove ໄດ້ຖືກປິດບັງໄວ້ຢ່າງດີພາຍໃຕ້ລະບົບການອະນຸຍາດແບບ "need-to-know" ເຊິ່ງຍົກເວັ້ນທັງປະທານາທິບໍດີຄົນປັດຈຸບັນຂອງສະຫະລັດອາເມລິກາກໍຕາມ.  ເວົ້າອີກຢ່າງໜຶ່ງ, ເວົ້າອີກຢ່າງໜຶ່ງ, ພວກເຂົາໄດ້ພັດທະນາສິລະປະໃນການປິດບັງຕົວເອງຈາກການກວດສອບຂອງສາທາລະນະຊົນຢ່າງສົມບູນແບບແລ້ວ. \textbf{ລູກຫລານຂອງ Jove ບໍ່ພຽງແຕ່ຄວບຄຸມກອງທັບ ແລະ ລັດຖະບານຂອງສະຫະລັດອາເມລິກາເທົ່ານັ້ນ, ແຕ່ຍັງຜ່ານອຳນາດຂອງ ເງິນຕາທີ່ບໍ່ມີສິ່ງຄໍ້າປະກັນ, ບໍລິສັດໃຫຍ່ໆ, ແລະ ຮູບແບບການປົກຄອງແບບສາທາລະນະລັດທີ່ພວກເຂົາໄດ້ສ້າງຂຶ້ນມາ (ໂດຍຮູ້ວ່ານັກການເມືອງຈະຖືກສໍ້ລາດບັງຫຼວງໄດ້ຢ່າງງ່າຍ ແລະ ດ້ວຍເຫດນັ້ນຈຶ່ງຖືກຄວບຄຸມ.), ພວກເຂົາຄວບຄຸມໂລກຕາເວັນຕົກທັງໝົດ}"} \cite{33,34}. \cite{161}
 \begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{illuminati.jpg}
 \end{center}
-   \caption{Just who are the Progeny of Jove? (Image: \cite{35})}
+   \caption{ລູກຫລານຂອງ Jove ແມ່ນໃຜກັນແນ່?
+(Image: \cite{35}) \cite{162}}
 \label{fig:10}
 \label{fig:onecol}
 \end{figure}
@@ -303,44 +348,53 @@ Today, these three factions together comprise the European Illuminati, Freemason
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{pike.jpg}
 \end{center}
-   \caption{The famed Pike Peak batholith, highlighted in red, along with the landscape of the western United States \cite{36}. Could the United States of America really have been conceived in order to control this location?}
+   \caption{ແນວຫີນໃຕ້ດິນ Pike Peak (Pike Peak batholith) ທີ່ມີຊື່ສຽງ, ທີ່ຖືກເນັ້ນເປັນສີແດງ, ພ້ອມກັບພູມສັນຖານຂອງພາກຕາເວັນຕົກຂອງສະຫະລັດອາເມລິກາ. \cite{36}.
+ສະຫະລັດອາເມຣິກາ ອາດຖືກສ້າງຕັ້ງຂຶ້ນເພື່ອຄວບຄຸມສະຖານທີ່ແຫ່ງນີ້ແທ້ບໍ່? \cite{163}}
 \label{fig:11}
 \label{fig:onecol}
 \end{figure}
 
-According to Amallulla, these people scorn religion, manipulate sacred books in the world's major religions to their benefit, and use symbolism heavily. Additionally, they are merciless when it comes to their enemies: \textit{"\textbf{Over a period of more than 2,600 years, they have systematically eliminated anyone else who possessed specific knowledge of the end times. And by this, I do not mean to say only the druids, Jewish kabbalists, ancient Egyptians, Arabs, and Indian mystics, but the Elongated Skulls in South America and the Maya priests in Central America, too. And the evidence that they annihilated a once-thriving population in North America in order to preserve this as The Land of the End Times is positively overwhelming. The genocide of American “Indians” was merely a mopping-up operation}"} \cite{33,34}.
+ອີງຕາມ Amallulla, ຄົນເຫຼົ່ານີ້ດູໝິ່ນສາສະໜາ, ປັບປ່ຽນໜັງສືສັກສິດໃນສາສະໜາຫຼັກໆຂອງໂລກເພື່ອຜົນປະໂຫຍດຂອງພວກເຂົາ, ແລະ ໃຊ້ສັນຍາລັກຢ່າງຫຼວງຫຼາຍ. \cite{164}
+ນອກຈາກນັ້ນ, ພວກເຂົາກໍໂຫດຮ້າຍເມື່ອເວົ້າເຖິງສັດຕູຂອງພວກເຂົາ: \textit{"\textbf{ຕະຫຼອດໄລຍະເວລາຫຼາຍກວ່າ 2,600 ປີ, ພວກເຂົາໄດ້ກຳຈັດຜູ້ອື່ນໆທີ່ມີຄວາມຮູ້ສະເພາະກ່ຽວກັບວັນສິ້ນໂລກຢ່າງເປັນລະບົບ. ແລະໂດຍສິ່ງນີ້, ຂ້າພະເຈົ້າບໍ່ໄດ້ໝາຍເຖິງພຽງແຕ່ຊາວ Druids, ນັກຄິດ Kabbalah ຊາວຢິວ, ຊາວອີຢິບບູຮານ, ຊາວອາຣັບ, ແລະ ຜູ້ນິຍົມລັດທິລັບຂອງອິນເດຍເທົ່ານັ້ນ, ແຕ່ຍັງລວມເຖິງພວກກະໂຫຼກຫົວທີ່ຍາວ (Elongated Skulls) ໃນອາເມລິກາໃຕ້ ແລະ ພວກນັກບວດ Maya ໃນອາເມລິກາກາງອີກດ້ວຍ. ແລະຫຼັກຖານທີ່ວ່າພວກເຂົາໄດ້ທຳລາຍລ້າງປະຊາກອນທີ່ເຄີຍຈະເລີນຮຸ່ງເຮືອງໃນອາເມລິກາເໜືອ ເພື່ອຮັກສາດິນແດນແຫ່ງຍຸກສຸດທ້າຍນັ້ນແມ່ນມີຢ່າງຫຼວງຫຼາຍ. ການຂ້າລ້າງເຜົ່າພັນ "ຊາວອິນເດຍ" ອາເມຣິກັນ ແມ່ນ \cite{165} ເປັນພຽງແຕ່ການປະຕິບັດງານກວາດລ້າງເທົ່ານັ້ນ}"} \cite{33,34}.
 
-Amallulla also believed that the entire "United States of America" project was carried out for the purpose of securing control of the "Pike's Peak Batholith", a granite mountain range in the Rocky Mountains that offers excellent protection from a geophysical disaster (Figure \ref{fig:11}). According to Amallulla, \textit{"Before, during, and after what we think of as the Civil War, the bankers and thinkers have battled not so much for the control of The United States of America, but for Pikes Peak batholith, which is one of the most unique granite batholiths in the whole world... There is no other granite batholith at such a high altitude and so far from an ocean shore anywhere else in the world. It is the ideal location for surviving an Earth crustal displacement"} \cite{33,34}. Amallulla's research revealed that there is an extensive underground tunnel system built under and around this area today \cite{36}.
+Amallulla ຍັງເຊື່ອວ່າ ໂຄງການ "ສະຫະລັດອາເມຣິກາ" ທັງໝົດແມ່ນຖືກດໍາເນີນເພື່ອຈຸດປະສົງໃນການຮັບປະກັນການຄວບຄຸມ "Pike's Peak Batholith" ເຊິ່ງເປັນທິວເຂົາຫີນແກຼນິດໃນເຂດພູ Rocky Mountains ທີ່ໃຫ້ການປ້ອງກັນທີ່ດີເລີດຈາກໄພພິບັດທາງທໍລະນີຟີຊິກ (Figure \ref{fig:11}). \cite{166}
+ອີງຕາມ Amallulla, \textit{"ກ່ອນ, ໃນລະຫວ່າງ, ແລະ ຫຼັງຈາກສິ່ງທີ່ພວກເຮົາຄິດວ່າເປັນສົງຄາມກາງເມືອງ, ບັນດານັກທະນາຄານ ແລະ ນັກຄິດໄດ້ຕໍ່ສູ້ກັນບໍ່ແມ່ນເພື່ອຄວບຄຸມສະຫະລັດອາເມຣິກາເທົ່ານັ້ນ, ແຕ່ເພື່ອຍາດແຍ່ງເອົາແນວຫີນໃຕ້ດິນ Pike Peak, ເຊິ່ງເປັນໜຶ່ງໃນບັນດາແຫຼ່ງຫີນແກຣນິດທີ່ເປັນເອກະລັກທີ່ສຸດໃນໂລກ... ບໍ່ມີແຫຼ່ງຫີນແກຼນິດອື່ນໃດທີ່ຕັ້ງຢູ່ສູງປານນີ້ ແລະ ຢູ່ໄກຈາກຝັ່ງມະຫາສະໝຸດປານນີ້ ຢູ່ບ່ອນໃດໃນໂລກອີກແລ້ວ. ມັນເປັນສະຖານທີ່ທີ່ເໝາະສົມທີ່ສຸດສຳລັບການລອດຊີວິດຈາກການເຄື່ອນຍ້າຍຂອງເປືອກໂລກ."} \cite{33,34}. \cite{167}
+ຜົນງານວິໄຈຂອງ Amallulla ໄດ້ເປີດເຜີຍວ່າ ປັດຈຸບັນມີລະບົບອຸໂມງໃຕ້ດິນຂະໜາດໃຫຍ່ທີ່ຖືກສ້າງຂຶ້ນພາຍໃຕ້ ແລະ ອ້ອມຮອບພື້ນທີ່ນີ້ \cite{36}. \cite{168}
+\section{ບົດສະຫຼຸບ}
 
-\section{Conclusion}
-
-In this paper I have detailed various testimonies that suggest Western elites have carefully preserved knowledge of Earth's recurring cataclysms for thousands of years, believe another one is imminent, have built extensive underground shelters to prepare for such an event, and are planning to take advantage of such an event politically and militarily to achieve world domination. I have mentioned clues as to how this was funded in America, as well as referenced the least far-fetched theory regarding the exact bloodlines that are running this show. For those who wish to know more, there is plenty of additional information I've left out that can be found by digging through the references.
-
-The strongest measurable data point pointing to an impending geophysical event is Earth's rapidly shifting geomagnetic field. This is measurable not only the accelerating movement of the magnetic north pole (Figure \ref{fig:13}) and the growing of the South Atlantic geomagnetic anomaly, but in the general accelerating weakening and distortion of the geomagnetic field over the last 400 years \cite{3}. Such scientific data is discussed at length in my first two ECDO papers, accessible on my website \cite{3}.
-
+ໃນເອກະສານສະບັບນີ້, ຂ້າພະເຈົ້າໄດ້ລົງລາຍລະອຽດບັນດາຄຳໃຫ້ການຕ່າງໆ ທີ່ຊີ້ໃຫ້ເຫັນວ່າ ຊົນຊັ້ນສູງຝ່າຍຕາເວັນຕົກໄດ້ຮັກສາຄວາມຮູ້ກ່ຽວກັບໄພພິບັດຂອງໂລກທີ່ເກີດຂຶ້ນຊ້ຳໆ ໄວ້ຢ່າງລະມັດລະວັງເປັນເວລາຫຼາຍພັນປີ, ເຊື່ອວ່າໄພພິບັດອີກຄັ້ງໜຶ່ງກຳລັງຈະເກີດຂຶ້ນ, ໄດ້ສ້າງທີ່ຫຼົບໄພໃຕ້ດິນຂະໜາດໃຫຍ່ ເພື່ອກະກຽມຮັບມືກັບເຫດການດັ່ງກ່າວ, ແລະ ກຳລັງວາງແຜນທີ່ຈະໃຊ້ປະໂຫຍດຈາກເຫດການດັ່ງກ່າວທາງດ້ານການເມືອງ ແລະ ທາງດ້ານການທະຫານ ເພື່ອບັນລຸການຄອບຄອງໂລກ. \cite{169}
+ຂ້າພະເຈົ້າໄດ້ກ່າວເຖິງຂໍ້ຄິດກ່ຽວກັບວິທີການສະໜອງທຶນໃນອາເມຣິກາ, ພ້ອມທັງໄດ້ອ້າງອີງເຖິງທິດສະດີທີ່ບໍ່ໄກເກີນຄວາມຈິງທີ່ສຸດ ກ່ຽວກັບສາຍເລືອດທີ່ແນ່ນອນທີ່ກຳລັງຄວບຄຸມເລື່ອງນີ້. \cite{170}
+ສຳລັບຜູ້ທີ່ຕ້ອງການຮູ້ເພີ່ມເຕີມ, ຍັງມີຂໍ້ມູນເພີ່ມເຕີມອີກຫຼວງຫຼາຍທີ່ຂ້າພະເຈົ້າບໍ່ໄດ້ກ່າວເຖິງ ເຊິ່ງສາມາດຄົ້ນພົບໄດ້ໂດຍການສຶກສາຈາກເອກະສານອ້າງອີງ. \cite{171}
+ຂໍ້ມູນທີ່ສາມາດວັດແທກໄດ້ຢ່າງຊັດເຈນທີ່ສຸດທີ່ຊີ້ໃຫ້ເຫັນເຖິງເຫດການທາງທໍລະນີຟີຊິກທີ່ກຳລັງຈະເກີດຂຶ້ນ ແມ່ນການປ່ຽນແປງຢ່າງວ່ອງໄວຂອງສະໜາມແມ່ເຫຼັກໂລກ. \cite{172}
+ສິ່ງນີ້ສາມາດວັດແທກໄດ້ບໍ່ພຽງແຕ່ຈາກການເຄື່ອນທີ່ຢ່າງວ່ອງໄວຂອງຂົ້ວແມ່ເຫຼັກເໜືອເທົ່ານັ້ນ (Figure \ref{fig:13}) ແລະ ການເພິ່ມຂື້ນຂອງຄວາມຜິດປົກກະຕິຂອງສະໜາມແມ່ເຫຼັກໂລກຢູ່ມະຫາສະໝຸດອັດລັງຕິກໃຕ້, ແຕ່ຍັງສາມາດວັດແທກໄດ້ຈາກການອ່ອນແອລົງ ແລະ ການບິດເບືອນຂອງສະໜາມແມ່ເຫຼັກໂລກເລັ່ງຕົວຂຶ້ນໃນຊ່ວງ 400 ປີທີ່ຜ່ານມາ \cite{3}. \cite{173}
+ຂໍ້ມູນວິທະຍາສາດດັ່ງກ່າວໄດ້ຖືກປຶກສາຫາລືຢ່າງລະອຽດຢູ່ໃນເອກະສານ ECDO ສອງສະບັບທຳອິດຂອງຂ້າພະເຈົ້າ, ເຊິ່ງສາມາດເຂົ້າເຖິງໄດ້ໃນເວັບໄຊທ໌ຂອງຂ້າພະເຈົ້າ \cite{3}. \cite{174}
 \begin{figure}[t]
 \begin{center}
 % \fbox{\rule{0pt}{2in} \rule{0.9\linewidth}{0pt}}
    \includegraphics[width=1\linewidth]{npw.jpg}
 \end{center}
-   \caption{The position of the geomagnetic north pole from 1590 to 2025, depicted in 5-year increments \cite{41}. Its movement began to accelerate rapidly in 1975.}
+   \caption{ຕໍາແໜ່ງຂອງຂົ້ວແມ່ເຫຼັກໂລກເໜືອ ແຕ່ປີ 1590 ຫາ 2025, ສະແດງໃຫ້ເຫັນໃນແຕ່ລະ 5 ປີ \cite{41}.
+ການເຄື່ອນທີ່ຂອງມັນໄດ້ເລີ່ມເລັ່ງຕົວຢ່າງວ່ອງໄວໃນປີ 1975. \cite{175}}
 \label{fig:13}
 \label{fig:onecol}
 \end{figure}
 
-In closing, I will leave you with this quote from the prophetic Amallulla, explaining how \textit{"\textbf{everything is one thing}"}: \textit{"Here I must of necessity push your imagination to the uttermost boundaries. You must forget about the world in which you now live and have known since childhood. Leave it behind you. It is an entirely fabricated reality not unlike the one portrayed in the Matrix movie and intended to keep you asleep until the last moment. Sometimes I wish I were writing a script for a movie, but what I am sharing with you on this website is real. It took me over half a decade to realize “Everything is one thing,” which I quickly adopted as the motto for An Apocalyptic Synthesis. This is a difficult concept to convey. For now, let us think in terms of the Matrix movie. It is a good analogy. What I find difficult to convey is that what I am about to say is not an exaggeration. For now, the Matrix movie analogy is as close as I can come to make you understand the stark reality of what I am about to say. \textbf{Everything in your life, including all of recorded history, mainstream, consensus science and academia, politics, religion, everything in one way or another is about the coming Earth crustal displacement or axial tilt.} You just don’t see it right now. Nor can you awaken to this reality as if from a bad dream. It takes time. But I promise you, the end of this road is the realization that you have been living in the equivalent of the Matrix computer-simulated reality your entire life"} \cite{33,34}.
+ສະຫຼຸບທ້າຍນີ້, ຂ້າພະເຈົ້າຂໍຝາກຄຳເວົ້າຂອງ Amallulla ຜູ້ພະຍາກອນຄົນນີ້ໄວ້, ເຊິ່ງອະທິບາຍວ່າ \textit{"\textbf{ທຸກສິ່ງທຸກຢ່າງແມ່ນສິ່ງດຽວກັນ}"}: \textit{"ໃນທີ່ນີ້, ຂ້າພະເຈົ້າຈຳເປັນຕ້ອງຜັກດັນຈິນຕະນາການຂອງເຈົ້າໃຫ້ໄປສູ່ຂີດຈຳກັດທີ່ສຸດ. ທ່ານຕ້ອງລືມໂລກທີ່ທ່ານອາໄສຢູ່ ແລະ ໄດ້ຮູ້ຈັກມານັບຕັ້ງແຕ່ເດັກນ້ອຍ. ຖິ້ມມັນໄວ້ເບື້ອງຫຼັງຂອງທ່ານ. ມັນເປັນຄວາມຈິງທີ່ຖືກສ້າງຂຶ້ນທັງໝົດ ບໍ່ຕ່າງຫຍັງກັບສິ່ງທີ່ສະແດງຢູ່ໃນຮູບເງົາ The Matrix ແລະ ມີຈຸດປະສົງເພື່ອໃຫ້ທ່ານນອນຫຼັບຈົນເຖິງວິນາທີສຸດທ້າຍ. ບາງຄັ້ງຂ້າພະເຈົ້າກໍຄິດວ່າຂ້າພະເຈົ້າກໍາລັງຂຽນບົດໜັງ, ແຕ່ສິ່ງທີ່ຂ້າພະເຈົ້າກໍາລັງແບ່ງປັນກັບ \cite{176} ທ່ານຢູ່ໃນເວັບໄຊທ໌ນີ້ແມ່ນຄວາມຈິງ. ມັນໃຊ້ເວລາຂ້າພະເຈົ້າຫຼາຍກວ່າເຄິ່ງທົດສະວັດ ເພື່ອທີ່ຈະຮັບຮູ້ວ່າ “ທຸກສິ່ງທຸກຢ່າງແມ່ນສິ່ງດຽວກັນ“, ເຊິ່ງຂ້າພະເຈົ້າໄດ້ນຳໃຊ້ຢ່າງວ່ອງໄວ ເປັນຄໍາຂວັນສໍາລັບ An Apocalyptic Synthesis. ນີ້​ແມ່ນ​ແນວ​ຄິດ​ທີ່​ຍາກ​ທີ່​ຈະ​ສື່​ສານ​ໃຫ້​ເຂົ້າ​ໃຈ. ສຳລັບຕອນນີ້, ຂໍໃຫ້ເຮົາມາຄິດເຖິງພາບໃນຮູບເງົາ The Matrix. ມັນເປັນການປຽບທຽບທີ່ດີ. ສິ່ງທີ່ຂ້າພະເຈົ້າຮູ້ສຶກວ່າສື່ສານຍາກ ຄືສິ່ງທີ່ຂ້າພະເຈົ້າກໍາລັງຈະເວົ້າຕໍ່ໄປນີ້ບໍ່ແມ່ນການເວົ້າເກີນຈິງ. \cite{177}
+ສຳລັບຕອນນີ້, ການປຽບທຽບກັບຮູບເງົາ The Matrix ແມ່ນໃກ້ຄຽງທີ່ສຸດເທົ່າທີ່ຂ້າພະເຈົ້າສາມາດເຮັດໄດ້ ເພື່ອເຮັດໃຫ້ທ່ານເຂົ້າໃຈຄວາມເປັນຈິງອັນແທ້ຈິງຂອງສິ່ງທີ່ຂ້າພະເຈົ້າກຳລັງຈະເວົ້າ. \cite{178}
+\textbf{ທຸກສິ່ງໃນຊີວິດຂອງທ່ານ, ລວມທັງປະຫວັດສາດທີ່ຖືກບັນທຶກໄວ້ທັງໝົດ, ວິທະຍາສາດກະແສຫຼັກ, ວິທະຍາສາດທີ່ໄດ້ຮັບການຍອມຮັບ ແລະ ວິຊາການ, ການເມືອງ, ສາສະໜາ, ທຸກສິ່ງທຸກຢ່າງໃນທາງໃດທາງໜຶ່ງ ແມ່ນກ່ຽວກັບການເຄື່ອນຍ້າຍຂອງເປືອກໂລກ ຫຼື ການປ່ຽນແປງແກນໂລກທີ່ຈະມາເຖິງ.} ທ່ານພຽງແຕ່ຍັງບໍ່ເຫັນມັນໃນຕອນນີ້. \cite{179}
+ທ່ານກໍບໍ່ສາມາດຕື່ນຂຶ້ນສູ່ຄວາມເປັນຈິງນີ້ໄດ້ ເໝືອນກັບການຕື່ນຈາກຝັນຮ້າຍ. ມັນຕ້ອງໃຊ້ເວລາ. \cite{180}
+ແຕ່ຂ້າພະເຈົ້າສັນຍາກັບທ່ານ, ປາຍທາງຂອງເສັ້ນທາງສາຍນີ້ຄືການຮັບຮູ້ວ່າທ່ານໄດ້ດໍາລົງຊີວິດຢູ່ໃນໂລກທີ່ຄ້າຍຄືກັບຄວາມເປັນຈິງທີ່ຈຳລອງດ້ວຍຄອມພິວເຕີໃນຮູບເງົາ The Matrix ຕະຫຼອດຊີວິດຂອງທ່ານ"} \cite{33,34}.
 
-Good luck to all.
+ຂໍໃຫ້ທຸກຄົນໂຊກດີ.
+\section{ຄຳຂອບໃຈ}
 
-\section{Acknowledgments}
-
-Thanks to all the individuals who chose to contribute knowledge to the public domain. Without you, this work wouldn't be possible and humanity would continue to be in the dark. Your choices will blossom in eternity. We owe you everything, and I am infinitely grateful.
+ຂອບໃຈທຸກໆບຸກຄົນທີ່ເລືອກປະກອບສ່ວນຄວາມຮູ້ສູ່ສາທາລະນະ. ຫາກປາດສະຈາກພວກທ່ານແລ້ວ, ຜົນງານນີ້ກໍຈະບໍ່ສາມາດເປັນໄປໄດ້ ແລະ ມະນຸດຊາດກໍຈະຍັງຄົງຢູ່ໃນຄວາມມືດມົນຕໍ່ໄປ. ການເລືອກຂອງທ່ານຈະເບັ່ງບານຕະຫຼອດໄປ. ພວກຂ້າພະເຈົ້າເປັນໜີ້ບຸນຄຸນທ່ານທຸກສິ່ງທຸກຢ່າງ, ແລະ ຂ້າພະເຈົ້າຮູ້ສຶກຂອບໃຈຢ່າງບໍ່ມີທີ່ສິ້ນສຸດ.
 
 \clearpage
 \twocolumn
 
 {\small
-\renewcommand{\refname}{References}
+% \renewcommand{\refname}{References}
 \bibliographystyle{ieee}
 \bibliography{egbib}
 }
