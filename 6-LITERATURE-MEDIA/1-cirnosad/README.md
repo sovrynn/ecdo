@@ -18,7 +18,7 @@ https://x.com/cirnosad/status/1659806111296536576
 phys 1
 https://x.com/cirnosad/status/1659183755406491651
 
-## list of nuke usage found by scraping through his feed
+## list of nuke usage found by scraping through his feed (videos and snips in this folder)
 
 tartous, dec 2024
 
@@ -78,9 +78,9 @@ shape of the cloud
 
 ## thread of nuclear explosions
 
-uncitable https://x.com/e6977417785219/status/1880931630669529254
+unciteable https://x.com/e6977417785219/status/1880931630669529254
 
-there are many other accounts reporting on this
+there are many other accounts reporting on this such as https://x.com/stellarman22
 
 ## research paper on nukes
 
