@@ -1,5 +1,25 @@
 # Europe Ancient Flood Myths
 
+## kataklysmos and ekpyrosis
+
+Within the ancient mythologies of the world, we see a recurring theme of the destruction of the world, by flood (kataklysmos) and fire (ekpyrosis).
+
+I recall many years ago reading something about how each cycle alternates between destruction by flood or by fire, with it being said that Atlantis was destroyed by flood and Lemuria before it destroyed by fire, and thus our cycle will end in fire. If memory serves, that was from some Theosophical writing, which I always take with a grain of salt, but I was young and it gripped my imagination at the time.
+
+In ancient astrology, one comes across the Thema Mundi, sometimes translated as the nativity of the cosmos or the nativity of God. In other words, a birth chart of the universe. The Thema Mundi places Cancer on the ascendant and it's a common question as to why that is. What sort of significance did it have? I love questions like that, but they usually take me down a rabbit hole and such was the case here.
+
+I came across Berossus, a Babylonian priest and astrologer, who said that when all planets are aligned in Cancer, the world will be destroyed by fire, and when all are aligned in Capricorn, the world will be destroyed by flood. There are many concepts of what is known as the Great Year in ancient texts, sometimes called by other names, and it is this Great Year in which these disasters are said to occur. The criteria for this varies a bit from source to source and I won't go into all the variations here.
+
+The main theme is that the Great Year is marked by cosmic disruptions. If we consider that the material universe is a reflection of the metaphysical, the floods and fires are then a reflection of some kind of disturbance in the realm of the gods. 
+
+In a paper called "A Possible Babylonian Precursor to the Theory of ekpyrosis" by Van der Sluijs, there is a discussion of the story of Marduk, the supreme god, who temporarily vacates his celestial throne and it is usurped by the wrathful and rebellious Erra. Marduk reminds Erra the the stability of the country is dependent upon Marduk remaining on the throne and says that disasters will occur otherwise, which, of course, they do. (It will probably not be lost on any viewers of the Revolt series the parallel that this draws to the idea of the regal and divine king upon whom the stability of his country depends.)
+
+This indicates to us that the flood and fire in the cosmic winter and cosmic summer are indicative of a heavenly disturbance of some kind and we do find elsewhere in other texts references to the stars shifting position, falling, shaking, or otherwise moving from their assigned places and orbits. Perhaps the planetary alignments referred to are not part of any natural cycle but a "shaking up" of the heavens caused by a chaotic element gaining the upper hand in some kind of celestial battle.
+
+Many conclusions could be drawn from this and the ancient texts are littered with rich symbolism to give your imagination a workout.
+
+https://www.astrologicat.com/blog/by-fire-and-flood
+
 ## Minoan civilization, Crete, 1750 BC
 
 The Minoan civilization, which existed on Crete and other islands in the Mediterranean, seems to have ended without clear traces of invasion or other remnants. It is suspected that natural disasters, more extreme than a simple earthquake, were the cause of the downfall of Minoan civilization.
