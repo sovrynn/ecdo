@@ -2,6 +2,14 @@
 
 Twitter geopolitical analyst who is very knowledgeable on nukes. @cirnosad
 
+Several snips in here from hans Benjamin braun as well
+
+and chris busby
+
+and some other anon twitter accounts
+
+## Notes
+
 search list:
 nuclear
 nuclear port

@@ -4,6 +4,12 @@ An insider-adjacent anecdote about government and military preparation for a big
 
 https://youtu.be/rw4z-rSwNjY?t=1455
 
+# Executive 3 sources
+
+1: Basic overview by Bill Ryan: https://projectavalon.net/lang/en/anglo_saxon_mission_en.html
+2. Letter from the source: https://projectcamelotportal.com/2010/03/19/the-anglo-saxon-mission-timeline-letter-3/
+3. Interview transcript: https://projectcamelotportal.com/2010/01/22/the-anglo-saxon-mission-witness-interview-transcript/
+
 # Sources
 
 ET = extraterrestrial.

@@ -68,7 +68,7 @@ australia.txt:
 - Andingari (South Australia), Australia  : The hinterland http://www.talkorigins.org/faqs/flood-myths.html#WestAustralia
 - Victoria, Australia  : Point Macleay http://www.talkorigins.org/faqs/flood-myths.html#Narrinyeri
 - Lake Tyres (Victoria), Australia  : tall tree on a mountain http://www.talkorigins.org/faqs/flood-myths.html#Victoria
-- Southeast Australian, Australia  : mud island http://www.talkorigins.org/faqs/flood-myths.html#Kurnai
+- Southeast Australian, Australia  : mud island near Port Albert http://www.talkorigins.org/faqs/flood-myths.html#Kurnai
 - Maori, New Zealand, Australia  : Blue Mountain http://www.talkorigins.org/faqs/flood-myths.html#SEAustralia
 - New Zealand, Australia  : high mountain http://www.talkorigins.org/faqs/flood-myths.html#Maori
 
