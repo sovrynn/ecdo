@@ -13,3 +13,5 @@ I check it every few days and the old man recently updated it with this:
 HIGHLY relevant to the pyramid paper in the chemistry topic.
 
 I was just yandex'ing graviflyer and came across http://rexresearch.com/chekurkov/chekurkov.html . Still trying to understand its principles of operation.
+
+This is the index: https://rexresearch1.com/

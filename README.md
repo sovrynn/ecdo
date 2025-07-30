@@ -3,6 +3,7 @@
 This repo is intended to be a thoughtbank for brainstorming the [ECDO thesis](https://theethicalskeptic.com/2024/05/23/master-exothermic-core-mantle-decoupling-dzhanibekov-oscillation-theory/), created by the [Ethical Skeptic](https://theethicalskeptic.com/), and all things related to it.
 
 NOTE: I have written 3 research papers synthesized from the information in this repo (Download [here](https://sovrynn.github.io)):
+- [ECDO Paper 4: Civilian’s Guide to ECDO Survival - Future Steps](https://sovrynn.github.io/ECDO4eng.pdf)
 - [ECDO Paper 3: Evidence of Present-Day Western Ruling Powers’ Preparation for an Imminent Geophysical Cataclysm](https://sovrynn.github.io/ECDO3eng.pdf)
 - [ECDO Data-Driven Primer Part 1/2: Current Understanding of the Exothermic Core-Mantle Decoupling Dzhanibekov Oscillation (ECDO) Theory](https://sovrynn.github.io/ECDO-part1-eng.pdf)
 - [ECDO Data-Driven Primer Part 2/2: Scientific and Historical Anomalies Best Explained by an ECDO Flip](https://sovrynn.github.io/ECDO-part2-eng.pdf)
