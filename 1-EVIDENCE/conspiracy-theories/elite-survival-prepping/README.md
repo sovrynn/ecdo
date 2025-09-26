@@ -2,6 +2,10 @@
 
 Evidence of elites preparing for... something.
 
+## China bunkers
+
+https://www.the-sun.com/news/9079210/worlds-deepest-bunker-million-people-armageddon-nukes/
+
 ## Bunker manufacturer location analysis
 
 There are quite a few bunker manufacturers in the world-if one could track where they are building that could provide some on the ground intel as to where the informed people are bolting out

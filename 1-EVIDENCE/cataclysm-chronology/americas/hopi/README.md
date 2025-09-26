@@ -1,5 +1,11 @@
 # Hopi
 
+## Hopi message to UN
+
+See minute 44 - the Earth may turn over if behavior is not corrected.
+
+https://www.youtube.com/watch?v=UOmqH9gRH3Q
+
 ## Genetic origins
 
 Interesting. Some Native American mtDNA haplogroups (e.g., A, B, C, D, and X) trace back to populations that migrated from Asia over 15,000 years ago. https://grahamhancock.com/davidga5/
