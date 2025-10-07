@@ -1,5 +1,9 @@
 # Sediment Deposits
 
+## Answers in Genesis
+
+Great read, Answers in Genesis: https://assets.answersresearchjournal.org/doc/v12/coconino_sandstone.pdf
+
 ## East Mediterranean Flood Deposits
 
 Another paper exploring mega tsunami evidence from cores across the eastern Med, with some special attention given to the wave that hit the north coast of Africa.
