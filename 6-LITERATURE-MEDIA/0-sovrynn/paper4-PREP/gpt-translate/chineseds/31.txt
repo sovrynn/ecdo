@@ -1,0 +1,5 @@
+地球的地磁场已被充分确立并测量。古地磁数据表明，在过去的2000年里，磁场的偶极矩一直在减弱 \cite{9}（图 \ref{fig:3}）。理论认为，地球内部旋转的岩浆柱产生了地磁场。至少可以明确的是，地球是一个巨大的磁体，而且它正在逐渐瓦解。
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{paleo.png}

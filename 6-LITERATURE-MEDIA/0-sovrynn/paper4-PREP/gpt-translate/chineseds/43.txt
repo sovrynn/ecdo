@@ -1,0 +1,5 @@
+\begin{center}
+   \includegraphics[width=1\linewidth]{lightning.jpg}
+\end{center}
+   \caption{一幅壮观的向上闪电抓拍图。没错，我们居住在一个巨大的带电旋转球体上。 \cite{22}}
+\label{fig:7}

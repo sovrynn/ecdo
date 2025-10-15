@@ -1,0 +1,4 @@
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=0.7\textwidth]{peaks.png}
+\end{center}

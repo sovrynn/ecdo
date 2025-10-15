@@ -1,0 +1,5 @@
+\includegraphics[width=1\textwidth]{tver.png}
+\end{center}
+   \caption{2024年特维尔爆炸事件的录像与1957年11千吨当量核试验（铅锤行动）的对比画面，展示了核爆引发的快速升腾蘑菇云（瑞利-泰勒不稳定性）\cite{24}。}
+   \label{fig:12}
+\end{figure*}

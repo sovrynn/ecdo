@@ -1,0 +1,1111 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% 自定义内容
+\usepackage{booktabs}
+% \usepackage{caption}
+% \captionsetup[table]{skip=8pt}   % 仅作用于表格
+\usepackage{stfloats}  % 将此加入导言区
+\usepackage{float}
+\usepackage{xeCJK}  % Supports Simplified & Traditional Chinese
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+% 在hyperref之前包含其他包。
+
+% 如果注释掉hyperref后又取消注释，应在重新运行latex前删除egpaper.aux文件。（或者在第一次运行latex时直接按'q'键）
+% 运行，让它完成，你应该就清楚了）。
+\usepackage[hyphens]{url}
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** 取消此行注释以用于最终提交
+\def\cvprPaperID{****} % *** 在此处输入CVPR论文ID
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\renewcommand{\figurename}{图}   % or whatever you like instead of "Hình"
+\renewcommand{\refname}{参考文献}
+\renewcommand{\tablename}{表}
+
+\makeatletter
+\def\abstract{%
+  \centerline{\large\bf 摘要}% <-- your new label
+  \vspace*{12pt}%
+  \it%
+}
+\makeatother
+
+% This makes the font slightly bigger than base (10) and bold in Subsection headings rather than using ptmb
+\makeatletter
+\def\cvprsubsection{%
+  \@startsection{subsection}{2}{\z@}%
+    {8pt plus 2pt minus 2pt}{6pt}%
+    % {\normalfont\bfseries\selectfont}%
+    {\normalfont\bfseries\fontsize{11}{13}\selectfont}%
+}
+\makeatother
+
+% So this hardcodes the style for the numbers in the section/subsection headings so they're bold
+\font\elvbf=ptmb scaled 1100
+\font\elvbfs=ptmb scaled 1200
+\makeatletter
+% Section number: Large + bold
+\renewcommand\thesection{%
+  {\elvbfs\arabic{section}}%
+}
+
+% Subsection number: normalsize + bold + custom punctuation
+\renewcommand\thesubsection{%
+  {\elvbf
+   \arabic{section}.\arabic{subsection}}%
+}
+\makeatother
+
+% 提交模式下页码编号，最终版中不编号
+%如果cvprfinal则设置页面样式为空\fi
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% 标题
+\title{ECDO 第四篇论文：平民应对 ECDO 的生存指南与未来对策}
+
+\author{Junho\\
+2025 年 7 月发表\\
+网站（在此下载论文）：\href{https://sovrynn.github.io}{sovrynn.github.io}\\
+ECDO 研究报告: \href{https://github.com/sovrynn/ecdo}{github.com/sovrynn/ecdo}\\
+{\tt\small junhobtc@proton.me}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+%%%%%%%%% 摘要
+\begin{abstract}
+2024 年5 月，一位化名为“The Ethical Skeptic”的网络作者\cite{0}分享了一项突破性的理论：放热性核幔解耦詹尼别科夫振荡（ECDO）\cite{1}。该理论指出，地球曾经历过突发的、灾难性的自转轴偏移，因地球自转惯性导致海水冲上陆地，引发全球性的大洪水。该理论还提出了一套解释性的地球地质机制理论，并给出数据，其中显示类似的地轴翻转可能即将发生。尽管类似的末日洪水预言屡见不鲜，但ECDO 理论却因融合了科学性、现代性、跨学科性且拥有基于数据的论证而显得格外引人注目。
+
+这篇论文是我在这个主题上的第四篇研究成果\cite{2,3}。本文在前三篇论文所讨论内容的基础上，为平民提供一份指南，说明如何为即将到来的 ECDO 灾变做出最有效的准备，要点包括：
+\begin{flushleft}
+\begin{enumerate}
+    \item 面对可能出现的各类现实层面的危险与风险，平民应如何做好充分准备；
+    \item 地缘政治局势变化以及现代化大规模人群控制武器所带来的潜在威胁；
+    \item 在 ECDO 灾变发生时，哪些地区最适合作为避难之地。
+\end{enumerate}
+\end{flushleft}
+本文假设读者已熟读本人此前的三篇论文\cite{3}，这三篇论文对 ECDO 理论的学术基础与政治背景进行了全面阐述。为求简洁，本文不再重复赘述或引用这些内容。
+
+本人针对该议题进行了为期一年的独立、深入且系统性的研究。本人基于研究成果提出一份权威的、以数据为基础的实用指南，帮助公众为可能即将发生的 ECDO 灾变做好充分准备。
+\end{abstract}
+%%%%%%%%% 正文部分
+\section{引言}
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{noah.jpg}
+\end{center}
+   \caption{对大洪水期间诺亚方舟的描绘。诺亚方舟故事可能只是一个寓言，但我们这一代人或许真的会亲历另一场类似的“洪水”。 \cite{2}}
+\label{fig:1}
+\label{fig:onecol}
+\end{figure}
+
+客观而言，ECDO 灾变所带来的实际危害可以概括如下：
+
+\begin{flushleft}
+\begin{enumerate}
+    \item 当地球表面发生翻转，海水将冲上海岸，淹没绝大部分陆地。
+    \item 地磁场减弱甚至失效，导致防护力缺失。
+    \item 地球表层相对于内部地层快速运动，引发构造运动与火山活动。
+    \item 地壳的快速移动在大气层中造成剧烈扰动，产生高速地表风与飞散的碎片。
+    \item 内部地层快速移动，引发大陆地电震击。
+\end{enumerate}
+\end{flushleft}
+
+我们将探讨如何采取基础措施来缓解上述危险。
+此外，ECDO 灾变还会带来重大的地缘政治风险。各国政府背后操控局势的权力集团试图利用这一混乱局面来削弱或消灭对手，并利用恐惧情绪与军事力量奴役民众。在这种情况下，平民可能成为无辜的牵连受害者，甚至成为主要攻击目标。这个问题将在本文中探讨。
+
+最后，本人根据多项指标和数据来源，整理了一份详尽的"Junho 推荐的安全地点"清单。
+\section{现实层面的危险}
+
+ECDO 灾变指的是地壳与地幔与地球内外核发生解耦，受旋转动力学影响，地表将迅速偏离原本的自转轴\cite{1}。本节将深入探讨这种灾变过程可能带来的五类现实风险，这些风险对人类生命构成威胁。本节还将结合历史事件提供相关证据以佐证这些风险的存在。请回顾本人第一篇论文中的表\ref{tab: 1}，该表对 117 个古代灾变传说中提及的各类灾难性地质现象进行了分类。此次还补充了一些此前未涵盖的灾变类别：
+
+\begin{table}[ht]
+\begin{center}
+\renewcommand{\arraystretch}{1.2}  % 可选，用于增加行间距
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{灾变类型} & \textbf{次数} & \textbf{发生率\%} \\
+\hline\hline
+洪水 / 大洪水            & 84 & 71.79 \\
+大火 / 火灾风暴          & 39 & 33.33 \\
+地貌剧变               & 29 & 24.79 \\
+雷鸣／巨响／轰鸣声         & 16 & 13.68 \\
+星辰错乱     & 15 & 12.82 \\
+天空坍塌           & 15 & 12.82 \\
+长期黑暗          & 14 & 11.97 \\
+陆地／湖泊消失    & 12 & 10.26 \\
+飞扬的碎片           & 11 & 9.4   \\
+强烈气旋风暴                  & 10 & 8.55  \\
+闪电                  & 10 & 8.55  \\
+天降陨石              & 9 & 7.7 \\
+地轴／自转改变         & 9 & 7.69  \\
+江河湖海沸腾  & 8 & 6.84 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{灾变在神话／传说中的出现频次 \cite{12}}
+\label{tab: 1}
+\end{table}
+
+\subsection{海洋大洪水}
+
+最直接、也最显著的威胁就是海洋大规模冲刷大陆地区的现象\cite{3}。这类灾变在众多古代洪水传说中均有记载，同时地球上绝大多数大陆表面存在的盐分和海洋化石也佐证了这点。卡夫拉金字塔上明显的海水侵蚀痕迹、阿拉伯半岛不断后退的古海岸线\cite{1}，以及中国古代“鲧禹治水”时期的长期洪灾传说，都暗示在 ECDO 灾变发生之后，地球的海岸线可能会出现暂时性变动，部分区域甚至可能长期处于水下。
+尤其值得注意的是，这些证据共同指向一个结论：海平面将在灾变中上升到\textit{极高}的位置。大量记载提到，海水曾上涨至数千米高的山顶，甚至淹没了喜马拉雅山脉，在评估风险时这类记载内容不应被忽视。
+
+洪水传说还暗示，海洋大洪水可能反复发生过多次。我在第一篇论文中曾提到过玛卡族（Makah)美洲原住民的洪水故事：\cite{3}\textit{“海水上涨，高到足以切断海角。随后海水退去，四天后达到最低潮，将尼亚湾（Neah Bay）完全暴露出来。接着海水再次上涨，几乎淹没山峰以下的所有地方。”}当地表翻转且尚未找到新的自转轴时，海洋势必将\textit{“翻腾不止”}。在这段过渡期内，由翻转引发的巨浪（即高至山顶的超级海啸）将在大陆与大陆之间不断往返冲击，席卷跨洋海岸线。
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{aquifer.jpg}
+\end{center}
+   \caption{美国科罗拉多州一处深层含水层（地下湖）的分布图。显然，塞内卡早已知晓这类地下水体的存在。}
+\label{fig:2}
+\label{fig:onecol}
+\end{figure}
+
+水的来源可能不仅来自海洋，也可能来自我们脚下的地下。关于这一点，间歇泉、含水层及水井所依赖的地下水位均能作为有力的佐证。理论上，地球内部所储藏的水量可能是地表水体的数倍\cite{4}，而在 ECDO 灾变发生时，这些深层水体极有可能大量涌出、直达地表。古罗马斯多葛派哲学家、与耶稣基督\cite{7}同时代的小卢修斯·安纳乌斯·塞内卡（Lucius Annaeus Seneca the Younger）在论述地球周期性灾变时曾写道\textit{“有人认为，在终极灾变来临时，大地亦将震颤，并通过裂缝释放出淡水河源，这些河流将从丰沛的源头喷涌而出，水量远超以往……离液化土壤越近的地方更容易被冲刷、溶解并最终被带走。岩层将处处龟裂，泉水将奔涌而下，汇聚成汪洋。届时，亚得里亚海将不复存在，西西里海峡也将消失，卡律布狄斯与斯库拉这些神话中的险境都将被新涌现的海洋所吞没。原本环绕地球边缘的海洋将向中心倒灌……整个人类将在一天之内被尽数埋葬。人类命运长河中所积累的一切——所有巍峨的文明丰碑，一切显赫与美好，伟大的王座与强盛的国度，都将坠入无底深渊，在一小时内倾覆消亡。切记，地球深处隐藏着巨大的湖泊、海量的咸水，以及许多在地底流淌的河流。因此，洪水的来源无所不在——有的水从地下流出，有的则环绕地球流动。它们长时间受到压制，但最终它们将突破束缚，彼此汇合，积水成泽。海洋将灌入每一处泉口，并将其冲刷得更为宽广。正如身体在虚脱中流失能量，或力量随汗水消散，大地也将因此崩解。即便没有其他外力影响，仅凭地球内部的水体，就足以引发沉没。所有强大的自然力量，终将联合爆发；而一旦世界放松了维持秩序，来自四面八方的、无论是可见的还是隐藏的、来自地上或地下的洪水，将会同时袭来”}。 \cite{8}
+最后需要指出的是，诸多洪水传说表明，在地球恢复稳定之前，全球可能经历连续多日、海水淹没山顶的极端洪灾。在这之后，海岸线可能会发生暂时性的改变，并维持 20 至 60 年（在中国和阿兹特克的传说中有所记载）\cite{5,6}，然后地貌与环境才会再次发生转变。
+
+\subsection{地磁场减弱——烈火之灾}
+地球的地磁场已经过充分确立并与测量。古地磁数据表明，过去 2000 年间，地磁偶极矩持续减弱\cite{9}（见图 \ref{fig:3}）。目前普遍认为，地球内部旋转的岩浆柱是地磁场的主要来源。即便忽略具体机制，有一点是明确的：地球本身就像一个巨大的磁体，它的磁场正在逐步崩解。
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{paleo.png}
+\end{center}
+   \caption{古地磁与考古地磁测量结果显示，过去 2000 年来，地球的地磁偶极矩持续减弱。越早期的数据越稀少，测量结果也相对有限。\cite{11}}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}
+地磁场不仅能保护地球免受宇宙尘埃和碎片的撞击，更关键的是，它能有效屏蔽来自太阳的大量带电粒子（见图\ref{fig:4}）。地球赤道区域由于长时间正对太阳，地表温度明显高于两极，这一现象清楚地让我们知道太阳向地球传递的巨大能量。
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{solargeo.jpg}
+\end{center}
+   \caption{太阳与地球地磁场相互作用的示意图\cite{10}.}
+\label{fig:4}
+\label{fig:onecol}
+\end{figure}
+
+我们有理由推测，当地球发生翻转时，地磁场将处于极度薄弱的状态。那么，在这种情况下，太阳释放出的高能粒子将可能对地球造成怎样的影响？或许，古代的灾变传说可以为我们提供一些线索。根据表格\ref{tab: 1}的数据来看，在所有的传说中，紧随洪水之后出现频率最高的是\textit{大火与火风暴}，占比达 33\%。许多文明对此均有记载，例如希腊神话中反复出现的两种毁灭形式——“kataklysmos”（洪水）与 “ekpyrosis”（烈焰）\cite{13}；阿兹特克神话中则提到“第三个太阳”时代最终被一场\textit{“火雨”}所终结\cite{14}。澳大利亚土著的传说尤为骇人，其中记载道：\textit{“野火将大河冲出河床”}。类似的口述历史也见于加州印第安人以及幼发拉底河流域的中东传统记载中。南澳原住民还讲述过一次“炽热无比的高温从天而降”的灾变。炽热的高温令人无法承受，男子们先是杀死了自己的孩子和妻子，最后也结束了自己的生命。\cite{15}
+
+\subsection{构造运动与火山活动}
+当地壳在短时间内发生快速位移，构造板块的活动很有可能带来严重的后果。在火灾之后，灾变传说中最常出现的现象便是“地形变化”（见表\ref{tab: 1}）。在此处，我特别引用一则来自南美安第斯山脉地区的神话，它描述了山体在洪水来袭时的隆起过程：\textit{“牧羊人与他的六个孩子带着所有的食物和羊群，逃到一座名为安卡斯马尔卡（Ancasmarca）的高山顶上。随着洪水上涨，整座山也随之升高，因此山顶始终未被淹没。后来，山体又随着洪水的退去而下沉”}\cite{17}。这类传说暗示，在地球发生翻转的过程中，我们很可能会经历板块及其边界的大规模运动，包括强烈的俯冲与造山运动。
+
+另一个必须考虑的因素是地球的赤道隆起。由于地球内部的塑性层在自转时，赤道区域的旋转速度最快，导致地球在赤道处略微鼓起，呈现出扁球体的形状（见图\ref{fig:5}）。这种隆起的\textit{扁球体}不仅存在于地表，也很可能延伸至地球的深层结构。当地球外层相对于内层发生快速位移时，不仅会引起赤道隆起部分的错位和剧烈调整，还会使塑性层逐渐适应并重新形成新的扁球体形态。
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{bulgecrop.png}
+\end{center}
+   \caption{地球赤道隆起示意图（附带部分额外说明）\cite{16}。}
+\label{fig:5}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=0.9\textwidth]{rotate2.png}
+\end{center}
+   \caption{6 小时、104 度旋转期间平均风速的具象化图示\cite{2}.}
+   \label{fig:6}
+\end{figure*}
+
+这种过程对火山活动也有重大影响。在大灾变传说中，多次提到热水甚至沸水（见表\ref{tab: 1}）。例如，一则来自中国台湾的洪水神话描述道：\textit{“地震时，群山崩塌，地面裂开，炽热的地下水喷涌而出，淹没了整个大地。”}\cite{17}中国的台湾省正处于亚太地区主要板块边界的交界处，这表明其周围水域很可能受到地下热源加热，暗示地球翻转过程将引发剧烈的火山活动。
+
+根据这些记载判断，我们很可能会在全球范围内看到构造运动与火山活动的集中爆发，其规模在近代人类历史上可能前所未有。
+\subsection{高速地表风}
+
+许多灾变故事中提到旋风和空中飞散的碎片（见表\ref{tab: 1}）。考虑到地球表面将在短时间内移动极远的距离，扰乱大气层，关于旋风和碎片的描述就显得合理了。加州美洲原住民的一个传说中描述道：\textit{“人们诞生并生活了很长很长的时间。有人梦见旋风，众人认为是不祥之兆。随后，风开始猛烈地刮起，世界变得异常。中午时分，大家都进了地穴避难。风暴非常猛烈，树木向西倒下。那个做梦的人站在外面，告诉其他人下雨了，水来了，地球将被毁灭。其他的房屋都被吹走了。他走进地穴，靠在柱子上。最终，柱子也被吹倒了。那个做梦的人成为最后一个被毁灭的人。”} \cite{17}图\ref{fig:6}展示了在最坏情况下，地球在 6 小时内旋转 104 度时的平均旋转速度，这一速度因地点和旋转角度不同而异。其速度远远超过声速。至少，我们能预计风速将达到近年来记录的最强飓风的水平，而这种风速已经足以对人造建筑物造成严重破坏。
+\subsection{大规模地电冲击}
+
+有证据表明，地球表面可能会经历源自地球内部的大规模地电冲击。手在毯子上摩擦产生的微弱静电，与雷电放电的本质相同，均源于电荷不平衡。那么，那么，如果本身就具有强磁性的地幔深层和地核发生解耦，并彼此发生旋转，会发生什么呢？
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{lightning.jpg}
+\end{center}
+   \caption{一张壮观的向上放射的闪电照片。没错，我们生活在一个巨大的旋转带点球体上。 \cite{22}}
+\label{fig:7}
+\label{fig:onecol}
+\end{figure}
+
+有多种考古证据表明，某些遗址经历过极高温度的熔融现象。一个典型例子是苏格兰的玻璃化古堡（见图\ref{fig:8}）。地质学家罗伯特·肖克（Robert Schoch）对此提出了自己的观点：\textit{“苏格兰约有 60 座古代石墙堡垒呈现玻璃化状态，即石块被熔融成类似玻璃的物质。考古学家至今尚未给出令人满意的解释……这些石墙和建筑曾遭受极高温度的炙烤，部分岩石甚至熔化并融合，形成类似冶炼金属时产生的矿渣物质，也与某些类型火山喷发时产生的物质相似……要使岩石熔融玻璃化，所需的温度极高，约在 1000 摄氏度左右……肖克认为，这些高海拔堡垒可能曾充当避雷针，吸引强烈的电流，从而导致玻璃化现象。尽管大多数苏格兰玻璃化古堡被定年于铁器时代，肖克认为它们存在的历史可能更加久，特别是马克特堡（Mote of Mark），他认为这个古堡被占据时间可追溯至公元前 8000 年至公元 9 世纪……是否至少有部分的玻璃化现象是由等离子体事件引起的？我认为是这样的，我也认为部分古堡的年代可追溯至 1 万年前或更早的时期，即上一次冰河时代结束后的时期，当时可能发生过重大等离子体事件，这一点或许可从硝酸盐数据中得到印证”} \cite{18,19}。在中东地区也发现了类似的遗址\cite{20,21}。
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{vitrified.jpeg}
+\end{center}
+   \caption{苏格兰一座玻璃化古堡\cite{51,52}.}
+\label{fig:8}
+\label{fig:onecol}
+\end{figure}
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{sendai.png}
+\end{center}
+   \caption{2022 年日本仙台发生 7.3 级地震时观测到的“地震光”实例\cite{48}.}
+\label{fig:9}
+\label{fig:onecol}
+\end{figure}
+
+有研究表明，地震能够引发电流和大气电磁辐射现象\cite{49,50}。秘鲁研究员安东尼奥·利拉（Antonio Lira）和豪尔赫·A·赫劳德（Jorge A. Heraud）对此的论述是：\textit{“大气中的电磁辐射通常与云层与地表之间的电荷加速有关。雷电是自然界中最为人知的电磁辐射现象，它出现于雷暴天气中。我们不禁要问：是否有可能在大气中出现来自地球内部的电磁辐射——比如闪光？答案是肯定的……电磁辐射就是由地震引发的次级大气现象。”} \cite{50}图\ref{fig:9}展示的地震光现象正是此类电磁辐射的表现形式。鉴于此，我们不得不思考，若地球外层旋转体发生前所未有的大规模构造活动剧变，会产生什么影响。
+\section{一个基本且原始的准备方法}
+
+本质上，为了在ECDO中生存下来，必须为之前讨论过的所有风险同时发生做好准备。以下是一些基本指导原则：要想在 ECDO 灾变中生存下来，必须同时针对前文提及的多种风险做好准备。以下是一些基本的行动指南：
+
+\begin{flushleft}
+\begin{enumerate}
+    \item 为避免被洪水淹没，应选择海拔高于周围地形的地点，以确保水流能绕开你所处的地点，而不会淹没它。结合对各类洪水传说的分析，建议实际隆起度（详见下文定义）不低于 2000 米。距离海岸较远的位置通常比沿海地区更为安全，在这些地点可适当降低对海拔高度的要求。
+    \item 为防范火灾、强风及飞扬的碎片伤害，应建造地下避难所，最好选址于基岩层以避免土壤液化风险；如条件允许，天然洞穴亦可作为替代方案。
+    \item 远离重要的板块边界，以减少因构造剧烈运动或地震带来的危险。
+    \item 个人建议避免在火山体内挖掘避难所。
+    \item 由于高海拔山峰电击发生频率更高，应在地下避难所周围或内部建造法拉第笼（见图\ref{fig:10}），以引导电流。
+\end{enumerate}
+\end{flushleft}
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{faraday.jpg}
+\end{center}
+   \caption{法拉第笼可以保护其内部的人员或设备免受外界电流的影响\cite{54}。}
+\label{fig:10}
+\label{fig:onecol}
+\end{figure}
+
+有许多关于人们靠漂浮物求生、乘船或爬到树上而在洪水中幸存的故事，但我并不建议依靠这类“刺激”的方式自保。在选择避难地点时，建议使用 Google Earth Pro 扫描地形，寻找具有较高地形隆起度的区域（使用鼠标滚轮点击可轻松浏览）。此外，你还应评估该区域的地质层，确保你选择的地点不存在大量沉积层或明显的地层缺失。
+\subsection{地形隆起度——躲避洪水的最佳指标}
+
+地形隆起度是指某座山峰相对于其周边地形的高度差，具体来说，这是指一个人从该山峰下降到最低点再重新攀升至更高山峰时该山峰与最低点的高度差（如图 X 所示）。之所以推荐以地形隆起度而非绝对海拔作为防洪安全的主要参考，是因为地球表面极为平坦。若将地球的海洋比作一个最深约 6 英尺的水洼，那么地表的最高处可能也只有约 4 至 5 英尺高（相对而言）。更重要的是，该水洼的长度和宽度大约为\textbf{18,000 英尺}。在这种纵深比之下，如果水量充足，那么几乎没有哪处的绝对高度是安全的。这一点从安第斯山脉和喜马拉雅山脉中大量的盐矿沉积得以证明，它们分别是全球两个最高海拔的地区。
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{prominence.jpeg}
+\end{center}
+   \caption{地形隆起度（“p”）的具象化示意图 \cite{53}.}
+\label{fig:11}
+\label{fig:onecol}
+\end{figure}
+
+比起绝对海拔，与周边地形的高度差（也就是地形隆起度）更重要。这样即便有洪水流经该区域，水流也有充足的空间绕过高地，不至于将其淹没。比如，位于沿海、隆起度较高的山峰往往比喜马拉雅群山中海拔虽高但隆起度较低的山谷更加安全。最后，补充几点说明：
+\begin{flushleft}
+\begin{enumerate}
+    \item 地形隆起度是一项具有明确定义的地形指标，因此只能作为近似指标使用。例如，一些地势显著隆起的高原或丘陵地形，因不具“山峰”特征，往往未被当作地势安全的区域而被列入考量。换言之，学术定义下的精准地形隆起度数值可能会低估某些区域在实际防洪或选址时的重要地势优势。
+    \item 对于被水体包围的陆地，通常应将周围水体的深度纳入地形隆起度的考量中。
+    \item 地形隆起度仅是一项指标——水体在不同地貌上的作用方式各不相同。因此，如果想得到最具权威性的预测结果，应使用高精度的多物质流体模拟模型，它能够针对世界各地的地形具体模拟水流的动态行为。然而，进行此类流体模拟所需要的计算能力极为庞大。
+    \item 另一种可行的替代方案是生成一张基于相对高程的自定义地形图，其概念与地形隆起度类似。
+\end{enumerate}
+\end{flushleft}
+
+\subsection{翻转后地球物理变化的基本发展时间线}
+当地球翻转发生时，建议至少连续待在避难所中一周，直到地球外层旋转体重新找到新的自转轴为止。随后，大部分大陆陆地将被夷为平地、被沉积物掩埋或被水淹没。人类所建造的几乎所有东西都将消失。地表低洼的盆地可能仍会有大量滞留水体。由于太平洋从赤道隆起部位被挤移，我预计“海平面”平均高度将高于当前水平。气候将被扰乱数十年，温度也可能发生显著变化，具体取决于你所处的新位置与赤道的距离——例如，如果你最终选择待在极地，可能会因严寒而丧命。这个过渡期预计将持续数十年。最终，造成地核解耦的放热过程会转变为吸热过程，地球可能逐渐恢复到之前的状态，并在此过程中显著降温。
+
+本文结尾部分提供了一份较为全面的安全山峰清单，主要依据洪水神话及山峰的地形隆起度进行整理与筛选。
+\section{地缘政治与大规模杀伤性武器风险}
+
+除了地球物理风险之外，人类还必须面对地缘政治问题。某些个人或团体可能计划使用现代化的、针对大众的大规模杀伤性控制武器来消灭敌对势力、让民众保持恐惧或虚弱，从而维持“权力”。事实上，尤其在西方世界，我们很难了解那些未经过选举却通过操控政府来影响大众的幕后操纵者们的背后的动机和意图。特别值得警惕的是，近年来出台的某些政策决策（例如以“善意的医疗措施”为名广泛推广的 mRNA 疫苗），实则可能是一种大规模杀伤性生物武器，这一趋势引发了对未来潜在威胁的高度关注与担忧。需要警醒的是，如果真正意义上的“非接触式战争”来临，仅仅关注自身安全可能是不够的，很难维护个体的主权完整。由于这一话题十分广泛，且在 ECDO 议题之外也已被广泛讨论，本文将尝试在准确性、全面性和简洁性之间取得平衡，在保持与 ECDO 主题相关性的前提下，探讨潜在的军事武器风险。
+
+\subsection{“第三次世界大战”}
+在我的第三篇论文中，曾提及一位英国高级共济会会员的举报证词，该证词由 Project Camelot 发布，披露了 2005 年在伦敦举行的高级共济会会议内容。据称，与会的西方高级人物计划发动一场小范围的核冲突，目标锁定伊朗与中国，随后释放生物武器。Project Camelot 指出：\textit{“这仅仅是开始。其后将引发一场全面的核战争——真正的战争，造成大范围的破坏与人员伤亡。我们的消息来源称，与会者明确提到计划通过这些手段使得全球人口减少 50\%。\textbf{他亲耳听闻会议中明确提及这一数字。}"}\cite{23}其根本动机显然在于铲除以中国为首的对手，以确保在即将到来的地球物理灾难之后，不再存在军事力量上能与之抗衡的竞争者。如今，乌克兰与中东地区已爆发大规模冲突，战场上很可能会出现战术核武器。此外，披上“mRNA 疫苗”伪装的生物武器亦已在全球范围内部署，造成大量人员受伤、不育甚至死亡。尽管距离那场会议已有二十年之久，世界格局已然发生剧变，但我们仍不得不思考：当年会议所定下的核心目标与总体计划，是否依然在推进之中——包括发起\textbf{“非接触式”核战争来削减 50\% 的人口}。我可以明确地告诉你，正在阅读这段话的你很可能并不会成为那场以\textbf{核战削减 50\% 人口的计划}的“受益者”。
+
+\subsection{近期在乌克兰与中东地区的战术核武器使用情况}
+我注意到，当“发达国家”的人们沉浸于金融腐败和 21 世纪的硅基娱乐时，世界另一端却发生了一场持续数十年且仍在进行的核战争。特别是在西亚地区，那里的居民是大多数核武器的直接受害者，这一事实在当地民众中广为人知。一名地缘政治分析师兼核武器专家化名于 Cirnosad 活跃在 Twitter/X 平台。他分析了多起核爆事件，并阐述了辨别核爆的方法\cite{24}。核爆具有多种独特特征，可供辨认——包括由雷利-泰勒不稳定性这种流体动力学现象引起的快速垂直上升的烟柱、耀眼的闪光、冲击波、顶部有等离子体环绕的烟云、霰弹枪般的爆炸声，以及独特的地震和声波信号。此外，现场采集的放射性样本及受害者身上的独特烧伤痕迹也能作为佐证。通过该分析师账号，我已经确认过去十年内有十余起爆炸事件具备核武器的独特特征，而其他来源显示，早在 2003 年或更早的时期，西亚地区已经有人使用核武器。总体来看，过去数十年间，北约占领的俄乌领土、俄罗斯及西亚多个国家，极有可能发生了数十起以大规模杀伤为目的的核爆事件。
+
+值得注意的是，这些核武器大多属于所谓的“战术”核武器。自二战末期日本首次经受核武器屠杀以来，核技术似乎已经得到了显著改进。核武器变得更为高效，产生的辐射更少，并且出现了更小型的版本，能够实现精确的小范围破坏，同时也使得投放核武器一方有能力否认其投放核武器的行为\cite{29}。Cirnosad 估计，近期涉及当量最大的核武器出现在俄罗斯特维尔（Tver）爆炸事件中，爆炸当量约为 1.1 万吨\cite{24}（见图 \ref{fig:12}）。作为参考，广岛和长崎原子弹的爆炸当量分别为 1.5 万吨和 2.1 万吨\cite{30}。
+
+尤其是在西亚地区，多国指责以色列和美国使用了核武器。当地已出现多起先天缺陷病例\cite{26,27}，在受害者身上也出现了独特的烧伤痕迹\cite{28}。此外，下文列出的各爆炸现场也检测到辐射水平升高。无论如何，俄罗斯扎波罗热核电站\cite{60}和伊朗核设施\cite{61}遭袭事件已得到公开承认，这标志着明显且危险的核升级态势已经出现。
+
+我目前搜集到的完整清单（很可能还非常不全面）显示，过去几十年中，以下地点可能在某段时间遭受过核武器袭击\cite{24}:
+
+\begin{flushleft}
+\begin{enumerate}
+    \item 伊拉克费卢杰，2003 年
+    \item 黎巴嫩，2006 年
+    \item 加沙地带，2008 年
+    \item 叙利亚霍姆斯，2013 年
+    \item 也门，2014/2015 年
+    \item 黎巴嫩贝鲁特港，2020 年
+    \item 俄罗斯恩格尔斯空军基地，2022 年
+    \item 叙利亚塔尔图斯，2024 年
+    \item 俄罗斯布良斯克，2024 年
+    \item 北约占领的乌克兰哈尔科夫领土，2024 年
+    \item 俄罗斯特维尔托罗佩茨，2024 年
+    \item 叙利亚杜马尔，2024 年
+    \item 北约占领的乌克兰日托米尔，2025 年
+\end{enumerate}
+\end{flushleft}
+我认为，这些数据构充分证明，在 2010 年披露了“盎格鲁-撒克逊族裔的使命"(古英格兰族裔的使命）自 2005 年以来的进展状况之后，这项计划一直在全速推进——一场为在灾变后的世界中巩固权力而蓄谋已久的核战争已经开始，而我们可能尚未目睹最糟的情况。
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tver.png}
+\end{center}
+   \caption{一段录像，对比了 2024 年特维尔（Tver）爆炸与 1957 年 1.1 万吨当量核试验（Operation Plumbbob）的画面，展示了核爆炸所产生的快速上升的蘑菇云（雷利-泰勒不稳定性现象）。\cite{24}。}
+   \label{fig:12}
+\end{figure*}
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{toropets.png}
+\end{center}
+   \caption{对俄罗斯军事基地托罗佩茨（Toropets）爆炸事件的卫星图像分析显示，此次爆炸为一次空爆，其冲击波击倒了大片树木，但并未引发大面积火灾，这一现象清楚地表明这是一场空中核爆。\cite{24}。}
+   \label{fig:13}
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{nukes.png}
+\end{center}
+   \caption{由拉脱维亚籍博士、研究主任克里斯·巴斯比（Chris Busby）绘制的图表显示，西亚多个爆炸地点的辐射水平均显著升高。\cite{32,33}}
+   \label{fig:14}
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tartous.jpeg}
+\end{center}
+   \caption{瑞士物理学博士汉斯-本杰明·布劳恩（Hans-Benjamin Braun）对 2024 年塔尔图斯爆炸后的辐射水平所作分析指出：\textit{“2024 年 12 月 15 日核袭击后，叙利亚塔尔图斯地面爆心（GZ）投影点的辐射剂量率，已超过长崎和广岛爆心处的水平，分别高出逾 100\% 和 50\%，对比之下，这场袭击的当量几乎将后两者远远甩在身后。”}\cite{34}}
+   \label{fig:15}
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{sound.jpeg}
+\end{center}
+   \caption{关于叙利亚塔尔图斯核爆的独特声波特征分析指出：\textit{“塔尔图斯的确发生了核爆——其地震图与用于确认朝鲜核试验的地震图高度一致，二者与 2023 年赫梅利尼茨基发生的“延迟性”爆炸形成了鲜明对比。该对比清楚地证实了塔尔图斯爆炸具有核爆炸特征（估算爆炸当量约为 0.3 千吨），由此可明确否定“弹药库爆炸”的假说。"} \cite{34}}
+   \label{fig:16}
+\end{figure*}
+
+\clearpage
+\twocolumn
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{japan.png}
+\end{center}
+   \caption{对日本 2,100 万条新冠疫苗接种记录的分析显示，接种后第 90 至 120 天出现死亡率激增的趋势。\cite{40,41}。}
+   \label{fig:17}
+\end{figure*}
+
+\subsection{生物武器}
+“盎格鲁-撒克逊族裔的使命”中另一个重要议题就是秘密使用“生物武器”。2019 年末，全球首例疑似新冠病例出现在中国武汉。2020 年初，全球爆发了疫情，并于 2020 年末迅速展开 mRNA 疫苗的推广，全球大批人口因所谓的“紧急防疫需要”，排队接种这种外国研发、据称未经充分测试、快速上市的注射物质\cite{31}。然而，时至今日越来越多的证据表明，这些疫苗不仅没有如其宣传所说那样能对抗未知的“冠状病毒”，反而极有可能本身就是一种生物武器，悄然造成伤害、不育甚至死亡。鉴于相关证词与证据已相当庞杂，本文在此仅引用其中几例加以说明。
+
+日本最资深的肿瘤学专家、京都大学名誉教授福岛雅典（Masanori Fukushima）多次公开对新冠 mRNA 疫苗表达负面看法，他指出\cite{35,36}：\textit{“以往的疫苗为蛋白质，注射后不容易在体内扩散；但 mRNA 疫苗被包入纳米颗粒中后，能够进入血液循环，扩散至全身，从大脑到手指尖、脚趾，无处不在。政府却误导公众称疫苗会停留在注射部位产生抗体，这是不可能的。一旦疫苗进入大脑或身体各处细胞，就会开始产生抗原——也就是刺突蛋白，而刺突蛋白本身毒性极强，会破坏细胞中负责产生能量的线粒体。”\cite{37,38}}前辉瑞公司副总裁麦克·叶登（Mike Yeadon）也表达了类似观点，\textit{“我认为这些所谓用于防治新冠的疫苗是蓄意用来造成伤害、死亡和降低生育能力的工具” \cite{39}}。由日本村上康文教授与记者我那霸真子（Masako Ganaha）主导的一项研究，对 2,100 万份新冠疫苗接种记录进行分析，结果显示接种后 90 至 120 天内死亡率出现高峰，且随着追加剂次的增加，死亡发生的时间也相应提前\cite{40,41}。
+由于这一话题已被广泛讨论，我在此仅做简要结尾：生物武器库存中很可能仍存有更多尚未揭露的工具。
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tes1.jpeg}
+\end{center}
+   \caption{Ethical Skeptic 所做的分析显示，在美国，接种疫苗后，非新冠病毒自然死亡率呈现上升趋势。\cite{42}。}
+   \label{fig:18}
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tes2.png}
+\end{center}
+   \caption{Ethical Skeptic 所做的分析显示，在美国，接种疫苗后，恶性肿瘤发病率呈上升趋势。\cite{42}。}
+   \label{fig:19}
+\end{figure*}
+
+\clearpage
+\twocolumn
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{farmcrop.PNG}
+\end{center}
+\caption{美国地质调查局（USGS）发布的全球农业用地分布图。\cite{45}。}
+\label{fig:20}
+\end{figure*}
+
+\subsection{假弥赛亚}
+虽然通过控制思想、欺骗、毒害和麻醉公众能够在一定程度上巩固统治，但如果没有武力支持，统治者想要继续统治，还是得依赖被统治者的默许。为了维持这种公众默许，操纵群众的幕后操纵者们除了制造“假旗事件”之外，还可能推出“假弥赛亚”这样的特洛伊木马，刻意将舆论导向他们掌控的“伪反对派”。比如，在类似的政治表演中，人们被迫在“共和党”与“民主党”之间做出二选一的选择，然而实际上，两者均隶属于同一个统一的“兄弟联盟”。
+
+\subsection{其他秘密武器与危险}
+在本节的结尾，我会简要提及一些相对缺乏确凿证据的说法与传言，仅为兼顾内容的完整性。据称，美国军方储备有一类生物制剂，可在必要时迅速部署并喷洒于主要人口聚集区，以大规模削弱或清除目标人群。曾任职于雷神公司、并在南极从事消防与管道维护工作的埃里克·赫克（Eric Hecker）声称，南极洲存在巨型“定向能武器”（DEW），可通过向特定地点发射能量来引发地震 \cite{43,44}。此外，传闻中还提到，存在某些利用未知推进技术驱动的不明飞行物（UFO），甚至有观点认为此类技术已被秘密军事项目掌握并隐匿。据称五角大楼曾为研究相关项目提供资助\cite{59}。另有传言指出，某些西方政府背后可能受“外星/爬虫类智慧体”的操控\cite{58,55}。人们确实可能要面对这些现代大规模杀伤性武器、群体控制技术，乃至潜在未知威胁。
+
+\section{未来可能的发展轨迹}
+
+在探讨这个话题时，我着重思考在前文所述种种情势之下，人类是否还有可能全体得救。尽管当前形势看似严峻（实则确也如此），但我依然坚信，所有人都有被拯救的机会。但是，要做到这一点，人类必须将视线从屏幕中移开，重新审视周遭的现实世界，立下赴死亦无悔的决心，并团结一致，为后代缔造一个更美好的世界。半途而废的努力\textbf{终将}失败。人类必须作出抉择：究竟甘愿为待宰的羔羊，抑或奋起抗争？综上，我认为，在面临一场迫在眉睫的地球灾变之时，人类面前存在两条基本的发展路径，以下将对其展开讨论。
+\subsection{每个人都能得救吗？}
+
+目前全球人口预计已超过 80 亿\cite{47}。这样庞大规模的人口得以存续，主要因为地球约 38\% 的陆地面积可用于农业生产\cite{46}（见图\ref{fig:20}），而这些农业用地几乎全部位于低洼地区，一旦发生海洋位移事件，这些地区都有可能被彻底摧毁。
+简而言之，很难做到拯救所有人。只要掌控核武库的势力依旧计划在全球范围内投放核武器，导致数十亿人丧生，并对轻信他人、容许陌生人注入外来物质的人实施绝育与杀害；同时整个人类社会沉溺于各种诱惑与毒害，被层出不穷的干扰所麻痹，那么真正的救赎便无望实现。
+
+\subsection{时间线中计划加速推进的信号}
+
+再次提醒大家关注“盎格鲁-撒克逊族裔的使命”中讨论的时间线。2005 年的计划是制造小范围冲突，释放生物武器，随后在西方国家实施极权军事戒严统治。下一步则是通过“无接触式“核武交锋，消灭对手，为地球物理灾变做好准备。在 2010 年进行作证的高级共济会成员估计，距离灾变的出现大约还有 20 年。如今已是 2025 年，距离 2030 年的预言时间只剩下 5 年。世界已经经历了隐蔽的核武和大量导弹交火（乌克兰、西亚地区），还部署了 mRNA 生物武器。这表明时间线正在按既定步骤推进。如果西方国家出现公开军事戒严，并开始出现“无接触式”核武交锋，我们就该知道，地球物理灾变即将来临。
+
+\subsection{两条发展路径}
+
+除非人类能够认清并纠正自身的错误道路，实现裁军，携手和平共处，投入全部的精力和资源到全球各安全区域中，建设安全的居住场所，否则答案将是悲观的——绝大多数人将会死亡，世界将陷入一场全球性的“饥饿游戏”中。虽然可以建立大规模的山顶避难来保护人类，但核心问题在于资源的获取，更重要的挑战则是防范潜在的破坏者。需要明确的是，只要仍有一小撮掌控大规模杀伤性武器、能操控士兵的幕后操纵者存在，而他们的权力又可能在全球灾变中失控，人类便处于极度危险之中。在这种情势下，任何个体层面的准备都可能远远不足。化解危局的第一步，是让全球目光聚焦于这一议题；至于未来的发展方向，则仍充满诸多变数。
+\section{总结}
+
+在这第四篇论文中，我总结了我对 ECDO 研究了一年后得出的全部见解。至此，我想表达的一切已经全部陈述。如果我叙述的议题接近事实，而现状又无法迅速改变，那么世界很可能将在不久后走向一场末日灾难。除非大灾变的时间线出现重大进展，否则我短期内不会再就此议题撰写新论文。感谢你对这一议题的关注！
+
+\section{致谢}
+感谢 Ethical Skeptic\cite{0}将其开创性的 ECDO 理论分享给全世界。感谢克雷格·斯通（Craig Stone，@nobulart）\cite{56} 在该议题上分享了大量宝贵知识，其中许多内容已被我纳入这四篇论文之中。特别致谢所有被我论文引用参考的学者，包括但不限于凯瑟琳·奥斯汀·菲茨（Catherine Austin Fitts）\cite{55}、理查德·桑德尔（Richard Sauder）、Cirnosad\cite{24}、汉斯-本杰明·布劳恩（Hans-Benjamin Braun）\cite{57}以及克里斯·巴斯比（Chris Busby）。
+
+\section{Junho 推荐的“ECDO 安全地点”}
+以下列出的安全地点源于两个主要指标：一是各地洪水神话中明确提到在大洪水中未被淹没的地区；二是山峰隆起度清单。我已将这两类列表分别列出。尽管这两份清单都极不完整，但应可作为选择避难地点的良好起点。
+
+在洪水神话部分，我仅纳入了那些明确指出具体地点名称或清楚提及某些未具名山峰未被洪水淹没的神话。有些神话虽描述有幸存者，但如果他们仅以“漂浮至山顶”方式幸存，则本人未予采信。 我建议读者自行查阅这些洪水神话的原始资料。总体而言，大多数拥有洪水神话的地区很可能存在灾后幸存者。然而也需注意，这些幸存者后来可能迁徙至其他地区，这一点在解读神话所指具体位置时应加以考虑。
+
+关于山峰隆起度清单，我已对其进行了筛选，仅保留了隆起度在 2000 米以上、且非火山的山峰——在绝大多数情况下，这类山峰都是相对安全的。需要注意的是，学术定义下的隆起度数值（具有非常严格的技术标准）往往会低于山峰在实际地形中的“现实隆起度”——而现实隆起度的数值主要取决于当地地形对水流的导引能力。因此，许多实际安全的山峰可能未被纳入本清单。此外，在内陆深处的地区，由于面临的水体威胁相对较小，即便山峰的突显度不那么高，也可能具备足够的安全性。
+我还列出了每个大陆上我会选择停留的总体安全区域清单。
+
+\subsection{总体安全区域}
+\begin{flushleft}
+\begin{enumerate}
+    \item \textbf{北美洲:} 落基山脉，西海岸群峰
+    \item \textbf{中美洲:} 墨西哥高地
+    \item \textbf{南美洲:} 安第斯山脉，圭亚那高地，马尔山脉群峰
+    \item \textbf{欧洲:} 阿尔卑斯山脉，比利牛斯山脉
+    \item \textbf{非洲:} 东非大裂谷山脉，南非山脉
+    \item \textbf{西亚:} 高山山峰群
+    \item \textbf{亚洲:} 喜马拉雅山脉，东南亚群岛高峰
+    \item \textbf{澳大利亚:} 东南部山区
+    \item \textbf{新西兰:} 高山山峰群
+\end{enumerate}
+\end{flushleft}
+
+\clearpage
+\twocolumn
+
+\section{洪水神话中的安全地点}
+
+\begin{figure}[H]
+\begin{center}
+   \includegraphics[width=1\linewidth]{flood.jpg}
+\end{center}
+   \caption{以下安全地点是从上方绘制的洪水神话地图中整理提炼出的部分地点\cite{2,17}。}
+\label{fig:21}
+\label{fig:onecol}
+\end{figure}
+
+对于每则神话，我都列出了其所属的大致区域及其所指明的安全地点，并附上了对应故事的链接。这些故事中许多地名看起来已经较为久远或古旧。
+\subsection{亚洲洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Assam, India, Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Assam}{Leng hill}
+\item Lepcha (Sikkim), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Lepcha}{Tendong, near Darjeeling}
+\item Tibet, Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tibet}{The highest peaks}
+\item Lushai (Assam), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Lushai}{Phun-lu-buk}
+\item Santal (Bengal), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Santal}{Mount Haradata}
+\item Andaman Islands (Bay of Bengal), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#AndamanIs}{Saddle Peak}
+\item 壮族（中国），亚洲：\href{http://www.talkorigins.org/faqs/flood-myths.html#Zhuang}{巴齐山}
+\item Tsuwo (Formosa interior), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tsuwo}{Mount Niitaka-yama}
+\item Bunun (Formosa interior), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Bunun}{Mount Usabeya (Niitaka-yama) and Mount Shinkan}
+\item Kelantan (Malay Peninsula), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Kelantan}{hills}
+\item Ifugao (Philippines), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Ifugao}{Amuyao, Kalawitan}
+\item Batak (Sumatra), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Batak}{the highest mountain}
+\item Nias (an island west of Sumatra), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Nias}{two or three mountains}
+\item Dyak (Borneo), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Dyak}{highest hill}
+\item Ot-Danom (Dutch Borneo), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#OtDanom}{one mountain peak}
+\item Toradja (central Celebes), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Toradja}{Mount Wawom Pebato}
+\item Alfoor (between Celebes and New Guinea), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Alfoor}{top of mountain}
+\item Rotti (southwest of Timor), Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Rotti}{Lakimola}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{南美洲洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Muysca, Colombia, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Muysca}{top of mountain}
+\item Yanomamö (southern Venezuela), Venezuela, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Yanomamo}{Maiyo, Howashiwä, and Homahewä}
+\item Tamanaque (Orinoco), Venezuela, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tamanaque}{Tamanacu}
+\item Jivaro (eastern Ecuador), Ecuador, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Jivaro}{top of a palm tree on the top of a mountain}
+\item Shuar (Andes), Ecuador, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Shuar}{mountaintop}
+\item Cañari (Quito), Ecuador, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Canari}{Huaca-yñan}
+\item Guanca and Chiquito, Peru, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Guanca}{top of highest mountains}
+\item Ancasmarca (near Cuzco), Peru, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Ancasmarca}{Ancasmarca}
+\item Quechua, Peru, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Quechua}{Villca Coto mountain}
+\item Inca, Peru, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Inca}{hill on Altiplano}
+\item Eastern Brazil (Cape Frio region), Brazil, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#CapeFrio}{pindona tree on highest mountains}
+\item Caraya (Araguaia River, central Brazil), Brazil, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Caraya}{the two peaks of those mountains at mouth of Tapirape river}
+\item Coroado (south Brazil), Brazil, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Coroado}{top of coastal range Serra do Mar}
+\item Araucania (coastal Chile), Chile, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Araucania}{Thegtheg}
+\item Yamana (Tierra del Fuego), Argentina, South America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Yamana}{five mountaintops Usláka, Wémarwaia, Auwáratuléra, Welalánux, Piatuléra}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{中美洲洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Yaqui (Sonoran, Northern Mexico), Mexico, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Yaqui}{Parbus/Maatale}
+\item Tarahumara (Northern Mexico), Mexico, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tarahumara}{Lavachi, south of Panalachic}
+\item Carib (Antilles), North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Carib}{isolated mountain}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{澳大利亚洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Western Australia, Australia: \href{http://www.talkorigins.org/faqs/flood-myths.html#MtElliot}{Bibbiringda, inland of the northern bay of Cape Cleveland}
+\item Andingari (South Australia), Australia: \href{http://www.talkorigins.org/faqs/flood-myths.html#WestAustralia}{The hinterland}
+\item Narrinyeri (South Australia): \href{http://www.talkorigins.org/faqs/flood-myths.html#Narrinyeri}{Point Macleay}
+\item Victoria, Australia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Victoria}{tall tree on a mountain}
+\item Kurnai (Gippsland, Victoria): \href{http://www.talkorigins.org/faqs/flood-myths.html#Kurnai}{mud island near Port Albert}
+\item Southeast Australia: \href{http://www.talkorigins.org/faqs/flood-myths.html#SEAustralia}{Blue Mountain}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{欧洲洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Greek, Europe: \href{http://www.talkorigins.org/faqs/flood-myths.html#Greek}{high mountains, Mount Gerania}
+\item Samothrace, Europe: \href{http://www.talkorigins.org/faqs/flood-myths.html#Samothrace}{mountains}
+\item Roman, Europe: \href{http://www.talkorigins.org/faqs/flood-myths.html#Roman}{Parnassus}
+\item Lithuanian, Europe: \href{http://www.talkorigins.org/faqs/flood-myths.html#Lithuanian}{peak of the tallest mountain}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{北美洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Eskimo (Orowignarak, Alaska), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Orowignarak}{top of mountain}
+\item Norton Sound Eskimo, United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#NortonSound}{top of mountain}
+\item Tlingit (southern Alaska coast), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tlingit}{tops of mountains}
+\item Thompson Indians (British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Thompson}{summits of the highest mountains}
+\item Tsimshian (British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tsimshian}{tops of high mountains}
+\item Kwakiutl (British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Kwakiutl}{three mountains, one near Bella-Bella, one northeast of there, and a hill called Ko-Kwus on Don Island}
+\item Kootenay (southeast British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Kootenay}{mountain}
+\item Squamish (British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Squamish}{Mount Baker}
+\item Lillooet (Green River, British Columbia), Canada, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Lillooet}{Split Mountain (Ncikato) on the west side of Lower Lillooet Lake}
+\item Makah (Cape Flattery, Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Makah}{mountain tops}
+\item Klallam (northwest Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Klallam}{top of mountain, Olympics}
+\item Skokomish (Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Skokomish}{Takhoma (Mount Rainier)}
+\item Skagit (Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Skagit}{Kobah and Takobah (Mt Baker and Rainier)}
+\item Nisqually (Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Nisqually}{Tacobud}
+\item Twana (Puget Sound, Washington), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Twana}{highest peak in their country, Fastener}
+\item Cascade Mountains, United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Cascade}{mountain}
+\item Warm Springs (Oregon), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#WarmSprings}{Mount Jefferson}
+\item Smith River (northern California coast), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#SmithRiver}{highest peak}
+\item Maidu (central California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Maidu}{hills}
+\item Northern Miwok (central California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Miwok}{top of the highest mountain}
+\item Tuleyome Miwok (near Clear Lake, California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tuleyome}{Mount Konokti}
+\item Ohlone (San Francisco to Monterey, California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Ohlone}{Mount Diablo or Pico Blanco}
+\item Shasta (northern California interior), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Shasta}{Mount Shasta}
+\item Pomo (north central California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Pomo}{Mt. Kanaktai}
+\item Salinan (California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Salinan}{Santa Lucia Peak}
+\item Menomini (Wisconsin-Michigan border), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Menomini}{top of mountain}
+\item Yellowstone, United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Yellowstone}{Yellowstone Valley}
+\item Mandan (North Dakota), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Mandan}{mountain in the west}
+\item Lakota, United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Lakota}{tree on the highest pinnacle}
+\item Natchez (Lower Mississippi), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Natchez}{high mountain}
+\item Jicarilla Apache (northeastern New Mexico), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Jicarilla}{tops of four mountains (Tsisnatcin, Tsabidzilhi, Becdilhgai, and another whose identity isn't known)}
+\item Acagchemem (near San Juan Capistrano, California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Acagchemem}{high mountain}
+\item Luiseño (Southern California), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Luiseno}{Mora/Katuta}
+\item Pima (southwest Arizona), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Pima}{Crooked Mountain, Slanting Mountain}
+\item Papago (Arizona), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Papago}{Monte Rosa}
+\item Zuni (New Mexico), United States, North America: \href{http://www.talkorigins.org/faqs/flood-myths.html#Zuni}{tableland}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{西亚洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Assyrian, Asia: \href{http://www.talkorigins.org/faqs/flood-myths.html#Assyrian}{Nisur}
+\end{enumerate}
+\end{flushleft}
+
+\subsection{太平洋岛屿洪水神话中的安全地点}
+
+\begin{flushleft}
+\begin{enumerate}
+\item Kabadi, Papua New Guinea, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Kabadi}{highest peaks}
+\item Mamberamo River, Indonesia (Irian Jaya), Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#MamberaoRiver}{Mount Vanessa}
+\item Papua New Guinea, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#PapuaNewGuinea}{Mount Tauga}
+\item Western Carolines, Micronesia, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#westCarolines}{top of mountain}
+\item Mangaia, Cook Islands, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Mangaia}{Rangimotia}
+\item Rakaanga, Cook Islands, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Rakaanga}{mound}
+\item Raiatea (Leeward Group), French Polynesia, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Raiatea}{Toamarama}
+\item Tahiti, French Polynesia, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Tahiti}{Mount Pita-hiti}
+\item Hawaii, United States, Oceania: \href{http://www.talkorigins.org/faqs/flood-myths.html#Hawaii}{Mauna Kea}
+\end{enumerate}
+\end{flushleft}
+
+\clearpage
+\twocolumn
+
+\section{2000 米隆起度山峰列表}
+
+% \begin{figure}[H]
+% \begin{center}
+%    \includegraphics[width=1\linewidth]{peaks.png}
+% \end{center}
+%    \caption{以下365座高突出度非火山山峰分布图 \cite{62}。}
+% \label{fig:22}
+% \label{fig:onecol}
+% \end{figure}
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=0.7\textwidth]{peaks.png}
+\end{center}
+   \caption{图中展示了以下 365 座高隆起度、非火山山峰的位置分布图。\cite{62}。}
+   \label{fig:22}
+\end{figure*}
+
+列表中包含山峰名称，以及海拔和隆起度数值（按此顺序排列）。
+
+\subsection{亚洲 2000 米隆起度山峰列表}
+\begin{flushleft}
+\begin{enumerate}
+    \item 卓木拉日峰，不丹、中国，7050米，2065米
+    \item 康格普山，不丹、中国，7570 米，2995 米
+    \item Mt. Victoria, Burma, 3070 m, 2148 m
+    \item Saramati, Burma, India, 3826 m, 2885 m
+    \item 阿尔金山，中国，5830 米，2528 米
+    \item 白里嘎峰，中国，6882 米，2444 米
+    \item 巴里坤山，中国，4320 米，2104 米
+    \item 博格达山，中国，5445 米，4122 米
+    \item 公格尔山，中国，6727 米，2901 米
+    \item 大神农架，中国，3100 米，2270 米
+    \item 大雪山，中国，3500 米，2041 米
+    \item 格聂山，中国，6204 米，2000 米
+    \item 纳木那尼峰，中国，7694 米，2788 米
+    \item 嘉黎佩里峰，中国，7294 米，2942 米
+    \item 贺兰山最高点，中国，3540 米，2098 米
+    \item 河源峰，中国，5289 米，2618 米
+    \item 华头尖，中国，4750 米，2223 米
+    \item 黄王山最高点，中国，4330 米，2470 米
+    \item 九顶山，中国，4969 米，2808 米
+    \item 岗则/结雅，中国，5808 米，2231 米
+    \item 卡瓦格博，中国，6740 米，2232 米
+    \item 卡瓦拉尼，中国，5992 米，2018 米
+    \item 克塔乌，中国，3282 米，2365 米
+    \item 公格尔山，中国，7649 米，3585 米
+    \item 喇嘛峰，中国，6070 米，2093 米
+    \item 贡嘎山，中国，7556 米，3642 米
+    \item 慕士塔格峰，中国，7509 米，2698 米
+    \item 南迦巴瓦峰 I，中国，7782 米，4106 米
+    \item 诺日康峰，中国，7206 米，2160 米
+    \item 念青唐古拉峰，中国，7162 米，2239 米
+    \item 色浦岗日峰，中国，6956 米，2213 米
+    \item 希夏邦马峰，中国，8027 米，2897 米
+    \item 苏拉马塔格峰，中国，6245 米，2028 米
+    \item 太白山，中国，3750米，2232米
+    \item 特克力克山，中国，5470米，2337米
+    \item 托木尔峰，中国，4886米，3243米
+    \item 雪宝顶，中国，5588米，2057米
+    \item 雪莲峰，中国，6627米，3068米
+    \item 药莓峰，中国，6250米，2571米
+    \item 玉龙雪山最高点，中国，5596米，3202米
+    \item 康格山，中国、印度，7060米，2195米
+    \item 泡洪里峰，中国、印度，7128米，2035米
+    \item 阿拉戈尔迪山，中国、哈萨克斯坦，4622米，2480米
+    \item 索尤尔峰，中国、哈萨克斯坦，3840 米，3252 米
+    \item 托木尔峰，中国、吉尔吉斯斯坦，7439 米，4148 米
+    \item 冬德山，中国、蒙古国，3315 米，2075 米
+    \item 友谊峰，中国、蒙古国，4374 米，2342 米
+    \item 卓奥友峰，中国、尼泊尔，8188 米，2340 米
+    \item 马卡鲁峰，中国、尼泊尔，8485 米，2378 米
+    \item 珠穆朗玛峰，中国、尼泊尔，8848 米，8848 米
+    \item 央然康日峰，中国、尼泊尔，7422 米，2352 米
+    \item 加舒尔布鲁木I峰，中国、巴基斯坦，8080 米，2155 米
+    \item 乔戈里峰（K2），中国、巴基斯坦，8611 米，4017 米
+    \item Anai Mudi, India, 2694 m, 2479 m
+    \item Doda Betta, India, 2636 m, 2256 m
+    \item Kamet I, India, 7756 m, 2825 m
+    \item Kangju Kangri, India, 6725 m, 2149 m
+    \item Nanda Devi, India, 7816 m, 3139 m
+    \item Nun, India, 7135 m, 2404 m
+    \item Parbati Parbat, India, 6633 m, 2093 m
+    \item Saser Kangri I, India, 7672 m, 2304 m
+    \item Shikar Beh, India, 6200 m, 2223 m
+    \item Kangchenjunga, India, Nepal, 8586 m, 3922 m
+    \item Bukit Raya, Indonesia, 2300 m, 2018 m
+    \item Bulu Kandela, Indonesia, 2870 m, 2258 m
+    \item Bulu Rantemario, Indonesia, 3478 m, 3478 m
+    \item Gunung Binaiya, Indonesia, 3027 m, 3027 m
+    \item Gunung Careme, Indonesia, 3078 m, 2793 m
+    \item Gunung Kapalatmada, Indonesia, 2700 m, 2700 m
+    \item Gunung Leuser, Indonesia, 3466 m, 2941 m
+    \item Gunung Mekongga, Indonesia, 2650 m, 2220 m
+    \item Gunung Ophir, Indonesia, 2912 m, 2324 m
+    \item Gunung Tumpu, Indonesia, 2565 m, 2054 m
+    \item Moncong Lompobatang, Indonesia, 2874 m, 2857 m
+    \item Pegunungan Arfak, Indonesia, 2940 m, 2761 m
+    \item Pegunungan Gauttier, Indonesia, 2230 m, 2007 m
+    \item Pegunungan Kobowre, Indonesia, 3750 m, 2217 m
+    \item Puncak Jaya, Indonesia, 4884 m, 4884 m
+    \item Puncak Mandala, Indonesia, 4760 m, 2760 m
+    \item Tanete Gandangdewata, Indonesia, 3074 m, 2141 m
+    \item Hotaka-dake, Japan, 3190 m, 2307 m
+    \item Kita-dake, Japan, 3192 m, 2239 m
+    \item Gora Belukha, Kazakhstan, Russia, 4506 m, 3343 m
+    \item Pik Dankova, Kyrgyzstan, 5982 m, 2671 m
+    \item Pik Semionova Tien-Shanskogo, Kyrgyzstan, 4895 m, 2231 m
+    \item Pik Skalistiy, Kyrgyzstan, 5621 m, 2095 m
+    \item Gora Khurumdy, Kyrgyzstan, Tajikistan, 6610 m, 2352 m
+    \item Qullai Istiqlol, Kyrgyzstan, Tajikistan, 7134 m, 2790 m
+    \item Phu Bia, Laos, 2830 m, 2079 m
+    \item Gunung Kinabalu, Malaysia, 4095 m, 4095 m
+    \item Gunung Mulu, Malaysia, 2376 m, 2024 m
+    \item Gunung Tahan, Malaysia, 2187 m, 2141 m
+    \item Ich Obo, Mongolia, 3802 m, 2132 m
+    \item Jargalant Hayrhan, Mongolia, 3796 m, 2353 m
+    \item Otgon Tenger Uul, Mongolia, 4000 m, 2259 m
+    \item Annapurna I, Nepal, 8091 m, 2984 m
+    \item Annapurna II, Nepal, 7937 m, 2437 m
+    \item Api, Nepal, 7132 m, 2040 m
+    \item Chamar, Nepal, 7165 m, 2061 m
+    \item Dhaulagiri I, Nepal, 8167 m, 3357 m
+    \item Dhaulagiri II, Nepal, 7751 m, 2396 m
+    \item Manaslu, Nepal, 8163 m, 3092 m
+    \item High Peak, Philippines, 2037 m, 2015 m
+    \item Mt. Halcon, Philippines, 2582 m, 2582 m
+    \item Mt. Katanglad, Philippines, 2938 m, 2440 m
+    \item Mt. Madiac, Philippines, 2117 m, 2117 m
+    \item Mt. Mantaling, Philippines, 2085 m, 2085 m
+    \item Mt. Pulog, Philippines, 2922 m, 2922 m
+    \item Mt. Tagubud, Philippines, 2670 m, 2580 m
+    \item Sibuyan Island HP, Philippines, 2050 m, 2050 m
+    \item Gora DykhTau, Russia, 5205 m, 2002 m
+    \item Ledyakaya, Russia, 2453 m, 2337 m
+    \item Pik BAM, Russia, 3072 m, 2230 m
+    \item Pik Pobeda, Russia, 3003 m, 2443 m
+    \item Yuzhno Muiskyy Khrebet HP, Russia, 3067 m, 2107 m
+    \item Pidurutalagala, Sri Lanka, 2524 m, 2524 m
+    \item Yu Shan, Taiwan, 3952 m, 3952 m
+    \item Gora Chimtarga, Tajikstan, 5489 m, 2265 m
+    \item Pik Abu Ali Ibn Sino, Tajikstan, 6940 m, 2397 m
+    \item Pik Imeni Ismail Samani, Tajikstan, 7495 m, 3402 m
+    \item Pik Karla Marxsa, Tajikstan, 6723 m, 2693 m
+    \item Pik Sat, Tajikstan, 5900 m, 2295 m
+    \item Foho Tatamailau, Timor L/Este, 2963 m, 2963 m
+    \item Gunung Matebeanfeto, Timor L/Este, 2372 m, 2028 m
+    \item Chu Yang Sin, Vietnam, 2420 m, 2055 m
+    \item Ngoc Linh, Vietnam, 2598 m, 2208 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{南美洲 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Cerro Aconcagua, Argentina, 6962 m, 6962 m
+    \item Cerro Champaqui, Argentina, 2770 m, 2208 m
+    \item Cerro de la Majadita, Argentina, 6280 m, 2113 m
+    \item Cerro del Bolson, Argentina, 5552 m, 3252 m
+    \item Cerro el Libertador, Argentina, 6380 m, 2146 m
+    \item Cerro el Manchao, Argentina, 4575 m, 2714 m
+    \item Cerro Mercedario, Argentina, 6720 m, 3333 m
+    \item Cerro Nevado, Argentina, 3810 m, 2281 m
+    \item Cerro Norte, Argentina, 2950 m, 2003 m
+    \item Cerro Pircas, Argentina, 4380 m, 2070 m
+    \item Cordillera de Ansilta, Argentina, 5887 m, 2205 m
+    \item El Mela, Argentina, 4150 m, 2907 m
+    \item Mogote Corralitos, Argentina, 3160 m, 2466 m
+    \item Monte Zeballos, Argentina, 2700 m, 2228 m
+    \item Nevado de Chañi, Argentina, 5930 m, 2166 m
+    \item Nevado de Famatima, Argentina, 6097 m, 2767 m
+    \item Cerro Marmolejo, Argentina, Chile, 6108 m, 2105 m
+    \item Monte San Lorenzo, Argentina, Chile, 3706 m, 3319 m
+    \item Nevado Illimani, Bolivia, 6438 m, 2451 m
+    \item Pico de Bandeira, Brazil, 2890 m, 2640 m
+    \item Pontan, Brazil, 2798 m, 2068 m
+    \item Pico de Neblina, Brazil, Venezuela, 2994 m, 2886 m
+    \item Cerro Maca, Chile, 2300 m, 2066 m
+    \item Cerro Paine Grande, Chile, 2700 m, 2013 m
+    \item Cerro San Valentin, Chile, 4058 m, 3696 m
+    \item Cordillera Castillo, Chile, 2675 m, 2088 m
+    \item Monte Darwin, Chile, 2580 m, 2580 m
+    \item Monte Sarmiento, Chile, 2187 m, 2040 m
+    \item P. 2390, Chile, 2390 m, 2239 m
+    \item Cerro Calima, Colombia, 3840 m, 2242 m
+    \item Cerro Tamana, Colombia, 4100 m, 2573 m
+    \item Farallones de Cali, Colombia, 4050 m, 2309 m
+    \item Farallones de Citara, Colombia, 4050 m, 2280 m
+    \item Pico Cristobal Colon, Colombia, 5700 m, 5509 m
+    \item Ritacuba Blanco, Colombia, 5410 m, 3645 m
+    \item Cerro Pintado, Colombia, Venezuela, 3660 m, 2181 m
+    \item Cordillera del Condor HP, Ecuador, 2950 m, 2011 m
+    \item Monte Roraima, Guyana, Venezuela, 2723 m, 2251 m
+    \item Cerro Yerupaja, Peru, 6617 m, 2028 m
+    \item Cord. Vilcababna Norte HP, Peru, 4150 m, 2070 m
+    \item Nevado Auzangate, Peru, 6372 m, 2085 m
+    \item Nevado Huascaran Sur, Peru, 6746 m, 2776 m
+    \item Nevado Salcantay, Peru, 6264 m, 2540 m
+    \item Cerro Marahuaca, Venezuela, 2832 m, 2289 m
+    \item Cerro Tristeza, Venezuela, 2596 m, 2456 m
+    \item Pico Bolívar, Venezuela, 4981 m, 3957 m
+    \item Pico Naiguata, Venezuela, 2765 m, 2455 m
+    \item Serrania Guanay, Venezuela, 2392 m, 2026 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{中美洲 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Cerro Chirippo, Costa Rica, 3820 m, 3727 m
+    \item Montaña de Celaque, Honduras, 2849 m, 2079 m
+    \item Montaña de Santa Barbara, Honduras, 2744 m, 2094 m
+    \item Cerro el Nacimiento, Mexico, 3710 m, 2140 m
+    \item Cerro Picacho del Diablo, Mexico, 3110 m, 2140 m
+    \item Cerro Tiotepec, Mexico, 3550 m, 2180 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{非洲 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Tahat, Algeria, 2908 m, 2328 m
+    \item Ngaliema, Congo, Uganda, 5109 m, 3951 m
+    \item Jebel Katarina, Egypt, 2629 m, 2404 m
+    \item Amba Farit, Ethiopia, 4270 m, 2061 m
+    \item Argun, Ethiopia, 3418 m, 2208 m
+    \item Ch/ok/e Terara, Ethiopia, 4100 m, 2225 m
+    \item Guge, Ethiopia, 3568 m, 2013 m
+    \item Ras Dejen, Ethiopia, 4533 m, 3980 m
+    \item Sante YeTerara Ch/af, Ethiopia, 4400 m, 2527 m
+    \item Oldoinyo Lesatima, Kenya, 4001 m, 2081 m
+    \item Thabana Ntlenyana, Lesotho, 3482 m, 2390 m
+    \item Maromokotro, Madagascar, 2876 m, 2876 m
+    \item Sapitwa Peak, Malawi, 3002 m, 2319 m
+    \item Jebel Toubkal, Morocco, 4167 m, 3755 m
+    \item Kinyeti, Sudan, 3187 m, 2120 m
+    \item Kimhandu, Tanzania, 2653 m, 2121 m
+    \item Mt. Hanang, Tanzania, 3420 m, 2050 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{澳大利亚 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Mt. Kosciuszko, Australia, 2228 m, 2228 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{欧洲 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Maja e Jezercës, Albania, 2694 m, 2036 m
+    \item Golem Korab, Albania, Macedonia, 2764 m, 2169 m
+    \item Grossglockner, Austria, 3798 m, 2423 m
+    \item Hochkönig, Austria, 2941 m, 2181 m
+    \item Hoher Dachstein, Austria, 2995 m, 2136 m
+    \item Wildspitze, Austria, 3768 m, 2261 m
+    \item Musala, Bulgaria, 2925 m, 2473 m
+    \item Barre des Écrins, France, 4102 m, 2045 m
+    \item Monte Cinto, France, 2706 m, 2706 m
+    \item Mont Blanc, France, Italy, 4808 m, 4695 m
+    \item Gora Tebulosmta, Georgia, Russia, 4493 m, 2145 m
+    \item Athos, Greece, 2030 m, 2012 m
+    \item Olympos Oros, Greece, 2919 m, 2355 m
+    \item Pakhnes, Greece, 2453 m, 2038 m
+    \item Profitis Ilias, Greece, 2404 m, 2344 m
+    \item Psiloritis, Greece, 2456 m, 2456 m
+    \item Corno Grande, Italy, 2912 m, 2476 m
+    \item Marmolada, Italy, 3343 m, 2131 m
+    \item Monte Viso, Italy, 3841 m, 2062 m
+    \item Galdhøpiggen, Norway, 2469 m, 2372 m
+    \item Parîngul Mare, Romania, 2519 m, 2103 m
+    \item Varful Moldoveanu, Romania, 2544 m, 2046 m
+    \item Gerlach, Slovakia, 2655 m, 2353 m
+    \item Triglav, Slovenia, 2864 m, 2052 m
+    \item Pico de Aneto, Spain, 3404 m, 2812 m
+    \item Pico del Mulhacén, Spain, 3479 m, 3285 m
+    \item Dufourspitze, Switzerland, 4634 m, 2165 m
+    \item Finsteraarhorn, Switzerland, 4274 m, 2280 m
+    \item Piz Bernina, Switzerland, 4049 m, 2234 m
+    \item Säntis, Switzerland, 2503 m, 2021 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{北美 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Alsek Peak, Canada, 2716 m, 2001 m
+    \item Barbeau Peak, Canada, 2616 m, 2616 m
+    \item Ellesmere Peak, Canada, 2347 m, 2044 m
+    \item Gladsheim Peak, Canada, 2830 m, 2056 m
+    \item Golden Hinde, Canada, 2195 m, 2195 m
+    \item Keele Peak, Canada, 2972 m, 2177 m
+    \item Kwatna Peak, Canada, 2290 m, 2225 m
+    \item Monarch Mtn., Canada, 3555 m, 2930 m
+    \item Mt. Assiniboine, Canada, 3616 m, 2086 m
+    \item Mt. Columbia, Canada, 3741 m, 2383 m
+    \item Mt. Cooper, Canada, 3094 m, 2319 m
+    \item Mt. Dawson, Canada, 3377 m, 2045 m
+    \item Mt. Edith Cavell, Canada, 3363 m, 2007 m
+    \item Mt. Farnham, Canada, 3493 m, 2123 m
+    \item Mt. Jancowski, Canada, 2729 m, 2079 m
+    \item Mt. Logan, Canada, 5959 m, 5250 m
+    \item Mt. Lucania, Canada, 5226 m, 3046 m
+    \item Mt. Monashee, Canada, 3274 m, 2404 m
+    \item Mt. Odin, Canada, 2147 m, 2147 m
+    \item Mt. Odin, Canada, 2970 m, 2408 m
+    \item Mt. Queen Bess, Canada, 3298 m, 2355 m
+    \item Mt. Ratz, Canada, 3090 m, 2430 m
+    \item Mt. Robson, Canada, 3959 m, 2829 m
+    \item Mt. Sir Sandford, Canada, 3519 m, 2707 m
+    \item Mt. Sir Wilfrid Laurier, Canada, 3516 m, 2728 m
+    \item Mt. Ulysses, Canada, 3024 m, 2289 m
+    \item Mt. Valpy, Canada, 2219 m, 2014 m
+    \item Mt. Vancouver, Canada, 4812 m, 2712 m
+    \item Mt. Waddington, Canada, 4019 m, 3289 m
+    \item Oscar Peak, Canada, 2336 m, 2099 m
+    \item Otter Mtn., Canada, 2692 m, 2242 m
+    \item Outlook Peak, Canada, 2210 m, 2210 m
+    \item Razorback Mtn., Canada, 3183 m, 2153 m
+    \item Scud Peak, Canada, 2987 m, 2172 m
+    \item Skihist Mtn., Canada, 2968 m, 2463 m
+    \item Wedge Mtn., Canada, 2892 m, 2249 m
+    \item Mt. Cook, Canada, USA, 4196 m, 2352 m
+    \item Mt. Fairweather, Canada, USA, 4671 m, 3955 m
+    \item Mt. Hubbard, Canada, USA, 4557 m, 2457 m
+    \item Mt. Saint Elias, Canada, USA, 5489 m, 3429 m
+    \item Pico Turquino, Cuba, 2005 m, 2005 m
+    \item Pico Duarte, Dominican Rep., 3098 m, 3098 m
+    \item Dansketinden, Greenland, 2839 m, 2189 m
+    \item Gunnbjornsfjeld, Greenland, 3694 m, 3694 m
+    \item Milne Land HP, Greenland, 2200 m, 2200 m
+    \item Palup Qaqa, Greenland, 2105 m, 2105 m
+    \item Payers Tinde, Greenland, 2320 m, 2070 m
+    \item Perserajoq, Greenland, 2259 m, 2009 m
+    \item Chaine de la Selle, Haiti, 2680 m, 2655 m
+    \item Pic Macaya, Haiti, 2347 m, 2097 m
+    \item Blue Mountain Peak, Jamaica, 2256 m, 2256 m
+    \item Charleston Peak, USA, 3633 m, 2513 m
+    \item Cloud Peak, USA, 4013 m, 2157 m
+    \item Denali, USA, 6194 m, 6138 m
+    \item Gannett Peak, USA, 4208 m, 2158 m
+    \item Mt. Chamberlin, USA, 2749 m, 2429 m
+    \item Mt. Crillon, USA, 3879 m, 2187 m
+    \item Mt. Elbert, USA, 4399 m, 2771 m
+    \item Mt. Foraker, USA, 5304 m, 2210 m
+    \item Mt. Hayes, USA, 4216 m, 3501 m
+    \item Mt. Kimball, USA, 3155 m, 2263 m
+    \item Mt. Marcus Baker, USA, 4016 m, 3277 m
+    \item Mt. Olympus, USA, 2429 m, 2386 m
+    \item Mt. Tom White, USA, 3417 m, 2335 m
+    \item Mt. Torbert, USA, 3479 m, 2648 m
+    \item Mt. Whitney, USA, 4418 m, 3072 m
+    \item North Buttress, Mt. Hesperus, USA, 2996 m, 2127 m
+    \item San Gorgonio Mtn., USA, 3506 m, 2528 m
+    \item San Jacinto Peak, USA, 3304 m, 2542 m
+    \item Wheeler Peak, USA, 3982 m, 2307 m
+    \item White Mtn. Peak, USA, 4342 m, 2193 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{西亚 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Kuh-e Bandaka, Afghanistan, 6843 m, 2865 m
+    \item Kuh-e Belandtarin, Afghanistan, 6286 m, 2008 m
+    \item Kuh-e Chuk Shakh, Afghanistan, 5467 m, 2442 m
+    \item Kuh-e Safed Khers HP, Afghanistan, 5326 m, 2471 m
+    \item Shah Fuladi, Afghanistan, 5060 m, 2123 m
+    \item Noshaq, Afghanistan, Pakistan, 7492 m, 2024 m
+    \item Sikaram Sar, Afghanistan, Pakistan, 4755 m, 2297 m
+    \item Gora Bazardyuzi, Azerbaijan, Russia, 4466 m, 2454 m
+    \item Kuh-e Dinar, Iran, 4409 m, 2604 m
+    \item Kuh-e Fareghan, Iran, 3240 m, 2082 m
+    \item Kuh-e Genu, Iran, 2350 m, 2035 m
+    \item Kuh-e Hazar, Iran, 4500 m, 2741 m
+    \item Kuh-e Shab, Iran, 2681 m, 2100 m
+    \item Shir Kuh, Iran, 4050 m, 2271 m
+    \item Zard Kuh, Iran, 4200 m, 2095 m
+    \item Talghar Shyngy, Kazakhstan, 4978 m, 2981 m
+    \item Qornet es Saouda, Lebanon, 3087 m, 2392 m
+    \item Jebel Ash Sham, Oman, 3019 m, 2899 m
+    \item Batura Sar I, Pakistan, 7795 m, 3118 m
+    \item Buni Zom, Pakistan, 6542 m, 2845 m
+    \item Disteghil Sar I, Pakistan, 7885 m, 2525 m
+    \item Ghamubar Zom, Pakistan, 6518 m, 2133 m
+    \item Haramosh, Pakistan, 7406 m, 2286 m
+    \item Karun Kuh, Pakistan, 6977 m, 2240 m
+    \item Koyo Zom, Pakistan, 6872 m, 2562 m
+    \item Malubiting West, Pakistan, 7453 m, 2193 m
+    \item Masherbrum, Pakistan, 7821 m, 2457 m
+    \item Nanga Parbat, Pakistan, 8125 m, 4608 m
+    \item Rakaposhi, Pakistan, 7788 m, 2818 m
+    \item Saltoro Kangri I, Pakistan, 7742 m, 2160 m
+    \item Tirich Mir, Pakistan, 7708 m, 3910 m
+    \item Demirkazik Tepe, Turkey, 3756 m, 2336 m
+    \item Kackar Dagi, Turkey, 3932 m, 2272 m
+    \item Medetsiz Tepe, Turkey, 3524 m, 2058 m
+    \item Uludoruk, Turkey, 4136 m, 2483 m
+    \item Jebel an Nabi Shu/ayb, Yemen, 3666 m, 3326 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{太平洋岛屿 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Mt. Aspiring, New Zealand, 3033 m, 2471 m
+    \item Mt. Cook, New Zealand, 3755 m, 3755 m
+    \item Mt. Tutoko, New Zealand, 2723 m, 2191 m
+    \item Tapuae-o-Ueneku, New Zealand, 2884 m, 2021 m
+    \item Finisterre Range HP, Papua New Guinea, 4125 m, 3675 m
+    \item Hans Meyer Range, Papua New Guinea, 2340 m, 2340 m
+    \item Mt. Giluwe, Papua New Guinea, 4367 m, 2507 m
+    \item Mt. Kabangama, Papua New Guinea, 4104 m, 2284 m
+    \item Mt. Oiautukekea, Papua New Guinea, 2536 m, 2536 m
+    \item Mt. Suckling, Papua New Guinea, 3676 m, 2976 m
+    \item Mt. Victoria, Papua New Guinea, 4038 m, 2738 m
+    \item Mt. Wilhelm, Papua New Guinea, 4509 m, 2969 m
+    \item Nakanai Mtns. HP, Papua New Guinea, 2316 m, 2056 m
+    \item Popomanaseu, Solomons, 2335 m, 2335 m
+\end{enumerate}
+\end{flushleft}
+
+\subsection{南极洲 2000 米隆起度山峰列表}
+
+\begin{flushleft}
+\begin{enumerate}
+    \item Gora Georgia Pobedonosca, Antarctica, 2896 m, 2058 m
+    \item Hawkes Heights, Antarctica, 2000 m, 2000 m
+    \item Mt. Foster, Antarctica, 2105 m, 2105 m
+    \item Mt. Francais, Antarctica, 2760 m, 2760 m
+    \item Mt. Gaudry, Antarctica, 2315 m, 2315 m
+    \item Mt. Irving, Antarctica, 2300 m, 2300 m
+    \item Mt. Jackson, Antarctica, 3184 m, 2187 m
+    \item Mt. Kirkpatrick, Antarctica, 4528 m, 2601 m
+    \item Mt. Lister, Antarctica, 4025 m, 2325 m
+    \item Mt. Markham, Antarctica, 4350 m, 2103 m
+    \item Mt. Miller, Antarctica, 4160 m, 2354 m
+    \item Mt. Minto, Antarctica, 4165 m, 2616 m
+    \item Mt. Parry, Antarctica, 2520 m, 2520 m
+    \item Mt. Stephenson, Antarctica, 2987 m, 2987 m
+    \item Vinson Massif, Antarctica, 4892 m, 4892 m
+    \item Mt. Paget, South Georgia, 2934 m, 2934 m
+\end{enumerate}
+\end{flushleft}
+
+\clearpage
+\twocolumn
+
+{\small
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}

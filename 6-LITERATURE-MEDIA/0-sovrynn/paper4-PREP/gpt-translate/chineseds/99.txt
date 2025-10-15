@@ -1,0 +1,5 @@
+\twocolumn
+
+\section{洪水神话安全点}
+
+\begin{figure}[H]

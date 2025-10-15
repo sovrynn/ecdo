@@ -1,0 +1,5 @@
+\end{center}
+   \caption{古地磁与考古磁学测量表明，地球的磁偶极矩在过去2000年间持续减弱。时间越久远，测量数据越稀疏。 \cite{11}}
+\label{fig:3}
+\label{fig:onecol}
+\end{figure}

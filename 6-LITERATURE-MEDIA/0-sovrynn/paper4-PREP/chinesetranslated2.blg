@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: chinesetranslated2.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "3" isn't style-file defined
+--line 20 of file egbib.bib
+Warning--entry type for "16" isn't style-file defined
+--line 135 of file egbib.bib
+Warning--entry type for "22" isn't style-file defined
+--line 187 of file egbib.bib
+Warning--entry type for "23" isn't style-file defined
+--line 198 of file egbib.bib
+Warning--entry type for "32" isn't style-file defined
+--line 280 of file egbib.bib
+You're missing a field name---line 401 of file egbib.bib
+ :   
+ :   % month        = <mon>,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "60" isn't style-file defined
+--line 539 of file egbib.bib
+Warning--entry type for "61" isn't style-file defined
+--line 549 of file egbib.bib
+Warning--entry type for "62" isn't style-file defined
+--line 559 of file egbib.bib
+Warning--to sort, need author or key in 7
+Warning--empty journal in 33
+Warning--empty year in 19
+You've used 62 entries,
+            2120 wiz_defined-function locations,
+            766 strings with 12820 characters,
+and the built_in function-call counts, 13918 in all, are:
+= -- 1370
+> -- 490
+< -- 0
++ -- 207
+- -- 144
+* -- 521
+:= -- 2363
+add.period$ -- 229
+call.type$ -- 62
+change.case$ -- 255
+chr.to.int$ -- 0
+cite$ -- 65
+duplicate$ -- 465
+empty$ -- 1364
+format.name$ -- 144
+if$ -- 3019
+int.to.chr$ -- 0
+int.to.str$ -- 62
+missing$ -- 10
+newline$ -- 356
+num.names$ -- 122
+pop$ -- 488
+preamble$ -- 1
+purify$ -- 196
+quote$ -- 0
+skip$ -- 395
+stack$ -- 0
+substring$ -- 382
+swap$ -- 61
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 244
+warning$ -- 3
+while$ -- 127
+width$ -- 64
+write$ -- 709
+(There was 1 error message)

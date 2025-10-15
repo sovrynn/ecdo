@@ -1,0 +1,5 @@
+    \item \textbf{新西兰:} 山峰
+\end{enumerate}
+\end{flushleft}
+
+\clearpage

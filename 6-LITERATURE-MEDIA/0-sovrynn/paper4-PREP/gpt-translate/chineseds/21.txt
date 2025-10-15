@@ -1,0 +1,5 @@
+\begin{center}
+\renewcommand{\arraystretch}{1.2}  % 可选，用于增加行间距
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{灾变类型} & \textbf{数量} & \textbf{发生概率\%} \\

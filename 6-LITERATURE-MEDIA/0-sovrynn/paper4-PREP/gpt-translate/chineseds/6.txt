@@ -1,0 +1,4 @@
+\def\cvprPaperID{****} % *** 在此处输入CVPR论文ID
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% 提交模式下页码编号，最终版中不编号

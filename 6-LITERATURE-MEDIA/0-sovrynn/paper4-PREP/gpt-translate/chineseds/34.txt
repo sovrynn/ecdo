@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{solargeo.jpg}
+\end{center}
+   \caption{太阳与地球磁场相互作用示意图 \cite{10}.}
+\label{fig:4}
+\label{fig:onecol}

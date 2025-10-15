@@ -1,0 +1,14 @@
+Based on the following mapping:
+
+0. Asia
+1. South America
+2. Mesoamerica
+3. Africa
+4. Australia
+5. Europe
+6. North America
+7. West Asia / Middle East
+8. Pacific Islands
+9. Antarctica
+
+Return which region the following SINGLE location belongs to (return ONLY a SINGLE number of the region and nothing else):

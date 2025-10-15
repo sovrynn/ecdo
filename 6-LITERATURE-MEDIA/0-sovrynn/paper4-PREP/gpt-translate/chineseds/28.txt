@@ -1,0 +1,6 @@
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{aquifer.jpg}
+\end{center}
+   \caption{美国科罗拉多州一处深层含水层（地下湖）的地图。显然，塞内卡早已意识到这些含水层的存在。}
+\end{figure}

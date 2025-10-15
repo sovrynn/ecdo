@@ -1,0 +1,3 @@
+% 在hyperref之前包含其他包。
+
+% 如果注释掉hyperref后又取消注释，应在重新运行latex前删除egpaper.aux文件。（或者在第一次运行latex时直接按'q'键）

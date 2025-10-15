@@ -1,0 +1,6 @@
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=0.9\textwidth]{rotate2.png}
+\end{center}
+   \caption{6小时104度旋转过程中平均风速的可视化展示 \cite{2}.}
+\end{figure*}

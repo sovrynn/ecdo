@@ -1,0 +1,5 @@
+   \label{fig:6}
+\end{figure*}
+
+\begin{figure}[t]
+\begin{center}

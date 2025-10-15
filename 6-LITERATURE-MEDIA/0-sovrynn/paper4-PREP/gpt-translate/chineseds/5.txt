@@ -1,0 +1,5 @@
+% 运行，让它完成，你应该就清楚了）。
+\usepackage[hyphens]{url}
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy % *** 取消此行注释以用于最终提交

@@ -1,0 +1,5 @@
+\begin{center}
+\includegraphics[width=1\textwidth]{nukes.png}
+\end{center}
+   \caption{图表显示西亚多个爆炸地点辐射水平升高——拉脱维亚博士研究主任克里斯·巴斯比绘制 \cite{32,33}}
+   \label{fig:14}

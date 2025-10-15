@@ -1,0 +1,5 @@
+% \captionsetup[table]{skip=8pt}   % 仅作用于表格
+\usepackage{stfloats}  % 将此加入导言区
+\usepackage{float}
+
+\usepackage{cvpr}

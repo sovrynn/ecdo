@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{bulgecrop.png}
+\end{center}
+   \caption{地球赤道隆起部分的示意图（附有其他一些无关注释）\cite{16}。}
+\label{fig:5}
+\label{fig:onecol}

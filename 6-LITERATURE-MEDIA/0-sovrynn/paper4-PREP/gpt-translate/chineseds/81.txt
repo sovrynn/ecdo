@@ -1,0 +1,6 @@
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tes2.png}
+\end{center}
+   \caption{伦理怀疑论者分析显示，美国接种疫苗后恶性肿瘤呈现趋势线上升 \cite{42}。}
+\end{figure*}

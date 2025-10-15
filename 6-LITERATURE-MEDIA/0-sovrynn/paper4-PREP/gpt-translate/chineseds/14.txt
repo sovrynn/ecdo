@@ -1,0 +1,5 @@
+%%%%%%%%% 正文部分
+\section{引言}
+
+\begin{figure}[b]
+\begin{center}

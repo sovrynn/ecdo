@@ -1,0 +1,5 @@
+\begin{center}
+   \includegraphics[width=1\linewidth]{flood.jpg}
+\end{center}
+   \caption{以下安全点位置是从上述洪水神话地图中提取的子集 \cite{2,17}。}
+\label{fig:21}

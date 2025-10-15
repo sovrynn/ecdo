@@ -1,0 +1,5 @@
+\end{figure*}
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{塔尔图斯.jpeg}

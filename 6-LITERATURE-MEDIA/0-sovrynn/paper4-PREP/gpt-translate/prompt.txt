@@ -1,0 +1,2 @@
+Take the following latex snippet and translate the textual content, line for line, into XXX without modifying the latex formatting or adding any new latex formatting. Return ONLY the translated latex snippet without any other text, or latex delimiters:
+

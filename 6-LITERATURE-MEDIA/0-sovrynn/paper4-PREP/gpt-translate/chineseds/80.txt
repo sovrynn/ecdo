@@ -1,0 +1,4 @@
+\end{center}
+   \caption{伦理怀疑论者分析显示，美国接种疫苗后非新冠自然原因死亡率呈趋势性上升 \cite{42}。}
+   \label{fig:18}
+\end{figure*}

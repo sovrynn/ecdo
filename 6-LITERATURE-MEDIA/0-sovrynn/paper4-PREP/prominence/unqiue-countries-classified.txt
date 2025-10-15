@@ -1,0 +1,93 @@
+Afghanistan#7
+Afghanistan, Pakistan#7
+Albania#5
+Albania, Macedonia#5
+Algeria#3
+Antarctica#9
+Argentina#1
+Argentina, Chile#1
+Australia#4
+Austria#5
+Azerbaijan, Russia#7
+Bhutan, China#0
+Bolivia#1
+Brazil#1
+Brazil, Venezuela#1
+Bulgaria#5
+Burma#0
+Burma, India#0
+Canada#6
+Canada, USA#6
+Chile#1
+China#0
+China, India#0
+China, Kazakhstan#0
+China, Kyrgyzstan#0
+China, Mongolia#0
+China, Nepal#0
+China, Pakistan#0
+Colombia#1
+Colombia, Venezuela#1
+Congo, Uganda#3
+Costa Rica#2
+Cuba#6
+Dominican Rep.#6
+Ecuador#1
+Egypt#3
+Ethiopia#3
+France#5
+France, Italy#5
+Georgia, Russia#5
+Greece#5
+Greenland#6
+Guyana, Venezuela#1
+Haiti#6
+Honduras#2
+India#0
+India, Nepal#0
+Indonesia#0
+Iran#7
+Italy#5
+Jamaica#6
+Japan#0
+Kazakhstan#7
+Kazakhstan, Russia#0
+Kenya#3
+Kyrgyzstan#0
+Kyrgyzstan, Tajikistan#0
+Laos#0
+Lebanon#7
+Lesotho#3
+Madagascar#3
+Malawi#3
+Malaysia#0
+Mexico#2
+Mongolia#0
+Morocco#3
+Nepal#0
+New Zealand#8
+Norway#5
+Oman#7
+Pakistan#7
+Papua New Guinea#8
+Peru#1
+Philippines#0
+Romania#5
+Russia#0
+Slovakia#5
+Slovenia#5
+Solomons#8
+South Georgia#9
+Spain#5
+Sri Lanka#0
+Sudan#3
+Switzerland#5
+Taiwan#0
+Tajikstan#0
+Tanzania#3
+Timor L/Este#0
+Turkey#7
+USA#6
+Venezuela#1
+Vietnam#0
+Yemen#7

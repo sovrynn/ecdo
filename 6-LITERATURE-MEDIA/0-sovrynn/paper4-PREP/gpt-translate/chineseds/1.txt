@@ -1,0 +1,5 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+% 自定义内容
+\usepackage{booktabs}
+% \usepackage{caption}

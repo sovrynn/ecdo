@@ -1,0 +1,5 @@
+    \item \textbf{欧洲:} 阿尔卑斯山脉，比利牛斯山脉
+    \item \textbf{非洲:} 东非大裂谷山脉，南非山脉
+    \item \textbf{西亚:} 山峰群
+    \item \textbf{亚洲:} 喜马拉雅山脉，东南亚群岛峰峦
+    \item \textbf{澳大利亚:} 东南部山区

@@ -1,0 +1,93 @@
+Afghanistan
+Afghanistan, Pakistan
+Albania
+Albania, Macedonia
+Algeria
+Antarctica
+Argentina
+Argentina, Chile
+Australia
+Austria
+Azerbaijan, Russia
+Bhutan, China
+Bolivia
+Brazil
+Brazil, Venezuela
+Bulgaria
+Burma
+Burma, India
+Canada
+Canada, USA
+Chile
+China
+China, India
+China, Kazakhstan
+China, Kyrgyzstan
+China, Mongolia
+China, Nepal
+China, Pakistan
+Colombia
+Colombia, Venezuela
+Congo, Uganda
+Costa Rica
+Cuba
+Dominican Rep.
+Ecuador
+Egypt
+Ethiopia
+France
+France, Italy
+Georgia, Russia
+Greece
+Greenland
+Guyana, Venezuela
+Haiti
+Honduras
+India
+India, Nepal
+Indonesia
+Iran
+Italy
+Jamaica
+Japan
+Kazakhstan
+Kazakhstan, Russia
+Kenya
+Kyrgyzstan
+Kyrgyzstan, Tajikistan
+Laos
+Lebanon
+Lesotho
+Madagascar
+Malawi
+Malaysia
+Mexico
+Mongolia
+Morocco
+Nepal
+New Zealand
+Norway
+Oman
+Pakistan
+Papua New Guinea
+Peru
+Philippines
+Romania
+Russia
+Slovakia
+Slovenia
+Solomons
+South Georgia
+Spain
+Sri Lanka
+Sudan
+Switzerland
+Taiwan
+Tajikstan
+Tanzania
+Timor L/Este
+Turkey
+USA
+Venezuela
+Vietnam
+Yemen

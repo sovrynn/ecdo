@@ -1,0 +1,6 @@
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{sound.jpeg}
+\end{center}
+   \caption{叙利亚塔尔图斯独特核爆声学特征分析：\textit{"然而塔尔图斯确实发生了核爆：与朝鲜核试验识别所用的地震图对比。两者均与赫梅利尼茨基（2023年）'延迟'爆炸形成鲜明对比，确证了塔尔图斯>0.3千吨当量爆炸的核性质，从而彻底否定了弹药库爆炸假说"} \cite{34}.}
+\end{figure*}

@@ -1,0 +1,5 @@
+   \includegraphics[width=1\linewidth]{noah.jpg}
+\end{center}
+   \caption{诺亚方舟在大洪水中的描绘。方舟或许只是寓言，但我们有生之年可能亲眼目睹另一场类似的"洪水"。 \cite{2}}
+\label{fig:1}
+\label{fig:onecol}

@@ -1,0 +1,6 @@
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=1\linewidth]{vitrified.jpeg}
+\end{center}
+   \caption{苏格兰一座玻璃化的堡垒 \cite{51,52}.}
+\end{figure}

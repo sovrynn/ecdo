@@ -1,0 +1,7 @@
+\begin{flushleft}
+\begin{enumerate}
+    \item \textbf{北美洲:} 落基山脉，西海岸群峰
+    \item \textbf{中美洲:} 墨西哥高地
+    \item \textbf{南美洲:} 安第斯山脉，圭亚那高地，马尔山脉群峰
+\end{enumerate}
+\end{flushleft}

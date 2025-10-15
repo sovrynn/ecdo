@@ -1,0 +1,5 @@
+\hline
+\end{tabular}
+\end{center}
+\caption{故事中灾难性事件的出现次数 \cite{12}}
+\label{tab: 1}

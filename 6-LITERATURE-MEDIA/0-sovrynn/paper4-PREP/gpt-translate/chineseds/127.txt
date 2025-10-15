@@ -1,0 +1,4 @@
+{\small
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}

@@ -1,0 +1,5 @@
+    \item 为避免成为高耸山峰上高频放电现象的受害者，应在地下避难所周围或内部建造法拉第笼（图 \ref{fig:10}）以引导电流。
+\end{enumerate}
+\end{flushleft}
+
+\begin{figure}[t]

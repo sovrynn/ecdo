@@ -1,0 +1,5 @@
+\begin{center}
+   \includegraphics[width=1\linewidth]{faraday.jpg}
+\end{center}
+   \caption{法拉第笼能保护笼内物体免受外部电击的干扰 \cite{54}.}
+\label{fig:10}

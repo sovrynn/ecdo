@@ -1,0 +1,5 @@
+   \caption{对日本2100万份新冠疫苗接种记录的分析显示，接种后90-120天死亡率出现激增 \cite{40,41}。}
+   \label{fig:17}
+\end{figure*}
+
+\subsection{生物武器}

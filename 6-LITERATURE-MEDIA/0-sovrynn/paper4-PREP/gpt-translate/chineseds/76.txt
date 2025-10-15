@@ -1,0 +1,4 @@
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{japan.png}
+\end{center}

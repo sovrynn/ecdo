@@ -1,0 +1,5 @@
+   \label{fig:19}
+\end{figure*}
+
+\clearpage
+\twocolumn

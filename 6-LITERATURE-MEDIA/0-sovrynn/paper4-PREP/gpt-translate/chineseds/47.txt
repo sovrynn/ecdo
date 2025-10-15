@@ -1,0 +1,5 @@
+\begin{center}
+   \includegraphics[width=1\linewidth]{sendai.png}
+\end{center}
+   \caption{2022年日本仙台7.3级地震中出现的"地震光"现象示例 \cite{48}.}
+\label{fig:9}

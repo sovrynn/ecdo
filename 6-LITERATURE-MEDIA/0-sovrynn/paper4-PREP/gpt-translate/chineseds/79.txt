@@ -1,0 +1,5 @@
+由于这是一个被广泛讨论的话题，我最后只想说，武器库中可能还存在更多生物武器。
+
+\begin{figure*}[t]
+\begin{center}
+\includegraphics[width=1\textwidth]{tes1.jpeg}

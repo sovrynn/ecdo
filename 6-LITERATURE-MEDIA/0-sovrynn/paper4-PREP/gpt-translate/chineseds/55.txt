@@ -1,0 +1,5 @@
+\begin{center}
+   \includegraphics[width=1\linewidth]{prominence.jpeg}
+\end{center}
+   \caption{突显度("p")的视觉示例 \cite{53}.}
+\label{fig:11}
